@@ -1,0 +1,15 @@
+---
+title: "Parcels - Comingback (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/Kj0kFlrUNm0\/hqdefault.jpg"
+vid_id: "Kj0kFlrUNm0"
+categories: "Music"
+tags: ["parcels","tieduprightnow","overnight"]
+date: "2021-09-26T08:23:45+03:00"
+vid_date: "2021-07-28T13:00:10Z"
+duration: "PT3M52S"
+viewcount: "593428"
+likeCount: "11887"
+dislikeCount: "141"
+channel: "Parcels"
+---
+{% raw %}Listen to 'Comingback' here : <a rel="nofollow" target="blank" href="https://parcels.lnk.to/comingback">https://parcels.lnk.to/comingback</a><br />Subscribe to Parcels channel: <a rel="nofollow" target="blank" href="https://parcels.lnk.to/ytsub">https://parcels.lnk.to/ytsub</a><br />Listen to their essentials here: <a rel="nofollow" target="blank" href="https://parcels.lnk.to/essentials">https://parcels.lnk.to/essentials</a><br /><br />Official website &amp; merch store  → <a rel="nofollow" target="blank" href="https://parcelsmusic.com">https://parcelsmusic.com</a><br /><br />Follow Parcels:<br />Like on Facebook: <a rel="nofollow" target="blank" href="https://parcels.lnk.to/facebookYo">https://parcels.lnk.to/facebookYo</a><br />Follow on Instagram: <a rel="nofollow" target="blank" href="https://parcels.lnk.to/InstagramYo">https://parcels.lnk.to/InstagramYo</a><br />Follow on Soundcloud: <a rel="nofollow" target="blank" href="https://parcels.lnk.to/SoundcloudYo">https://parcels.lnk.to/SoundcloudYo</a><br />Follow on TikTok: <a rel="nofollow" target="blank" href="https://parcels.lnk.to/TikTokYo">https://parcels.lnk.to/TikTokYo</a><br /><br />----<br /><br />Director: Oliver Rose<br />Creative Direction: Carmen Crommelin<br /><br />Executive producer: Daniela Federici<br />Production: Nomad Media Industries Usa<br />Line Producer: Sunny Grace<br />DOP: Ashleigh Pepper<br />Production coordinator: Alex Waugh<br />Stylist: Honor Bathurst<br />Stylist assist: Jahlia Solomon<br />Post production &amp; grading: Capture lab<br /><br />Special thanks to Gucci<br /><br />Partly filmed on the traditional country of the Antakirinja Matuntjara Yankunytjatjara &amp; Barkindji people.<br />Parcels acknowledges the traditional owners of Country throughout Australia. <br />We pay our respects to elders past and present.<br />—<br />Written by Noah Hill, Patrick Hetherington, Jules Crommelin<br />Composed by Jules Crommelin, Patrick Hetherington, Noah Hill<br />Arranged &amp; produced by Jules Crommelin, Patrick Hetherington, Noah Hill, Anatole Serret, Louie Swain<br /><br />Orchestration by Owen Pallett<br /><br />Performed by Jules Crommelin, Patrick Hetherington, Noah Hill, Anatole Serret, Louie Swain, Pedro Barrios, FAME’S Studio Orchestra<br /><br />Engineered by Anthony Cazade, Jonathan “Jo” Ratovoarisoa, Henrik Müller<br />Mixed by James Ford<br />Mastered by Matt Colton<br /><br />Recording studio: La Frette Studios, Paris<br />Orchestral recording studio: FAME’S Studio, Skopje<br />Management: KKT - Birger Luedemann, Lilli Rollenhagen<br />Published by Editions Kitsuné / Warner Chappell Music France<br />(p) &amp; (c) 2021 Because Music{% endraw %}
