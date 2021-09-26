@@ -1,0 +1,15 @@
+---
+title: "Finding Out If We Got The House!"
+image: "https:\/\/i.ytimg.com\/vi\/BEdbQThYZIk\/hqdefault.jpg"
+vid_id: "BEdbQThYZIk"
+categories: "People-Blogs"
+tags: ["Ryland Adams","Shane Dawson","Moving"]
+date: "2021-09-26T06:49:12+03:00"
+vid_date: "2021-08-05T20:18:27Z"
+duration: "PT23M52S"
+viewcount: "815906"
+likeCount: "53777"
+dislikeCount: "1835"
+channel: "Ryland vlogs"
+---
+{% raw %}Subscribe to this channel <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCVe_RrR9AMeY6Z8ixOv5gtw">https://www.youtube.com/channel/UCVe_RrR9AMeY6Z8ixOv5gtw</a><br />Watch part one and two of the moving series! <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=2DejNFpGcks&amp;list=PL_92uO64bQ0u5b_xFhQ1dSlcITy9vF9uQ">https://www.youtube.com/watch?v=2DejNFpGcks&amp;list=PL_92uO64bQ0u5b_xFhQ1dSlcITy9vF9uQ</a> <br /><br />Follow Caleb <a rel="nofollow" target="blank" href="https://www.instagram.com/calebleemusic/?hl=en">https://www.instagram.com/calebleemusic/?hl=en</a><br />Check out his upcoming album! <a rel="nofollow" target="blank" href="https://biglink.to/CLHSlotMachineSyndrome">https://biglink.to/CLHSlotMachineSyndrome</a><br />Follow Maddie <a rel="nofollow" target="blank" href="https://www.instagram.com/maddiepoppe/?hl=en">https://www.instagram.com/maddiepoppe/?hl=en</a><br /><br />Subscribe to Shane <a rel="nofollow" target="blank" href="https://www.youtube.com/user/shane">https://www.youtube.com/user/shane</a><br />Subscribe to Morgan <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC-vaBe-YMpvcZL5rQ5OopZw">https://www.youtube.com/channel/UC-vaBe-YMpvcZL5rQ5OopZw</a><br />Follow Shane <a rel="nofollow" target="blank" href="https://www.instagram.com/shanedawson/">https://www.instagram.com/shanedawson/</a> <br />Follow Morgan <a rel="nofollow" target="blank" href="https://www.instagram.com/morganadams/">https://www.instagram.com/morganadams/</a><br /><br />*Watch the latest episode of my podcast! <a rel="nofollow" target="blank" href="https://youtu.be/wgT8PoyN1oU">https://youtu.be/wgT8PoyN1oU</a><br />*New main channel video: (Cooking My Boyfriends Favorite Meal) <a rel="nofollow" target="blank" href="https://youtu.be/zq7yKo8-DOE">https://youtu.be/zq7yKo8-DOE</a><br /><br />Realtor Jessica Whitney: <a rel="nofollow" target="blank" href="https://www.remax.com/real-estate-agents/jessica-whitney-denver-co/102026530">https://www.remax.com/real-estate-agents/jessica-whitney-denver-co/102026530</a> <br /><br />Follow me on social media<br />Instagram <a rel="nofollow" target="blank" href="https://www.instagram.com/rylandadams/">https://www.instagram.com/rylandadams/</a><br />twitter <a rel="nofollow" target="blank" href="https://twitter.com/Ryland_Adams">https://twitter.com/Ryland_Adams</a> <br /><br />Shop my merch <a rel="nofollow" target="blank" href="https://www.shanedawsonmerch.com/collections/ryland">https://www.shanedawsonmerch.com/collections/ryland</a> <br /><br />Hope you have a great day!{% endraw %}
