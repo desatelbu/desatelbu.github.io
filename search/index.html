@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+    <link rel="dns-prefetch" href="//images1-focus-opensocial.googleusercontent.com" />
+    <link rel="dns-prefetch" href="//static.addtoany.com" />
+    <title>Search - DeSatelBu</title>
+    <meta name="robots" content="noindex">
+    <meta name="msvalidate.01" content="5CEC69C913D38629490B9FC87E71DE4B">
+    <meta name="yandex-verification" content="0e012a25549ac426">
+    <meta name="google-site-verification" content="sgsAzp2JCELAox-Ktbw0TWiR8FYQHd3aik0Tap8Uc2M">
+    <link rel="stylesheet" href="https://desatelbu.github.io/inc/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+    <nav class="navbar mb-3 navbar-expand-lg navbar-light bg-white mb-4 shadow-sm">
+        <div class="container py-2"><a class="navbar-brand" href="/">DeSatelBu</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-urls" aria-controls="navbar-urls" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <form
+                action="/search/" class="my-2 my-lg-0 offset-md-2 col-md-6 col-sm-12 px-0 mr-auto">
+                <div class="input-group"><input name="s" class="form-control rounded-0 py-2" type="text" placeholder="video search..." id="example-search-input"><span class="input-group-append"><button aria-label="search" role="button" class="btn btn-secondary rounded-0" type="submit"><span class="px-2"><svg class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg></span></button>
+                    </span>
+                </div>
+                </form>
+                <div class="collapse navbar-collapse flex-md-grow-0" id="navbar-urls">
+
+                </div>
+        </div>
+    </nav>
+    <div class="container min-height-62">
+        <h1 class="h3 text-info" id="srch">YOU MIGHT LIKE</h1>
+        <div class="resp-container" id="top_720"></div>
+        <div class="row py-2" id="bleck">
+        <script type="text/javascript">
+ function getShuffledArr (arr){
+        return [...arr].map( (_, i, arrCopy) => {
+            var rand = i + ( Math.floor( Math.random() * (arrCopy.length - i) ) );
+            [arrCopy[rand], arrCopy[i]] = [arrCopy[i], arrCopy[rand]]
+            return arrCopy[i]
+        })
+    }
+var global_data = '';
+function getUrlParameter(name) {
+    name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+    var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+    var results = regex.exec(location.search);
+    return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+};
+var getJSON = function(url, callback) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', url, true);
+    xhr.responseType = 'json';
+    xhr.onload = function() {
+      var status = xhr.status;
+      if (status === 200) {
+        callback(null, xhr.response);
+      } else {
+        callback(status, xhr.response);
+      }
+    };
+    xhr.send();
+};
+var category = getUrlParameter('cat');
+var search = getUrlParameter('s');
+if(category !== "" || search !== ""){
+	getJSON('data.json',
+	function(err, data) {
+	  if (err == null) {
+			global_data = data;
+            global_data = getShuffledArr(global_data);
+			next();
+		} else {
+			document.getElementById("srch").innerHTML = "Nothing found.";
+			document.getElementById("bleck").innerHTML = "<p>It looks like nothing was found at this location.</p>";
+		}
+	});
+} else {
+			document.getElementById("srch").innerHTML = "Query empty.";
+			document.getElementById("bleck").innerHTML = "<p>Search query empty</p>";
+		}
+function next(){
+//console.log(global_data);
+var trx = 0;
+for (var i = 0; i < global_data.length; i++) {
+	if(search !== "" && global_data[i]['title'].toUpperCase().indexOf(search.toUpperCase()) > -1){
+		document.getElementById("srch").innerHTML = search;
+		document.getElementById("bleck").innerHTML += ' <div class="col-12 col-md-4 py-1">\
+    <a href="'+global_data[i]['url']+'">\
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/'+global_data[i]['vid_id']+'/mqdefault.jpg" alt="'+global_data[i]['title']+'">\
+            <div class="play-btn"></div>\
+        </div>\
+    </a>\
+    <h2 class="h6 mt-2 bwr">'+global_data[i]['title']+'</h2>\
+</div>';
+		trx += 1;
+	} 
+	if(trx > 11){
+		break;
+	}
+ }
+ if(trx == 0){
+		document.getElementById("srch").innerHTML = "Nothing found.";
+		document.getElementById("bleck").innerHTML = "<p>It looks like nothing was found at this location.</p>";
+	}else{
+    $("img").unveil(200);
+    }
+}
+</script>
+
+        </div>
+    </div>
+    <hr/>
+        <footer class="mt-auto bg-white pt-4">
+        <div class="container-fluid text-center text-md-left">
+            <div class="row">
+                <div class="col-md-6 mt-md-0 mt-3">
+                    <h5 class="text-uppercase">DeSatelBu Network</h5>
+                </div>
+                <hr class="clearfix w-100 d-md-none pb-3">
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Privacy & Terms</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="">DMCA</a></li>
+                        <li><a href="">Privacy</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Links</h5>
+                    <ul class="list-unstyled">
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="text-center py-3"> © Copyright : <a target="_blank" rel="noopener" href="https://www.youtube.com"> youtube.com</a></div>
+    </footer>
+    <script async="" src="https://desatelbu.github.io/js/app.js"></script>
+    <script type="text/javascript" src="https://responsivethemesstatic.github.io/static/wp.js"></script>
+    <script type="text/javascript">
+        if(!Histats_variables){var Histats_variables=[];}
+        Histats_variables.push("tags","https://desatelbu.github.io");
+        var _Hasync= _Hasync|| [];
+        _Hasync.push(['Histats.start', '1,4360507,4,0,0,0,00000000']);
+        _Hasync.push(['Histats.fasi', '1']);
+        _Hasync.push(['Histats.track_hits', '']);
+        (function() {
+        var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+        hs.src = ('//s10.histats.com/js15_as.js');
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+        })();
+    </script>
+</body>
+</html>  
