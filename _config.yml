@@ -1,0 +1,32 @@
+# Site settings
+title: "emerald"
+description: ""
+url: "https://emerald.github.io"  # http://localhost:4000 
+
+title_slog: "" # Home pge slog
+title_sep: "" # Home
+# verification
+bing: ""
+yandex: ""
+google: ""
+# encoding timezone
+encoding: "utf-8"
+timezone: UTC
+# Build settings
+baseurl: / # leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: videos/watch/:slug
+sitemap_limit: 150.0
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "1.1.0"
