@@ -1,0 +1,15 @@
+---
+title: "Universal Basic Income and Guaranteed Minimum Income: What Are They?"
+image: "https:\/\/i.ytimg.com\/vi\/u0mHmE8QrWI\/hqdefault.jpg"
+vid_id: "u0mHmE8QrWI"
+categories: "People-Blogs"
+tags: ["Universal Basic Income","Guaranteed Minimum Income","what is universal basic income"]
+date: "2021-09-27T00:16:09+03:00"
+vid_date: "2020-09-03T21:47:05Z"
+duration: "PT3M38S"
+viewcount: "412"
+likeCount: "12"
+dislikeCount: "1"
+channel: "Punk Rock HR with Laurie Ruettimann"
+---
+{% raw %}The biggest idea in the future of work is to pay people when they’re not working. Universal Basic Income and Guaranteed Minimum Income: What Are They? Find out in this video. Pre-Order Your Copy of Betting on You: How to Put Yourself First and (Finally) Take Control of Your Career ▶︎ <a rel="nofollow" target="blank" href="https://bit.ly/BettingonYou">https://bit.ly/BettingonYou</a><br /><br />More Punk Rock HR from Laurie Ruettimann<br />Punk Rock HR Podcast ▶︎ <a rel="nofollow" target="blank" href="https://bit.ly/PRHRPodcast">https://bit.ly/PRHRPodcast</a><br /><br />Newsletter ▶︎ <a rel="nofollow" target="blank" href="https://bit.ly/PRHRNewsletter">https://bit.ly/PRHRNewsletter</a><br /><br />Blog ▶︎ <a rel="nofollow" target="blank" href="https://bit.ly/PRHRBlog">https://bit.ly/PRHRBlog</a><br /><br />Book Laurie to speak at your event ▶︎ <a rel="nofollow" target="blank" href="https://laurieruettimann.com/speaking/">https://laurieruettimann.com/speaking/</a><br /><br />Contact ▶︎ <a rel="nofollow" target="blank" href="https://laurieruettimann.com/contact/">https://laurieruettimann.com/contact/</a><br /><br />TWITTER: <a rel="nofollow" target="blank" href="https://twitter.com/lruettimann">https://twitter.com/lruettimann</a><br />LINKEDIN: <a rel="nofollow" target="blank" href="https://www.linkedin.com/in/laurieruettimann/">https://www.linkedin.com/in/laurieruettimann/</a><br />FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/LRuettimann/">https://www.facebook.com/LRuettimann/</a><br />INSTAGRAM: <a rel="nofollow" target="blank" href="https://www.instagram.com/lruettimann/">https://www.instagram.com/lruettimann/</a><br /><br />About Laurie Ruettimann:<br />Laurie Ruettimann is a former human resources leader turned writer, entrepreneur, and speaker. CNN recognized her as one of the top five career advisers in the United States, and her work has been featured on NPR, The New Yorker, USA Today, The Wall Street Journal, and Vox. She frequently delivers keynote speeches at business and management events around the world and hosts a popular podcast focused on fixing work. She lives with her husband and cats in Raleigh, North Carolina.<br /><br />Laurie keynotes events all around the world and is featured on major media websites where she shares wisdom about HR, hiring trends, and technology. Her next book called Betting On You: How to Put Yourself First and (Finally) Take Control of Your Career with Henry Holt &amp; Company, is due out January 12, 2021.{% endraw %}
