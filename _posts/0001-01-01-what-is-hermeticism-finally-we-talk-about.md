@@ -1,0 +1,15 @@
+---
+title: "What is Hermeticism?"
+image: "https:\/\/i.ytimg.com\/vi\/zoPtrb2eMCQ\/hqdefault.jpg"
+vid_id: "zoPtrb2eMCQ"
+categories: "Education"
+tags: ["What is Hermeticism","Hermeticism","Hermetism"]
+date: "2021-09-26T09:05:42+03:00"
+vid_date: "2021-05-28T16:00:12Z"
+duration: "PT29M33S"
+viewcount: "456372"
+likeCount: "13584"
+dislikeCount: "300"
+channel: "Let's Talk Religion"
+---
+{% raw %}Finally, we talk about the complex tradition known as Hermeticism and its mysterious namesake Hermes Trismegistus.<br /><br /><br />Check out Esoterica's video: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=5qa4woIz_Ag">https://www.youtube.com/watch?v=5qa4woIz_Ag</a><br /><br /><br /><br />Support Let's Talk Religion on Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/letstalkreligion">https://www.patreon.com/letstalkreligion</a><br />Or through a one-time donation: <a rel="nofollow" target="blank" href="https://www.paypal.com/paypalme/letstalkreligion">https://www.paypal.com/paypalme/letstalkreligion</a><br /><br /><br />Sources/Suggested Reading:<br />Copenhaver, Brian P. (Translation &amp; Introduction by) (1992). &quot;Hermetica: The Greek Corpus Hermeticum and the Latin Asclepius in a new English Translation with notes and introduction&quot;. Cambridge University Press.<br /><br /><br /><br />Fowden, Garth (1986). &quot;The Egyptian Hermes: A Historical Approach to the Late Pagan Mind&quot;. Princeton University Press.<br /><br /><br />Meyer, Marvin (ed.) (2007). &quot;The Nag Hammadi Scriptures: The Revised and Updated Translation of Sacred Gnostic Texts&quot;. HarperOne.<br /><br /><br />Van Bladel, Kevin (2009). &quot;The Arabic Hermes: From Pagan Sage to Prophet of Science&quot;. Oxford University Press.<br /><br /><br />Photos used:<br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:Hermes_Praxiteles.jpg">https://commons.wikimedia.org/wiki/File:Hermes_Praxiteles.jpg</a><br /><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:Philae_Temple_R07.jpg">https://commons.wikimedia.org/wiki/File:Philae_Temple_R07.jpg</a><br /><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:Hermes_from_Agaion_241_NAMAthens.jpg">https://commons.wikimedia.org/wiki/File:Hermes_from_Agaion_241_NAMAthens.jpg</a><br /><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:Hermes_Logios_Altemps_Inv8624_n3.jpg">https://commons.wikimedia.org/wiki/File:Hermes_Logios_Altemps_Inv8624_n3.jpg</a><br /><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:Hermes_Trismegistus_-_Mercurius_in_Pimandro_4X%2B.jpg">https://commons.wikimedia.org/wiki/File:Hermes_Trismegistus_-_Mercurius_in_Pimandro_4X%2B.jpg</a><br /><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Roma,_1969)_-_BEIC_6353762.jpg">https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Roma,_1969)_-_BEIC_6353762.jpg</a><br /><br /><br /><br /><br />#Hermeticism #Hermes #Esoteric{% endraw %}
