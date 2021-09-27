@@ -1,0 +1,15 @@
+---
+title: "ABOUT SH*TCAMP..."
+image: "https:\/\/i.ytimg.com\/vi\/BEb86pi21FA\/hqdefault.jpg"
+vid_id: "BEb86pi21FA"
+categories: "Gaming"
+tags: ["xQc","xqc","xqcow"]
+date: "2021-09-27T19:48:01+03:00"
+vid_date: "2021-09-27T13:00:08Z"
+duration: "PT10M39S"
+viewcount: "63115"
+likeCount: "6369"
+dislikeCount: "37"
+channel: "xQcOW"
+---
+{% raw %}Subscribe: <a rel="nofollow" target="blank" href="http://bit.ly/xQcOWSub">http://bit.ly/xQcOWSub</a><br />Check out my TopVideos! <a rel="nofollow" target="blank" href="http://bit.ly/xQcOWTopVideos">http://bit.ly/xQcOWTopVideos</a><br /><br />G-FUEL 'The Juice' ► USE CODE &quot;XQC&quot; FOR 30% OFF - <a rel="nofollow" target="blank" href="https://gfuel.com/collections/the-juice">https://gfuel.com/collections/the-juice</a><br /><br />Streaming Every Day on xQcOW! <a rel="nofollow" target="blank" href="https://twitch.tv/xqcow">https://twitch.tv/xqcow</a><br />Stay Connected with xQc:<br />►Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/xqc">https://twitter.com/xqc</a><br />►Reddit: <a rel="nofollow" target="blank" href="https://www.reddit.com/r/xqcow/">https://www.reddit.com/r/xqcow/</a><br />►Discord: <a rel="nofollow" target="blank" href="https://discord.gg/xqcow">https://discord.gg/xqcow</a><br />►Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/xqcow1/">https://instagram.com/xqcow1/</a><br />►Snapchat: xqcow1<br />►Merch: <a rel="nofollow" target="blank" href="https://metathreads.com/collections/xqc">https://metathreads.com/collections/xqc</a><br /><br />FULL SHITCAMP VOD: <a rel="nofollow" target="blank" href="https://www.twitch.tv/videos/1160400711">https://www.twitch.tv/videos/1160400711</a><br /><br />#Shitcamp #xQcHighlights #xQcOW<br /><br />Outro: Pokelawls - Green<br />  <br />Edited By Arthium​G<br />►Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/Arthium">https://twitter.com/Arthium</a><br />►Twitch: <a rel="nofollow" target="blank" href="https://www.twitch.tv/ArthiumG">https://www.twitch.tv/ArthiumG</a><br />►Email: Arththegod@gmail.com<br /><br />About xQcOW: <br /><br />xQc (Félix Lengyel) is a French-Canadian Twitch streamer and content creator. He is 25 years old and lives in Texas. He enjoys streaming. He also enjoys playing and uploading a variety of games, such as Overwatch, Chess, Minecraft, Fortnite, Warzone, and all the hot new game releases. He is also very well known for his entertaining reactions. His favorites include Unusual Memes, Daily Dose of Internet, Jubilee, Comparisons, memes made by viewers on his reddit, and trending. <br /><br />ABOUT SH*TCAMP... - xQcOW Stream Highlights #296<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=BEb86pi21FA">https://www.youtube.com/watch?v=BEb86pi21FA</a><br /><br />xQcOW<br /><a rel="nofollow" target="blank" href="http://www.youtube.com/xQcOW">http://www.youtube.com/xQcOW</a><br /><br />jschlatt, Myth, xQc, Kaceytron, ludwig, adeptthebest, AustinShow, Rajjpatel, Hasanabi, EsfandTV, Willnef, Sodapoppin,NickPolom NMP, JustaMinx, Malena, Cyr, QTCinderella{% endraw %}
