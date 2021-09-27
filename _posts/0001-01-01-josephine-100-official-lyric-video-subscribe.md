@@ -1,0 +1,15 @@
+---
+title: "Josephine - 100% - Official Lyric Video"
+image: "https:\/\/i.ytimg.com\/vi\/1LJEOXTkifw\/hqdefault.jpg"
+vid_id: "1LJEOXTkifw"
+categories: "Music"
+tags: ["Josephine 100%","josephine 100%","100% Josephine"]
+date: "2021-09-27T06:42:59+03:00"
+vid_date: "2021-04-19T09:00:15Z"
+duration: "PT3M"
+viewcount: "175145"
+likeCount: "3643"
+dislikeCount: "175"
+channel: "PanikRecordsTube"
+---
+{% raw %}Subscribe: <a rel="nofollow" target="blank" href="http://bit.ly/SubscribePanikRecordsTube">http://bit.ly/SubscribePanikRecordsTube</a><br />Buy./Stream here:<br />Spotify: <a rel="nofollow" target="blank" href="https://spoti.fi/32pjDbB">https://spoti.fi/32pjDbB</a><br />iTunes/Apple Music: <a rel="nofollow" target="blank" href="https://apple.co/3tzDYXt">https://apple.co/3tzDYXt</a><br />Deezer: <a rel="nofollow" target="blank" href="https://bit.ly/3uZsPQ2">https://bit.ly/3uZsPQ2</a><br /><br />Μουσική - Στίχοι: Λεωνίδας Σώζος <br />Παραγωγή - Ενορχήστρωση: Παναγιώτης Μπρακούλιας<br />Programming, κιθάρες, πλήκτρα: Παναγιώτης Μπρακούλιας<br />Πλήκτρα: Κώστας Λαϊνάς<br />Κρουστά: Βασίλης Παπαδόπουλος <br />Φωνητικά: Josephine, Παναγιώτης Μπρακούλιας Recording, mixing, mastering: Παναγιώτης Μπρακούλιας @ Track Factory Music Productions <br /><br />Στίχοι:<br />  <br />Βλέπεις πως σε κοιτάω και ξέρεις <br />Πως μ’ αρρωσταίνεις  <br />Το ξέρεις, θέλω πολλά <br />  <br />Βλέπεις πως δεν κρατιέμαι  <br />Και δεν με νοιάζει τι λένε  <br />Καρδιά μου δε μ’ αφορά <br />  <br />Τα σωστά δεν είναι σωστά <br />Όταν σε έχω μπροστά μου  <br />Τα λάθη απολαμβάνω <br />Τα σωστά πια δεν είναι σωστά <br />Κι αν ζητάς ποσοστά  <br />Τότε απαντάω <br />  <br />Θέλω το 100  <br />100% να τρελαίνομαι εγώ με εσένα μόνο <br />Θέλω το 100  <br />100% κι αν δεν το έχω τώρα εγώ <br />Μη μου τρως το χρόνο <br />  <br />Ξέρεις είσαι το ένα  <br />Για μένα άλλο κανένα  <br />Δεν κάνει δεν μου κολλά <br />  <br />Ξέρεις στο πρώτο βλέμμα κατάλαβα  <br />Θα’ χω θέμα μαζί σου για τα καλά <br />  <br />Τα σωστά δεν είναι σωστά <br />Όταν σε έχω μπροστά μου  <br />Τα λάθη απολαμβάνω <br />Τα σωστά πια δεν είναι σωστά <br />Κι αν ζητάς ποσοστά  <br />Τότε απαντάω <br />  <br />Θέλω το 100  <br />100% να τρελαίνομαι εγώ με εσένα μόνο <br />Θέλω το 100  <br />100% κι αν δεν το έχω τώρα εγώ <br />Μη μου τρως το χρόνο<br /><br /><br />ENTER THE PANIK WORLD<br /><a rel="nofollow" target="blank" href="http://bit.ly/PanikRecords_Website">http://bit.ly/PanikRecords_Website</a><br /><a rel="nofollow" target="blank" href="http://bit.ly/PanikRecords_Facebook">http://bit.ly/PanikRecords_Facebook</a><br /><a rel="nofollow" target="blank" href="http://bit.ly/PanikRecords_YouTube">http://bit.ly/PanikRecords_YouTube</a><br /><a rel="nofollow" target="blank" href="http://bit.ly/PanikRecords_Twitter">http://bit.ly/PanikRecords_Twitter</a><br /><a rel="nofollow" target="blank" href="http://bit.ly/PanikRecords_Instagram">http://bit.ly/PanikRecords_Instagram</a><br /><br />Josephine - 100% - Official Lyric Video{% endraw %}
