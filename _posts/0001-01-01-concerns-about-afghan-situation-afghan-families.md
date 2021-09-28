@@ -1,0 +1,15 @@
+---
+title: "Concerns about Afghan situation"
+image: "https:\/\/i.ytimg.com\/vi\/BaZ4Gn-cMV0\/hqdefault.jpg"
+vid_id: "BaZ4Gn-cMV0"
+categories: "News-Politics"
+tags: ["video","news","wnyw"]
+date: "2021-09-28T07:48:08+03:00"
+vid_date: "2021-09-28T00:40:17Z"
+duration: "PT2M1S"
+viewcount: "230"
+likeCount: "2"
+dislikeCount: "0"
+channel: "FOX 5 New York"
+---
+{% raw %}Afghan families fear for the future of their loved ones.<br /><br />Subscribe to FOX 5 NY: _<a rel="nofollow" target="blank" href="https://www.youtube.com/fox5ny_">https://www.youtube.com/fox5ny_</a> (<a rel="nofollow" target="blank" href="https://www.youtube.com/fox5ny)?sub_confirmation=1">https://www.youtube.com/fox5ny)?sub_confirmation=1</a><br /><br />Watch FOX 5 NY Live: <a rel="nofollow" target="blank" href="https://www.fox5ny.com/live">https://www.fox5ny.com/live</a><br /><br />FOX 5 NY delivers breaking news, live events, investigations, politics, entertainment, business news and local stories from New York City and across the nation.<br /><br />Watch more FOX 5 NY on YouTube:<br /><br />Black Entrepreneurs: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLcuHpcV2MbFhCA1ErwiU_6G6XSA-HBg0r">https://www.youtube.com/playlist?list=PLcuHpcV2MbFhCA1ErwiU_6G6XSA-HBg0r</a><br /><br />STREET SOLDIERS with LISA EVERS: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLcuHpcV2MbFgxNyloxnZwYu5p0oWN_lSJ">https://www.youtube.com/playlist?list=PLcuHpcV2MbFgxNyloxnZwYu5p0oWN_lSJ</a><br /><br />A.I. ALL IN: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLcuHpcV2MbFgcJsok-gL3gwY8OfzVkacP">https://www.youtube.com/playlist?list=PLcuHpcV2MbFgcJsok-gL3gwY8OfzVkacP</a><br /><br />Finding Faith: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLcuHpcV2MbFg7_GyPTOJfF9PiWwo9sgMd">https://www.youtube.com/playlist?list=PLcuHpcV2MbFg7_GyPTOJfF9PiWwo9sgMd</a><br /><br />The Big Idea: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLcuHpcV2MbFizXx6FzVo9sCaNbCYu_rVB">https://www.youtube.com/playlist?list=PLcuHpcV2MbFizXx6FzVo9sCaNbCYu_rVB</a><br /><br />Download the FOX 5 NY News app: <a rel="nofollow" target="blank" href="https://www.fox5ny.com/apps">https://www.fox5ny.com/apps</a><br /><br />Download the FOX 5 NY Weather app: <a rel="nofollow" target="blank" href="https://www.fox5ny.com/apps">https://www.fox5ny.com/apps</a><br /><br />Follow FOX 5 NY on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/fox5ny/">https://www.facebook.com/fox5ny/</a><br /><br />Follow FOX 5 NY on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/fox5ny/">https://twitter.com/fox5ny/</a><br /><br />Follow FOX 5 NY on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/fox5ny/">https://www.instagram.com/fox5ny/</a><br /><br />Subscribe to the Good Day NY Morning Brief newsletter: <a rel="nofollow" target="blank" href="https://www.fox5ny.com/email">https://www.fox5ny.com/email</a>{% endraw %}
