@@ -1,0 +1,15 @@
+---
+title: "Records of the SMP - Derivakat [Dream SMP Album]"
+image: "https:\/\/i.ytimg.com\/vi\/GLjPSEAkLGc\/hqdefault.jpg"
+vid_id: "GLjPSEAkLGc"
+categories: "Music"
+tags: ["Records","Derivakat","[Dream"]
+date: "2021-09-28T21:02:46+03:00"
+vid_date: "2021-08-18T19:00:12Z"
+duration: "PT21M58S"
+viewcount: "1003403"
+likeCount: "65425"
+dislikeCount: "169"
+channel: "Derivakat"
+---
+{% raw %}Records of the SMP is out on all streaming platforms! Stream the album: <a rel="nofollow" target="blank" href="https://distrokid.com/hyperfollow/derivakat/records-of-the-smp">https://distrokid.com/hyperfollow/derivakat/records-of-the-smp</a><br /><br />Please subscribe and hit the bell next to the sub button to get notified when a new song is dropping and join my discord server for exclusive content! <a rel="nofollow" target="blank" href="https://discord.gg/derivakat">https://discord.gg/derivakat</a><br /><br />I write and produce songs live on stream at <a rel="nofollow" target="blank" href="https://www.twitch.tv/derivakat">https://www.twitch.tv/derivakat</a> so follow me there to get notified when I go live!<br /><br />Music by Derivakat<br />Thumbnail and video art by Jaze<br />Special thanks to Kiba, Yuki, and Elena for your continued support :]<br /><br />Derivakat social media:<br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/derivakat">https://twitter.com/derivakat</a><br />Twitch: <a rel="nofollow" target="blank" href="http://twitch.tv/derivakat/">http://twitch.tv/derivakat/</a><br />Spotify: <a rel="nofollow" target="blank" href="https://sptfy.com/derivakat">https://sptfy.com/derivakat</a><br /><br />Jaze social media:<br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/jazetallo">https://twitter.com/jazetallo</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/jazetallo/">https://www.instagram.com/jazetallo/</a><br /><br />Timestamps and links to individual songs:<br />0:00 Tell Your Story <a rel="nofollow" target="blank" href="https://youtu.be/kINGKCJrh9I">https://youtu.be/kINGKCJrh9I</a><br />1:52 Write It Down: <a rel="nofollow" target="blank" href="https://youtu.be/xjsjuu43fow">https://youtu.be/xjsjuu43fow</a><br />4:56 Night Before Dawn: <a rel="nofollow" target="blank" href="https://youtu.be/vXjDHLY0JvM">https://youtu.be/vXjDHLY0JvM</a><br />9:08 Doomsday: <a rel="nofollow" target="blank" href="https://youtu.be/VW5dWUbwFtc">https://youtu.be/VW5dWUbwFtc</a><br />12:52 Why: <a rel="nofollow" target="blank" href="https://youtu.be/-Fzy5yoFZSU">https://youtu.be/-Fzy5yoFZSU</a><br />16:20 REVIVED: <a rel="nofollow" target="blank" href="https://youtu.be/lCpszkhqV-o">https://youtu.be/lCpszkhqV-o</a><br />18:54 Casino Royale: <a rel="nofollow" target="blank" href="https://youtu.be/MfeXlq3cka8">https://youtu.be/MfeXlq3cka8</a><br />--------<br />Do not use or reupload my work without my permission. For more info on usage of my work, see here: <a rel="nofollow" target="blank" href="https://derivakat.com/#usage">https://derivakat.com/#usage</a><br />#DreamSMP​ #RecordsoftheSMP{% endraw %}
