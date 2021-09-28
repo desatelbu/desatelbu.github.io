@@ -1,0 +1,15 @@
+---
+title: "Background Actors - 10 things FILM EXTRAS should know (Part One)"
+image: "https:\/\/i.ytimg.com\/vi\/uKaSYxX3v3Q\/hqdefault.jpg"
+vid_id: "uKaSYxX3v3Q"
+categories: "Entertainment"
+tags: ["Background Actors","extra work","extra actors"]
+date: "2021-09-28T07:16:43+03:00"
+vid_date: "2019-01-11T21:00:03Z"
+duration: "PT10M36S"
+viewcount: "6637"
+likeCount: "257"
+dislikeCount: "6"
+channel: "Adam Baird"
+---
+{% raw %}Before you march off to set, there are a few things you should know about how an extra should behave. As an extra, your number one goal should be making a good impression on the people who matter; you want to be likable, friendly, and above all, professional.<br />Mariah also wrote a great article on CallBoard about this topic! Here is the link if you would like to read a different point a view: <a rel="nofollow" target="blank" href="https://www.callboards.com/how-to-stand-out-as-an-extra-on-set/">https://www.callboards.com/how-to-stand-out-as-an-extra-on-set/</a><br /><br />Enter The Monthly Giveaway! <br />Click the link below and complete the actions to enter! <br /><a rel="nofollow" target="blank" href="https://www.callboards.com/monthly-giveaway/">https://www.callboards.com/monthly-giveaway/</a> <br /> <br />Find auditions local to you on CallBoard! <br /><a rel="nofollow" target="blank" href="https://www.callboards.com/see-auditions/">https://www.callboards.com/see-auditions/</a> <br /> <br />FOLLOW ME <br />Instagram:  <a rel="nofollow" target="blank" href="https://www.instagram.com/AdamBairdActor/">https://www.instagram.com/AdamBairdActor/</a><br />Facebook:  <a rel="nofollow" target="blank" href="https://www.facebook.com/AdamBairdActor/">https://www.facebook.com/AdamBairdActor/</a><br />Twitter:  <a rel="nofollow" target="blank" href="https://twitter.com/AdamBairdActor">https://twitter.com/AdamBairdActor</a><br /> <br />Here is the Gear that I use!  <br />My Favorite Camera: <a rel="nofollow" target="blank" href="https://amzn.to/2W1wJqV">https://amzn.to/2W1wJqV</a><br />The Best Green Screen: <a rel="nofollow" target="blank" href="https://amzn.to/2SXuinn">https://amzn.to/2SXuinn</a><br />The Mic I Use: <a rel="nofollow" target="blank" href="https://amzn.to/2W2Myh7">https://amzn.to/2W2Myh7</a><br />Rode Mic Stand: <a rel="nofollow" target="blank" href="https://amzn.to/2T7M0Vv">https://amzn.to/2T7M0Vv</a><br />My Main Tripod: <a rel="nofollow" target="blank" href="https://amzn.to/2T2wZUy">https://amzn.to/2T2wZUy</a><br />Camera Bag: <a rel="nofollow" target="blank" href="https://amzn.to/2W2RK4E">https://amzn.to/2W2RK4E</a><br />Main Lighting Kit: <a rel="nofollow" target="blank" href="https://amzn.to/2FBJkMm">https://amzn.to/2FBJkMm</a><br />I am in love with this desk: <a rel="nofollow" target="blank" href="https://amzn.to/2T2xQEK">https://amzn.to/2T2xQEK</a><br /> <br />Send me mail! (PO box) <br />2279 N University Pkwy <br />STE 105 <br />Provo UT, 84604, USA <br /><br />#BackgroundActing #ExtraWork{% endraw %}
