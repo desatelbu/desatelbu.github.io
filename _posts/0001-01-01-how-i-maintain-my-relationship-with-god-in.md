@@ -1,0 +1,15 @@
+---
+title: "How I Maintain My Relationship with God in 2021 (ft Lox Raphahlelo) | Testimony | #DELIBERATE"
+image: "https:\/\/i.ytimg.com\/vi\/iKjQl8cywQ8\/hqdefault.jpg"
+vid_id: "iKjQl8cywQ8"
+categories: "People-Blogs"
+tags: ["deliberate","lox raphahlelo","testimony"]
+date: "2021-09-29T17:39:55+03:00"
+vid_date: "2021-02-28T16:07:13Z"
+duration: "PT12M47S"
+viewcount: "2643"
+likeCount: "262"
+dislikeCount: "0"
+channel: "DELIBERATE."
+---
+{% raw %}Lox Raphahlelo shares a powerful testimony and ways in which he is maintaining his relationship with God in 2021. How is your 2021 going spiritually? I hope this video helps you hold on and keep believing. #DELIERBATE<br /><br />VERSE MENTIONED:<br />Zechariah 2<br />Luke 3<br />John 14:27<br />Psalm 24: 3-4<br /><br />PREVIOUS VIDEOS:<br />How God Carried Me Through My Depression (ft. Dr. Nosipho Mhlanga): <a rel="nofollow" target="blank" href="https://youtu.be/7oLj1YqA6pc">https://youtu.be/7oLj1YqA6pc</a><br />I Gave God Control Over My Broken Places (ft. Hungani Ndlovu): <a rel="nofollow" target="blank" href="https://youtu.be/ha3UcyXlCyg">https://youtu.be/ha3UcyXlCyg</a><br />How God Changed My Life in 2020 (ft. Gugulethu Nyatsumba) : <a rel="nofollow" target="blank" href="https://youtu.be/L4XXHT1ANxI">https://youtu.be/L4XXHT1ANxI</a> <br /><br />Got some PRAYER REQUESTS? Here's the form: <a rel="nofollow" target="blank" href="https://docs.google.com/forms/d/e/1FAIpQLScwxVqqctpMvBhbSNU3GZgowop-Dce4ZLd958recG9Zn3GruQ/viewform?vc=0&amp;c=0&amp;w=1">https://docs.google.com/forms/d/e/1FAIpQLScwxVqqctpMvBhbSNU3GZgowop-Dce4ZLd958recG9Zn3GruQ/viewform?vc=0&amp;c=0&amp;w=1</a> <br /><br />The Deliberate Facebook Group: <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/deliberate/">https://www.facebook.com/groups/deliberate/</a><br /><br />DEVOTIONS LINKS:<br />How I do My Devotions: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=C0KLOBaFePs&amp;t=3s">https://www.youtube.com/watch?v=C0KLOBaFePs&amp;t=3s</a><br />&quot;Hearing the Voice of God&quot; by Pastor Rick Warren: <a rel="nofollow" target="blank" href="https://www.bible.com/reading-plans/1281-hearing-the-voice-of-god">https://www.bible.com/reading-plans/1281-hearing-the-voice-of-god</a> <br />Day 1: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=Gzks8pNs5mE">https://www.youtube.com/watch?v=Gzks8pNs5mE</a><br /><br />&quot;The LORD your God, who is going before you, will fight for you, as he did for you in Egypt, before your very eyes.&quot; - Deuteronomy 1:30<br /><br />Connect with me: <br /><br />Twitter/Instagram :@DennisNgango <br />Facebook: Dennis Ngango <br />Email: deliberatemessages@gmail.com<br /><br />Connect with Lox:<br />Instagram: Lox: @Loxkamogelo<br />Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCECqWAT68BpuHMIB5l7W8ug">https://www.youtube.com/channel/UCECqWAT68BpuHMIB5l7W8ug</a><br /><br />Connect with me:<br />Twitter/Instagram :@DennisNgango <br />Facebook: Dennis Ngango <br />Email: deliberatemessages@gmail.com{% endraw %}
