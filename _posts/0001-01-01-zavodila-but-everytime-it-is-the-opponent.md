@@ -1,0 +1,15 @@
+---
+title: "Zavodila but everytime it is the Opponent's turn the mod changes - Friday Night Funkin'"
+image: "https:\/\/i.ytimg.com\/vi\/0KHX6-wXckY\/hqdefault.jpg"
+vid_id: "0KHX6-wXckY"
+categories: "Gaming"
+tags: ["Zavodila","everytime","Opponent's"]
+date: "2021-09-29T14:52:41+03:00"
+vid_date: "2021-09-29T01:10:34Z"
+duration: "PT2M23S"
+viewcount: "205730"
+likeCount: "6571"
+dislikeCount: "184"
+channel: "Crrano"
+---
+{% raw %}Friday Night Funkin' - Zavodila but everytime it is the Opponent's turn the mod changes<br /><br />Credits:<br />Sarv and Ruv Sing Zavodila: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=QZS430aQV1s">https://www.youtube.com/watch?v=QZS430aQV1s</a><br />Ruv and Selever Sing Zavodila: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=an3Ytnjd4CU">https://www.youtube.com/watch?v=an3Ytnjd4CU</a><br /><br />Mods Used:<br />Mid-Fight Masses: Mod Deleted<br />Mid-Fight Masses Swap Side: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/313919">https://gamebanana.com/mods/313919</a><br />Mid-Fight Masses Minus: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/316146">https://gamebanana.com/mods/316146</a><br />MIDFIGHT MASSES X RAY MOD: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/293369">https://gamebanana.com/mods/293369</a><br />Mid Fight Masses [Genderbend Edition]: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/294014">https://gamebanana.com/mods/294014</a><br />Mid-Fight Remaster: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/288792">https://gamebanana.com/mods/288792</a><br />THICC Sarvente Mod: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/183663">https://gamebanana.com/mods/183663</a><br />Mid-Fight Masses Human Version: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/322855">https://gamebanana.com/mods/322855</a><br />Ruv without hat: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/303709">https://gamebanana.com/mods/303709</a><br />Ruv Reanimated: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/183665">https://gamebanana.com/mods/183665</a><br />Minus Ruv: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/304861">https://gamebanana.com/mods/304861</a><br />Remastared Boyfriend: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/323893">https://gamebanana.com/mods/323893</a><br />Gf Legs: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/185880">https://gamebanana.com/mods/185880</a><br />Sarvente over Girlfriend: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/290834">https://gamebanana.com/mods/290834</a><br />Angry Boyfriend: <a rel="nofollow" target="blank" href="https://gamebanana.com/wips/60882">https://gamebanana.com/wips/60882</a><br />Reanimated BF: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/323096">https://gamebanana.com/mods/323096</a>{% endraw %}
