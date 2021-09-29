@@ -1,0 +1,15 @@
+---
+title: "FY - Trip"
+image: "https:\/\/i.ytimg.com\/vi\/UHemHFycv6Q\/hqdefault.jpg"
+vid_id: "UHemHFycv6Q"
+categories: "Music"
+tags: ["FY - Trip","FY trip"]
+date: "2021-09-29T19:41:00+03:00"
+vid_date: "2018-12-01T18:06:56Z"
+duration: "PT4M13S"
+viewcount: "1103759"
+likeCount: "17015"
+dislikeCount: "398"
+channel: "Capital Music"
+---
+{% raw %}Produced by Beats by Mega <br />Stream Lingo: <br /><a rel="nofollow" target="blank" href="http://smarturl.it/FY_Lingo">http://smarturl.it/FY_Lingo</a><br />Mixed &amp; Mastered by Skive<br /><br />Stream Lingo<br /><a rel="nofollow" target="blank" href="http://smarturl.it/FY_Lingo">http://smarturl.it/FY_Lingo</a><br /><br />Lyrics on description<br /><br />Find Capital Music:<br />IG: <a rel="nofollow" target="blank" href="https://www.instagram.com/capitalmusicgreece/">https://www.instagram.com/capitalmusicgreece/</a><br />FB: www.facebook.com/Capital-Music-167795489946295/<br /><br />Τόσα ρούχα μ ακόμα δεν έχουν στυλ<br />Με τρώει μια σκέψη μα είναι σατανικη<br />Τόσα flames μες το booth έχω καεί <br />Τόσες δουλειές μ ακόμα δεν φοραω στολή <br />Η δικια μου απίστευτη σαν να είναι η Kim <br />Δεν ξέρω νομίζω μου τα σκάσε το pill <br />Αν μπορούσα να χω μονάχα μια ευχή <br />Θα τανε να μην τελειώσει αυτό το Trip <br /><br />A, okay, okay <br />Είναι 6 - 7 - 9 cause I don’t w8 <br />Έφυγα όσο κοιμόταν ξύπνησε και κλαει <br />Rockstar και ξανθό μαλλί είμαι ο Kurt Cobain <br />P R I N C E <br />Ξέρουν τ όνομα μου δεν με συμπαθούν πολλοί <br />Θα μάθουν για μένα μ ακόμα είναι μικροί<br />Θα ξέρουν το τι κάνω όταν μιλήσουν οι θεοί <br /><br />Δεν είναι τι σου συμβαίνει, είναι το πως αντιδράς,<br />Το θέμα είναι βλέπεις όχι απλά να μιλάς<br />Πρέπει να πάψεις να τρεμεις όταν στα μάτια με κοιτάς <br />Δεν θα μπορούσες να με νιώσεις ακόμα κι αν μ ακουμπας<br /><br />Τόσα ρούχα μ ακόμα δεν έχουν στυλ<br />Με τρώει μια σκέψη μα είναι σατανικη<br />Τόσα flames μες το booth έχω καεί <br />Τόσες δουλειές μ ακόμα δεν φοραω στολή <br />Η δικια μου απίστευτη σαν να είναι η Kim <br />Δεν ξέρω νομίζω μου τα σκάσε το pill <br />Αν μπορούσα να χω μονάχα μια ευχή <br />Θα τανε να μην τελειώσει αυτό το Trip<br /><br />Αμα κάποιος διάβαζε <br />το μυαλό μου θα δεν πιστευε, <br />το ποσά δεν ήξερε<br />και πόση διαφορά έχει μ αυτά που νομίζει ότι έχω κάνει <br /><br />(Solo) <br /><br />Όχι δεν θα το κάνε για μένα <br />Θα το κάνε μόνο επειδή ήθελε κάτι από μένα <br />Πάντα βλέπω την Τρίτη πλευρά απ το κέρνα <br />Είμαι Prince κι όταν δεν φοραω το στέμμα <br /><br />Πήγα από το να βάφω τον ΟΣΕ <br />Σε πεντάστερα hotel <br />Να με κλείνουνε για set <br />Κι εγώ να σκέφτομαι εσένα. <br /><br />Τόσα ρούχα μ ακόμα δεν έχουν στυλ<br />Με τρώει μια σκέψη μα είναι σατανικη<br />Τόσα flames μες το booth έχω καεί <br />Τόσες δουλειές μ ακόμα δεν φοραω στολή <br />Η δικια μου απίστευτη σαν να είναι η Kim <br />Δεν ξέρω νομίζω μου τα σκάσε το pill <br />Αν μπορούσα να χω μονάχα μια ευχή <br />Θα τανε να μην τελειώσει αυτό το Trip<br /><br />Cover by @marioskgm{% endraw %}
