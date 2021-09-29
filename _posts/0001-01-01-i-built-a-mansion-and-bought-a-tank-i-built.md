@@ -1,0 +1,15 @@
+---
+title: "I Built a Mansion and Bought a Tank!"
+image: "https:\/\/i.ytimg.com\/vi\/9nTPWjzzb8E\/hqdefault.jpg"
+vid_id: "9nTPWjzzb8E"
+categories: "Gaming"
+tags: ["big city roblox","roblox big city tycoon","roblox tycoon"]
+date: "2021-09-29T13:57:43+03:00"
+vid_date: "2021-09-26T05:35:36Z"
+duration: "PT10M55S"
+viewcount: "20504"
+likeCount: "637"
+dislikeCount: "6"
+channel: "DV Plays 2"
+---
+{% raw %}I Built an Epic Mansion in the new game by the devs who brought you Tropical Resort Tycoon!<br /><br />Game Link: <a rel="nofollow" target="blank" href="https://www.roblox.com/games/6432407703/Big-City-Tycoon">https://www.roblox.com/games/6432407703/Big-City-Tycoon</a><br /><br />👍 Help me reach 100k Subscribers! <a rel="nofollow" target="blank" href="https://www.youtube.com/c/dvplays2?sub_confirmation=1">https://www.youtube.com/c/dvplays2?sub_confirmation=1</a><br />⭐ Use Star Code &quot;DV&quot; when buying Robux, Gift Cards or Premium!<br /><br />🔥 DV Shoulder Buddy UGC: <a rel="nofollow" target="blank" href="https://www.roblox.com/catalog/6718380106/DV-Shoulder-Buddy">https://www.roblox.com/catalog/6718380106/DV-Shoulder-Buddy</a><br />🔥 DV Cloak of Shadows UGC: <a rel="nofollow" target="blank" href="https://www.roblox.com/catalog/6101339024/Cloak-of-Shadows">https://www.roblox.com/catalog/6101339024/Cloak-of-Shadows</a><br /><br />👍 DV Plays Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/darkvipertv">https://www.youtube.com/darkvipertv</a><br />👍 DV Talks Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/dvtalks">https://www.youtube.com/dvtalks</a><br />💬 Discord: <a rel="nofollow" target="blank" href="https://discord.gg/dvplays">https://discord.gg/dvplays</a><br />💬 Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/darkviper">https://twitter.com/darkviper</a><br />💬 Guilded: <a rel="nofollow" target="blank" href="https://guilded.gg/dvplays">https://guilded.gg/dvplays</a><br />📷 Tiktok: <a rel="nofollow" target="blank" href="https://tiktok.com/@usestarcodedv">https://tiktok.com/@usestarcodedv</a><br />📷 Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/dvplays">https://instagram.com/dvplays</a><br />⭐ Join DV Plays Membership! <a rel="nofollow" target="blank" href="https://www.youtube.com/darkvipertv/join">https://www.youtube.com/darkvipertv/join</a><br /><br />🟥 Follow on Roblox: <a rel="nofollow" target="blank" href="https://www.roblox.com/users/964088769/profile">https://www.roblox.com/users/964088769/profile</a><br />👑 Roblox Group: <a rel="nofollow" target="blank" href="https://www.roblox.com/groups/7044789/DV-Plays-Official">https://www.roblox.com/groups/7044789/DV-Plays-Official</a><br />☘️ Get 20% Off Venatos Products using Code &quot;DV&quot;: <a rel="nofollow" target="blank" href="https://venatos.com/">https://venatos.com/</a><br /> <br />Video Edited by Killertom63 (<a rel="nofollow" target="blank" href="https://twitter.com/Killertom63)">https://twitter.com/Killertom63)</a><br /><br />#roblox{% endraw %}
