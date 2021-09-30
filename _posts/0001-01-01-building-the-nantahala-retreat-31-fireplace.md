@@ -1,0 +1,15 @@
+---
+title: "Building The Nantahala Retreat #31 | Fireplace Stonework"
+image: "https:\/\/i.ytimg.com\/vi\/Rot5uD5dx4E\/hqdefault.jpg"
+vid_id: "Rot5uD5dx4E"
+categories: "Howto-Style"
+tags: ["Building","Masonry","Stone"]
+date: "2021-09-30T12:16:04+03:00"
+vid_date: "2021-09-29T16:27:51Z"
+duration: "PT17M49S"
+viewcount: "41844"
+likeCount: "3112"
+dislikeCount: "14"
+channel: "Perkins Builder Brothers"
+---
+{% raw %}Thanks to Liquid IV For sponsoring this video! Click the link for a free sample!￼ <a rel="nofollow" target="blank" href="https://bit.ly/3og6FJi">https://bit.ly/3og6FJi</a><br /><br /><a rel="nofollow" target="blank" href="https://evolvestone.com/">https://evolvestone.com/</a><br /><br />Learn how to build an entire house with Erik, Jaime and the Perkins Crew!<br />On this exciting episode… We do the prep work and stonework for the fireplace wall and hearth￼! We are using Evolve stone, which is actually a fast and easy way to do DIY stonework! <br /><br />Subscribe to The Building Knowledge Channel at:<br /><a rel="nofollow" target="blank" href="https://youtube.com/channel/UCNtZZ8Mb1SnCnIPmInEwFhQ">https://youtube.com/channel/UCNtZZ8Mb1SnCnIPmInEwFhQ</a><br /><br />Follow Jono’s adventure on Instagram:<br /><a rel="nofollow" target="blank" href="https://instagram.com/wandering_into_paradise?utm_medium=copy_link">https://instagram.com/wandering_into_paradise?utm_medium=copy_link</a><br /><br />Upgrade your sealants @:<br /><a rel="nofollow" target="blank" href="https://www.sashco.com/">https://www.sashco.com/</a><br /><br />Buy your Building Materials from Jennings WNC:<br /><a rel="nofollow" target="blank" href="https://www.jenningswnc.com">https://www.jenningswnc.com</a><br /><br />Discounted link for the gear we wear:<br /><a rel="nofollow" target="blank" href="https://truewerk.com/?sca_ref=587372.tQ3PfRQ1U7">https://truewerk.com/?sca_ref=587372.tQ3PfRQ1U7</a><br />Use code PERKINS15 for 15% off!!<br /><br />Subscribe to RayJay Builder Buddies (Guys from our Crew!)<br /><a rel="nofollow" target="blank" href="https://youtube.com/c/RayJayBuilderBuddies">https://youtube.com/c/RayJayBuilderBuddies</a><br /><br />Make sure to follow us on our other platforms for BONUS content!<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/perkins_builder_brothers/">https://www.instagram.com/perkins_builder_brothers/</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/perkinsbuilderbrothers">https://www.facebook.com/perkinsbuilderbrothers</a><br /><br />Get some Perkins Merch @:<br /><a rel="nofollow" target="blank" href="https://perkins-builder-brothers.creator-spring.com/?">https://perkins-builder-brothers.creator-spring.com/?</a><br /><br />PacTool International SA90338 Gecko Gauge, LP Siding Installation Tool (1 Set) FOR 3/8” thick siding <br /><a rel="nofollow" target="blank" href="https://amzn.to/3A8TOuU">https://amzn.to/3A8TOuU</a><br />We get a percentage of Amazon Link sales! <br /><br />#npdevices<br />#build<br />#construction{% endraw %}
