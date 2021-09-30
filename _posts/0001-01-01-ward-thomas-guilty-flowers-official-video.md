@@ -1,0 +1,15 @@
+---
+title: "Ward Thomas - Guilty Flowers (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/Y3fk_CL4AXs\/hqdefault.jpg"
+vid_id: "Y3fk_CL4AXs"
+categories: "Music"
+tags: ["Ward Thomas Nashville","Nashville","live"]
+date: "2021-09-30T19:07:06+03:00"
+vid_date: "2016-08-16T07:00:02Z"
+duration: "PT3M4S"
+viewcount: "1364430"
+likeCount: "14768"
+dislikeCount: "298"
+channel: "WardThomasVEVO"
+---
+{% raw %}Ward Thomas - Guilty Flowers (Official Video)<br />New album 'Restless Minds' OUT NOW - <a rel="nofollow" target="blank" href="http://smarturl.it/WardThomas_RMPV">http://smarturl.it/WardThomas_RMPV</a><br />Listen to all of your favourite Ward Thomas songs here: <a rel="nofollow" target="blank" href="http://smarturl.it/WardThomas_ST">http://smarturl.it/WardThomas_ST</a>  <br /><br />Follow Ward Thomas <br />Facebook - <a rel="nofollow" target="blank" href="http://smarturl.it/WardThomasFB?IQid=yt.vd">http://smarturl.it/WardThomasFB?IQid=yt.vd</a><br />Twitter - <a rel="nofollow" target="blank" href="http://smarturl.it/WardThomasTW?IQid=yt.vd">http://smarturl.it/WardThomasTW?IQid=yt.vd</a><br />Instagram - <a rel="nofollow" target="blank" href="http://smarturl.it/WardThomasIG?IQid=yt.vd">http://smarturl.it/WardThomasIG?IQid=yt.vd</a><br />Website - <a rel="nofollow" target="blank" href="http://www.wardthomasmusic.com?IQid=yt.vd">http://www.wardthomasmusic.com?IQid=yt.vd</a><br /><br />Lyrics<br />Two years to the day<br />Straight up an instant connection<br />You broke her heart for me, and I let you<br />History is telling me<br />I'm gonna be walking in her shoes<br />You let her down for me, now it's my turn<br /><br />I shoulda known, I could have told you you were lying<br />Fool me once, fool me twice, oh stupid me<br />I didn't wanna doubt, didn't wanna find out<br />But now I know<br />Coz you came home with<br />Guilty flowers<br />Guilty flowers<br /><br />Two years to the day<br />Roses to show your affection<br />Now thorns are digging in, and it's my fault<br />Who was I, thinking that I could be somebody different<br />There were signs in your eyes, wonder why I kept mine closed<br />Another notch on your bed post<br /><br />I shoulda known, I could have told you you were lying<br />Fool me once, fool me twice, oh stupid me<br />I didn't wanna doubt, didn't wanna find out<br />But now I know<br />Coz you came home with<br />Guilty flowers<br />Guilty flowers<br /><br />Guilty flowers...<br /><br />Who was I, thinking that I could be somebody different<br /><br />I shoulda known, I could have told you you were lying<br />Fool me once, fool me twice, oh stupid me<br />I didn't wanna doubt, didn't wanna find out<br />But now I know<br />Coz you came home with<br />Guilty flowers<br />Guilty flowers<br /><br />I shoulda known, I could have told you you were lying<br />Fool me once, fool me twice, oh stupid me<br />I didn't wanna doubt, didn't wanna find out<br />But now I know<br />Coz you came home with<br />Guilty flowers<br />Guilty flowers<br /><br />#wardthomas #restlessminds #guiltyflowers #WardThomas #GuiltyFlowers #Vevo{% endraw %}
