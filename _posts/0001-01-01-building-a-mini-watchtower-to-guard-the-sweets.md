@@ -1,0 +1,15 @@
+---
+title: "Building A Mini Watchtower To Guard The Sweets"
+image: "https:\/\/i.ytimg.com\/vi\/pNtXC3flMz4\/hqdefault.jpg"
+vid_id: "pNtXC3flMz4"
+categories: "Howto-Style"
+tags: ["slime","slick slime sam","mini bricks"]
+date: "2021-09-30T03:35:23+03:00"
+vid_date: "2021-03-25T13:00:31Z"
+duration: "PT11M7S"
+viewcount: "107491"
+likeCount: "1773"
+dislikeCount: "135"
+channel: "SLICK SLIME SAM - DIY, Comedy, Science"
+---
+{% raw %}As you know, Sammy loves sweets! And he is very worried when someone takes his sweets without asking ... To avoid this, he decided to build a real watchtower! Thus, he will always know who is encroaching on his sweets! And Roger will help him with this! Are you ready for a new craft?<br /><br />So, our tower will be smaller than the real one. But still, it will be fun! The watchtower is based on a special sheet. There are spots, where we'll place the tower itself and its walls. Next, we assemble a special paper construction. So to speak, the prototype of our tower. Then comes the time of the most interesting part! We're putting mini bricks on the watchtower. Our watchtower looks more like a real one now! But in order to finish our craft, let's add some decor. Everything is ready! <br /><br />So, have a closer look at our watchtower and enjoy!<br /><br />Check out more miniature brick crafts on our channel:<br /><br />Building Amazing Bridge Castle With Mini Bricks <a rel="nofollow" target="blank" href="https://youtu.be/6se_g6ztYU4">https://youtu.be/6se_g6ztYU4</a><br /><br />Incredible Mini Brick Oven For Your Cooking Experiments! <a rel="nofollow" target="blank" href="https://youtu.be/AzVh24PTSwc">https://youtu.be/AzVh24PTSwc</a><br /><br />Building A Real Royal Castle With Towers <a rel="nofollow" target="blank" href="https://youtu.be/79ADON9FA1s">https://youtu.be/79ADON9FA1s</a><br /><br />This video has English subtitles for your convenience!<br /><br />Check out Slime Sam's Community Tab and see his best pictures, funny GIFs, new episode announcements and much more! <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCw5VDXH8up3pKUppIvcstNQ/community">https://www.youtube.com/channel/UCw5VDXH8up3pKUppIvcstNQ/community</a><br /><br />Subscribe to Sam's channel and give a thumbs up to motivate him to make more videos for you! <a rel="nofollow" target="blank" href="https://goo.gl/zarVZo">https://goo.gl/zarVZo</a><br />- - - <br />All product and company names shown in the video are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.<br />- - -<br />Stock materials:<br /><a rel="nofollow" target="blank" href="https://www.depositphotos.com">https://www.depositphotos.com</a><br />- - -<br /><br />Music by Epidemic Sound: <a rel="nofollow" target="blank" href="https://www.epidemicsound.com/">https://www.epidemicsound.com/</a><br />OPENING THEME is licensed under MUSIC STANDARD LICENSE:<br />Title: Cuckoo<br />Source: <a rel="nofollow" target="blank" href="https://audiojungle.net/item/cuckoo/20801073">https://audiojungle.net/item/cuckoo/20801073</a>{% endraw %}
