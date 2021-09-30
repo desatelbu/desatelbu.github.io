@@ -1,0 +1,15 @@
+---
+title: "QUICK TINGLES 🚀 Eye Dr • Jeweler • Healer • Makeup • Hotel Check-in • ASMR"
+image: "https:\/\/i.ytimg.com\/vi\/yGmo3EekDTM\/hqdefault.jpg"
+vid_id: "yGmo3EekDTM"
+categories: "Entertainment"
+tags: ["ASMR","[ASMR]","asmr"]
+date: "2021-09-30T05:22:26+03:00"
+vid_date: "2021-09-27T18:30:40Z"
+duration: "PT25M59S"
+viewcount: "191727"
+likeCount: "9918"
+dislikeCount: "875"
+channel: "Gentle Whispering ASMR"
+---
+{% raw %}Hi guys, I've been enjoying faster/quicker asmr lately and wanted to make some myself. In this video you'll see 5 role plays in 25 minutes. Let me know your thoughts! :) Do you think I should post these as separate short videos or it doesn't make sense? <br />00:00 Eye Doctor<br />05:42 Jeweler<br />09:41 Hotel check-in<br />14:49 Energy healer<br />19:10 Makeup artist<br />Thank you so much for checking it out. I was nervous making my first fast(ish) asmr video after years of doing very slow ones, hehe and I hope I did ok. :) <br /><br />Amazon MP3<br /><a rel="nofollow" target="blank" href="https://www.amazon.com/s/ref=ntt_srch_drd_B01BAXDICM?ie=UTF8&amp;field-keywords=GentleWhispering&amp;index=digital-music&amp;search-type=ss">https://www.amazon.com/s/ref=ntt_srch_drd_B01BAXDICM?ie=UTF8&amp;field-keywords=GentleWhispering&amp;index=digital-music&amp;search-type=ss</a><br /><br />YouTube Music MP3<br /><a rel="nofollow" target="blank" href="https://music.youtube.com/channel/UCAYaoy-i0_bTnd9yzzDMkhw">https://music.youtube.com/channel/UCAYaoy-i0_bTnd9yzzDMkhw</a><br /><br />Spotify MP3<br /><a rel="nofollow" target="blank" href="https://play.spotify.com/artist/3gkB9Cdx4UuWQxjhelyd87?play=true&amp;utm_source=open.spotify.com&amp;utm_medium=open">https://play.spotify.com/artist/3gkB9Cdx4UuWQxjhelyd87?play=true&amp;utm_source=open.spotify.com&amp;utm_medium=open</a><br /><br />iTunes MP3<br /><a rel="nofollow" target="blank" href="https://itunes.apple.com/us/artist/gentlewhispering/id1077570705#see-all/top-songs">https://itunes.apple.com/us/artist/gentlewhispering/id1077570705#see-all/top-songs</a><br /><br /><a rel="nofollow" target="blank" href="https://itunes.apple.com/us/artist/maria-gentlewhispering/id1048320316">https://itunes.apple.com/us/artist/maria-gentlewhispering/id1048320316</a><br /><br />Disclaimer: ***- This video is created for relaxation, entertainment and ASMR/tingles/chills inducing purposes only. For more information about ASMR phenomenon please click here: <a rel="nofollow" target="blank" href="http://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response">http://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response</a> <br />-This video cannot replace any medication or professional treatment. If you have sleep/anxiety/psychological troubles please consult your physician. Thank you :) <br />***<br /><br />PayPal (Donations, if you feel you need to give back) <a rel="nofollow" target="blank" href="https://www.paypal.me/GentleWhispering">https://www.paypal.me/GentleWhispering</a><br />Email: MariaGentlewhispering@gmail.com<br /><br />#FastASMR #GentleWhispering{% endraw %}
