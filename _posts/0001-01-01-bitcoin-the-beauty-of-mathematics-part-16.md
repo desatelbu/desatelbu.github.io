@@ -1,0 +1,15 @@
+---
+title: "Bitcoin: The Beauty Of Mathematics (Part 16)"
+image: "https:\/\/i.ytimg.com\/vi\/oIrLzZMxthA\/hqdefault.jpg"
+vid_id: "oIrLzZMxthA"
+categories: "People-Blogs"
+tags: ["Cryptocurrency","Bitcoin","BTC"]
+date: "2021-10-01T21:13:16+03:00"
+vid_date: "2021-10-01T13:03:18Z"
+duration: "PT19M"
+viewcount: "38400"
+likeCount: "4113"
+dislikeCount: "39"
+channel: "Benjamin Cowen"
+---
+{% raw %}Time for an update on our #Bitcoin: The Beauty of Mathematics series, which is actually an analysis on the total cryptocurrency market capitalization by comparing it to our fair value logarithmic regression trend line. No model will tell us exactly when/where the entire asset class will peak, but hopefully it gives us some insight into what is realistically possible. Where do you think the price of Bitcoin is headed? Let me know in the comments!<br /><br />Into The Cryptoverse NFT:<br /><br />“Missions to the moon can be delayed. Sometimes you just have to play chess and hodl.” <br /><br />After several requests, we’ve made this the first “WINNING!” NFT, in collaboration with Luke Dillon.<br /><br />More from this collection to be released soon!<br /><br />There are 500 copies of this Into The Cryptoverse NFT. All copies not sold by 12 PM EST on October 4th will be burned.<br /><br /><a rel="nofollow" target="blank" href="https://bit.ly/3zWhMsU">https://bit.ly/3zWhMsU</a><br /><br />Premium List :<br /><a rel="nofollow" target="blank" href="https://intothecryptoverse.com">https://intothecryptoverse.com</a><br /><br />LIFETIME OPTION:<br /><a rel="nofollow" target="blank" href="https://intothecryptoverse.com/product/subscription-to-the-premium-list-lifetime/">https://intothecryptoverse.com/product/subscription-to-the-premium-list-lifetime/</a><br /><br />Alternative Option:<br /><a rel="nofollow" target="blank" href="https://www.patreon.com/intothecryptoverse">https://www.patreon.com/intothecryptoverse</a><br /><br />Merch:<br /><a rel="nofollow" target="blank" href="https://store.intothecryptoverse.com/">https://store.intothecryptoverse.com/</a><br /><br /><br />Disclaimer: The information presented within this video is NOT financial advice.<br /><br />Telegram: <a rel="nofollow" target="blank" href="https://t.me/intocryptoverse">https://t.me/intocryptoverse</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/intocryptoverse">https://twitter.com/intocryptoverse</a><br />TikTok: tiktok.com/@benjamincowencrypto<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/bjcowen/">https://www.instagram.com/bjcowen/</a><br />Discord: <a rel="nofollow" target="blank" href="https://discord.gg/3Y8HPNKJ">https://discord.gg/3Y8HPNKJ</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/intothecryptoverse">https://www.facebook.com/groups/intothecryptoverse</a><br />Reddit: <a rel="nofollow" target="blank" href="https://www.reddit.com/r/intothecryptoverse/">https://www.reddit.com/r/intothecryptoverse/</a><br />Website: <a rel="nofollow" target="blank" href="https://intothecryptoverse.com/">https://intothecryptoverse.com/</a>{% endraw %}
