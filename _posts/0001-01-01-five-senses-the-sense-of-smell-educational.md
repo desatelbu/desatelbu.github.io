@@ -1,0 +1,15 @@
+---
+title: "Five Senses: The Sense of Smell | Educational Videos for Kids"
+image: "https:\/\/i.ytimg.com\/vi\/kT7T1tcJ7gA\/hqdefault.jpg"
+vid_id: "kT7T1tcJ7gA"
+categories: "Education"
+tags: ["natural science","natural world","human science"]
+date: "2021-10-01T11:01:40+03:00"
+vid_date: "2020-02-04T10:00:11Z"
+duration: "PT3M33S"
+viewcount: "193362"
+likeCount: "889"
+dislikeCount: "133"
+channel: "Happy Learning English"
+---
+{% raw %}Mmmmm can you smell that? Is it good or bad? Pleasant or Unpleasant? <br />Let's get to know the five senses step by step. This week... It's the Sense of Smell 👃<br /><br />👉SUBSCRIBE TO HAPPY LEARNING! <a rel="nofollow" target="blank" href="http://bit.ly/HappyLearningTV">http://bit.ly/HappyLearningTV</a><br />👉Web site: <a rel="nofollow" target="blank" href="https://happylearning.tv/en/">https://happylearning.tv/en/</a><br />👉Follow us on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/HappyLearningTv">https://www.facebook.com/HappyLearningTv</a><br /><br />Recommended video: The circulatory system <br /><a rel="nofollow" target="blank" href="https://youtu.be/f9ONXd_-anM">https://youtu.be/f9ONXd_-anM</a><br />---<br /><br />Hello Friends! Welcome to a new Happy Learning Video. Today, we’re going to get to know a very nosy sense, today, we’re going to get to know the sense of smell. <br /><br />The sense of smell lets us capture smells from substances. Its organ is the nose and its function is very simple.<br />Smells travel through air, they enter through the nostrils, and arrive at the nasal cavities, where we find, the yellow pituitary, which is in charge of capturing smells. This information travels to the brain, through the olfactory nerve, and it’s here, in the brain, where we identify smells. if smells are good or bad, pleasant or unpleasant, soft or strong. <br /><br />The sense of smell is the most sensitive, since only a minimum quantity of matter stimulates it and makes it react. <br /><br />Humans detect up to 10 thousand different smells, but overtime, we lose the sense, that’s why children can distinguish more smells than adults.<br /><br />The sense of smell in lots of animals is more powerful than in humans. The African Elephant has the best sense of smell in the world. Its nose, apart from being the longest in the animal kingdom is the best smeller. But do you know which animal holds a record for smelling at a distance?  Well it's a moth!  A male moth can smell a female moth up to 10km away. <br /><br />Well, now we know a lot more things about the sense of smell, but we don’t want to say goodbye without giving you a tip! We need to take care of our sense of smell. We can’t insert anything through the nostrils, no sticks, cotton balls, nothing at all, also, when we go through somewhere which smells very bad or where there are strong smelling products,  it’s better to cover your nose and move away. Okay? Always remember. <br /><br />Goodbye Friends! See you in the next Happy Learning Video.{% endraw %}
