@@ -1,0 +1,15 @@
+---
+title: "South Korea. The most advanced country in Asia \/ How People Live \/ @The People"
+image: "https:\/\/i.ytimg.com\/vi\/aHA4SJnDW00\/hqdefault.jpg"
+vid_id: "aHA4SJnDW00"
+categories: "Travel-Events"
+tags: ["north korea","north korea documentary","documentary"]
+date: "2021-10-01T19:41:47+03:00"
+vid_date: "2021-08-06T16:30:01Z"
+duration: "PT49M19S"
+viewcount: "738177"
+likeCount: "25505"
+dislikeCount: "806"
+channel: "The People"
+---
+{% raw %}Now I have visited both South Korea and North Korea. 70 years ago, once a single country was divided, and North Korea, together with the Soviet Union, began to build socialism, and the South Korea, together with the Americans and the West in general - capitalism. And neither of those Koreans were asked much. It happened historically. Let's see, what happened in the end.<br /><br />Welcome to How People Live by Lyadov from South Korea!<br /><br />If you want to help a project, pls follow me on Patreon <a rel="nofollow" target="blank" href="https://www.patreon.com/the_people">https://www.patreon.com/the_people</a> <br /><br />Watch more videos from my travels: <br />  North Korea documentary. Part I - <a rel="nofollow" target="blank" href="https://youtu.be/inebLA3HqPo">https://youtu.be/inebLA3HqPo</a> <br />  North Korea documentary. Part II - <a rel="nofollow" target="blank" href="https://youtu.be/aMWi4XlNlwE">https://youtu.be/aMWi4XlNlwE</a> <br />  Mexico documentaries. Part I - <a rel="nofollow" target="blank" href="https://youtu.be/aN4_Htzltjc">https://youtu.be/aN4_Htzltjc</a> and Part II <a rel="nofollow" target="blank" href="https://youtu.be/-g-oFlcL_sE">https://youtu.be/-g-oFlcL_sE</a><br />  Venezuela documentaries. Part I - <a rel="nofollow" target="blank" href="https://youtu.be/2n7mK3dYOLw">https://youtu.be/2n7mK3dYOLw</a> and Part II <a rel="nofollow" target="blank" href="https://youtu.be/QUn9hm-xmFs">https://youtu.be/QUn9hm-xmFs</a> <br />  China documentary - <a rel="nofollow" target="blank" href="https://youtu.be/A1yXTlvTB08">https://youtu.be/A1yXTlvTB08</a> <br /><br />Subscribe to see what will be the next <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCStGslsoc9pr89XnmwnsYWw?sub_confirmation=1">https://www.youtube.com/channel/UCStGslsoc9pr89XnmwnsYWw?sub_confirmation=1</a> <br /><br />Music used by license at beatstars.com:<br />TOKYO - <br />RikeLuxxBeats <a rel="nofollow" target="blank" href="https://www.beatstars.com/beat/tokyo-1022983">https://www.beatstars.com/beat/tokyo-1022983</a><br /><br />&quot;The People&quot; is Anton Lyadov travel vblog. Anton visits the most uncommon and dangerous places in the world. <br /><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/anton.lyadov">https://instagram.com/anton.lyadov</a><br />Paypal: agerzen@gmail.com <br />Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/the_people">https://www.patreon.com/the_people</a> <br /><br />#northkorea #southkorea #lyadov #thepeople{% endraw %}
