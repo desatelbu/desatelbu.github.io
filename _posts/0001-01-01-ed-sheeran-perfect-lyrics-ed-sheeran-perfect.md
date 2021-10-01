@@ -1,0 +1,15 @@
+---
+title: "Ed Sheeran - Perfect (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/My6HIs-Bhtw\/hqdefault.jpg"
+vid_id: "My6HIs-Bhtw"
+categories: "Music"
+tags: ["Vibe Music","Ed Sheeran Perfect","Perfect Ed Sheeran"]
+date: "2021-10-01T05:57:05+03:00"
+vid_date: "2021-09-30T17:31:27Z"
+duration: "PT4M25S"
+viewcount: "27389"
+likeCount: "770"
+dislikeCount: "19"
+channel: "Vibe Music"
+---
+{% raw %}♫ Ed Sheeran - Perfect <br />Stream/Download: <a rel="nofollow" target="blank" href="https://ad.gt/yt-perfect">https://ad.gt/yt-perfect</a><br /><br />• Ed Sheeran •<br />• <a rel="nofollow" target="blank" href="http://instagram.com/teddysphotos">http://instagram.com/teddysphotos</a><br />• <a rel="nofollow" target="blank" href="https://www.tiktok.com/@edsheeran">https://www.tiktok.com/@edsheeran</a><br />• <a rel="nofollow" target="blank" href="http://www.facebook.com/EdSheeranMusic">http://www.facebook.com/EdSheeranMusic</a><br />• <a rel="nofollow" target="blank" href="http://twitter.com/edsheeran">http://twitter.com/edsheeran</a><br /><br />(Lyrics):<br />[Verse 1]<br />I found a love for me<br />Oh darling, just dive right in and follow my lead<br />Well, I found a girl, beautiful and sweet<br />Oh, I never knew you were the someone waiting for me<br />'Cause we were just kids when we fell in love<br />Not knowing what it was<br />I will not give you up this time<br />But darling, just kiss me slow, your heart is all I own<br />And in your eyes, you're holding mine<br /><br />[Chorus]<br />Baby, I'm dancing in the dark with you between my arms<br />Barefoot on the grass, listening to our favourite song<br />When you said you looked a mess, I whispered underneath my breath<br />But you heard it, darling, you look perfect tonight<br /><br />[Verse 2]<br />Well I found a woman, stronger than anyone I know<br />She shares my dreams, I hope that someday I'll share her home<br />I found a love, to carry more than just my secrets<br />To carry love, to carry children of our own<br />We are still kids, but we're so in love<br />Fighting against all odds<br />I know we'll be alright this time<br />Darling, just hold my hand<br />Be my girl, I'll be your man<br />I see my future in your eyes<br /><br />[Chorus 2]<br />Baby, I'm dancing in the dark, with you between my arms<br />Barefoot on the grass, listening to our favorite song<br />When I saw you in that dress, looking so beautiful<br />I don't deserve this, darling, you look perfect tonight<br /><br />[Instrumental]<br /><br />[Chorus 3]<br />Baby, I'm dancing in the dark, with you between my arms<br />Barefoot on the grass, listening to our favorite song<br />I have faith in what I see<br />Now I know I have met an angel in person<br />And she looks perfect<br />I don't deserve this<br />You look perfect tonight<br /><br />Tags:<br />Ed Sheeran Perfect,<br />Perfect Ed Sheeran<br />Perfect Ed Sheeran Lyrics<br />Ed Sheeran Perfect Lyrics<br />Lyrics Ed Sheeran Perfect<br />Ed Sheeran Lyrics<br />Perfect<br /><br />#EdSheeran #Perfect #Lyrics<br /><br />Contact: droppinglyricsvibe@gmail.com{% endraw %}
