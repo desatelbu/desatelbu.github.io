@@ -1,0 +1,15 @@
+---
+title: "Lil Nas X - DONT WANT IT"
+image: "https:\/\/i.ytimg.com\/vi\/ROEhuRhrhvE\/hqdefault.jpg"
+vid_id: "ROEhuRhrhvE"
+categories: "Music"
+tags: ["lil nas x montero album","lil nas x dead right now","lil nas x thats what I want"]
+date: "2021-10-01T09:11:23+03:00"
+vid_date: "2021-09-17T04:00:08Z"
+duration: "PT2M12S"
+viewcount: "3400890"
+likeCount: "197407"
+dislikeCount: "4857"
+channel: "LilNasXVEVO"
+---
+{% raw %}Official audio for &quot;DONT WANT IT&quot; by Lil Nas X <br /> <br />Listen &amp; Download ‘MONTERO’ the album out now: <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum">https://lilnasx.lnk.to/MonteroAlbum</a><br /><br />If you’d like to make a donation to The Counter Narrative, click the link below and Gilead COMPASS Initiative will match total donations up to $25,000<br /><a rel="nofollow" target="blank" href="https://www.thecounternarrative.org/donation">https://www.thecounternarrative.org/donation</a><br /><br />Animation by Brandon Bolmer @iammaskarade<br /> <br />Amazon Music - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/amazonmusic">https://lilnasx.lnk.to/MonteroAlbum/amazonmusic</a><br />Apple Music - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/applemusic">https://lilnasx.lnk.to/MonteroAlbum/applemusic</a><br />Audiomack - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/audiomack">https://lilnasx.lnk.to/MonteroAlbum/audiomack</a><br />Deezer - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/deezer">https://lilnasx.lnk.to/MonteroAlbum/deezer</a><br />iTunes - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/itunes">https://lilnasx.lnk.to/MonteroAlbum/itunes</a><br />SoundCloud - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/soundcloud">https://lilnasx.lnk.to/MonteroAlbum/soundcloud</a><br />Spotify - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/spotify">https://lilnasx.lnk.to/MonteroAlbum/spotify</a><br />Tidal - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/tidal">https://lilnasx.lnk.to/MonteroAlbum/tidal</a><br />YouTube Music - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/youtubemusic">https://lilnasx.lnk.to/MonteroAlbum/youtubemusic</a><br /> <br />Follow Lil Nas X<br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/LilNasX/">https://www.facebook.com/LilNasX/</a><br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/lilnasx/">https://www.instagram.com/lilnasx/</a><br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/LilNasX">https://twitter.com/LilNasX</a><br />TikTok - <a rel="nofollow" target="blank" href="https://www.tiktok.com/@lilnasx">https://www.tiktok.com/@lilnasx</a><br /> <br /><a rel="nofollow" target="blank" href="https://www.lilnasx.com/">https://www.lilnasx.com/</a><br /> <br />#LilNasX #MonterotheAlbum #DONTWANTIT{% endraw %}
