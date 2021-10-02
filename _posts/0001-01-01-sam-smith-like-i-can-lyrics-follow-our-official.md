@@ -1,0 +1,15 @@
+---
+title: "Sam Smith - Like I Can (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/MnjirE2YRBo\/hqdefault.jpg"
+vid_id: "MnjirE2YRBo"
+categories: "Music"
+tags: ["taj tracks","Like I Can"]
+date: "2021-10-02T12:14:08+03:00"
+vid_date: "2021-08-23T14:20:30Z"
+duration: "PT2M45S"
+viewcount: "2109639"
+likeCount: "26928"
+dislikeCount: "378"
+channel: "Taj Tracks"
+---
+{% raw %}Follow Our Official Spotify Playlist: <a rel="nofollow" target="blank" href="https://TajTracks.lnk.to/Spotify​​​​">https://TajTracks.lnk.to/Spotify​​​​</a><br />TikTok Spotify Playlist: <a rel="nofollow" target="blank" href="https://spoti.fi/32iCMvP">https://spoti.fi/32iCMvP</a><br />Sam Smith - Like I Can (Lyrics)<br /><br />Sam Smith:<br /><a rel="nofollow" target="blank" href="http://samsmithworld.com">http://samsmithworld.com</a><br />Facebook <a rel="nofollow" target="blank" href="http://facebook.com/samsmithworld">http://facebook.com/samsmithworld</a><br />Instagram <a rel="nofollow" target="blank" href="http://instagram.com/samsmith">http://instagram.com/samsmith</a><br />Twitter <a rel="nofollow" target="blank" href="http://twitter.com/samsmith">http://twitter.com/samsmith</a><br /><br />Like I Can Lyrics:<br /><br />[Verse 1]<br />He could be a sinner, or a gentleman<br />He could be a preacher, when your soul is damned<br />He could be a lawyer on a witness stand<br />But he'll never love you like I can, can<br />He could be a stranger you gave a second glance<br />He could be a trophy of a one night stand<br />He could have your humour, but I don't understand<br />'Cause he'll never love you like I can, can, can<br /><br />[Chorus]<br />Why are you looking down all the wrong roads?<br />When mine is the heart and the salt of the soul<br />There may be lovers who hold out their hands<br />But they’ll never love you like I can, can, can<br />They'll never love you like I can, can<br /><br />[Verse 3]<br />A chance encounter of circumstance<br />Baby he's a mantra, keeps your mind entranced<br />He could be the silence in this mayhem, but then again<br />He’ll never love you like I can, can, can<br /><br />[Chorus]<br />Why are you looking down all the wrong roads?<br />When mine is the heart and the salt of the soul<br />There may be lovers who hold out their hands<br />But they’ll never love you like I can, can, can<br />They'll never love you like I can, can, can<br />They'll never love you like I can, can, can<br /><br />[Bridge]<br />We both have demons that we can't stand<br />I love your demons, like devils can<br />If you're self-seeking, an honest man<br />Then stop deceiving, Lord please<br /><br />[Chorus]<br />Why are you looking down all the wrong roads?<br />When mine is the heart and the salt of the soul<br />There may be lovers who hold out their hands<br />But they’ll never love you like I can, can, can<br />They'll never love you like I can, can, can<br />He'll never love you like I can, can, can<br /><br />Sam Smith - Like I Can (Lyrics)<br /><br />#SamSmith #LikeICan #TajTracks #Lyrics{% endraw %}
