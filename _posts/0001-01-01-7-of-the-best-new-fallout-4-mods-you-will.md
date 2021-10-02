@@ -1,0 +1,15 @@
+---
+title: "7 of the Best New Fallout 4 Mods You Will Want to Download (Tactical Mods)"
+image: "https:\/\/i.ytimg.com\/vi\/bgtAUqq0YcU\/hqdefault.jpg"
+vid_id: "bgtAUqq0YcU"
+categories: "Gaming"
+tags: ["juicehead","fallout 4 mods","best xbox one mods"]
+date: "2021-10-02T21:11:25+03:00"
+vid_date: "2021-10-01T01:00:16Z"
+duration: "PT14M24S"
+viewcount: "30570"
+likeCount: "2010"
+dislikeCount: "55"
+channel: "JuiceHead"
+---
+{% raw %}Install Raid for Free ✅ Mobile and PC: <a rel="nofollow" target="blank" href="https://clik.cc/0K1Iw">https://clik.cc/0K1Iw</a> and get a special starter pack 💥 Available only for the next 30 days 💥<br /><br /><br />Today we take a look at some of the best new mods to release for Fallout 4 on PC and Xbox One. <br /><br /><br />Merch: <a rel="nofollow" target="blank" href="https://juicehead.net/">https://juicehead.net/</a><br /><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/JuiceHead33">https://twitter.com/JuiceHead33</a><br /><br />Discord: <a rel="nofollow" target="blank" href="https://discord.gg/jzhzrhm">https://discord.gg/jzhzrhm</a><br /><br />The Mods:<br /><br />BT APC9 - MP9 Combo: <br />PC - <a rel="nofollow" target="blank" href="https://www.nexusmods.com/fallout4/mods/54379">https://www.nexusmods.com/fallout4/mods/54379</a><br />Xbox One - <a rel="nofollow" target="blank" href="https://bethesda.net/en/mods/fallout4/mod-detail/4234661">https://bethesda.net/en/mods/fallout4/mod-detail/4234661</a><br /><br />Hunkered Down:<br />PC - <a rel="nofollow" target="blank" href="https://www.nexusmods.com/fallout4/mods/49865">https://www.nexusmods.com/fallout4/mods/49865</a><br />Xbox One - <a rel="nofollow" target="blank" href="https://bethesda.net/en/mods/fallout4?number_results=20&amp;order=desc&amp;page=1&amp;platform=&amp;product=fallout4&amp;sort=popular&amp;text=Hunkered%20Down%20">https://bethesda.net/en/mods/fallout4?number_results=20&amp;order=desc&amp;page=1&amp;platform=&amp;product=fallout4&amp;sort=popular&amp;text=Hunkered%20Down%20</a><br /><br />Power Armor to the People:<br />PC - <a rel="nofollow" target="blank" href="https://www.nexusmods.com/fallout4/mods/50819">https://www.nexusmods.com/fallout4/mods/50819</a><br /><br />Recoil Shake and Low Ammo Sounds:<br />PC - <a rel="nofollow" target="blank" href="https://www.nexusmods.com/fallout4/mods/54741">https://www.nexusmods.com/fallout4/mods/54741</a><br /><br />QBZ-191 QBU-191:<br />PC - <a rel="nofollow" target="blank" href="https://www.nexusmods.com/fallout4/mods/54600">https://www.nexusmods.com/fallout4/mods/54600</a><br /><br />VWR:<br />PC - <a rel="nofollow" target="blank" href="https://www.nexusmods.com/fallout4/mods/47726">https://www.nexusmods.com/fallout4/mods/47726</a><br /><br />A Forest:<br />PC - <a rel="nofollow" target="blank" href="https://www.nexusmods.com/fallout4/mods/45330">https://www.nexusmods.com/fallout4/mods/45330</a><br /><br />Thumbnail Author - Little Light<br /><br />#Fallout4 #Fallout4Mods #XboxMods{% endraw %}
