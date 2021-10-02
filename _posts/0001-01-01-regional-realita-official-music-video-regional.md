@@ -1,0 +1,15 @@
+---
+title: "REGIONAL - Realita (OFFICIAL MUSIC VIDEO)"
+image: "https:\/\/i.ytimg.com\/vi\/lSivqUTklcQ\/hqdefault.jpg"
+vid_id: "lSivqUTklcQ"
+categories: "Music"
+tags: ["Regional Band","Regional","Band Metal Indonesia"]
+date: "2021-10-02T14:16:08+03:00"
+vid_date: "2021-06-02T02:00:09Z"
+duration: "PT7M33S"
+viewcount: "3215"
+likeCount: "238"
+dislikeCount: "2"
+channel: "Regional Band Official"
+---
+{% raw %}REGIONAL - REALITA<br /><br />Untuk kalian yang masih menyimpan kami di Ingatan...<br /><br />iTunes <a rel="nofollow" target="blank" href="https://music.apple.com/id/album/realita/1571436835?i=1571437060">https://music.apple.com/id/album/realita/1571436835?i=1571437060</a><br />Spotify <a rel="nofollow" target="blank" href="https://open.spotify.com/track/17vxQUw7s8VG8K04eHLDxv">https://open.spotify.com/track/17vxQUw7s8VG8K04eHLDxv</a><br /><br />Line Up:<br />Awa - Vocal, Guitar<br />TJ - Bass, Backing Vocal<br />Mad - Guitar<br />Tiko - Drum<br /><br />Lirik:<br /><br />BUKA MATA!!!<br /><br />(Bleagh)<br /><br />Dan semua berubah<br />Menjadi dusta yang indah...<br /><br />...karena mereka...<br /><br />Mereka membuat luka, dan<br />Mereka menyayat makna, dan<br />Mereka menipu jiwa-jiwa lemah yang tengah terpasah<br />Ke dalam gelap realita... ini<br /><br />*Pre-Chorus:<br />DIMENSI KEGELAPAN MELANDA,<br />SEKARANG SIAPA YANG AKAN DATANG MERUBAH<br />REALITA YANG ADA?<br /><br />*Chorus:<br />Dan semua menghancur, meremuk,<br />Memusnah, binasa, bila<br />Mereka merusak, merubah,<br />memanipulasikannya<br /><br />Malaikat menangis, tersungkur,<br />Berteriak, dan tak seorangpun menyadarinya<br />Dan kini semua terceca, membusuk,<br />Di atas tanah... BUKA MATA!<br /><br />Kau membawa awan-awan<br />Tuk jatuhkan bintang-bintang,<br />Sandiwara bermula...<br />Takkan pernah bisa menipuku,<br />Takkan pernah bisa membunuhku!<br /><br />*Back to Pre-Chorus &amp; Chorus*<br /><br />Aku bukan seorang pemuja,<br />Aku bukan seorang pemuja...<br />... HINA ...<br /><br />(Breakdown I)<br /><br />KALIAN MENGAKU KALIAN SEMUA BERBEDA<br />CIPTAKAN ILUSI MURAH TUK SAJIKAN SAMPAH<br />KARAKTER BODOH NYATANYA SAMA SAJA<br />THIS IS BULLSHIT!<br />BERIKANLAH AKU BUKTI YANG NYATA!<br />BUKTI YANG NYATA!<br /><br />(Breakdown II)<br /><br />Dan semua berubah...<br />Menjadi dusta yang indah...<br /><br />Hooooo... (We came back here)<br />Hooooo... (It was not only to take a part)<br />Hooooo... (We came back here)<br />Hooooo... (To take over)<br /><br />ARE YOU READY? REGIONAL IS BACK!!!<br /><br />________________________________________________<br /><br />Finds us on Instagram <a rel="nofollow" target="blank" href="https://www.instagram.com/regionalofficial">https://www.instagram.com/regionalofficial</a><br /><br />Regional - Realita (Official Music Video)<br />Link:https: <a rel="nofollow" target="blank" href="https://youtu.be/lSivqUTklcQ">https://youtu.be/lSivqUTklcQ</a><br /><br />Directed by AWA<br />Written by AWA<br />Cameraman Zhi-Zhi Studio<br />Audio Mixing And Mastering AE Studio<br /><br />#RegionalBand #Realita #MusicVideo{% endraw %}
