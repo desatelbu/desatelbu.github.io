@@ -1,0 +1,15 @@
+---
+title: "静かに育児させて！母ゴリラの部屋から出された父親と長男坊⭐️Gorilla【京都市動物園】Gentaro is sometimes an obstacle to raising a baby."
+image: "https:\/\/i.ytimg.com\/vi\/eyFJsOmowvE\/hqdefault.jpg"
+vid_id: "eyFJsOmowvE"
+categories: "Pets-Animals"
+tags: ["京都市動物園","ゴリラ","ニシローランドゴリラ"]
+date: "2021-10-02T17:26:00+03:00"
+vid_date: "2021-09-29T13:15:02Z"
+duration: "PT12M2S"
+viewcount: "33457"
+likeCount: "800"
+dislikeCount: "18"
+channel: "ゴリラ色の世界【Gorilla World】"
+---
+{% raw %}2019年1月に撮影<br /><br />キンタロウが生まれて、母ゲンキの気を引こうとして騒がしいヤンチャなゲンタロウ。<br />ゲンタロウが一緒だとゲンキは安心してくつろげないので、飼育員さんは時々ゲンタロウとゲンキの部屋を分けて、ゲンキが静かに子育て出来る時間を作ってました。<br />その間ゲンタロウはモモタロウと一緒に隣の部屋で過ごしてました。<br /><br />⚠️ 京都府緊急事態措置に伴い、京都市動物園は本日8月23日から9月30日まで休園となります。<br />休園期間は状況により延長される可能性もあります。<br />動物園が再開されるまでは、再び過去の動画メインの投稿になってしまう事をご了承下さい。<br /><br />This video was shot in January 2019.<br /><br />Gentaro who wants Genki's attention.<br /><br />However, Genki cannot raise children with peace of mind when Gentaro is with him.<br /><br />Therefore, the zookeeper sometimes separated the rooms of Genki and Gentaro to make time for Genki to spend quietly.<br /><br />Meanwhile, Gentaro spent time with Momotaro.<br /><br />⚠️ ⭐️ Due to the spread of coronavirus(COVID-19) infection, Kyoto City Zoo will be closed again from August 23rd to September 30th .<br />The closed period may be extended depending on the situation.<br />Therefore, I will post old videos until the zoo reopens.<br />Please understand.<br /><br />〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜<br />⭐️モモタロウ Momotaro ♂(2000/7/3)<br /><br />momotaro was born at Ueno zoo in Tokyo on jul.3,2000 and came to our zoo on Oct.18,2010.<br />He is beautiful and handsome ,the silverback of our troop.<br />He is a little timid,and scared of new things.<br />He sometimes shows lovely behaviors that melt our hearts.<br />He is making efforts to be a good dad for his two sons.<br /><br />⭐️ゲンキ Genki ♀(1986/6/24)<br /><br />Genki was born at our zoo on Jun,24,1986.<br />After mating with several males without a pregnancy she found her perfect partner Momotaro.<br />Now she is a loving and caring mom for her two sons.<br />She sometimes behaves boldly,yet she can also be sensitive.<br />Genki has a cute face with shining eyes.<br /><br />⭐️ゲンタロウ Gentaro ♂(2011/12/21))<br /><br />Gentaro was born at our zoo on Dec.21,2011,as Momotaro and Genki's first son.<br />Unfortunately Genki didn't have enough milk,so he was nursed by keepers for his first 10.5 months.<br />Now he loves his mom,and his face really looks like her.<br />He also loves people .<br />Everyone immediately agrees that he is a very adorable boy.<br /><br />⭐️キンタロウ Kintaro ♂(2018/12/19)<br /><br />Kintaro was born at our zoo on Dec.19,2018.<br />He has big bright eyes and long eyebrows.<br />He is growing fine ,being loved by his parents and brother.<br />He love to play by himself,with his father.<br />He is still small, but smart and strong-willed.<br />His cute appearance and behavior attract everyone's interest.<br /><br /> #gorilla #ゴリラ #ゴリラ色の世界 #westernlowlandgorilla #ape #kyotocityzo{% endraw %}
