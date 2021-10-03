@@ -1,0 +1,15 @@
+---
+title: "Finishing Off Old Artwork {Preparing my Paintings to Sell}"
+image: "https:\/\/i.ytimg.com\/vi\/l50h2Sc0lZc\/hqdefault.jpg"
+vid_id: "l50h2Sc0lZc"
+categories: "Howto-Style"
+tags: ["Finishing Off Old Artwork","Paintings to Sell","sell on Etsy"]
+date: "2021-10-04T01:54:20+03:00"
+vid_date: "2021-10-03T15:07:30Z"
+duration: "PT10M14S"
+viewcount: "1527"
+likeCount: "173"
+dislikeCount: "0"
+channel: "Katie Jobling Art"
+---
+{% raw %}{PART 2 COMING THURSDAY!} Join me for a day in the studio as I am finishing off old artwork &amp; preparing my paintings to sell on Etsy. My new collection is being released 8th October and I have to sign all my paintings, hang backs on them &amp; varnish. Finishing off the sunset painting was so much fun and I'd love to know if you liked it to. Comment &amp; timestamp with your favourite painting from the collection!! <br /><br />☆ Support me on Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/katiejobling">https://www.patreon.com/katiejobling</a> ☆<br /><br />Lots of people ask me about signing my paintings. I usually use the same colours from the painting and pick one that would sit nicely in the corner. It's totally a personal choice and you can choose a colour that stands out against your painting, or find one that blends in so that it doesn't draw attention. I use a really tiny brush, probably the smallest you can find at the art store. TIP: If you have one that isn't quite small enough, you can give it a little trim (with scissors) at the sides to make the tip smaller. <br /><br />☆ Watch Next...<br />Acrylic Painting Tips: <a rel="nofollow" target="blank" href="https://youtu.be/g2HZw3V_Lxk">https://youtu.be/g2HZw3V_Lxk</a><br />10 Simple Oil Painting Tips: <a rel="nofollow" target="blank" href="https://youtu.be/0EggUKAT0cw">https://youtu.be/0EggUKAT0cw</a><br />How to be Authentic as an Artist: <a rel="nofollow" target="blank" href="https://youtu.be/ONQyUYkvudA">https://youtu.be/ONQyUYkvudA</a><br />Relaxing Painting Day: <a rel="nofollow" target="blank" href="https://youtu.be/pO2w8V2Oq4A">https://youtu.be/pO2w8V2Oq4A</a><br />How to Paint Florals: <a rel="nofollow" target="blank" href="https://youtu.be/K29NZMrCqB8">https://youtu.be/K29NZMrCqB8</a><br /><br />☆ My Painting Tutorials ☆<br /><a rel="nofollow" target="blank" href="https://goo.gl/1kK2bj">https://goo.gl/1kK2bj</a><br /><br />☆ Artwork for Sale ☆ <br /><a rel="nofollow" target="blank" href="https://www.etsy.com/uk/shop/KatieJobling">https://www.etsy.com/uk/shop/KatieJobling</a><br /><br />☆ Website ☆<br /> <a rel="nofollow" target="blank" href="http://www.katiejobling.com/">http://www.katiejobling.com/</a><br /><br />☆Come say hi☆<br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/katiejoblingart/">https://instagram.com/katiejoblingart/</a><br />Facebook:  <a rel="nofollow" target="blank" href="https://www.facebook.com/KatieLJobling">https://www.facebook.com/KatieLJobling</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/katiejoblingart">https://twitter.com/katiejoblingart</a><br /><br />Music - Epidemic Sound{% endraw %}
