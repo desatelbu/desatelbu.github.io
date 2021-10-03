@@ -1,0 +1,15 @@
+---
+title: "Yes Theory Editor Sells Out Concert With Fake Band"
+image: "https:\/\/i.ytimg.com\/vi\/J13aRi1rhms\/hqdefault.jpg"
+vid_id: "J13aRi1rhms"
+categories: "Music"
+tags: ["Yes Theory","Yes Theory Plus","Seek Discomfort"]
+date: "2021-10-03T21:59:04+03:00"
+vid_date: "2021-09-24T17:11:52Z"
+duration: "PT15M19S"
+viewcount: "176169"
+likeCount: "15216"
+dislikeCount: "80"
+channel: "Seek Discomfort"
+---
+{% raw %}Mystery packs now available at <a rel="nofollow" target="blank" href="https://www.seekdiscomfort.com/">https://www.seekdiscomfort.com/</a> <br /><br />Our editor Tristan created a Punk rock band in 7 days and sold out one of the most famous venues in the world The Whisky a GoGo.<br /><br />Stream the song in the video here: <a rel="nofollow" target="blank" href="https://distrokid.com/hyperfollow/peoplerugly/regrets">https://distrokid.com/hyperfollow/peoplerugly/regrets</a> <br /><br />Special thanks to Zak Dossi, Tj Genosky, and Bill Biers<br /><br />This is Yes Theory's 2nd channel! If you don't subscribe to our main channel check it out here: <a rel="nofollow" target="blank" href="https://www.youtube.com/yestheory">https://www.youtube.com/yestheory</a><br /><br />If you want to join the Yes Fam Facebook group which is 100,000+ of our most engaged and badass community members, you can apply here: <br /><a rel="nofollow" target="blank" href="https://www.facebook.com/groups/yesfam/">https://www.facebook.com/groups/yesfam/</a><br /><br />PERFECT ROYALTY FREE MUSIC FOR YOUTUBE: free 30 day trial here: <a rel="nofollow" target="blank" href="http://share.epidemicsound.com/wFFbr">http://share.epidemicsound.com/wFFbr</a> <br /><br />Musicbed has amazing montage and cinematic music:<br /><a rel="nofollow" target="blank" href="http://share.mscbd.fm/YesTheory">http://share.mscbd.fm/YesTheory</a><br /><br />For an amazing b-roll and footage library, checkout: <a rel="nofollow" target="blank" href="http://storyblocks.com/YesTheory">http://storyblocks.com/YesTheory</a><br /><br />Yes Theory Spotify Playlist: <br /><a rel="nofollow" target="blank" href="https://open.spotify.com/user/t-boogy...">https://open.spotify.com/user/t-boogy...</a><br /><br />Exclusive challenges on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/yestheory/">https://www.instagram.com/yestheory/</a><br /><br />Who are we? <br />We believe that life can be as fulfilling as you wish, so long as you're willing to seek discomfort. And we make videos about it.<br /><br />Business Inquiries: zack@yestheory.com<br />For community inquiries: hello@yestheory.com<br /><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/yestheory/">https://www.instagram.com/yestheory/</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/yestheory">https://twitter.com/yestheory</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/yestheory/">https://www.facebook.com/yestheory/</a><br />Join our texting community: +1 (323) 310-5420{% endraw %}
