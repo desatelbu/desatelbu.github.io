@@ -1,0 +1,15 @@
+---
+title: "Shortly - \"Dancer\" (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/svO4zHJHFTI\/hqdefault.jpg"
+vid_id: "svO4zHJHFTI"
+categories: "Music"
+tags: ["Shortly","\"Dancer\"","(Official"]
+date: "2021-10-04T07:12:43+03:00"
+vid_date: "2021-09-24T14:00:31Z"
+duration: "PT4M11S"
+viewcount: "2400"
+likeCount: "154"
+dislikeCount: "3"
+channel: "Triple Crown Records"
+---
+{% raw %}We're happy to bring you the official video for Shortly's &quot;Dancer,&quot; off her new full length of the same name. Get 'Dancer' here: smarturl.it/shortlymi<br /><br />Donate to benefit the Detroit-Windsor Dance Academy: <a rel="nofollow" target="blank" href="https://detroitwindsordance.networkforgood.com/projects/137355-support-the-arts-in-detroit">https://detroitwindsordance.networkforgood.com/projects/137355-support-the-arts-in-detroit</a><br /><br />Credits:<br />Produced By: Ugly Art<br />Director: Elijah Crawford<br />Producer: Josh Walker<br />Director of Photography: Zach Miscavage<br />Assistant Director: Zoe Nebraska<br />Styling: Sophia Grosshauser<br /> <br />Choreography: Detroit-Windsor Dance Academy<br />Elderly Woman: Debra White-Hunt<br />Young Dancer: Michelle Ware<br />Male Dancer: Demi Shields<br />Female Dancer: Micah Grant<br /> <br />Extras: <br />Usher: Alexandria Maniak<br />Impressed Attendee: Austin Stawowczyk<br />Also An Impressed Attendee: Kris Herrmann<br />Audience: Harry Wetzel<br />Quiet Man: Zayde Wagner<br />Standing Ovation: Alex Gene Sorenson<br />Audience: Jack Rossbach<br />Audience: Darcy Moran<br />Standing Ovation 2: Sarah Nedam<br /> <br />Location: Detroit Repertory Theatre<br /><br />Lyrics:<br />When I was seventeen <br />My best friend looked at me <br />Said Al, I got your back <br />But you gotta start eating <br />I lost myself in ’15 <br />To someone else’s driving <br />Didn’t make a big scene but <br />The road took a part of me from me <br />So what if we’re not afraid of living anymore It only means that we found something good to die for I’m a dancer, I know dancing <br />Like the back of my hand <br />I’m a dancer, Even if I can’t dance <br />Was thinking God can’t be real <br />But I’ve been crying wolf for a year <br />My friends are on drugs again <br />So stop complaining <br />But then God came to my bed <br />He put his foot down on my chest <br />And I never stood straight again <br />And I never stood straight again <br />And I never stood straight again <br />And I never stood straight again <br />So what if we’re not afraid of dying anymore It only means that we found something good to die for I’m a dancer, I know dancing <br />Like the back of my hand <br />I’m a dancer, I’m a dancer <br />Even if I can’t dance <br />I’m a dancer, I know dancing <br />Like the back of my hand, <br />Even if I can’t <br />Live and learn and give and take <br />No Fibonacci sequence <br />Fate is what you make of all your worst days I’m a dancer, I know dancing <br />Like the back of my hand <br />I’m a dancer, I’m a dancer <br />Even if I can’t dance <br />Even if I can’t dance <br />Even if I can’t dance <br />Even if I’m a dancer <br />Even if I can’t{% endraw %}
