@@ -1,0 +1,15 @@
+---
+title: "[VERIFIED] Graceful 100% by D a G (me) and many more! | MY HARDEST DEMON"
+image: "https:\/\/i.ytimg.com\/vi\/aUEiQXEYncc\/hqdefault.jpg"
+vid_id: "aUEiQXEYncc"
+categories: "Gaming"
+tags: ["[VERIFIED]","Graceful","more!"]
+date: "2021-10-04T20:13:23+03:00"
+vid_date: "2021-07-27T22:44:47Z"
+duration: "PT3M46S"
+viewcount: "50131"
+likeCount: "3304"
+dislikeCount: "42"
+channel: "D a G"
+---
+{% raw %}THIS WAS VERIFIED WITH THE LDM!!! <br />Here's the full detailed version recorded by @icedcave <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=HzymzN6UqU4&amp;lc=UgzFMOooCQ0x6pIudjR4AaABAg.9QM1RUydur69QM1bQPjHSp">https://www.youtube.com/watch?v=HzymzN6UqU4&amp;lc=UgzFMOooCQ0x6pIudjR4AaABAg.9QM1RUydur69QM1bQPjHSp</a><br /><br />I need to say something... Even tho this level may not look like much... it may just look like a random level you'd find in the magic tab... but this level has been my project for 3+ years and I am incredibly proud of it! I am so thankful for everyone who helped work on this years ago!<br /><br />I really wanna shoutout a few friends of mine cause I think they could use some more attention!<br /><br />Vaen: A really insane player that just recently beat Zodiac! <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC_IPAUhoUJwigHSOu4gpzcw">https://www.youtube.com/channel/UC_IPAUhoUJwigHSOu4gpzcw</a><br /><br />D3lteX: Del has been one of my best friends for as long as I've been on Discord! He's the one who thought of the name Graceful as well! He's an incredible player! <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC7xuHGj_N4F3KxYuYWUvjdg">https://www.youtube.com/channel/UC7xuHGj_N4F3KxYuYWUvjdg</a><br /><br />BGram: He's been trying to beat Zodiac recently and hes been making incredible progress super quickly! Also like Del, He's been one of my best friends for as long as I can remember! <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UClVbOx8fKcEozjR7rXfcsUA">https://www.youtube.com/channel/UClVbOx8fKcEozjR7rXfcsUA</a><br /><br />Zentraa: He's not really playing anything super hard anymore but Matt is incredible at GFX and I personally think he needs WAY more attention! (he also made the thumbnail for this video!) <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC3NDRFV3gq74mYQKAJmgfQg">https://www.youtube.com/channel/UC3NDRFV3gq74mYQKAJmgfQg</a><br /><br />and finally Player99: Player like the others has been an incredible friend through out the years and I really just wanna shoutout him out because of that! He's one of the nicest people I have ever met on the internet! <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCkM3JKoaghPJeigKzhNjDEw">https://www.youtube.com/channel/UCkM3JKoaghPJeigKzhNjDEw</a><br /><br />Thank you all so SO much! Much love to all of you ^^<br /><br />Level ID: 71885708<br /><br /><br />Uploaded on my GD account &quot;DaGYT&quot;<br /><br /><br />Total Attempts: 64,395<br /><br />Thumbnail by @Zentraa<br /><br />Song &quot;Squid Melody [Blue Version]&quot; by @The Living Tombstone{% endraw %}
