@@ -1,0 +1,15 @@
+---
+title: "UK truck crisis: Delivery shortages put Christmas at risk | DW News"
+image: "https:\/\/i.ytimg.com\/vi\/TeOvKxmBdFc\/hqdefault.jpg"
+vid_id: "TeOvKxmBdFc"
+categories: "News-Politics"
+tags: ["DW News"]
+date: "2021-10-04T15:33:08+03:00"
+vid_date: "2021-10-04T09:17:31Z"
+duration: "PT5M56S"
+viewcount: "19047"
+likeCount: "524"
+dislikeCount: "28"
+channel: "DW News"
+---
+{% raw %}Army tanker drivers are to start delivering fuel to filling stations in the UK. Many have run dry in a deepening supply crisis. The government insists it has a plan to end shortages of fuel and some foods, but admits it could be months before things get back to normal. Critics say Brexit is causing the chaos.<br />UK Prime Minister Boris Johnson is remaining defiant as he faces a supply chain crisis in the lead up to the Christmas season. In an address to party faithful he said he has a bold plan for a post-COVID recovery. But labor shortages across the UK are bringing logistics to a standstill, and leaving supermarket shelves empty. The army is to be deployed to shore up fuel supplies, after days of panic buying at the pumps.<br />Hauler David Zacchea points to all the trucks he's had to take off the road. He can't hire enough drivers to run them. <br />It's part of a wider supply chain crisis gripping the UK. The government says it will offer thousands of temporary visas so that foreign drivers can fill the gap. But business owners say it's like throwing a drop of water on a bonfire. <br />Driver's unions also say conditions on the job are so poor, it makes keeping staff difficult. <br />Business is now concerned that logistics for the Christmas season will suffer. Poultry farmers are experiencing labor shortages as well, saying people's Christmas turkeys are under threat. <br />Prime Minister Boris Johnson is trying to promote a sense of calm, saying it was all part of the plan for post-Brexit Britain. But it's doing little to sooth nerves. <br />Fears of shortages have led to panic buying at petrol stations. Many retailers say fuel levels are critically low. <br /><br /><br />Subscribe: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/deutschewelleenglish?sub_confirmation=1">https://www.youtube.com/user/deutschewelleenglish?sub_confirmation=1</a><br /><br />For more news go to: <a rel="nofollow" target="blank" href="http://www.dw.com/en/">http://www.dw.com/en/</a><br />Follow DW on social media:<br />►Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/deutschewellenews/">https://www.facebook.com/deutschewellenews/</a><br />►Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/dwnews">https://twitter.com/dwnews</a><br />►Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/dwnews">https://www.instagram.com/dwnews</a><br />Für Videos in deutscher Sprache besuchen Sie: <a rel="nofollow" target="blank" href="https://www.youtube.com/dwdeutsch">https://www.youtube.com/dwdeutsch</a><br /><br /><br />#GreatBritain #BorisJohnson #Brexit{% endraw %}
