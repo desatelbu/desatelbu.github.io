@@ -1,0 +1,15 @@
+---
+title: "Artificial Lust but Every Other Turn a Different Character Sings (FNF Artificial but Everyone Sings)"
+image: "https:\/\/i.ytimg.com\/vi\/wL8nwlkLYoM\/hqdefault.jpg"
+vid_id: "wL8nwlkLYoM"
+categories: "Gaming"
+tags: ["friday night funkin","fnf","friday night funkin mods"]
+date: "2021-10-04T03:01:25+03:00"
+vid_date: "2021-08-14T21:19:03Z"
+duration: "PT2M39S"
+viewcount: "4014546"
+likeCount: "79583"
+dislikeCount: "1788"
+channel: "Neonight"
+---
+{% raw %}In this Friday Night Funkin video you'll see Artificial Lust but every opponent's turn a different character sings it. Different characters sing this song from Starlight Mayhem Mod and every turn a different cover is used!<br /><br />Voicebanks:<br />GenoX - <a rel="nofollow" target="blank" href="https://github.com/GenoX-Fome/funkin-utau">https://github.com/GenoX-Fome/funkin-utau</a><br />Blantados - <a rel="nofollow" target="blank" href="https://github.com/Blantados/blantados-funkin-utau-main">https://github.com/Blantados/blantados-funkin-utau-main</a><br /><br />Mods used:<br />Starlight Mayhem Vs CJ - <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/287114">https://gamebanana.com/mods/287114</a><br />V.S. NekoFreak - <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/303864">https://gamebanana.com/mods/303864</a><br />VS. KAPI Arcade Showdown - <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/44683">https://gamebanana.com/mods/44683</a><br />Mii Funkin Vs. eteled - <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/313084">https://gamebanana.com/mods/313084</a><br />Friday Night Fever - <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/310465">https://gamebanana.com/mods/310465</a><br />VS. Bob &amp; Bosip - <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/297087">https://gamebanana.com/mods/297087</a><br />QT Mod - <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/299714">https://gamebanana.com/mods/299714</a><br />VS FLUFF - <a rel="nofollow" target="blank" href="https://gamebanana.com/wips/53965">https://gamebanana.com/wips/53965</a><br />Maginage Matches - <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/309419">https://gamebanana.com/mods/309419</a><br />Vs Matt - <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/44511">https://gamebanana.com/mods/44511</a><br /><br />Support the developers of Friday Night Funkin'<br /><a rel="nofollow" target="blank" href="https://ninja-muffin24.itch.io/funkin">https://ninja-muffin24.itch.io/funkin</a><br /><br />Not a FNF Artificial Lust But Everyone Sings It or Artificial Lust but Every Turn a Different Cover is Used, or any other video like that. This is my own FNF but Every Opponent's Turn a Different Character Sings It series, getting some inspiration from Blantados and SHAvibe.<br /><br />These covers were made with FL Studio with some help from PSI Gaming<br /><br />#FNF #FridayNightFunkin #StarlightMayhem{% endraw %}
