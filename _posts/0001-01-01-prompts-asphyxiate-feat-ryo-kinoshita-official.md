@@ -1,0 +1,15 @@
+---
+title: "Prompts - Asphyxiate feat. Ryo Kinoshita (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/sNnrLFP01Zo\/hqdefault.jpg"
+vid_id: "sNnrLFP01Zo"
+categories: "Music"
+tags: ["Prompts","Asphyxiate","feat."]
+date: "2021-10-05T09:19:43+03:00"
+vid_date: "2021-07-23T03:00:28Z"
+duration: "PT3M8S"
+viewcount: "100966"
+likeCount: "6128"
+dislikeCount: "60"
+channel: "Modern Empire Music"
+---
+{% raw %}Prompts - Asphyxiate feat. Ryo Kinoshita<br /><br />The Leash around our neck is what makes us asphyxiate<br /><br />Broken Bones Blinded Eyes<br />Everyone is looking at our fingertips<br /><br />Broken Bones Blinded Eyes<br />Count up the bodies that have fallen from your fingertips<br /><br />There's no such utopia in this madness<br /><br />Tell me how you do it, it's a matter of conscience, you don't seize<br />Monopolize, con-suming everything for yourself<br />You don't realize you're just a counterfeit<br />Don't try to mesmerize me<br />I can only taste the bitter(ness)<br /><br />You see the system<br />Only through the screen of prism<br />The way you seem to be locked in prison<br />Is why you can never be in position<br /><br />Pray for the plague yuh<br />Pray for the 부식된 패자의 밤<br />Covering your eye with them over the clouds<br />Distorted reality, Your feeling so proud<br /><br />The fear left inside<br />The scars you have made<br />(Are crawling up to the neck)<br /><br />The water rise up<br />Drag me down to deep<br />My eyes ears all shut<br />Constricting my breath<br /><br />You're fucking nothing<br />So don't you fucking threaten me<br /><br />Shattered<br /><br />The pieces on the ground<br />(Just look at the damage)<br />The hope in to banish<br /><br />Wake up<br />Sleep one eye open<br />The fear left inside<br />The scars you have made<br />Are crawling up to the neck<br /><br />Sleeping in silence, the death approach with violence<br /><br />There is no option you choose between the path<br />We will asphyxiate no matter what we choose<br /><br />The end we are going to, is the faith that we have chose<br />The polarization is what we have lead<br /><br />No<br /><br />Tortured, we suffocate / choke ourselves<br />Keep the stance we'll decay<br />Corrupting down asphyxiate<br /><br />Mixed/Mastered: Cody Stewart<br />Video Directed: THINGS.<br /><br />► Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/promptsofficial">https://www.facebook.com/promptsofficial</a><br />► Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/promptsofficial">https://instagram.com/promptsofficial</a><br />► Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/promptsofficial">https://twitter.com/promptsofficial</a><br />► Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl?si=KSpebuq7S26WLLLFVqPRng&amp;dl_branch=1">https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl?si=KSpebuq7S26WLLLFVqPRng&amp;dl_branch=1</a><br />► Website: <a rel="nofollow" target="blank" href="http://promptsofficial.com">http://promptsofficial.com</a><br /><br />■CONTACT<br />promptsofficial@gmail.com{% endraw %}
