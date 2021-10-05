@@ -1,0 +1,15 @@
+---
+title: "Biffy Clyro - Re-arrange (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/_DTmvMsEbE4\/hqdefault.jpg"
+vid_id: "_DTmvMsEbE4"
+categories: "Music"
+tags: ["Biffy","Clyro","Biffy Clyro"]
+date: "2021-10-05T17:17:21+03:00"
+vid_date: "2016-12-01T12:39:20Z"
+duration: "PT3M38S"
+viewcount: "9627596"
+likeCount: "53958"
+dislikeCount: "1965"
+channel: "Biffy Clyro"
+---
+{% raw %}Re-arrange is the 4th single to be taken from Biffy Clyro's album &quot;Ellipsis&quot;. Get your copy here: <a rel="nofollow" target="blank" href="https://wbr.ec/ellipsis_outnow">https://wbr.ec/ellipsis_outnow</a><br /><br />Subscribe to Biffy Clyro’s channel: <a rel="nofollow" target="blank" href="https://wbr.ec/biffyclyro_yt">https://wbr.ec/biffyclyro_yt</a><br />Watch Biffy Clyro’s videos: <a rel="nofollow" target="blank" href="https://wbr.ec/bc_ytvideos">https://wbr.ec/bc_ytvideos</a><br /><br />Follow Biffy Clyro<br />Website – <a rel="nofollow" target="blank" href="https://wbr.ec/bc_website">https://wbr.ec/bc_website</a><br />Facebook – <a rel="nofollow" target="blank" href="https://wbr.ec/biffyclyro_facebook">https://wbr.ec/biffyclyro_facebook</a><br />Twitter – <a rel="nofollow" target="blank" href="https://wbr.ec/biffyclyro_twitter">https://wbr.ec/biffyclyro_twitter</a><br />Instagram – <a rel="nofollow" target="blank" href="https://wbr.ec/biffyclyro_instagram">https://wbr.ec/biffyclyro_instagram</a><br />Soundcloud – <a rel="nofollow" target="blank" href="https://wbr.ec/biffyclyro_soundcloud">https://wbr.ec/biffyclyro_soundcloud</a><br />Spotify – <a rel="nofollow" target="blank" href="https://wbr.ec/biffyclyro_spotify">https://wbr.ec/biffyclyro_spotify</a><br /><br />Lyrics:<br />I got a lot of love<br />And I got a lot of ways to show it<br />But you should know by now that I'm broken<br />And I need your help<br />I wrote a hundred songs<br />To make sense of the meaningless<br />I'll unwrite them all if you help me clear up this mess<br /><br />'Cause I would never break your heart<br />I would only rearrange<br />All the other working parts, will stay in place<br />Listen to me when I say,<br />&quot;Darling you're my everything.&quot;<br />I didn't mean to hesitate<br />Please stay with me<br /><br />I got a lot of rage<br />And I'm struggling with ways to control it<br />When I wake in the morning<br />I've forgotten what it is to cope<br />I scratch at my eyes<br />And it renders me visionless<br />Even in the dark<br />What I want isn't what I need<br /><br />'Cause I would never break your heart<br />I would only rearrange<br />All the other working parts, will stay in place<br />Listen to me when I say,<br />&quot;Darling you're my everything.&quot;<br />I didn't mean to hesitate<br />Please stay with me<br />With me...<br /><br />'Cause I would never break your heart<br />I would only rearrange<br />All the other working parts, will stay in place<br />Listen to me when I say,<br />&quot;Darling you're my everything.&quot;<br />I didn't mean to hesitate<br />Please stay with me<br />With me...{% endraw %}
