@@ -1,0 +1,15 @@
+---
+title: "Crazy NFT Project Set To Explode!! | Mutant Cats NFT Review"
+image: "https:\/\/i.ytimg.com\/vi\/GLTkxacfyC8\/hqdefault.jpg"
+vid_id: "GLTkxacfyC8"
+categories: "Education"
+tags: ["NFT Investing","NFT Projects","Crazy NFT Project Set To Explode"]
+date: "2021-10-06T10:46:35+03:00"
+vid_date: "2021-10-05T22:48:56Z"
+duration: "PT7M16S"
+viewcount: "145"
+likeCount: "8"
+dislikeCount: "0"
+channel: "Mint Hustle"
+---
+{% raw %}Hey YouTube! <br /><br />Today I want to review a really interesting and speculative NFT project that has the potential to make massive crazy gains!<br /><br />This project is Mutant Cats… and if they are able to successfully implement all of their plans then I truly believe this project has the potential to explode and follow the path of Cool Cats NFT.<br /><br />Mutant Cats is a Community-Led DAO (Decentralized Autonomous Organization) Project whose sole purpose is to obtain various Cool Cat NFTs and fractionalize these NFTs for the mutant cat holders. This will provide passive income to its holders in the form of $FISH tokens which can then be sold on the secondary market for profit. This is only completed by successfully staking your Mutant Cat NFT which will lock up the supply of this project, therefore organically increasing demand and price over time. <br /><br />Cool Cats NFT has achieved mass success and adoption in the NFT space and is highly regarded as a Blue Chip. Although this project has no direct ties to Cool Cats, they offer new users the opportunity to buy into the Cool Cats basket without having a large amount of capital. As of this video recording, the Cool Cats price is 14 ETH (~$14,000) while these Mutant Cats are sitting at a .33 ETH price point with an original NFT Mint Price of .2 ETH. Already a 100% return from Mint!<br /><br />This NFT Gem gives you the opportunity to passively earn money with Mutant Cats through the appreciation of Cool Cats while also potentially appreciating in value itself.<br /><br />This is a speculative play so please DYOR before Investing in NFTS!!<br /><br />All of the Project Related Links can be found below:<br /><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/mutantcats">https://twitter.com/mutantcats</a><br />Discord: <a rel="nofollow" target="blank" href="https://discord.com/invite/mutants">https://discord.com/invite/mutants</a><br />Website: <a rel="nofollow" target="blank" href="https://www.mutantcats.io/">https://www.mutantcats.io/</a><br />OpenSea: <a rel="nofollow" target="blank" href="https://opensea.io/collection/mutantcats">https://opensea.io/collection/mutantcats</a><br /><br /><br />Disclaimer: This is not financial advice. You are responsible for your own risks when dealing with cryptocurrency and investments. Do not invest if you fear to lose income. I highly recommend you do your own Due Diligence. I am not telling you nor asking you to put any type of fiat or money in any type of investment. This video is for entertainment purposes only.{% endraw %}
