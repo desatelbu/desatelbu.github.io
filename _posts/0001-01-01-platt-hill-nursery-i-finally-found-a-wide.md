@@ -1,0 +1,15 @@
+---
+title: "Platt Hill Nursery | I finally found a wide selection of houseplants"
+image: "https:\/\/i.ytimg.com\/vi\/GPkkksPSjVI\/hqdefault.jpg"
+vid_id: "GPkkksPSjVI"
+categories: "Entertainment"
+tags: ["platt hill nursery","grow with me","plants"]
+date: "2021-10-06T09:00:23+03:00"
+vid_date: "2021-08-16T12:00:06Z"
+duration: "PT7M54S"
+viewcount: "1041"
+likeCount: "203"
+dislikeCount: "0"
+channel: "My Clean Leaves"
+---
+{% raw %}Platt Hill Nursery | I finally found a wide selection of houseplants <br /><br />Platt Hill: <a rel="nofollow" target="blank" href="https://www.platthillnursery.com/">https://www.platthillnursery.com/</a><br /><br /><br />MY SECOND CHANNEL:  <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCIrOErjUg8QFhvdkWz5NzNw">https://www.youtube.com/channel/UCIrOErjUg8QFhvdkWz5NzNw</a><br />PODCAST 'POTTED TOGETHER' CHANNEL: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC2MSqbBCcshc3gCdVuA4DIQ">https://www.youtube.com/channel/UC2MSqbBCcshc3gCdVuA4DIQ</a><br />JAYS CHANNEL: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCadaFuiiS9ylKFj3F3VdYsw">https://www.youtube.com/channel/UCadaFuiiS9ylKFj3F3VdYsw</a><br /><br />FOLLOW ME ~<br />INSTAGRAM PLANTS- <a rel="nofollow" target="blank" href="https://www.instagram.com/mycleanleaves/?hl=en">https://www.instagram.com/mycleanleaves/?hl=en</a><br />INSTAGRAM PODCAST- <a rel="nofollow" target="blank" href="https://www.instagram.com/pottedtogether/?hl=en">https://www.instagram.com/pottedtogether/?hl=en</a><br />INSTAGRAM COOKING - <a rel="nofollow" target="blank" href="https://www.instagram.com/nicolescleankitchen/?hl=en">https://www.instagram.com/nicolescleankitchen/?hl=en</a><br />INSTAGRAM PHOTOS - <a rel="nofollow" target="blank" href="https://www.instagram.com/thestilllifephotos/?hl=en">https://www.instagram.com/thestilllifephotos/?hl=en</a><br />PINTEREST - <a rel="nofollow" target="blank" href="https://www.pinterest.com/cleanleaves/_created/">https://www.pinterest.com/cleanleaves/_created/</a><br />FACEBOOK - <a rel="nofollow" target="blank" href="https://www.facebook.com/My-Clean-Leaves-110405174208642">https://www.facebook.com/My-Clean-Leaves-110405174208642</a><br /><br />JOIN MY CHANNEL -<a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCb2R0_AF1HE1b0YGG9eMM-w/join">https://www.youtube.com/channel/UCb2R0_AF1HE1b0YGG9eMM-w/join</a><br /><br />MCL MERCH - <a rel="nofollow" target="blank" href="https://www.etsy.com/shop/MyCleanLeaves?ref=seller-platform-mcnav">https://www.etsy.com/shop/MyCleanLeaves?ref=seller-platform-mcnav</a><br /><br />AMAZON STORE - <a rel="nofollow" target="blank" href="https://www.amazon.com/shop/mycleanleaves">https://www.amazon.com/shop/mycleanleaves</a><br />(Affiliate links) <br /><br /><br />GET IN TOUCH!<br />Nicole Dugger<br />PO BOX 56922<br />Chicago IL 60656<br /><br />EMAIL - cleanleaves83@aol.com <br /><br />MUSIC IN VIDEO - <a rel="nofollow" target="blank" href="https://www.epidemicsound.com/">https://www.epidemicsound.com/</a>{% endraw %}
