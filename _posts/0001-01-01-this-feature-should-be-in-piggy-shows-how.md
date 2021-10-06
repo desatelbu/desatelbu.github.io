@@ -1,0 +1,15 @@
+---
+title: "THIS Feature Should Be in PIGGY [Shows How Many Events Left To Escape]  Roblox Piggy"
+image: "https:\/\/i.ytimg.com\/vi\/1zgE63XSk64\/hqdefault.jpg"
+vid_id: "1zgE63XSk64"
+categories: "Gaming"
+tags: ["How to get more candies in piggy the haunting season","Piggy Build Mode Halloween","Piggy Season 2"]
+date: "2021-10-06T15:06:16+03:00"
+vid_date: "2021-10-05T15:00:01Z"
+duration: "PT17S"
+viewcount: "3593"
+likeCount: "119"
+dislikeCount: "8"
+channel: "Magck_C"
+---
+{% raw %}Piggy is a Roblox game developed by MiniToon. This video is a concept for a small feature that shows how many events left to do for escaping. This feature is not in the game. Please leave a like and subscribe!<br /><br />✅ Help me reach 5K subscribers: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCsL2vVKI4-3sq2ceaITYdbw?sub_confirmation=1">https://www.youtube.com/channel/UCsL2vVKI4-3sq2ceaITYdbw?sub_confirmation=1</a><br />🔔 Turn on notifications so you won’t miss any videos! <br />👍 Don't forget to LIKE the video!<br />                           ---Socials---<br />❤ Official Discord Server ❤: <a rel="nofollow" target="blank" href="https://discord.gg/B4vmHRC7NU">https://discord.gg/B4vmHRC7NU</a><br />🔥 Follow me on Twitter  : <a rel="nofollow" target="blank" href="https://twitter.com/Magck_C">https://twitter.com/Magck_C</a> <br />✔ Roblox profile ✔ : <a rel="nofollow" target="blank" href="https://www.roblox.com/users/1833279663/profile">https://www.roblox.com/users/1833279663/profile</a><br /><br />What is Roblox? Roblox is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on Roblox is designed and constructed by members of the community. Each player starts by choosing an avatar and giving it an identity. They can then explore Roblox — interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own piece of undeveloped real estate along with a virtual toolbox with which to design and build anything — be it a navigable skyscraper, a working helicopter, a giant pinball machine, a multiplayer “Capture the Flag” game or some other, yet-to-be-dreamed-up creation. There is no cost for this first plot of virtual land. By participating and by building cool stuff, Roblox members can earn specialty badges as well as Roblox dollars (“Robux”). In turn, they can shop the online catalog to purchase avatar clothing and accessories as well as premium building materials, interactive components, and working mechanisms. <br />#Magck #Piggy #RobloxPiggy #PiggyRoblox #PiggyBuildMode #MiniToon #RobloxPiggyBook2 #PiggyHaunting #PiggySkins #PiggyConcepts  #PiggyEscape #PiggySuggestions #PiggyFeatures #PiggyBook2Chapter12 #BuildMode #PiggyBook2 #PiggyIntercity<br />“Remember to subscribe the hit button”<br />                                                      - Magck <br />I see ya down here :){% endraw %}
