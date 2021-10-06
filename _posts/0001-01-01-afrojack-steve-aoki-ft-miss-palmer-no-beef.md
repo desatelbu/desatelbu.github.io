@@ -1,0 +1,15 @@
+---
+title: "Afrojack & Steve Aoki ft Miss Palmer - No Beef (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/LWlmVW3xWM4\/hqdefault.jpg"
+vid_id: "LWlmVW3xWM4"
+categories: "Entertainment"
+tags: ["Afrojack","wall","recordings"]
+date: "2021-10-06T11:33:45+03:00"
+vid_date: "2011-08-10T13:24:48Z"
+duration: "PT5M34S"
+viewcount: "81184458"
+likeCount: "551467"
+dislikeCount: "21889"
+channel: "Spinnin' Records"
+---
+{% raw %}Watch Afrojack and Steve Aoki go crazy in Las Vegas in the official video of 'No Beef'! Subscribe to Spinnin' TV : <a rel="nofollow" target="blank" href="http://bit.ly/Subscribe2YT">http://bit.ly/Subscribe2YT</a><br /><br />Spotify: <a rel="nofollow" target="blank" href="http://bit.ly/SpinninSpotify">http://bit.ly/SpinninSpotify</a><br />G+ : <a rel="nofollow" target="blank" href="https://www.google.com/+spinninrecords">https://www.google.com/+spinninrecords</a><br />Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/SpinninRecords">http://facebook.com/SpinninRecords</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/SpinninRecords">http://twitter.com/SpinninRecords</a><br /><br />Cameos by Lil Jon, Flo Rida, Chuck Liddell, Holly Madison, Antonio Esfendiari, Phil Laak the Unabomber, The Grinder Mizrachi, Dan Fleyshman, Jesse Waits, Las Vegas, XS Night CLub, Encore Beach Club, Insert Coin(s) LV<br /><br />More Info: www.afrojack.com | www.steveaoki.com<br /><br />Released by Wall / Dim Mak<br /><br />Directed By Punit Dhesi<br />Produced by Nima and Kam<br />---<br /><br />The Spinnin’ Records YouTube channel is the home for all music videos of the world’s leading dance record label!<br /><br />We feature the latest music videos by Spinnin’ artists like Oliver Heldens, Sam Feldt, KSHMR, Ummet Ozcan, Blasterjaxx, Merk &amp; Kremont, Timmy Trumpet, Tujamo, Alok, Curbi, Mike Williams, Lucas &amp; Steve and many, many more! Expect daily uploads of official music videos, lyric videos and artwork videos across genres like dance, house, electro house, future house, deep house, big room and trap.<br /><br />Make sure to subscribe to Spinnin' Records: <a rel="nofollow" target="blank" href="http://bit.do/spinnintv">http://bit.do/spinnintv</a> <br />..and turn on notifications to stay updated with all new uploads!🔔<br /><br />Follow Spinnin’ Records:<br /><a rel="nofollow" target="blank" href="https://open.spotify.com/user/spinninrecordsofficial">https://open.spotify.com/user/spinninrecordsofficial</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/spinninrecords">https://soundcloud.com/spinninrecords</a><br /><a rel="nofollow" target="blank" href="https://facebook.com/SpinninRecords">https://facebook.com/SpinninRecords</a><br /><a rel="nofollow" target="blank" href="https://instagram.com/spinninrecords">https://instagram.com/spinninrecords</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/SpinninRecords">https://twitter.com/SpinninRecords</a><br /><a rel="nofollow" target="blank" href="https://spinninrecords.com">https://spinninrecords.com</a>{% endraw %}
