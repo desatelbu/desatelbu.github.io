@@ -1,0 +1,15 @@
+---
+title: "This Japanese Bike Took Down Harley-Davidson | Up to Speed"
+image: "https:\/\/i.ytimg.com\/vi\/6MaUi4OWQ9s\/hqdefault.jpg"
+vid_id: "6MaUi4OWQ9s"
+categories: "Autos-Vehicles"
+tags: ["Kawasaki Ninja","Kawasaki","Ninja"]
+date: "2021-10-07T11:59:43+03:00"
+vid_date: "2021-09-02T16:00:04Z"
+duration: "PT25M36S"
+viewcount: "1345465"
+likeCount: "74190"
+dislikeCount: "956"
+channel: "Donut Media"
+---
+{% raw %}Thanks to CarParts.com for sponsoring today’s episode. Click here <a rel="nofollow" target="blank" href="https://bit.ly/Carparts2">https://bit.ly/Carparts2</a> to check out their massive inventory of car parts.<br /><br />Motorcycles: the rebel’s vehicle of choice. For the longest time those motorcycles were Harley-Davidsons. But by the ‘80s Harleys had lost their edge, and motorcycles as a whole were hemorrhaging cool. Then Tom Cruise raced a fighter jet on a new bike called “Ninja” in the biggest movie of 1986, and everything changed. The Kawasaki Ninja made motorcycles cool again through a combination of advanced engineering, aggressive design, and killer branding. This two-wheeled speed demon kick-started the sportbike segment, and spurred an intense battle for the title “Fastest Motorcycle in the World” that continues today. Join James Pumphrey for a face-melting ride into the history of the world’s most famous sportbike, the Kawasaki Ninja!<br /><br />Big ups to Bridget Davies for absolutely crushing this episode. So stoked to have her back on team UTS. Follow her on Instagram for a lot of water-cooled Volkswagen content. @bridgetinabox <br /><br />Thanks to Megan Stump for the incredible, ridiculous “King Hog” and “Ninja Stepdad” animations. Check out more of her work at <a rel="nofollow" target="blank" href="https://www.megantstump.com">https://www.megantstump.com</a><br /><br />High-five to Raghav Arumugam for the hilarious Ninja boardroom animation. Check his YouTube channel for more: <a rel="nofollow" target="blank" href="https://www.youtube.com/ragsanimations">https://www.youtube.com/ragsanimations</a> <br /><br /><br />New to the Channel? <br />►Watch this: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLFl907chpCa42gkh1oJxuJBN0cZ4YT1HT">https://www.youtube.com/playlist?list=PLFl907chpCa42gkh1oJxuJBN0cZ4YT1HT</a><br /><br />We upload almost every day, subscribe so you don't miss out!<br />►Subscribe here: <a rel="nofollow" target="blank" href="http://bit.ly/1JQ3qvO">http://bit.ly/1JQ3qvO</a><br /><br />Click here for more info on joining the Donut Underground!<br />►<a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCL6JmiMXKoXS6bpP1D3bk8g/join">https://www.youtube.com/channel/UCL6JmiMXKoXS6bpP1D3bk8g/join</a><br /><br />Shop Donut Merch: <br />►<a rel="nofollow" target="blank" href="http://www.donut.media/">http://www.donut.media/</a><br /><br />Donut Media is at the center of digital media for the next generation of automotive and motorsports enthusiasts. We are drivers, drifters, and car enthusiasts who love to tell stories.{% endraw %}
