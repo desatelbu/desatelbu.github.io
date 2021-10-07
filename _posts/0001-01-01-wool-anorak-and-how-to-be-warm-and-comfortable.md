@@ -1,0 +1,15 @@
+---
+title: "Wool Anorak And How To Be Warm And Comfortable With Wool"
+image: "https:\/\/i.ytimg.com\/vi\/v8xibDwao9Y\/hqdefault.jpg"
+vid_id: "v8xibDwao9Y"
+categories: "Howto-Style"
+tags: ["Survival Russia","Wool Anorak","Extreme Cold Weather Wool Suit"]
+date: "2021-10-07T22:10:22+03:00"
+vid_date: "2018-02-04T17:21:09Z"
+duration: "PT13M25S"
+viewcount: "46176"
+likeCount: "2712"
+dislikeCount: "17"
+channel: "Survival Russia"
+---
+{% raw %}- Wool Anorak, And How To Stay Warm And Comfortable With Wool Clothing.<br />How Can I Support Survival-Russia? <br />Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/SurvivalRussia">https://www.patreon.com/SurvivalRussia</a><br />PayPal:   <a rel="nofollow" target="blank" href="https://www.paypal.me/SuRussiaSupport">https://www.paypal.me/SuRussiaSupport</a><br />Stuck In The Forest Video: <a rel="nofollow" target="blank" href="https://youtu.be/HGOPvW5iL6s">https://youtu.be/HGOPvW5iL6s</a><br />Link To Wool Suit: <a rel="nofollow" target="blank" href="http://www.sukonka.com/en/">http://www.sukonka.com/en/</a><br />My Favorite Brands and Online Shops<br />Varusteleka: <a rel="nofollow" target="blank" href="https://www.varusteleka.com/en/">https://www.varusteleka.com/en/</a><br />Silky Saws: <a rel="nofollow" target="blank" href="https://www.silky-europe.com/">https://www.silky-europe.com/</a><br />Hybridlight: <a rel="nofollow" target="blank" href="http://hybridlight.com/">http://hybridlight.com/</a><br />Russian Sites<br />Siberian Boots and Skis: <a rel="nofollow" target="blank" href="http://tropa42.ru/">http://tropa42.ru/</a><br />Russian Military Gear and Gorka: <a rel="nofollow" target="blank" href="http://sso-mil.ru/">http://sso-mil.ru/</a><br />►Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/Survival-Russia-1601483956731312">https://www.facebook.com/Survival-Russia-1601483956731312</a><br />-►Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/survivalrussia/">https://www.instagram.com/survivalrussia/</a><br />-►Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/SurvivalRussia">https://twitter.com/SurvivalRussia</a><br />-►MyBlog: <a rel="nofollow" target="blank" href="http://survival-russia.blogspot.ru/">http://survival-russia.blogspot.ru/</a><br />-►Subscribe: <a rel="nofollow" target="blank" href="http://www.youtube.com/subscription_center?add_user=Moscowprepper">http://www.youtube.com/subscription_center?add_user=Moscowprepper</a><br />The Survival Russia Channel is about &quot;The Reality Of Survival&quot;. I live on a Homestead in far away Russian wild nature. Here is no room for &quot;TV&quot; Survival.<br />Only Reality counts here. Survival Russia promotes the philosophy of always carrying equipment and never to be parted from equipment which will affect chances of Survival.<br />So did the old timers and pioneers of both the East and the West. <br />Get Out and Train and Get it Done! <br />All Content On The Survival-Russia Channel is Reserved and Copyrighted By: Survival Russia <br />Regards, Lars{% endraw %}
