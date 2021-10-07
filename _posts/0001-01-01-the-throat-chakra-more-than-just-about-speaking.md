@@ -1,0 +1,15 @@
+---
+title: "The Throat Chakra: More Than Just About Speaking Your Truth | Chakra Tips"
+image: "https:\/\/i.ytimg.com\/vi\/WSkY0LsdE50\/hqdefault.jpg"
+vid_id: "WSkY0LsdE50"
+categories: "Education"
+tags: ["throat chakra","chakra tips","sonia choquette"]
+date: "2021-10-08T01:08:24+03:00"
+vid_date: "2021-07-12T16:00:10Z"
+duration: "PT15M20S"
+viewcount: "252056"
+likeCount: "22003"
+dislikeCount: "158"
+channel: "Sonia Choquette"
+---
+{% raw %}This week Sonia Choquette shares one of her chakra tips surrounding the throat chakra. It's more than just speaking your truth!<br />✅ Consult your guides free now! 👉 <a rel="nofollow" target="blank" href="https://soniachoquette.net/card-pick/">https://soniachoquette.net/card-pick/</a><br /><br />The throat chakra is an energy empowerment center. When it's open and balanced you not only are able to express what is authentically in your heart and what is genuinely true for you, but you also have the capacity to hear and tune in accurately to vibrations in what you're hearing from other people... <br /><br />Follow Sonia! <br />Website 👉 <a rel="nofollow" target="blank" href="https://soniachoquette.net/">https://soniachoquette.net/</a><br />Youtube 👉 <a rel="nofollow" target="blank" href="https://www.youtube.com/c/SoniaChoquette">https://www.youtube.com/c/SoniaChoquette</a><br />Instagram 👉 <a rel="nofollow" target="blank" href="https://www.instagram.com/soniachoque...">https://www.instagram.com/soniachoque...</a><br />Facebook 👉 <a rel="nofollow" target="blank" href="https://www.facebook.com/TrustYourVibes/">https://www.facebook.com/TrustYourVibes/</a><br />Podcast 👉 <a rel="nofollow" target="blank" href="https://soniachoquette.net/podcast/">https://soniachoquette.net/podcast/</a><br />---------<br /><br />Sonia Choquette is a globally celebrated and dynamic spiritual teacher, six-sensory consultant, enchanting storyteller, and transformational visionary guide, known for her delightful humor and skill in quickly shifting people out of difficulty and into flow. She is the author of 19 international bestselling books on intuitive awakening, personal growth, creativity, and transformational leadership including the New York Times bestseller &quot;The Answer is Simple.&quot;<br /><br />Sonia is inspiring a global conscious movement around the truth that &quot;We, as humans, are Divine Beings endowed with SIX senses to guide us through life&quot; and insists that we must activate and rely on our innate sixth sense in order to make the most authentic, well-informed, healthy, and soul satisfying decisions possible. <br /><br />00:00 - Intro <br />00:45 - What is the Throat Chakra?<br />01:22 - Hearing Vibrations with the Throat Chakra<br />02:00 - Knowing if someone is telling the truth with your Throat Chakra <br />03:00 - The Throat Chakra is a power center for intuition <br />04:35 - Symptoms of a closed Throat Chakra<br />07:10 - What blocks the Throat Chakra and how to clear it?<br />12:54 - Benefits of an open Throat Chakra<br /><br />#ThroatChakra #ChakraTips #SoniaChoquette{% endraw %}
