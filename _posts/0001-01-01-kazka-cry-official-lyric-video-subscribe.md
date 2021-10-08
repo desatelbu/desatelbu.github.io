@@ -1,0 +1,15 @@
+---
+title: "Kazka - Cry - Official Lyric Video"
+image: "https:\/\/i.ytimg.com\/vi\/ELQNNpiE6Jo\/hqdefault.jpg"
+vid_id: "ELQNNpiE6Jo"
+categories: "Music"
+tags: ["kazka cry","cry kazka","cry lyrics"]
+date: "2021-10-08T19:58:32+03:00"
+vid_date: "2018-12-21T19:00:01Z"
+duration: "PT3M54S"
+viewcount: "10408812"
+likeCount: "62442"
+dislikeCount: "1338"
+channel: "PanikRecordsTube"
+---
+{% raw %}Subscribe: <a rel="nofollow" target="blank" href="http://bit.ly/SubscribePanikRecordsTube">http://bit.ly/SubscribePanikRecordsTube</a><br />Buy/Stream here:<br />iTunes: <a rel="nofollow" target="blank" href="https://apple.co/2k16nHm">https://apple.co/2k16nHm</a><br />Spotify: <a rel="nofollow" target="blank" href="https://spoti.fi/2kyyZbl">https://spoti.fi/2kyyZbl</a><br />Deezer: <a rel="nofollow" target="blank" href="http://bit.ly/2m3odu5">http://bit.ly/2m3odu5</a><br />Google Play: <a rel="nofollow" target="blank" href="http://bit.ly/2k3jIix">http://bit.ly/2k3jIix</a><br /><br />Watch more New Panik Hits: <a rel="nofollow" target="blank" href="http://bit.ly/PanikNewHits">http://bit.ly/PanikNewHits</a><br /><br />International hits brought to you by Panik Records on Spotify: <a rel="nofollow" target="blank" href="http://bit.ly/PanikWorld">http://bit.ly/PanikWorld</a> <br /><br />ENTER THE PANIK WORLD<br /><a rel="nofollow" target="blank" href="http://bit.ly/PanikRecords_Website">http://bit.ly/PanikRecords_Website</a><br /><a rel="nofollow" target="blank" href="http://bit.ly/PanikRecords_Facebook">http://bit.ly/PanikRecords_Facebook</a><br /><a rel="nofollow" target="blank" href="http://bit.ly/PanikRecords_YouTube">http://bit.ly/PanikRecords_YouTube</a><br /><a rel="nofollow" target="blank" href="http://bit.ly/PanikRecords_Twitter">http://bit.ly/PanikRecords_Twitter</a><br /><a rel="nofollow" target="blank" href="http://bit.ly/PanikRecords_Instagram">http://bit.ly/PanikRecords_Instagram</a><br /><br /><br />Kazka - Cry<br />Music - Production: Ignatchenko Andrii, Yermolaiev Serhii<br />Lyrics: Laura White<br /><br />Στίχοι/Lyrics:<br />v1<br />What do you see? if i escape will i be saved?<br />can't estimate when you'll fade, tell me i can't wait <br />I'm learning fast i can't turn back <br />i died a million times when you left when you said goodbye <br /><br />v2 <br />what do you see, can you speak will i be saved?<br />my hearts on ice can't think twice tell me why oh why<br />i'm Falling fast stuck in the past <br />i try and understand it hurts so bad how long will it last? <br /><br />Chorus <br />I'm flying through the storms<br />the answer is in the sky <br />that 'everything i am is because of you' <br />but i know i won't die <br />i'll live without your love <br />i take back every word, <br />every woman’s tears<br /><br />V3<br />What do you feel? say it loud, speak into my soul <br />'a winters day never fades' that's what i was told<br />i lost myself without your help<br />i fell straight back to hell or is it heaven? maybe, i don't know? <br /><br />chorus<br /><br />© 2018 PANIK RECORDS under exclusive license by mamamusic<br />Kazka - Cry - Official Lyric Video 2018{% endraw %}
