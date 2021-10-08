@@ -1,0 +1,15 @@
+---
+title: "Can You Truly ‘Grow Up’ Without Having Kids?"
+image: "https:\/\/i.ytimg.com\/vi\/_fywhSphYo0\/hqdefault.jpg"
+vid_id: "_fywhSphYo0"
+categories: "Education"
+tags: ["Matthew Hussey","Matt Hussey","Get The Guy"]
+date: "2021-10-08T15:40:12+03:00"
+vid_date: "2021-09-25T11:45:01Z"
+duration: "PT14M32S"
+viewcount: "37113"
+likeCount: "2118"
+dislikeCount: "31"
+channel: "Matthew Hussey"
+---
+{% raw %}►► Ready for a Fresh Start in Your Love Life?<br />Download Your FREE Guide to Learn the 3 Simple Secrets. . . <br />→ <a rel="nofollow" target="blank" href="http://www.3SecretstoLove.com">http://www.3SecretstoLove.com</a><br /><br />▼<br />Don’t Miss Out! Subscribe to my YouTube channel now.<br />I post new love life advice for you every weekend.<br /><br />▼<br />I was recently watching Jordan and Mikhaila Peterson chatting with Russell Brand, and I heard Jordan say something that caught my attention. He said, “I don’t think it’s possible to grow up without having children.”<br /> <br />It’s an interesting statement. And I know it’s the sort of statement that produces an instant emotional reaction in people. It will create one reaction in people who have children, another in people who have chosen not to, another in people who want them but haven’t had them yet, and another still in those who desperately wanted them and never had them.<br /><br />In this new video, we tackle questions like:<br /> <br />• Is someone else really “further ahead” in life if they’re in a relationship, are married, or have kids?<br />• How should you feel if you’ve chosen (or ended up on) a different path?<br />• Is there a mindset that can help when friends or family members pressure you or make you feel deficient?<br /> <br />I’d love it if you left me a comment with your thoughts. I’m here for the discussion, friends.<br /><br /><br />►► FREE download: “9 Texts No Man Can Resist” → <a rel="nofollow" target="blank" href="http://www.9texts.com">http://www.9texts.com</a><br /><br />►► FREE download: “5 Compliments to Get Him Addicted to You” → <a rel="nofollow" target="blank" href="http://www.SayThisToHim.com">http://www.SayThisToHim.com</a><br /><br /><br />▼ Get My Latest Dating Tips and Connect With Me… ▼<br /><br />Blog → <a rel="nofollow" target="blank" href="https://www.howtogettheguy.com/blog/">https://www.howtogettheguy.com/blog/</a><br /><br />Facebook → <a rel="nofollow" target="blank" href="https://facebook.com/CoachMatthewHussey">https://facebook.com/CoachMatthewHussey</a><br /><br />Instagram → <a rel="nofollow" target="blank" href="https://www.instagram.com/thematthewhussey">https://www.instagram.com/thematthewhussey</a><br /><br />Twitter → <a rel="nofollow" target="blank" href="https://twitter.com/matthewhussey">https://twitter.com/matthewhussey</a><br /><br />▼ Connect with Stephen ▼<br /><br />Youtube → <a rel="nofollow" target="blank" href="https://bit.ly/StephenHusseyYoutube">https://bit.ly/StephenHusseyYoutube</a><br /><br />Instagram → <a rel="nofollow" target="blank" href="http://bit.ly/StephenHusseyIG">http://bit.ly/StephenHusseyIG</a>{% endraw %}
