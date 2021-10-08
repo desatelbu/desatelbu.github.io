@@ -1,0 +1,15 @@
+---
+title: "Using a Weird Rare NIGHT VISION LENS for Astonishing Portraits"
+image: "https:\/\/i.ytimg.com\/vi\/p4Op0l_a6B0\/hqdefault.jpg"
+vid_id: "p4Op0l_a6B0"
+categories: "Science-Technology"
+tags: ["Using","Weird","NIGHT"]
+date: "2021-10-08T11:31:37+03:00"
+vid_date: "2017-01-03T14:26:40Z"
+duration: "PT1M34S"
+viewcount: "78171"
+likeCount: "995"
+dislikeCount: "24"
+channel: "Mathieu Stern"
+---
+{% raw %}The Weird Lens Challenge continues, today we will use a Rare Night Vision Lens used by militaries and police for safety and mission purpose and see if we can mount it and use it for something more peaceful.<br />This lens is a C Mount 75 mm 1.3 Manual focusing lens.<br />This rare lens has no name on it but you can find some equivalent named Goldinar or Navistar 75 mm 1.3<br />I paid 90 euros for it but price can be higher right now.<br /><br />Discover more photos and information about this lens on my blog :<br /><a rel="nofollow" target="blank" href="http://mathieustern.com/2017/01/using-a-weird-rare-night-vision-lens-for-astonishing-portraits/">http://mathieustern.com/2017/01/using-a-weird-rare-night-vision-lens-for-astonishing-portraits/</a><br /><br />►I N S T A G R A M : <a rel="nofollow" target="blank" href="https://www.instagram.com/mathieustern/">https://www.instagram.com/mathieustern/</a><br />►T W I T E R: <a rel="nofollow" target="blank" href="http://twitter.com/Mathieustern">http://twitter.com/Mathieustern</a><br />►F A C E B O O K : <a rel="nofollow" target="blank" href="https://goo.gl/gKSJwC">https://goo.gl/gKSJwC</a><br /><br />Model : Mathilde.B  that you can follow here :<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/Mathilde-Bardet-699801976863283/">https://www.facebook.com/Mathilde-Bardet-699801976863283/</a><br /><br />you can buy the Photoshop Actions i used in this video :<br /><a rel="nofollow" target="blank" href="http://mathieustern.com/photoshop-actions/">http://mathieustern.com/photoshop-actions/</a><br /><br />IF YOU LIKE THESE VIDEOS, YOU CAN MAKE A KIND DONATION OF $2 OR $5 VIA PAYPAL : <br />(paypal email: mathieustern@yahoo.fr )<br />OR<br />SUPPORT ME AND MY EXPERIMENTS ON PATREON :<br /><a rel="nofollow" target="blank" href="https://goo.gl/eUQ9ZY">https://goo.gl/eUQ9ZY</a><br /><br />Some product i like : <a rel="nofollow" target="blank" href="http://amzn.to/2gYlw4W">http://amzn.to/2gYlw4W</a><br /><br /><br />New to my Chanel?? Here are some playlists to get you started.<br /><br />➜ Best Of - Watch These First : <a rel="nofollow" target="blank" href="https://goo.gl/pC31Ae">https://goo.gl/pC31Ae</a><br /><br /><br />➜ The Weird Lens Challenge : <a rel="nofollow" target="blank" href="https://goo.gl/F14AmC">https://goo.gl/F14AmC</a><br /><br /><br />➜ The Cheap Weird Lens Reviews : <a rel="nofollow" target="blank" href="https://goo.gl/4Esi2p">https://goo.gl/4Esi2p</a><br /><br /><br />➜ How To / Tutorials : <a rel="nofollow" target="blank" href="https://goo.gl/mMZlTk.">https://goo.gl/mMZlTk.</a><br /><br /><br /><br />Dont forget to subscibe to my Youtube chanel to get the new episodes of the Weird Lens Challenge{% endraw %}
