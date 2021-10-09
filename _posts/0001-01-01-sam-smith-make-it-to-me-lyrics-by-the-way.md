@@ -1,0 +1,15 @@
+---
+title: "Sam Smith - Make It To me (Lyrics) by the way she's safe with me tiktok"
+image: "https:\/\/i.ytimg.com\/vi\/4BSkmhwBF9o\/hqdefault.jpg"
+vid_id: "4BSkmhwBF9o"
+categories: "Music"
+tags: ["tiktok","tiktok songs","tik tok"]
+date: "2021-10-09T04:00:27+03:00"
+vid_date: "2021-09-15T20:09:39Z"
+duration: "PT3M23S"
+viewcount: "1662719"
+likeCount: "31944"
+dislikeCount: "260"
+channel: "TikTok Songs"
+---
+{% raw %}Viral TikTok Songs , Like and Subscribe To not miss any<br />⭐Follow Me at : <a rel="nofollow" target="blank" href="https://www.instagram.com/davcev">https://www.instagram.com/davcev</a><br />⭐Follow and Stream On Spotify : <a rel="nofollow" target="blank" href="https://open.spotify.com/playlist/0xF5l1EUXHQUG8jryaJrfN?si=Q3UIe1cZSEOFh8HBl7cqZw">https://open.spotify.com/playlist/0xF5l1EUXHQUG8jryaJrfN?si=Q3UIe1cZSEOFh8HBl7cqZw</a><br />⭐Stream Song on Spotify : <a rel="nofollow" target="blank" href="https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6?si=f98ac14075744664">https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6?si=f98ac14075744664</a><br />🔺Background Particles by AA VFX: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=chRn4itxI_8">https://www.youtube.com/watch?v=chRn4itxI_8</a><br />🔺Picture : <a rel="nofollow" target="blank" href="https://unsplash.com/">https://unsplash.com/</a><br />#SamSmith #MakeItToMe #bythewayshessafewithme #bythewayshessafewithmetiktok<br /><br />Follow Sam Smith :<br /><a rel="nofollow" target="blank" href="http://facebook.com/samsmithworld">http://facebook.com/samsmithworld</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/samsmith">http://instagram.com/samsmith</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/samsmith">http://twitter.com/samsmith</a><br /><a rel="nofollow" target="blank" href="http://samsmithworld.com">http://samsmithworld.com</a><br /><br />Lyrics:<br />My mind runs away to you<br />With the thought I hope you'll see<br />Can't see where it's wandered to<br />But I know where it wants to be<br />I'm waiting patiently though time is moving slow<br />I have one vacancy and I wanted you to know that<br />You're the one designed for me<br />A distant stranger that I will complete<br />I know you're out there we're meant to be<br />So keep your head up and make it to me<br />And make it to me<br />So sick of this lonely air<br />It seems such a waste of breath<br />So much that I need to say<br />So much to get off my chest<br />I'm waiting patiently though time is moving slow<br />I have one vacancy and I wanted you to know that<br />You're the one designed for me<br />A distant stranger that I will complete<br />I know you're out there we're meant to be<br />So keep your head up and make it to me<br />Make it to me<br />By the way she's safe with me<br />A distant stranger that I will complete<br />I know you're out there we're meant to be<br />So keep your head up and make it to me<br /><br /><br />Contact me: davcevs@gmail.com or Instagram.com/Davcev{% endraw %}
