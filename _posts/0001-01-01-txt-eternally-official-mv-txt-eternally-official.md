@@ -1,0 +1,15 @@
+---
+title: "TXT (투모로우바이투게더) 'Eternally' Official MV"
+image: "https:\/\/i.ytimg.com\/vi\/mxlloUcfUy0\/hqdefault.jpg"
+vid_id: "mxlloUcfUy0"
+categories: "Music"
+tags: ["투모로우바이투게더","빅히트","빅히트엔터테인먼트"]
+date: "2021-10-09T23:41:06+03:00"
+vid_date: "2020-06-28T15:00:02Z"
+duration: "PT19M32S"
+viewcount: "9551748"
+likeCount: "1510870"
+dislikeCount: "13232"
+channel: "HYBE LABELS"
+---
+{% raw %}TXT (투모로우바이투게더) 'Eternally' Official MV<br /><br /><br />PRODUCTION : DIGIPEDI<br /><br />DIRECTOR : SEONG WONMO<br />EXECUTIVE PRODUCER : LEE MOON YOUNG<br />PRODUCER : YU YENA<br />ASSISTANT DIRECTOR :  YUK HEONRYOUNG , CHO SUNGHYO<br /><br />DIRECTOR OF PHOTOGRAPHY : KIM EUIKWAN<br />GAFFER  : CHOI DOO SU<br />ART DIRECTOR : KIM BONA, PARK JINSIL<br />FX : MIN CHANG GI<br /><br />POST PRODUCTION : DIGIPEDI<br /><br />EDIT : SEONG WONMO, YUK HEONRYOUNG<br />DIGITAL INTERMEDIATE : MOON SEOKHO<br />2D : MOON SEOKHO<br />ORIGINAL DRAWING &amp; ANIMATION : MR MISANG<br /><br />VFX STUDIO : VIXEN STUDIO<br />VFX SUPERVISOR : KIM YOUN SOO<br />POST PRODUCER : KIM YEON HEE, HEO YOON JEONG<br />2D SUPERVISOR : LEE JOO HYUN<br />2D ARTIST : KIM YEONG GYUN, SEO JUNG HWAN, HONG SEO YOUNG, SON YOUNG HOON, SIM HANGU<br />CG : JU HAK, KIM DONG HYEON, SHIN YEO JAE<br />ART : YOO ILMOK, PARK SOOVIN, NOH HYEJEONG<br /><br /><br />Visual Creative : Nu Kim, Lee Hyun Ju, Kang Sung Do, Jung Su Jung, Cha Yeon Hwa    <br /><br />Artist Management: Kim Shin Gyu, Yang Jun Hyeong, Kim Ji Soo, Oh Gwang Taek, Shin Seung Chan<br /><br /><br /><br />BigHit Entertainment. Rights are reserved selectively in the video.<br />Unauthorized reproduction is a violation of applicable laws. <br />Manufactured by BigHit Entertainment, Seoul, Korea<br /><br /><br /><br />Connect with TOMORROW X TOGETHER:<br /><a rel="nofollow" target="blank" href="https://ibighit.com/txt">https://ibighit.com/txt</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/TXT_bighit">https://twitter.com/TXT_bighit</a><br /> <a rel="nofollow" target="blank" href="https://twitter.com/TXT_members">https://twitter.com/TXT_members</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/TXT.bighit">https://www.facebook.com/TXT.bighit</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/txt_bighit">https://www.instagram.com/txt_bighit</a><br /><a rel="nofollow" target="blank" href="https://channels.vlive.tv/BA18A3">https://channels.vlive.tv/BA18A3</a><br /><a rel="nofollow" target="blank" href="https://www.tiktok.com/@txt.bighitent">https://www.tiktok.com/@txt.bighitent</a> <br /><a rel="nofollow" target="blank" href="https://weverse.onelink.me/qt3S/8e901222">https://weverse.onelink.me/qt3S/8e901222</a><br /><a rel="nofollow" target="blank" href="https://www.weibo.com/TXTbighit">https://www.weibo.com/TXTbighit</a><br /><a rel="nofollow" target="blank" href="http://i.youku.com/txtbighit">http://i.youku.com/txtbighit</a><br /><br />THE STAR SEEKERS with TOMORROW X TOGETHER<br /><br />#Eternally #TXT #투모로우바이투게더 #TOMORROW_X_TOGETHER #TheDreamChapter #ETERNITY #TheStarSeekers{% endraw %}
