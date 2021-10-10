@@ -1,0 +1,15 @@
+---
+title: "ALL MIGHT RAP | \"Mighty\" | RUSTAGE ft Daddyphatsnaps [My Hero Academia]"
+image: "https:\/\/i.ytimg.com\/vi\/oI0LhVW50YQ\/hqdefault.jpg"
+vid_id: "oI0LhVW50YQ"
+categories: "Music"
+tags: ["All Might","All Might Rap","One for all"]
+date: "2021-10-10T03:17:16+03:00"
+vid_date: "2019-08-23T21:00:09Z"
+duration: "PT3M2S"
+viewcount: "5967408"
+likeCount: "61178"
+dislikeCount: "1065"
+channel: "RUSTAGE"
+---
+{% raw %}Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/track/1iUvWSIj87oFmcmWvPDZhR?si=gv4gsPLPQv6hi4A0F7tuDw">https://open.spotify.com/track/1iUvWSIj87oFmcmWvPDZhR?si=gv4gsPLPQv6hi4A0F7tuDw</a><br />Itunes: <a rel="nofollow" target="blank" href="https://music.apple.com/us/album/mighty-all-might-rap-feat-daddyphatsnaps-single/1477378917">https://music.apple.com/us/album/mighty-all-might-rap-feat-daddyphatsnaps-single/1477378917</a><br /><br />im back with my my hero academia raps! thanks for hanging in there mha fans! expect more when season 4 drops!<br /><br />special thanks to daddyphatsnaps for helping me out on this one you can find him here:<br /><br />credits<br />instrumental/production: Rustage<br />writing: Rustage &amp; Daddyphatsnaps<br />vocals: Rustage &amp; Daddyphatsnaps<br /><br />Follow me on twitter: <a rel="nofollow" target="blank" href="https://twitter.com/danielrustage">https://twitter.com/danielrustage</a><br />Join The Rustage Crew: <a rel="nofollow" target="blank" href="http://discord.gg/43MvZfh">http://discord.gg/43MvZfh</a> <br />Get your Merch: <a rel="nofollow" target="blank" href="https://teespring.com/stores/rustage">https://teespring.com/stores/rustage</a>  <br />Support me on patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/Rustage">https://www.patreon.com/Rustage</a><br />Follow me on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/rustage_music/">https://www.instagram.com/rustage_music/</a><br /><br />Thanks to<br />Elle Piper<br />Shao_Xiaolong<br />RDFX<br />Justkavis<br />Martin Sherman<br />Kyubbifox9 <br />Suki<br />CO2<br />Redaftpool<br />Benji D'Astra<br />Ride The Lightning<br />John Moni<br />Flyingludicolo<br />Sly_Murloc<br />Gr4nd5on<br />utbdoug<br />HarryFin<br />Ghood<br />SGreen<br />Afroraps<br />StoriesAboutMyLifeStudios<br />Xeorue<br />Verum Revelands<br />Kieran eaton<br />Poncakes<br />Sara Beiro<br />Bobby<br />Chris Young<br />Callista<br />Baby Rey<br /><br />for their patreon support!<br /><br /><br />Toshinori Yagi (八や木ぎ俊とし典のり Yagi Toshinori?), more commonly known by his hero name, All Might (オールマイト Ōru Maito?), is the tritagonist of My Hero Academia. All Might is the former No. 1 Hero who bore the title of the world's Symbol of Peace (平和の象徴 Heiwa no Shōchō?). He teaches Foundational Hero Studies at U.A. High School.<br /><br />All Might was the eighth holder of the One For All Quirk after receiving it from Nana Shimura. He has since passed the torch to Izuku Midoriya, whom he is grooming to be his successor. After using up all the embers of One for All to defeat All For One, All Might retired and ended his era as the world's greatest hero.[2]{% endraw %}
