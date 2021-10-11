@@ -1,0 +1,15 @@
+---
+title: "A Way - Oda vágyom el (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/hnoB1mUBrnc\/hqdefault.jpg"
+vid_id: "hnoB1mUBrnc"
+categories: "Music"
+tags: ["vágyom","(Official","Music"]
+date: "2021-10-11T03:37:28+03:00"
+vid_date: "2021-08-22T11:12:45Z"
+duration: "PT3M6S"
+viewcount: "11155"
+likeCount: "352"
+dislikeCount: "19"
+channel: "A Way"
+---
+{% raw %}A Way - Oda vágyom el (Official Music Video) - Minden jog fenntartva / All rights reserved © 2021<br />Stream: <a rel="nofollow" target="blank" href="https://wmmd.lnk.to/AWay_OdaVagyomEl">https://wmmd.lnk.to/AWay_OdaVagyomEl</a><br />Zene: A Way (Melegh Gábor B.)<br />Szöveg: A Way (Melegh Gábor B.)<br />Hangszerek: A Way (Melegh Gábor B.)<br />Kapcsolat: officialaway1@gmail.com<br />ISRC: HU-BZW-21-00003<br /><br />(az énekeső nem szerepel a videoklipben; megegyezésből fakadóan az 'Oda vágyom el' című dal kapcsán az énekesnő neve nem kerül feltüntetésre.)<br /><br /><br />Mix: Károly Tamás, A Way (Melegh Gábor B.)<br />Master: Károly Tamás - HangArt Recording Studio - <a rel="nofollow" target="blank" href="https://hangart.hu/">https://hangart.hu/</a><br /><br /><br />Producer: A Way (Melegh Gábor B.)<br /><br /><br />Szereplők: A L I E N - A Way (Melegh Gábor B.) / Ny u sz i - Duró Tímea<br />Story: A Way (Melegh Gábor B.)<br />Forgatókönyv: Bokros Márton (Smart Apes Film) / A Way (Melegh Gábor B.)<br />Rendező és vágó: Bokros Márton - <a rel="nofollow" target="blank" href="https://www.facebook.com/SmartApesFilm">https://www.facebook.com/SmartApesFilm</a><br />Pólórendelés: officialaway1@gmail.com<br /><br /><br /><br />A Way instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/officialawaymusic/">https://www.instagram.com/officialawaymusic/</a><br /><br />A Way soundcloud: <a rel="nofollow" target="blank" href="https://soundcloud.com/awaymusicofficial">https://soundcloud.com/awaymusicofficial</a><br /><br />A Way facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/awaymusicofficial">https://www.facebook.com/awaymusicofficial</a><br /><br /><br />Sorok:<br />Én oda vágyom el<br />Ahol az ég sincsen közel<br />Vissza onnan nem jövök<br />Ne hívjatok, soha nem jövök<br /><br />A hosszú út egyszer véget ér<br />Forró testem inni kér<br />Az utolsó kötelet is eloldom<br />Visszanézek, de már nincs mit mondanom<br /><br />Én nem sietek, mert tudom minden körbeér<br />A remény annyit hazudott hiába kér<br />Millió léptem köddé válik<br />Az új nap most már csak rám nem számít<br /><br />Ma talán az utolsót sóhajtom<br />Nincs is már mit mondanom<br />MERT ÉN ODA VÁGYOM EL<br />Ahol az ég sincsen közel<br /><br />A hosszú út most véget ér<br />Forró testem inni kér<br />Az utolsó kötelet is eloldom<br />Visszanézek, de már nincs mit mondanom<br /><br />Én nem sietek, mert tudom minden körbeér<br />A remény annyit hazudott hiába kér<br />Millió léptem köddé válik<br />Az új nap most már csak rám nem számít<br /><br /><br />#AWay #OdaVágyomEl{% endraw %}
