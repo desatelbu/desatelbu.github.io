@@ -1,0 +1,15 @@
+---
+title: "The Source of the Rings, Lake-Town, and Diverse Architecture"
+image: "https:\/\/i.ytimg.com\/vi\/0O5lduuIPdw\/hqdefault.jpg"
+vid_id: "0O5lduuIPdw"
+categories: "People-Blogs"
+tags: ["J. R. R. Tolkien","Tolkien","The Hobbit"]
+date: "2021-10-11T08:49:12+03:00"
+vid_date: "2019-03-18T01:07:43Z"
+duration: "PT5M46S"
+viewcount: "226"
+likeCount: "9"
+dislikeCount: "1"
+channel: "Moth's Audio and Videos"
+---
+{% raw %}I've been discovering potential sources of inspiration with one arm tied behind my back. What happens when I'm finally set free.<br /><br />Sources:<br /><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:1_yulong_xueshan_yak_2012.jpg">https://commons.wikimedia.org/wiki/File:1_yulong_xueshan_yak_2012.jpg</a><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:1_yulong_xueshan_2012.jpg">https://commons.wikimedia.org/wiki/File:1_yulong_xueshan_2012.jpg</a><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:Old_Town_of_Lijiang_(21183527932).jpg">https://commons.wikimedia.org/wiki/File:Old_Town_of_Lijiang_(21183527932).jpg</a><br /><a rel="nofollow" target="blank" href="https://en.wikipedia.org/wiki/Jade_Dragon_Snow_Mountain#/media/File:Lijiang_Yunnan_China-View-of-Jade-Dragon-Mountain-01.jpg">https://en.wikipedia.org/wiki/Jade_Dragon_Snow_Mountain#/media/File:Lijiang_Yunnan_China-View-of-Jade-Dragon-Mountain-01.jpg</a><br /><a rel="nofollow" target="blank" href="http://www.theonering.com/galleries/maps-calendars-genealogies/maps-calendars-genealogies/map-of-middle-earth-j-r-r-tolkien">http://www.theonering.com/galleries/maps-calendars-genealogies/maps-calendars-genealogies/map-of-middle-earth-j-r-r-tolkien</a><br /><a rel="nofollow" target="blank" href="https://www.atlasobscura.com/places/gavie-benin">https://www.atlasobscura.com/places/gavie-benin</a><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:Ganvie1.jpg">https://commons.wikimedia.org/wiki/File:Ganvie1.jpg</a><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:%E4%B8%BD%E6%B1%9F%E9%BB%91%E9%BE%99%E6%BD%AD%E5%85%AC%E5%9B%AD.JPG">https://commons.wikimedia.org/wiki/File:%E4%B8%BD%E6%B1%9F%E9%BB%91%E9%BE%99%E6%BD%AD%E5%85%AC%E5%9B%AD.JPG</a><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:1_lijiang_old_town_2012a.jpg">https://commons.wikimedia.org/wiki/File:1_lijiang_old_town_2012a.jpg</a><br /><a rel="nofollow" target="blank" href="https://en.wikipedia.org/wiki/File:Lijiang_Old_City_Night.JPG">https://en.wikipedia.org/wiki/File:Lijiang_Old_City_Night.JPG</a><br />Also, my Mandarin teacher who taught me about Lijiang. Xiexie, Laoshi.<br /><br />Fourth episode, can you believe it? I mean, probably. That's not that much YouTube to watch. But it is a bit to make, and I think it's going well.<br /><br />Any Tolkien fans, please let me know if this is a series you'd like to see keep going. I mean, it probably will no matter what, but I like to know if I'm reaching anybody.{% endraw %}
