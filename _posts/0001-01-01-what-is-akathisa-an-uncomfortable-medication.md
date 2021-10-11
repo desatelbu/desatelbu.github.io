@@ -1,0 +1,15 @@
+---
+title: "What is Akathisa? An Uncomfortable Medication Side Effect"
+image: "https:\/\/i.ytimg.com\/vi\/Ex5O6hUR-OE\/hqdefault.jpg"
+vid_id: "Ex5O6hUR-OE"
+categories: "Education"
+tags: ["mental health channel","mental health education","dr tracey marks"]
+date: "2021-10-12T01:36:20+03:00"
+vid_date: "2021-04-28T12:45:00Z"
+duration: "PT6M54S"
+viewcount: "20490"
+likeCount: "1069"
+dislikeCount: "10"
+channel: "Dr. Tracey Marks"
+---
+{% raw %}Akathisia is a side effect of some medications mostly antipsychotics, antidepressants and antiemetics with are medications prescribed for nausea and vomiting. Some of these medications are ondansetron, brand name Zofran and promethazine brand name Phenergan.<br /><br />Akathisia is a Greek term that means not to sit. As such Akathisia is a movement disorder that causes extreme restlessness and inability to stay still. It can vary from mild to severe and cause a lot of distress.<br /><br />Solutions are to stop the medication, decrease the medication or add another medication to treat the akathisia. Some of these medications are: <br />benztropine, propranolol, amantadine and clonidine.<br /><br />References<br />Akagi, H., &amp; Kumar, T. M. (2002). Lesson of the week: Akathisia: overlooked at a cost. BMJ (Clinical research ed.), 324(7352), 1506–1507.<br /><br /><br />WANT TO START IN THERAPY? Here’s a convenient and affordable option<br /><a rel="nofollow" target="blank" href="https://Betterhelp.com/drmarks">https://Betterhelp.com/drmarks</a> <br /><br />For a monthly fee, you get a REAL licensed therapist with whom you can meet weekly by phone, video or chat. You can also send daily messages. <br /><br />You have access to webinars on various topics. The unlimited texting feature allows you to type out your concerns or questions and get a well thought out response from your therapist. Some of them will help you set goals, give you worksheets, etc. If you use this link you will get a 10% discount on your first month. <a rel="nofollow" target="blank" href="https://betterhelp.com/drmarks">https://betterhelp.com/drmarks</a> This is an option I've researched. I get a referral commission if you sign up.<br /><br />Want to know more about mental health and self-improvement? On this channel I discuss topics such as bipolar disorder, major depression, anxiety disorders, attention deficit disorder (ADHD), relationships and personal development/self-improvement. I upload weekly. If you don’t want to miss a video, click here to subscribe. <a rel="nofollow" target="blank" href="https://goo.gl/DFfT33">https://goo.gl/DFfT33</a> <br /><br />Disclaimer: All of the information on this channel is for educational purposes and not intended to be specific/personal medical advice from me to you. Watching the videos or getting answers to comments/question, does not establish a doctor-patient relationship. If you have your own doctor, perhaps these videos can help prepare you for your discussion with your doctor.{% endraw %}
