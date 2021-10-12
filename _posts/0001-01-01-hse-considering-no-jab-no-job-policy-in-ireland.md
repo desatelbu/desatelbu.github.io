@@ -1,0 +1,15 @@
+---
+title: "HSE considering 'no jab, no job' policy in Ireland"
+image: "https:\/\/i.ytimg.com\/vi\/s7D11y0EXgQ\/hqdefault.jpg"
+vid_id: "s7D11y0EXgQ"
+categories: "News-Politics"
+tags: ["news","ireland","hse"]
+date: "2021-10-12T03:36:46+03:00"
+vid_date: "2021-10-11T17:00:33Z"
+duration: "PT11M8S"
+viewcount: "8550"
+likeCount: "47"
+dislikeCount: "640"
+channel: "Newstalk"
+---
+{% raw %}Officials are looking at introducing a 'no jab, no job' policy in Ireland.<br /><br />The measure has been announced in New Zealand where doctors, nurses and other frontline healthcare workers must be vaccinated against COVID-19.<br /><br />Chief Clinical Officer with the HSE, Colm Henry, says the issue is being considered.<br /><br />But he told The Pat Kenny Show the vast majority of healthcare staff are already vaccinated.<br /><br />&quot;Ultimately this will be a decision for Government, and it's something obviously we're considering in the HSE.<br /><br />&quot;What I would say, and I'm trying to be positive about this, is the overwhelming majority of healthcare workers not only have embraced the vaccine but acted as advocates for it for their patients and for their colleagues at work.<br /><br />&quot;And they have done so not just to protect themselves, but to protect their colleagues, protect patients and to protect services.&quot;<br /><br />And Dr Henry says he is unsure the uptake would have been so high if the vaccine was mandatory.<br /><br />&quot;People might ask if it had been made mandatory from the outset and compulsory would there have been the same degree of enthusiasm and would they have embraced it as much - I don't know.<br /><br />&quot;But ultimately this is a significant policy decision.<br /><br />&quot;What we've done in the HSE is mandate it, all services - hospitals, community or otherwise - to redeploy frontline staff who do not for one reason or another get vaccinated in order to protect patients and services&quot;.<br /><br />But he says he can't understand why a healthcare worker would choose not to be vaccinated.<br /><br />&quot;I would not understand why somebody would be a healthcare professional and go through all that training - and a sense of vocation underpins somebody entering that prolonged training- which involves a lot of hardship and altruism along the way, that they would in some way be anti-vax or consider vaccinations anything other than a huge positive development in healthcare throughout the world in the 20th and 21st century.&quot;<br /><br />He adds that there are &quot;probably&quot; between 40-50,000 people over the age of 40 unvaccinated.<br /><br />&quot;Those people remain highly vulnerable to COVID-19 - they will get it because it's highly transmissible<br /><br />&quot;The question is how quickly they will get it… over what timeframe. It's not just the harm to themselves, but the pressure it will put on the health system.<br /><br />&quot;Given the transmissibility of this virus, it is more or less inevitable they will become infected given the Delta variant and the way it behaves&quot;, he says.{% endraw %}
