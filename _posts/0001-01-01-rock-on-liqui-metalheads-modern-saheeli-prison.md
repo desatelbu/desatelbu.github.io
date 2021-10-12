@@ -1,0 +1,15 @@
+---
+title: "ROCK ON, LIQUI-METALHEADS!  Modern Saheeli Prison Combo with Karn, Ragavan and Urza's Saga! MTG MH2"
+image: "https:\/\/i.ytimg.com\/vi\/ljTR_Qxzhfk\/hqdefault.jpg"
+vid_id: "ljTR_Qxzhfk"
+categories: "Gaming"
+tags: ["magic: the gathering","mtg","magic"]
+date: "2021-10-12T23:00:49+03:00"
+vid_date: "2021-10-12T14:00:31Z"
+duration: "PT1H4M42S"
+viewcount: "1880"
+likeCount: "88"
+dislikeCount: "0"
+channel: "BoshNRoll"
+---
+{% raw %}I play a Magic the Gathering Online Modern league with Liquimetal Saheeli Prison Combo, a deck from subscriber Achija! This deck uses Liquimetal Coating and MH2's Liquimetal Torque to turn opposing permanents into artifacts so you can steal or smash them! You can also turn Saheeli into an Artifact so she can copy herself for infinite enters-the-battlefield triggers to mill your opponent out with Altar of the Brood. This deck is powerful at locking players out of the game with Karn and prison elements as well as combo killing out of nowhere. Urza's Saga and Ragavan, in addition to being stupid powerful, help set up the combo by testing for removal, adding artifacts to the board, and offering alternate win conditions. Everyone will be a liqui-metalhead when this one is over! MTG<br /><br />Decklist: <a rel="nofollow" target="blank" href="https://www.mtggoldfish.com/deck/4349331#paper">https://www.mtggoldfish.com/deck/4349331#paper</a><br /><br />Find the cards you need and support this channel on TCGplayer: <a rel="nofollow" target="blank" href="https://bit.ly/3rCeF79">https://bit.ly/3rCeF79</a><br /><br />Try this deck yourself on MTGO with the Cardhoarder loan program: <a rel="nofollow" target="blank" href="https://www.cardhoarder.com/">https://www.cardhoarder.com/</a><br /><br />0:00 Intro<br />0:57 Deck Tech<br />5:10 Round 1<br />14:39 Round 2<br />27:47 Round 3<br />40:25 Round 4<br />49:46 Round 5<br />1:03:19 Final Thoughts<br /><br />Business inquiries: boshnrollstream@gmail.com<br />Youtube Membership: Hit the &quot;JOIN&quot; button below the video!<br />Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/BoshNRoll">https://www.patreon.com/BoshNRoll</a><br />Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/BoshNRoll">https://www.twitter.com/BoshNRoll</a><br />Merch store: <a rel="nofollow" target="blank" href="https://boshnroll.creator-spring.com">https://boshnroll.creator-spring.com</a><br />Podcast: <a rel="nofollow" target="blank" href="https://www.TheEternalGloryPodcast.com">https://www.TheEternalGloryPodcast.com</a><br />All these links again: <a rel="nofollow" target="blank" href="https://linktr.ee/BoshNRoll">https://linktr.ee/BoshNRoll</a><br /><br />Want me to try YOUR favorite deck? Sign up via YouTube membership or Patreon and you'll have the ability to buy a league where I do a deck tech, tune, play, and offer my thoughts on your deck! Once you're a Patron or channel member, reach out and we'll set it up!<br /><br />#MTG #MTGModern #ModernHorizons2{% endraw %}
