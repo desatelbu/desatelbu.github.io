@@ -1,0 +1,15 @@
+---
+title: "TRUCK OF THE YEAR? PROBABLY! 2022 Toyota Tundra TRD PRO Review"
+image: "https:\/\/i.ytimg.com\/vi\/fPT75l2HCXY\/hqdefault.jpg"
+vid_id: "fPT75l2HCXY"
+categories: "Autos-Vehicles"
+tags: ["TheStraightPipes","The Straight Pipes","Straight Pipes"]
+date: "2021-10-12T16:27:57+03:00"
+vid_date: "2021-10-12T11:00:18Z"
+duration: "PT19M58S"
+viewcount: "21308"
+likeCount: "1900"
+dislikeCount: "23"
+channel: "TheStraightPipes"
+---
+{% raw %}2022 Toyota Tundra TRD PRO review by The Straight Pipes. The Toyota Tundra is putting down 437 horsepower and 583 lb-ft of torque from a Hybrid 3.5L Twin Turbo V6. At who knows what price CAD, would you take it over the Ram 1500 Rebel, Ford F-150 Raptor?<br /><br />Find your ProClip mount and device holder, 15% off with code STRAIGHTPIPES:<br /><a rel="nofollow" target="blank" href="https://www.proclipusa.com/?utm_source=youtube&amp;utm_medium=social&amp;utm_campaign=straightpipes-q4-2021">https://www.proclipusa.com/?utm_source=youtube&amp;utm_medium=social&amp;utm_campaign=straightpipes-q4-2021</a><br /><br />Ditch the unreliable suction cup phone mounts and flimsy vent clip holders and upgrade to a better phone holder from ProClip.<br />ProClip mounting bases are designed specifically for the exact make, model and year of your car. They easily snap into the seams of the dashboard for a tight fit. Then, attach the phone holder to securely hold your smartphone in place while you drive. ProClip phone holders can fit phones with or without cases, and charge wirelessly or with a charging cord to keep your phone in place, charged and ready to go.<br /><br />Use this TrueCar link if you're shopping for a new Toyota Tundra TRD PRO in the USA<br /><a rel="nofollow" target="blank" href="https://bit.ly/3oSEMY7">https://bit.ly/3oSEMY7</a><br /><br />Use this TrueCar link if you're shopping for a used Toyota Tundra in the USA<br /><a rel="nofollow" target="blank" href="https://bit.ly/3Bzqpvg">https://bit.ly/3Bzqpvg</a><br /><br />Use this Car Help Canada link if you're shopping for a new car in Canada<br /><a rel="nofollow" target="blank" href="https://www.carhelpcanada.com/">https://www.carhelpcanada.com/</a><br /><br />Check out Continental Tire at <a rel="nofollow" target="blank" href="https://www.continentaltire.com/thestraightpipes">https://www.continentaltire.com/thestraightpipes</a><br /><br />Support us on Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/thestraightpipes">https://www.patreon.com/thestraightpipes</a><br />Instagram! <a rel="nofollow" target="blank" href="https://www.instagram.com/thestraightpipes">https://www.instagram.com/thestraightpipes</a><br />Twitter! <a rel="nofollow" target="blank" href="https://twitter.com/StraightPipers">https://twitter.com/StraightPipers</a><br /><br />MERCH! <a rel="nofollow" target="blank" href="https://teespring.com/stores/thestraightpipes">https://teespring.com/stores/thestraightpipes</a><br /><br />-------------------<br />#TheContiPipes #toyotatundra #trdpro<br />-------------------{% endraw %}
