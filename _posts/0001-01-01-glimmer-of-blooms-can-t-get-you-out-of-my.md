@@ -1,0 +1,15 @@
+---
+title: "Glimmer of Blooms - Can't Get You Out Of My Head (Lyrics) \"Think about la la la\" [Tiktok Song]"
+image: "https:\/\/i.ytimg.com\/vi\/RXi5sj__AYI\/hqdefault.jpg"
+vid_id: "RXi5sj__AYI"
+categories: "Music"
+tags: ["Can't Get You Out Of My Head Glimmer of Blooms","Lyrics","Lyrics Can't Get You Out Of My Head"]
+date: "2021-10-12T03:58:32+03:00"
+vid_date: "2021-07-21T19:35:43Z"
+duration: "PT3M16S"
+viewcount: "212617"
+likeCount: "5356"
+dislikeCount: "33"
+channel: "Matrix Sound"
+---
+{% raw %}Follow our spotify playlist (TikTok Bangers)<br /><a rel="nofollow" target="blank" href="https://open.spotify.com/playlist/70JGeLOPQMYiFX47QqTOj0?si=61x74EvxS5aGwS8espohcg&amp;utm_source=copy-link">https://open.spotify.com/playlist/70JGeLOPQMYiFX47QqTOj0?si=61x74EvxS5aGwS8espohcg&amp;utm_source=copy-link</a><br /><br />Subscribe and press (🔔) to join the Notification Squad and stay updated with new uploads <br /><br />Follow Glimmer of Blooms:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/glimmermusic/">https://www.facebook.com/glimmermusic/</a> <br /><a rel="nofollow" target="blank" href="https://soundcloud.com/glimmerofblooms">https://soundcloud.com/glimmerofblooms</a> <br /><a rel="nofollow" target="blank" href="https://www.instagram.com/glimmerofbl...">https://www.instagram.com/glimmerofbl...</a><br /><a rel="nofollow" target="blank" href="https://m.youtube.com/channel/UCxENeQ...">https://m.youtube.com/channel/UCxENeQ...</a><br /><br />📷 Wallpaper: <a rel="nofollow" target="blank" href="https://unsplash.com">https://unsplash.com</a><br /><br />©️If any producer or label has an issue with this song or picture, please get in contact with us and we will delete it immediately.<br /><br />Lyrics:<br /><br />I just can't get you out of my head<br />Girl you loving is all I think about<br />I just can't get you out of my head<br />Girl it's more than I dare to think about<br /><br />*La La La<br /><br />I just can't get you out of my head<br />Girl you loving is all I think about<br />I just can't get you out of my head<br />Girl it's more than I dare to think about<br /><br />Every night<br />Every day<br />Just to be there in your arms<br /><br />Won't you stay<br />Won't you lay<br />Stay forever and ever and ever and ever<br /><br />*La la la<br /><br />I just can't get you out of my head<br />Girl it's more than I dare to think about<br /><br />There's a dark secret in me<br />Don't leave me locked in your heart<br /><br />Tags<br />Glimmer of Blooms, Can't Get You Out Of My Head, Glimmer of Blooms Can't Get You Out Of My Head, Can't Get You Out Of My Head Glimmer of Blooms, Lyrics, Lyrics Can't Get You Out Of My Head, Glimmer of Blooms Can't Get You Out Of My Head Lyrics, Can't Get You Out Of My Head Glimmer of Blooms Lyrics, Glimmer of Blooms Lyrics, Can't Get You Out Of My Head Lyrics Glimmer of Blooms, Lyrics Glimmer of Blooms G, Lyrics Can't Get You Out Of My Head Glimmer of Blooms Think about la la la, Think about la la la Tiktok song, Tiktok song Think about la la la, Tiktok song,{% endraw %}
