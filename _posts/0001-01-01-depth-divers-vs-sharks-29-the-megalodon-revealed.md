@@ -1,0 +1,15 @@
+---
+title: "DEPTH: DIVERS VS SHARKS | #29 - THE MEGALODON REVEALED! (NEW MODE) (60fps)"
+image: "https:\/\/i.ytimg.com\/vi\/ECqKr_fqQMg\/hqdefault.jpg"
+vid_id: "ECqKr_fqQMg"
+categories: "Gaming"
+tags: ["ohmwrecker","scary game","ocean game"]
+date: "2021-10-14T19:53:14+03:00"
+vid_date: "2014-12-16T14:00:03Z"
+duration: "PT16M15S"
+viewcount: "3017283"
+likeCount: "28554"
+dislikeCount: "824"
+channel: "Ohmwrecker \/ Maskedgamer"
+---
+{% raw %}HOLY HELL, A NEW MEGALODON MODE!  Watch in Chrome for 60fps! :D<br />►ENJOY THE VID? LIKE, COMMENT &amp; SUBSCRIBE! <a rel="nofollow" target="blank" href="http://bit.ly/RWT4Di">http://bit.ly/RWT4Di</a> ◄<br /><br />Jack: <a rel="nofollow" target="blank" href="http://www.youtube.com/jacksepticeye">http://www.youtube.com/jacksepticeye</a><br />Delirious: <a rel="nofollow" target="blank" href="http://www.youtube.com/h2odelirious">http://www.youtube.com/h2odelirious</a><br />Minx: <a rel="nofollow" target="blank" href="http://www.youtube.com/therpgminx">http://www.youtube.com/therpgminx</a><br />Basically: <a rel="nofollow" target="blank" href="https://www.youtube.com/BasicallyIDoWrk">https://www.youtube.com/BasicallyIDoWrk</a><br /><br />Social Media:<br />►Twitch: <a rel="nofollow" target="blank" href="http://www.twitch.tv/ohmwrecker">http://www.twitch.tv/ohmwrecker</a><br />►Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/ohmwrecker">https://twitter.com/ohmwrecker</a><br />►Facebook: <a rel="nofollow" target="blank" href="http://on.fb.me/XtLCer">http://on.fb.me/XtLCer</a><br />►Vine: <a rel="nofollow" target="blank" href="https://vine.co/ohmwrecker">https://vine.co/ohmwrecker</a><br />►Steam Curator Page: <a rel="nofollow" target="blank" href="http://bit.ly/ohmcurator">http://bit.ly/ohmcurator</a><br />►Steam Group: <a rel="nofollow" target="blank" href="http://bit.ly/ohmzone">http://bit.ly/ohmzone</a> <br /><br />Merch:<br />► Spreadshirt: <a rel="nofollow" target="blank" href="http://ohmwrecker.spreadshirt.com">http://ohmwrecker.spreadshirt.com</a><br /><br />Depth Description:<br /><br />In Depth play as a shark or a diver in a dark aquatic world and overcome your enemies by employing cunning, teamwork, and stealth. Depth blends tension and visceral action as you team up against AI or be matched with other players in heart pounding combat.<br /><br />For those not familiar with my channel, I am Ohmwrecker, also known as MaskedGamer on Youtube, and I produce a variety of gaming content for YouTube on a near daily basis.  This includes let's plays, first impressions, quick looks, reviews, previews, guides, gameplay walkthroughs, and playthroughs of everything from new AAA releases, to my favorite classic games, as well as new indie gaming. If you enjoy what you see please consider hitting that Subscribe button if you haven't already.  Thanks for watching!<br /><br />Intro / Outro song by _ensnare_: <a rel="nofollow" target="blank" href="http://ensnare8bit.blogspot.co.uk/2012/12/tech-switch.html">http://ensnare8bit.blogspot.co.uk/2012/12/tech-switch.html</a>{% endraw %}
