@@ -1,0 +1,15 @@
+---
+title: "UNPARALLELED"
+image: "https:\/\/i.ytimg.com\/vi\/Lh5SAjMiuas\/hqdefault.jpg"
+vid_id: "Lh5SAjMiuas"
+categories: "People-Blogs"
+tags: ["UNPARALLELED"]
+date: "2021-10-15T01:29:39+03:00"
+vid_date: "2021-10-09T23:30:09Z"
+duration: "PT1H25M2S"
+viewcount: "1168"
+likeCount: "48"
+dislikeCount: "1"
+channel: "KRAWLSTARS"
+---
+{% raw %}The story of TRAIL AMERICA 2021: Mighty Five<br />www.trailamericaevent.com<br /><br /><br />Each national park anchors a travel region that beckons travelers to immerse themselves in not only the iconic national park, but the state parks, national monuments and small towns that weave texture into Southern Utah. This documentary tells the story of the first BFGoodrich TRAIL AMERICA event presented by TREKWERX supporting HERO OFFROAD. Year one found the team, sponsors and participants starting in St. George, Utah and entering Zion National Park on an Overland journey that would traverse the beautiful terrain stretching across the great state. Traveling on as little pavement as possible reaching each of the Mighty Five Nation Parks via back roads, trails and dirt roads camping in some of the most secluded areas with breathtaking views. Filmed and produced by Market Street Studios who captured the sheer beauty of not only Zion but Bryce Canyon, Capitol Reef, Canyonlands and Arches as well as the many State Parks along the way. Together, with sponsors and participants, this event confirmed that an event that focused on trail riding, camping and exploring would be a success. Outlaw Offroad joined us for this adventure as well as Radflo Suspension Technology and Gomammut while Outlaw Adventure Tours provided a Jeep JKU for our film crew joining our Ram 2500, a Wrangler JKU, a Wrangler JLU, another Wrangler JLU with Turtleback Trailer, a Toyota Tacoma, a Mitsubishi Montero Sport, a Jeep Gladiator and a Toyota 4Runner. The wildlife, sunrises and sunsets, epic views and fellowship with friends new and old will never be forgotten and we hope that you enjoy this KRAWLSTARS documentary and that it gives you at least a peek into the world we have grown to love. All in all, our main goal is to continue to bring awareness to Hero Offroad and their mission. Hero Offroad provides a platform for companies, and individuals to become members of their mission. Hero Offroad relies on Contributions from Individuals and Businesses to allow the organization to provide programs and activities to honor our Heroes. Their programs include putting on Veteran specific offroading events, allowing Veterans to participate in Offroad Races, or just a simply weekend away with the family to Offroad locations for a little Rest and Relaxation; all of their programs allow our Heroes and their families the chance to reconnect and heal. Hero Offroad is a registered 501c3 nationwide veteran and community-based voluntary nonprofit organization dedicated to Honoring our Nations War Veterans, Wounded Warriors and their Families.<br /><br /><br />Trekwerx<br />youtube.com<br />Musicbed SyncID:<br />MB01ZOUGHOKR5TD{% endraw %}
