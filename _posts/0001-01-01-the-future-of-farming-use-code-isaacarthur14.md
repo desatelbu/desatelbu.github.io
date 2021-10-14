@@ -1,0 +1,15 @@
+---
+title: "The Future of Farming"
+image: "https:\/\/i.ytimg.com\/vi\/OzVxdmC8c-g\/hqdefault.jpg"
+vid_id: "OzVxdmC8c-g"
+categories: "Science-Technology"
+tags: ["farming","agriculture","fresh"]
+date: "2021-10-14T23:13:24+03:00"
+vid_date: "2021-10-14T12:48:45Z"
+duration: "PT33M1S"
+viewcount: "16186"
+likeCount: "1535"
+dislikeCount: "21"
+channel: "Isaac Arthur"
+---
+{% raw %}Use code  ISAACARTHUR14 for up to 14 FREE MEALS across your first 5 HelloFresh boxes plus free shipping at <a rel="nofollow" target="blank" href="https://bit.ly/3aavuOo">https://bit.ly/3aavuOo</a><br />Advances in farming have let us feed billions. The future of agriculture offers many more innovations in robotics, hydroponics, aquaponics, aeroponics, greenhouses, and more... but will it be a future of mega-farms or small farms?<br /><br />Visit our Website: <a rel="nofollow" target="blank" href="http://www.isaacarthur.net">http://www.isaacarthur.net</a><br />Support us on Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/IsaacArthur">https://www.patreon.com/IsaacArthur</a><br />Facebook Group: <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/1583992725237264/">https://www.facebook.com/groups/1583992725237264/</a><br />Reddit: <a rel="nofollow" target="blank" href="https://www.reddit.com/r/IsaacArthur/">https://www.reddit.com/r/IsaacArthur/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/Isaac_A_Arthur">https://twitter.com/Isaac_A_Arthur</a> on Twitter and RT our future content.<br />SFIA Discord Server: <a rel="nofollow" target="blank" href="https://discord.gg/53GAShE">https://discord.gg/53GAShE</a><br /><br />Listen or Download the audio of this episode from Soundcloud: Episode's Audio-only version: <a rel="nofollow" target="blank" href="https://soundcloud.com/isaac-arthur-148927746/the-future-of-farming">https://soundcloud.com/isaac-arthur-148927746/the-future-of-farming</a><br />Episode's Narration-only version: <a rel="nofollow" target="blank" href="https://soundcloud.com/isaac-arthur-148927746/the-future-of-farming-narration-only">https://soundcloud.com/isaac-arthur-148927746/the-future-of-farming-narration-only</a><br /><br />Credits:<br />The Future of Farming<br />Science &amp; Futurism with Isaac Arthur<br />Episode 312, October 14, 2021<br />Written, Produced &amp; Narrated by Isaac Arthur<br /><br />Editors:<br />A.T. Long<br />Jason Burbank<br /><br />Cover Art:<br />Jakub Grygier <a rel="nofollow" target="blank" href="https://www.artstation.com/jakub_grygier">https://www.artstation.com/jakub_grygier</a><br /><br />Graphics:<br />Fishy Tree <a rel="nofollow" target="blank" href="https://www.deviantart.com/fishytree/">https://www.deviantart.com/fishytree/</a><br />Jeremy Jozwik <a rel="nofollow" target="blank" href="https://www.artstation.com/zeuxis_of_losdiajana">https://www.artstation.com/zeuxis_of_losdiajana</a><br />SpaceResourcesCGI<br />Tristan3D<br /><br />Music Courtesy of Epidemic Sound <a rel="nofollow" target="blank" href="http://epidemicsound.com/creator">http://epidemicsound.com/creator</a>{% endraw %}
