@@ -1,0 +1,550 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+    <link rel="dns-prefetch" href="//images1-focus-opensocial.googleusercontent.com" />
+    <link rel="dns-prefetch" href="//static.addtoany.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="msvalidate.01" content="5CEC69C913D38629490B9FC87E71DE4B">
+    <meta name="yandex-verification" content="0e012a25549ac426">
+    <meta name="google-site-verification" content="sgsAzp2JCELAox-Ktbw0TWiR8FYQHd3aik0Tap8Uc2M">
+    <meta charset="UTF-8" />
+    <title>Amazing Excel FILTER Function + Trick to Rearrange Column Order</title>
+    <meta name="description" content="Excel’s FILTER function is incredible. It enables you to extract a subset of your data based on criteria you specify. You can t...">
+	<meta name="keywords" content="excel filter function,filter function">
+    <meta property="og:site_name" content="DeSatelBu">
+    <meta property="og:url" content="https://desatelbu.github.io/videos/watch/amazing-excel-filter-function-trick-to-rearrange">
+    <meta property="og:title" content="Amazing Excel FILTER Function + Trick to Rearrange Column Order">
+    <meta property="og:image" content="https://i.ytimg.com/vi/ZCQAweoAdOw/hqdefault.jpg">
+    <meta property="og:description" content="Excel’s FILTER function is incredible. It enables you to extract a subset of your data based on criteria you specify. You can t...">
+    <meta name='twitter:card' content='summary_large_image' />
+    <script type="application/ld+json">
+        { "@context": "http://schema.org", "@type": "VideoObject", "name": "Amazing Excel FILTER Function + Trick to Rearrange Column Order", "description": "&lt;p&gt;Excel’s FILTER function is incredible. It enables you to extract a subset of your data based on criteria you specify. You can think of it like a lookup that returns multiple matches. It can return a single column of data or multiple columns, and with a clever trick, which I’ll show you at the end, it can even return non-adjacent columns. &lt;br /&gt;&lt;br /&gt;Download the Excel file here: &lt;a rel=&quot;nofollow&quot; target=&quot;blank&quot; href=&quot;https://www.myonlinetraininghub.com/excel-functions/excel-filter-function&quot;&gt;https://www.myonlinetraininghub.com/excel-functions/excel-filter-function&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;0:00 Introduction to FILTER &lt;br /&gt;0:31 FILTER function Syntax&lt;br /&gt;1:03 FILTER with one criteria&lt;br /&gt;2:03 FILTER with multiple AND criteria&lt;br /&gt;4:31 FILTER with multiple OR criteria&lt;br /&gt;6:26 Handing errors&lt;br /&gt;7:56 FILTER and return non-contiguous columns&lt;br /&gt;&lt;br /&gt;View my comprehensive courses: &lt;a rel=&quot;nofollow&quot; target=&quot;blank&quot; href=&quot;https://www.myonlinetraininghub.com/&quot;&gt;https://www.myonlinetraininghub.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Connect with me on LinkedIn: &lt;a rel=&quot;nofollow&quot; target=&quot;blank&quot; href=&quot;https://www.linkedin.com/in/myndatreacy/&quot;&gt;https://www.linkedin.com/in/myndatreacy/&lt;/a&gt;&lt;/p&gt;\n", "thumbnailUrl": "https://i.ytimg.com/vi/ZCQAweoAdOw/hqdefault.jpg", "uploadDate": "2021-10-14T12:00:30Z", "duration": "PT10M17S", "contentUrl": "https://desatelbu.github.io/videos/watch/amazing-excel-filter-function-trick-to-rearrange", "interactionCount": "840" }
+    </script>
+    <link rel="canonical" href="https://desatelbu.github.io/videos/watch/amazing-excel-filter-function-trick-to-rearrange" />
+    <link rel="stylesheet" href="https://desatelbu.github.io/inc/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+    <nav class="navbar mb-3 navbar-expand-lg navbar-light bg-white mb-4 shadow-sm">
+        <div class="container py-2"><a class="navbar-brand" href="https://desatelbu.github.io/">DeSatelBu</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-urls" aria-controls="navbar-urls" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <form action="/search/" class="my-2 my-lg-0 offset-md-2 col-md-6 col-sm-12 px-0 mr-auto">
+                <div class="input-group"><input name="s" class="form-control rounded-0 py-2" type="text" placeholder="video search..." id="example-search-input"><span class="input-group-append"><button aria-label="search" role="button" class="btn btn-secondary rounded-0" type="submit"><span class="px-2"><svg class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg></span></button>
+                    </span>
+                </div>
+                </form>
+                <div class="collapse navbar-collapse flex-md-grow-0" id="navbar-urls">
+
+                </div>
+        </div>
+    </nav>
+    <div class="container min-height-62" >
+        <div class="resp-container" id="top_720"></div>
+        <div class="row">
+            <div class="col-12 col-md-8">
+                <div class="bg-white"><noscript><a href="https://www.youtube.com/watch?v=ZCQAweoAdOw"><img alt="Amazing Excel FILTER Function + Trick to Rearrange Column Order" src="https://i.ytimg.com/vi/ZCQAweoAdOw/hqdefault.jpg" /></a></noscript>
+                    <div id="video-player"></div>
+                    <div class="p-3">
+                        <h1 class="h5 video-title bwr">Amazing Excel FILTER Function + Trick to Rearrange Column Order</h1>
+                        <div class="py-1 row">
+                            <div class="col-12 col-md-6 my-auto"><b class="text-danger">Share</b></div>
+                            <div class="col-12 col-md-6">
+                                <div class="a2a_kit a2a_kit_size_32 a2a_default_style"><a class="a2a_dd" href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_reddit"></a><a class="a2a_button_facebook_messenger"></a><a class="a2a_button_whatsapp"></a></div>
+                            </div>
+                        </div>
+                        <div align="center" class="py-1">
+
+                        </div>
+                        <div class="py-1">
+                            <div class="row">
+                                <div class="col-12 col-md-6">
+                                    <div class="mb-2 bwr"><strong>MyOnlineTrainingHub</strong><br> Published at : 14 Oct 2021  </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="h-100 d-flex align-items-center justify-content-center"><a  target="_blank" rel="noopener" class="btn btn-block btn-danger bwr" href="https://www.youtube.com/watch?v=ZCQAweoAdOw">Subscribe to MyOnlineTrainingHub</a></div>
+                                </div>
+                            </div>
+                            <div class="resp-container" id="in_post_bottomads"></div>
+                        </div>
+                        <div class="py-1">
+                            <div class="row">
+                                <div class="col-12 col-md-6">
+                                    <div class="text-center bg-light mb-2 p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-eye fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M569.354 231.631C512.969 135.949 407.81 72 288 72 168.14 72 63.004 135.994 6.646 231.631a47.999 47.999 0 0 0 0 48.739C63.031 376.051 168.19 440 288 440c119.86 0 224.996-63.994 281.354-159.631a47.997 47.997 0 0 0 0-48.738zM288 392c-75.162 0-136-60.827-136-136 0-75.162 60.826-136 136-136 75.162 0 136 60.826 136 136 0 75.162-60.826 136-136 136zm104-136c0 57.438-46.562 104-104 104s-104-46.562-104-104c0-17.708 4.431-34.379 12.236-48.973l-.001.032c0 23.651 19.173 42.823 42.824 42.823s42.824-19.173 42.824-42.823c0-23.651-19.173-42.824-42.824-42.824l-.032.001C253.621 156.431 270.292 152 288 152c57.438 0 104 46.562 104 104z"></path></svg></span>                                        840 views </span>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="text-center bg-light p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-thumbs-up fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M104 224H24c-13.255 0-24 10.745-24 24v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V248c0-13.255-10.745-24-24-24zM64 472c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24zM384 81.452c0 42.416-25.97 66.208-33.277 94.548h101.723c33.397 0 59.397 27.746 59.553 58.098.084 17.938-7.546 37.249-19.439 49.197l-.11.11c9.836 23.337 8.237 56.037-9.308 79.469 8.681 25.895-.069 57.704-16.382 74.757 4.298 17.598 2.244 32.575-6.148 44.632C440.202 511.587 389.616 512 346.839 512l-2.845-.001c-48.287-.017-87.806-17.598-119.56-31.725-15.957-7.099-36.821-15.887-52.651-16.178-6.54-.12-11.783-5.457-11.783-11.998v-213.77c0-3.2 1.282-6.271 3.558-8.521 39.614-39.144 56.648-80.587 89.117-113.111 14.804-14.832 20.188-37.236 25.393-58.902C282.515 39.293 291.817 0 312 0c24 0 72 8 72 81.452z"></path></svg></span>                                                134 </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="text-center bg-light p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-thumbs-down fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M0 56v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H24C10.745 32 0 42.745 0 56zm40 200c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24zm272 256c-20.183 0-29.485-39.293-33.931-57.795-5.206-21.666-10.589-44.07-25.393-58.902-32.469-32.524-49.503-73.967-89.117-113.111a11.98 11.98 0 0 1-3.558-8.521V59.901c0-6.541 5.243-11.878 11.783-11.998 15.831-.29 36.694-9.079 52.651-16.178C256.189 17.598 295.709.017 343.995 0h2.844c42.777 0 93.363.413 113.774 29.737 8.392 12.057 10.446 27.034 6.148 44.632 16.312 17.053 25.063 48.863 16.382 74.757 17.544 23.432 19.143 56.132 9.308 79.469l.11.11c11.893 11.949 19.523 31.259 19.439 49.197-.156 30.352-26.157 58.098-59.553 58.098H350.723C358.03 364.34 384 388.132 384 430.548 384 504 336 512 312 512z"></path></svg></span>                                                1 </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr/>
+                        <div class="py-1 d-md-block bwr" id="video-description"><p>Excel’s FILTER function is incredible. It enables you to extract a subset of your data based on criteria you specify. You can think of it like a lookup that returns multiple matches. It can return a single column of data or multiple columns, and with a clever trick, which I’ll show you at the end, it can even return non-adjacent columns. <br /><br />Download the Excel file here: <a rel="nofollow" target="blank" href="https://www.myonlinetraininghub.com/excel-functions/excel-filter-function">https://www.myonlinetraininghub.com/excel-functions/excel-filter-function</a><br /><br />0:00 Introduction to FILTER <br />0:31 FILTER function Syntax<br />1:03 FILTER with one criteria<br />2:03 FILTER with multiple AND criteria<br />4:31 FILTER with multiple OR criteria<br />6:26 Handing errors<br />7:56 FILTER and return non-contiguous columns<br /><br />View my comprehensive courses: <a rel="nofollow" target="blank" href="https://www.myonlinetraininghub.com/">https://www.myonlinetraininghub.com/</a><br /><br />Connect with me on LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/in/myndatreacy/">https://www.linkedin.com/in/myndatreacy/</a></p>
+</div>
+                        <div class="d-none"><span>excel filter function</span><span>filter function</span></div>
+                        <hr/>
+                        <div class="py-3"><div class="resp-container" id="extra_bottomads"><iframe data-aa="1794238" src="//ad.a-ads.com/1794238?size=468x60" style="width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>
+</div></div>
+                    </div>
+                </div>
+                <div class="position-sticky fixed-top d-md-block d-none">
+                    <div align="center" class="py-2">
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+            <div class="mb-4">
+                <div class="resp-container py-3" id="sidebar_300"></div>
+            </div>
+                
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/my-12-sources-of-income-at-age-30-get-2-free">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Vi4pd16y7DU/mqdefault.jpg" alt="My 12 Sources of Income at Age 30">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">My 12 Sources of Income at Age 30</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/dustin-poirier-opens-up-about-beating-conor">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/WKY2SwEiJvI/mqdefault.jpg" alt="Dustin Poirier Opens up About Beating Conor McGregor">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Dustin Poirier Opens up About Beating Conor McGregor</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/20-amping-diys-hacks-and-tools-that-will">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/YfMQIVe1SLM/mqdefault.jpg" alt="20+ Сamping DIYs, Hacks And Tools that will be useful for your next trip🏕">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">20+ Сamping DIYs, Hacks And Tools that will be useful for your next trip🏕</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/fatty-liver-fruits-to-eat-dont-forget-fatty">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/oW8IJnpcW4M/mqdefault.jpg" alt="Fatty Liver Fruits To Eat DONT FORGET">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Fatty Liver Fruits To Eat DONT FORGET</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/authorities-in-el-portal-searching-for-brazen">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/8LKoAV0Gj7k/mqdefault.jpg" alt="Authorities in El Portal searching for brazen prowler captured on surveillance cameras">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Authorities in El Portal searching for brazen prowler captured on surveillance cameras</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/fortnite-is-not-a-game-there-s-been-a-vicious">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/-TsxtliE7UQ/mqdefault.jpg" alt="Fortnite Is Not A Game">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Fortnite Is Not A Game</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/a-modern-brutalist-house-in-japan-with-exquisite">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/PnwlS9Ul8QM/mqdefault.jpg" alt="A Modern Brutalist House In Japan With Exquisite Details">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">A Modern Brutalist House In Japan With Exquisite Details</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/the-intent-2-the-come-up-2018-720p-hdrip">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ig4aXHcENP0/mqdefault.jpg" alt="The Intent 2 The Come Up 2018 720p HDRip x264 AC3 MOVCR">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The Intent 2 The Come Up 2018 720p HDRip x264 AC3 MOVCR</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/how-to-get-out-of-traffic-and-trouble-by">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/56LlIuO_DcY/mqdefault.jpg" alt="How to get out of traffic and trouble By Mufti Zarwali Khan @Islamic Urdu">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">How to get out of traffic and trouble By Mufti Zarwali Khan @Islamic Urdu</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/what-is-business-travel-business-travel-refers">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/hrlqxsc8_GA/mqdefault.jpg" alt="What is business travel?">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">What is business travel?</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/how-to-start-a-book-shop-business-in-hindi">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/8eA3RWDjD5Y/mqdefault.jpg" alt="How to Start a book Shop business in hindi | Stationery shop business kaise start kare | ASK">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">How to Start a book Shop business in hindi | Stationery shop business kaise start kare | ASK</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/birth-place-official-video-vicky-proof-kaptaan">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/AHsEF9JxPK0/mqdefault.jpg" alt="Birth Place (Official Video) Vicky | Proof | Kaptaan | New Punjabi Songs 2021 |">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Birth Place (Official Video) Vicky | Proof | Kaptaan | New Punjabi Songs 2021 |</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/9-warning-signs-of-severe-depression-depression">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/slKL5QwurAg/mqdefault.jpg" alt="9 Warning Signs of Severe Depression">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">9 Warning Signs of Severe Depression</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/mr-seed-only-one-dawa-ya-baridi-ft-masauti">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ch0pUsAb87o/mqdefault.jpg" alt="MR SEED - ONLY ONE ( DAWA YA BARIDI ) ft MASAUTI ( OFFICIAL MUSIC VIDEO).">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">MR SEED - ONLY ONE ( DAWA YA BARIDI ) ft MASAUTI ( OFFICIAL MUSIC VIDEO).</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/this-is-extremely-hard-i-don-t-know-what">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Bx8IGjVJJjc/mqdefault.jpg" alt="this is extremely hard">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">this is extremely hard</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/8-great-jdm-cars-that-will-earn-you-money">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/c6sDsH-onPk/mqdefault.jpg" alt="8 GREAT JDM Cars That Will Earn You MONEY!">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">8 GREAT JDM Cars That Will Earn You MONEY!</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/patrick-patrikios-you-should-1-hour-version">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/LxdZUTlDRNI/mqdefault.jpg" alt="Patrick Patrikios | You Should (1-hour version)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Patrick Patrikios | You Should (1-hour version)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/ikigai-the-secret-to-a-purposeful-life-emily">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/SDbYVlJntYU/mqdefault.jpg" alt="Ikigai: The Secret to a Purposeful Life | Emily Bidle | TEDxYouth@ASIJ">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Ikigai: The Secret to a Purposeful Life | Emily Bidle | TEDxYouth@ASIJ</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/why-a-god-is-a-necessary-being-khaled-us">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/CgF-YsNi6k4/mqdefault.jpg" alt="Why a God is a Necessary Being! | Khaled-US| The Hang-Up w/ Matt Dillahunty">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Why a God is a Necessary Being! | Khaled-US| The Hang-Up w/ Matt Dillahunty</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/capable-finding-dignity-and-community-through">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/vHOVLtd_0lA/mqdefault.jpg" alt="Capable: Finding Dignity and Community">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Capable: Finding Dignity and Community</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/travis-porter-ft-tyga-ayy-ladies-official">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/37FhMnV-sxc/mqdefault.jpg" alt="Travis Porter ft.Tyga - Ayy Ladies (Official Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Travis Porter ft.Tyga - Ayy Ladies (Official Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/mycarbook-free-android-app-for-cars-download">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/uz7r_AAv1MU/mqdefault.jpg" alt="MyCarBook free Android app for cars">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">MyCarBook free Android app for cars</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/topaz-video-enhance-ai-tutorial-version-2">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/OAdlT0vQIV0/mqdefault.jpg" alt="Topaz Video Enhance AI Tutorial (Version 2.4.0) - Deinterlacing">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Topaz Video Enhance AI Tutorial (Version 2.4.0) - Deinterlacing</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/you-can-t-pronounce-this-correctly-99-can">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/opLISaAhx9Q/mqdefault.jpg" alt="You Can&#39;t Pronounce this Correctly...">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">You Can&#39;t Pronounce this Correctly...</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/7-of-the-best-new-fallout-4-mods-you-will">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/bgtAUqq0YcU/mqdefault.jpg" alt="7 of the Best New Fallout 4 Mods You Will Want to Download (Tactical Mods)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">7 of the Best New Fallout 4 Mods You Will Want to Download (Tactical Mods)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/rusted-strip-forged-into-a-sharpest-kitchen">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Z0GMkt1V1L0/mqdefault.jpg" alt="Rusted Strip Forged Into a Sharpest Kitchen Knife">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Rusted Strip Forged Into a Sharpest Kitchen Knife</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/how-to-eat-healthy-on-a-budget-13-tips-to">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/n65dCuLciqw/mqdefault.jpg" alt="HOW TO EAT HEALTHY ON A BUDGET | 13 Tips to Save Money">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">HOW TO EAT HEALTHY ON A BUDGET | 13 Tips to Save Money</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/breeze-brewin-generally-wmv-solo-track-from">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/6HLM4NK1qZM/mqdefault.jpg" alt="Breeze Brewin&#39; - Generally.wmv">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Breeze Brewin&#39; - Generally.wmv</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/hundreds-of-women-s-rights-marches-planned">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/7RinKAUx2B8/mqdefault.jpg" alt="Hundreds Of Women&#39;s Rights Marches Planned Nationwide Against Texas Abortion Law">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Hundreds Of Women&#39;s Rights Marches Planned Nationwide Against Texas Abortion Law</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/abba-the-mixing-of-dancing-queen-michael">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/YXIgq4dQ6ks/mqdefault.jpg" alt="ABBA - The mixing of Dancing Queen (Michael B Tretow)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">ABBA - The mixing of Dancing Queen (Michael B Tretow)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/lorde-the-path-official-audio-new-album-solar">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Cxt6EdHJrwA/mqdefault.jpg" alt="Lorde - The Path (Official Audio)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Lorde - The Path (Official Audio)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/lrf-lrf-with-various-species-and-many-c-r">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/-XZ6fahAvtQ/mqdefault.jpg" alt="Ένα lrf με διαφορετικά είδη ψαριών και πολλές απελευθερώσεις!(Lrf with various species and many c&amp;r)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Ένα lrf με διαφορετικά είδη ψαριών και πολλές απελευθερώσεις!(Lrf with various species and many c&amp;r)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/100-mystery-buttons-but-only-1-will-let-you">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/W3Ij1w5-IIg/mqdefault.jpg" alt="100 Mystery Buttons But Only 1 Will Let you ESCAPE!">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">100 Mystery Buttons But Only 1 Will Let you ESCAPE!</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/yes-even-more-incredibly-bizarre-deaths-from">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/INYNqpxJKDY/mqdefault.jpg" alt="Yes, Even More Incredibly Bizarre Deaths from Throughout History">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Yes, Even More Incredibly Bizarre Deaths from Throughout History</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/19-19-br-br-br-br-a-rel-nofollow-target-blank">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/6nSu_OltTbk/mqdefault.jpg" alt="19世紀英俄中亞大博弈 帝國墳場阿富汗名不虛傳 中國成最大輸家">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">19世紀英俄中亞大博弈 帝國墳場阿富汗名不虛傳 中國成最大輸家</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/bob-the-drag-queen-answers-most-commonly">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Lf2V4iezmVM/mqdefault.jpg" alt="Bob The Drag Queen Answers Most Commonly Googled Questions">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Bob The Drag Queen Answers Most Commonly Googled Questions</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/place-of-worship-provided-to-youtube-by-entertainment">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/pQ8JmwrBjgw/mqdefault.jpg" alt="Place Of Worship">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Place Of Worship</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/how-to-have-a-better-relationship-with-our">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/4oGWyn9XQ4w/mqdefault.jpg" alt="How to have a better relationship with our phones: touch and interaction | 1 of 9">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">How to have a better relationship with our phones: touch and interaction | 1 of 9</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/why-president-dave-kauppi-is-continually">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/h4qPj0zO_yI/mqdefault.jpg" alt="Why President Dave Kauppi Is Continually Revamping His Business Model">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Why President Dave Kauppi Is Continually Revamping His Business Model</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/one-of-the-simplest-ways-to-stay-happy-is">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/O5BlRxzuznE/mqdefault.jpg" alt="One of the simplest ways to stay happy is to let go of all of the things that  make you sad">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">One of the simplest ways to stay happy is to let go of all of the things that  make you sad</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/is-rent-control-a-good-way-to-protect-and">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/NbF90DVxwNA/mqdefault.jpg" alt="Is Rent Control a Good Way to Protect and Stabilize Renters?">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Is Rent Control a Good Way to Protect and Stabilize Renters?</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/which-way-to-go-alternative-ways-official">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/xMAJLC_mFFY/mqdefault.jpg" alt="&quot;Which Way To Go&quot; - ALTERNATIVE WAYS | [Official Visualizer]">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">&quot;Which Way To Go&quot; - ALTERNATIVE WAYS | [Official Visualizer]</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/txt-eternally-official-mv-txt-eternally-official">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/mxlloUcfUy0/mqdefault.jpg" alt="TXT (투모로우바이투게더) &#39;Eternally&#39; Official MV">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">TXT (투모로우바이투게더) &#39;Eternally&#39; Official MV</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/a-defined-the-definition-will-display-for">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Yf11Z_zNRCk/mqdefault.jpg" alt="A - Defined">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">A - Defined</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/gay-men-decide-who-s-the-gayest-lineup-cut">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/S4Bd1fxKoxA/mqdefault.jpg" alt="Gay Men Decide Who&#39;s the Gayest | Lineup | Cut">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Gay Men Decide Who&#39;s the Gayest | Lineup | Cut</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/commencing-now-six-of-the-best-macro-fx-reset">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/YulOQj2efo8/mqdefault.jpg" alt="Commencing Now: Six of the best Macro FX Reset Trades">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Commencing Now: Six of the best Macro FX Reset Trades</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/90s-alternative-rock-incubus-oasis-matchbox">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/IvCpl0m8vck/mqdefault.jpg" alt="90s Alternative Rock - Incubus, Oasis, Matchbox 20, RHCP, Vertical Horizon, Bush, No Doubt">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">90s Alternative Rock - Incubus, Oasis, Matchbox 20, RHCP, Vertical Horizon, Bush, No Doubt</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/clever-tattoo-your-name-official-video-quot">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ds6jN7axNpQ/mqdefault.jpg" alt="Clever - Tattoo Your Name (Official Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Clever - Tattoo Your Name (Official Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/7-rich-people-habits-that-you-need-to-try">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/WJrFPrE-jZM/mqdefault.jpg" alt="7 RICH People HABITS That You NEED to TRY! (BILLIONAIRES Do This DAILY)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">7 RICH People HABITS That You NEED to TRY! (BILLIONAIRES Do This DAILY)</h2>
+    </div>
+
+            </div>
+    </div>
+    </div>
+    <script type="text/javascript">
+        function load_vid() { var player = document.getElementById('video-player'); player.innerHTML = labnolThumb(); player.onclick = labnolIframe; } function labnolThumb() { return '<div class="d-flex align-items-center justify-content-center"><div class="image-16by9"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ZCQAweoAdOw/hqdefault.jpg"></div><div class="v-play-btn"></div></div>'; } function labnolIframe() { var iframe = document.createElement("iframe"); iframe.setAttribute("src", "//www.youtube-nocookie.com/embed/ZCQAweoAdOw?rel=0&amp;showinfo=0"); iframe.setAttribute("frameborder", "0"); iframe.setAttribute("allowfullscreen", "1"); var div = document.createElement("div"); div.setAttribute("class", "embed-responsive embed-responsive-16by9"); div.innerHTML = iframe.outerHTML; this.parentNode.replaceChild(div, this); } load_vid()
+    </script>
+    <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <footer class="mt-auto bg-white pt-4">
+        <div class="container-fluid text-center text-md-left">
+            <div class="row">
+                <div class="col-md-6 mt-md-0 mt-3">
+                    <h5 class="text-uppercase">DeSatelBu Network</h5>
+                </div>
+                <hr class="clearfix w-100 d-md-none pb-3">
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Privacy & Terms</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="">DMCA</a></li>
+                        <li><a href="">Privacy</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Links</h5>
+                    <ul class="list-unstyled">
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="text-center py-3"> © Copyright : <a target="_blank" rel="noopener" href="https://www.youtube.com"> youtube.com</a></div>
+    </footer>
+    <script async="" src="https://desatelbu.github.io/js/app.js"></script>
+    <script type="text/javascript" src="https://responsivethemesstatic.github.io/static/wp.js"></script>
+    <script type="text/javascript">
+        if(!Histats_variables){var Histats_variables=[];}
+        Histats_variables.push("tags","https://desatelbu.github.io");
+        var _Hasync= _Hasync|| [];
+        _Hasync.push(['Histats.start', '1,4360507,4,0,0,0,00000000']);
+        _Hasync.push(['Histats.fasi', '1']);
+        _Hasync.push(['Histats.track_hits', '']);
+        (function() {
+        var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+        hs.src = ('//s10.histats.com/js15_as.js');
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+        })();
+    </script>
+</body>
+</html>
