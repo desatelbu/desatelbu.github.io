@@ -1,0 +1,15 @@
+---
+title: "PFT Draft: Most anticipated Week 6 matchups | Pro Football Talk | NBC Sports"
+image: "https:\/\/i.ytimg.com\/vi\/5US_6GQ7P0w\/hqdefault.jpg"
+vid_id: "5US_6GQ7P0w"
+categories: "Sports"
+tags: ["NFL","pft","pro football talk"]
+date: "2021-10-15T14:46:08+03:00"
+vid_date: "2021-10-14T17:00:04Z"
+duration: "PT7M51S"
+viewcount: "6379"
+likeCount: "129"
+dislikeCount: "3"
+channel: "NBC Sports"
+---
+{% raw %}From a QB showdown in Baltimore to a big test for Bears DC Sean Desai, Mike Florio and Chris Simms share the Week 6 matchups they're most looking forward to. #ProFootballTalk #NBCSports #BaltimoreRavens<br />» Subscribe to NBC Sports: <a rel="nofollow" target="blank" href="https://www.youtube.com/nbcsports?sub_confirmation=1">https://www.youtube.com/nbcsports?sub_confirmation=1</a><br />» Watch Pro Football Talk live on Peacock weekdays 7a-9a: <a rel="nofollow" target="blank" href="https://bit.ly/2JpZZpo">https://bit.ly/2JpZZpo</a><br />» Get the latest from Pro Football Talk: <a rel="nofollow" target="blank" href="https://profootballtalk.nbcsports.com/">https://profootballtalk.nbcsports.com/</a><br /><br />NBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NHL, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more. Subscribe to our channel for the latest sporting news and highlights!<br /><br />Mike Florio, creator of the industry-leading Profootballtalk.com, offers his NFL insight alongside regular guests, including former NFL athletes such as Chris Simms. Pro Football Talk informs and entertains with the most up-to-date news and analysis surrounding the topical NFL stories of the day.<br /><br />Visit NBC Sports: <a rel="nofollow" target="blank" href="https://www.nbcsports.com">https://www.nbcsports.com</a><br />Find NBC Sports on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/NBCSports">https://www.facebook.com/NBCSports</a><br />Follow NBC Sports on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/nbcsports">https://twitter.com/nbcsports</a><br />Follow NBC Sports on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/nbcsports/">https://www.instagram.com/nbcsports/</a><br /><br /><a rel="nofollow" target="blank" href="https://www.nbcsports.com/nfl/sunday-night-football">https://www.nbcsports.com/nfl/sunday-night-football</a><br /><a rel="nofollow" target="blank" href="https://nbcsports.com/motors/nascar">https://nbcsports.com/motors/nascar</a><br /><a rel="nofollow" target="blank" href="https://nbcsports.com/soccer/premier-league">https://nbcsports.com/soccer/premier-league</a><br /><br />PFT Draft: Most anticipated Week 6 matchups | Pro Football Talk | NBC Sports<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/nbcsports">https://www.youtube.com/nbcsports</a>{% endraw %}
