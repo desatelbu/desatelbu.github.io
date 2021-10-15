@@ -1,0 +1,15 @@
+---
+title: "This keyboard cost me millions..."
+image: "https:\/\/i.ytimg.com\/vi\/7otIGCEtNwE\/hqdefault.jpg"
+vid_id: "7otIGCEtNwE"
+categories: "People-Blogs"
+tags: ["Nadeshot","nadeshot vlogs","Nadeshot vlog"]
+date: "2021-10-15T15:00:53+03:00"
+vid_date: "2021-10-14T20:16:46Z"
+duration: "PT9M55S"
+viewcount: "52742"
+likeCount: "3540"
+dislikeCount: "69"
+channel: "Nadeshot"
+---
+{% raw %}Hey guys, hope you enjoy this new unboxing video - definitely one of my most special unboxings. 100 Thieves has acquired Higround, a gaming peripheral company whose unique keyboards sit at the intersection of peripherals, collectibles and gaming culture. We've teamed up and created a 100 Thieves x Higround keyboard, jelly bag, and hoodie. In this video, I'm going to unbox the seeding kit with Higround founders, Rustin and Kha. This has been in the works for over a year and I couldn't be more excited for the future.<br /><br />The keyboard, jelly bag, and hoodie go on sale October 15th @ 12PM PST at <a rel="nofollow" target="blank" href="https://higround.co">https://higround.co</a><br /><br />Follow Higround:<br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/higround">https://twitter.com/higround</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/higround/">https://www.instagram.com/higround/</a><br />Website: <a rel="nofollow" target="blank" href="https://higround.co/">https://higround.co/</a><br /><br />Follow Rustin:<br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/rust1n">https://twitter.com/rust1n</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/rust1n">https://www.instagram.com/rust1n</a><br /><br />Follow Kha:<br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/khap0w">https://twitter.com/khap0w</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/khap0w">https://www.instagram.com/khap0w</a><br /><br />0:00 Intro<br />0:23 100 Thieves acquires Higround<br />1:08 Unboxing<br />2:43 Ascension is the best Halo 2 map<br />3:05 Unboxing<br />3:13 Keyboard<br />3:32 Jelly Bag<br />4:26 Custom keycap<br />4:58 Leonardo DiCaprio joins unboxing?<br />5:33 100 Thieves x Higround Collab<br />6:06 Keyboard Specs<br />7:58 Keyboard name reveal (live reaction)<br />8:19 Keyboard design<br />8:54 Outro<br /><br />My React Channel - <a rel="nofollow" target="blank" href="http://www.youtube.com/NadeshotPlays">http://www.youtube.com/NadeshotPlays</a><br /><br />Find me here!<br />Twitter - <a rel="nofollow" target="blank" href="http://www.twitter.com/Nadeshot">http://www.twitter.com/Nadeshot</a><br />Facebook - <a rel="nofollow" target="blank" href="http://www.facebook.com/Nadeshot">http://www.facebook.com/Nadeshot</a><br />Instagram - <a rel="nofollow" target="blank" href="http://www.instagram.com/Nadeshot">http://www.instagram.com/Nadeshot</a><br />Twitch - <a rel="nofollow" target="blank" href="http://www.twitch.tv/Nadeshot">http://www.twitch.tv/Nadeshot</a>{% endraw %}
