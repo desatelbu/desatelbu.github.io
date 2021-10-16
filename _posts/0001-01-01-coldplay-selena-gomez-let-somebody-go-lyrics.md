@@ -1,0 +1,15 @@
+---
+title: "Coldplay, Selena Gomez - Let Somebody Go (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/SDWyCWSDhX8\/hqdefault.jpg"
+vid_id: "SDWyCWSDhX8"
+categories: "Entertainment"
+tags: ["coldplay let somebody go","let somebody go coldplay","coldplay let somebody go lyrics"]
+date: "2021-10-16T09:59:57+03:00"
+vid_date: "2021-10-15T18:00:34Z"
+duration: "PT4M"
+viewcount: "22777"
+likeCount: "863"
+dislikeCount: "21"
+channel: "The Vibe Guide"
+---
+{% raw %}&quot;Coldplay - Let Somebody Go (feat. Selena Gomez)&quot; taken from Coldplay's album &quot;Music Of The Spheres&quot;. Lyrics:<br />When I called the mathematicians <br />And I asked them to explain <br />They say love is only equal to the pain...<br /><br />✖ Stream / Download:<br /><a rel="nofollow" target="blank" href="https://coldplay.lnk.to/MOTS">https://coldplay.lnk.to/MOTS</a><br /><br />✖ Follow Coldplay:<br /><a rel="nofollow" target="blank" href="https://twitter.com/coldplay">https://twitter.com/coldplay</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/coldplay">https://www.facebook.com/coldplay</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/coldplay">https://www.instagram.com/coldplay</a><br /><br />🎤  Lyrics:<br />We had a kind of love I thought that it would never end <br />Oh my lover, oh my other, oh my friend <br />We talked around in circles and <br />We talked around and then <br />I loved you to the moon and back again <br />You gave everything this golden glow <br />Now turn off all the stars, cause this I know...<br /><br />That it hurts like so, to let somebody go...<br /><br />All the storms we weathered <br />Everything that we went through <br />Now without you what on Earth am I to do <br />When I called the mathematicians <br />And I asked them to explain <br />They say love is only equal to the pain<br /> And when everything was going wrong <br />You could turn my sorrow into song...<br /><br />That it hurts like so, to let somebody go...<br /><br />To let somebody go <br />Oh, when you love somebody <br />When you love somebody <br />Got to let somebody know <br />Oh, when you love somebody <br />When you love somebody <br />Got to let somebody know <br /><br />So, when you love somebody <br />When you love somebody <br />Then it hurts like so <br />To let somebody go <br />It hurts like so <br />To let somebody go <br />But you’re still with me now I know <br />You’re still with me now I know...<br /><br />Read More at <a rel="nofollow" target="blank" href="http://lyricskpop.net">http://lyricskpop.net</a><br /><br />#Coldplay #SelenaGomez #LetSomebodyGo #lyrics #song<br /><br />coldplay let somebody go,let somebody go coldplay,coldplay let somebody go lyrics,let somebody go coldplay lyrics,coldplay,selena gomez,let somebody go,let somebody go lyrics,coldplay selena gomez,coldplay selena gomez let somebody go,lets somebody go coldplay selena gomez,selena,coldplay lyrics,coldplay songs,selena gomez lyrics,selena gomez songs,music of the spheres,music,lyrics{% endraw %}
