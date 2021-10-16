@@ -1,0 +1,15 @@
+---
+title: "Ilse DeLange - I Will Help You (official audio video)"
+image: "https:\/\/i.ytimg.com\/vi\/-W3RDkFQXLk\/hqdefault.jpg"
+vid_id: "-W3RDkFQXLk"
+categories: "Music"
+tags: ["ilse de lange","ilse delange","gravel and dust"]
+date: "2021-10-17T01:12:09+03:00"
+vid_date: "2021-03-25T23:00:01Z"
+duration: "PT3M30S"
+viewcount: "40881"
+likeCount: "943"
+dislikeCount: "7"
+channel: "Ilse DeLange"
+---
+{% raw %}Listen or download ‘I Will Help You’ here:<br /><a rel="nofollow" target="blank" href="https://ffm.to/iwillhelpyou">https://ffm.to/iwillhelpyou</a><br /><br />Follow Ilse DeLange:<br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/ilsedelange">https://www.instagram.com/ilsedelange</a> <br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/ilsedelange">https://www.facebook.com/ilsedelange</a><br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/ilsedelange">https://twitter.com/ilsedelange</a> <br />Website - <a rel="nofollow" target="blank" href="https://www.ilsedelange.com">https://www.ilsedelange.com</a> <br /> <br />Lyrics:<br />When you hurt bad<br />When you get stuck inside the silence alone<br />When you hurt bad<br />When you deny yourself of good things to come<br /><br />Before the damage starts to break you <br />And your ground it starts shake  <br />And you’re feeling like you’re someone else<br />When you hurt bad<br />When you hurt bad<br /><br />When you’re deep inside the forest<br />And no sun cuts through the trees<br />And your thoughts have got you lost<br />And you need someone to believe in <br />I’ll be standing right beside you<br />I will never let you go<br />I will never let you go<br /><br />I will help you, bring all the lights back to life<br />I will help you, put back the stars in your eyes<br />If you hear me calling, see me falling out sight<br />You’d say that I am not alone in this fight<br />And I’ll help you<br />It’s gonna be alright<br /><br />And I I feel love<br />I can feel the love beneath your skin<br />And I feel love<br />No matter how hard the pain tries to win<br /><br />You’re heart is just asleep<br />It’s in the backroom where you keep it<br />Buried under all the fears and the doubts<br />But I feel love<br /><br />When you’re deep inside the forest<br />And no sun cuts through the trees<br />And your thoughts have got your lost <br />And you need someone to believe in <br />I’ll be standing right beside you<br />I will never let you go<br />I will never let you go<br /><br />I will help you, bring all the lights back to life<br />I will help you, put back the stars in your eyes<br />If you hear me calling, see me falling out sight<br />You’d say that I am not alone in this fight<br />And I’ll help you<br />It’s gonna be alright<br /><br />Deep inside, there’s a always a fire burning<br />Hold on tight, you know the tide will turn<br /><br />I will help you, bring all the lights back to life<br />I will help you, put back the stars in your eyes<br />And I’ll help you, It’s gonna be alright<br /><br /><br />P&amp;C: 2021 Spark Records{% endraw %}
