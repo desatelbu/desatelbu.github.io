@@ -1,0 +1,15 @@
+---
+title: "The Sneakiest Foot Sweep Anyone Can Do - Travis Stevens Basic Judo Techniques"
+image: "https:\/\/i.ytimg.com\/vi\/7tcH-W7lNdw\/hqdefault.jpg"
+vid_id: "7tcH-W7lNdw"
+categories: "Sports"
+tags: ["travis","stevens","Travis Stevens"]
+date: "2021-10-16T20:42:43+03:00"
+vid_date: "2020-03-26T19:00:00Z"
+duration: "PT4M24S"
+viewcount: "64511"
+likeCount: "2402"
+dislikeCount: "30"
+channel: "Travis Stevens"
+---
+{% raw %}I hope you found this technique useful. If you're looking for more details on how you can improve your judo, check out my website www.judofanatics.com. Make sure you use the coupon code in the end screen of this video to save on any DVD purchase you make on the site. My goal is to help judo players and grapplers like yourself improve as quickly and as much as possible. I understand that not everyone has access to high-level coaching, so this is my attempt to help out as many people as possible! <br /><br />Make sure you join my YouTube Community for exclusive content and perks!<br />Level 1 - Gets you a special icon that lets everyone know your a valued member of the community!<br />Level 2 - Gets your YouTube Handle displayed on the end screen of my videos! <br />Level 3 - Let's you join a members-only live Q&amp;A once a month where I can work with you guys on how to improve your game. You can ask anything you like judo, bjj, nogi, sub only everything is on the table! <br />Click here to become a member: <a rel="nofollow" target="blank" href="https://bit.ly/JudoSilencer_Community">https://bit.ly/JudoSilencer_Community</a><br /><br />Submit Everyone BJJ Gi: <a rel="nofollow" target="blank" href="https://amzn.to/2FQKr99">https://amzn.to/2FQKr99</a><br /><br />Mizuno Judo Gi: <a rel="nofollow" target="blank" href="https://amzn.to/2TpBZWp">https://amzn.to/2TpBZWp</a><br /><br />Baseline Rashguards: <a rel="nofollow" target="blank" href="https://amzn.to/2TlNEFQ">https://amzn.to/2TlNEFQ</a><br />Baseline Shorts: <a rel="nofollow" target="blank" href="https://amzn.to/2ReoZAk">https://amzn.to/2ReoZAk</a><br />Baseline Spats: <a rel="nofollow" target="blank" href="https://amzn.to/2srqiUd">https://amzn.to/2srqiUd</a><br /><br />Finger Tape: <a rel="nofollow" target="blank" href="https://amzn.to/2NrYVAI">https://amzn.to/2NrYVAI</a><br /><br />Lightweight Backpack: <a rel="nofollow" target="blank" href="https://amzn.to/2RhWYYK">https://amzn.to/2RhWYYK</a><br /><br />BJJ Belts: <a rel="nofollow" target="blank" href="https://amzn.to/2QTPps0">https://amzn.to/2QTPps0</a><br /><br />Follow me on my other social media outlets: <br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/travisstevensjudo/">https://www.facebook.com/travisstevensjudo/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/judosilencer">https://twitter.com/judosilencer</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/judosilencer/">https://www.instagram.com/judosilencer/</a>{% endraw %}
