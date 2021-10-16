@@ -1,0 +1,15 @@
+---
+title: "Dottie Rambo, The Martins - Too Much to Gain to Lose (Live)"
+image: "https:\/\/i.ytimg.com\/vi\/rzlvjavDPMI\/hqdefault.jpg"
+vid_id: "rzlvjavDPMI"
+categories: "Music"
+tags: ["Bill","Gloria","Gaither"]
+date: "2021-10-16T17:02:21+03:00"
+vid_date: "2012-10-05T00:00:20Z"
+duration: "PT4M5S"
+viewcount: "634550"
+likeCount: "4223"
+dislikeCount: "184"
+channel: "GaitherVEVO"
+---
+{% raw %}Dottie Rambo, The Martins - Official Video for 'Too Much to Gain to Lose [Live]', available now!<br /><br />Buy the full length DVD/CD 'I'll Fly Away' Here: <a rel="nofollow" target="blank" href="http://smarturl.it/GM.IllFlyAway">http://smarturl.it/GM.IllFlyAway</a><br />Available at iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/GM.IllFlyAway.iT">http://smarturl.it/GM.IllFlyAway.iT</a><br /><br />Subscribe to Gaither Music YouTube Channel: <a rel="nofollow" target="blank" href="http://smarturl.it/GaitherMusicTV_Subsc">http://smarturl.it/GaitherMusicTV_Subsc</a><br />Subscribe to GaitherVEVO Channel: <a rel="nofollow" target="blank" href="http://smarturl.it/GaitherVEVOSubscribe">http://smarturl.it/GaitherVEVOSubscribe</a><br />Subscribe to Gaither TV: <a rel="nofollow" target="blank" href="http://smarturl.it/GaitherTV_Subscribe">http://smarturl.it/GaitherTV_Subscribe</a><br /><br />Follow Gaither Music for updates on your favorite artists.<br />Facebook: <a rel="nofollow" target="blank" href="http://smarturl.it/FB_GaitherMusic">http://smarturl.it/FB_GaitherMusic</a><br />Twitter: <a rel="nofollow" target="blank" href="http://smarturl.it/TW_GaitherMusic">http://smarturl.it/TW_GaitherMusic</a><br />Instagram: <a rel="nofollow" target="blank" href="http://smarturl.it/IG_GaitherMusic">http://smarturl.it/IG_GaitherMusic</a><br />Website: <a rel="nofollow" target="blank" href="http://smarturl.it/gaither.com">http://smarturl.it/gaither.com</a><br /><br />LYRICS:<br /><br />Too many miles behind me<br />Too many trials are through<br />Too many tears help me remember<br />There’s just too much to gain to lose.<br /><br />Too many sunsets lie behind the mountain<br />Too many rivers my feet have walked through<br />Too many treasures are waiting over yonder<br />There’s just too much to gain to lose.<br /><br />I’ve crossed the hot burning desert<br />Struggling the right road to choose<br />But somewhere up ahead, there’s cool, clear water<br />And defeat is one word I don’t use.<br /><br />Too many sunsets lie behind the mountain<br />Too many rivers my feet have walked through<br />Too many treasures are waiting over yonder<br />There’s just too much to gain to lose<br /><br />Music video by Bill &amp; Gloria Gaither performing Too Much to Gain to Lose (feat. Dottie Rambo and The Martins) [Live]. (P) (C) 2012 Spring House Music Group. All rights reserved. Unauthorized reproduction is a violation of applicable laws.  Manufactured by EMI Christian Music Group,<br /><br />#Gaither #TooMuchToGainToLose #Vevo #DottieRambo #TheMartins{% endraw %}
