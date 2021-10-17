@@ -1,0 +1,15 @@
+---
+title: "THE DIFFERENT KINDS OF FEAR YOU MUST OVERCOME TO FULFILL DESTINY - Apostle Joshua Selman"
+image: "https:\/\/i.ytimg.com\/vi\/DF0gTlTU4DY\/hqdefault.jpg"
+vid_id: "DF0gTlTU4DY"
+categories: "Music"
+tags: ["DIFFERENT","KINDS","OVERCOME"]
+date: "2021-10-17T18:52:05+03:00"
+vid_date: "2021-07-05T16:23:16Z"
+duration: "PT36M51S"
+viewcount: "137925"
+likeCount: "2993"
+dislikeCount: "82"
+channel: "KOINONIA WATCH TV"
+---
+{% raw %}This is a sermon you should not miss watching. Please listen to the end.<br /><br />like, share, comment and subscribe for more Contents 😍🥰<br /><br />this is a cut out clip from the sermon &quot;JUNE MIRACLE SERVICE&quot;<br /><br /><br />video credit: Victor Omebije<br /><br />For full Sermon and other sermons please visit his ministry website www.koinoniaglobal.com or the official YouTube channel at Koinonia global<br /><br /><br />Apostle Joshua Selman is the minister here and you can go to His ministry official YouTube channel @KoinoniaGlobal  for other powerful videos<br /><br /><br /><br />And if you have any questions about Apostle Joshua Selman or his ministry please use the contacts below.<br /><br /><br /><br />Public Relations Department: 08147214444 and 09077777853 <br /><br />Protocol Department: 07087777765 <br /><br />Media Department: 08100289892 <br /><br />Finance Department: 09065996660 <br /><br /><br /><br />Facebook <a rel="nofollow" target="blank" href="http://www.facebook.com/koinoniaeni">http://www.facebook.com/koinoniaeni</a> <br /><br />Instagram : @koinoniaglobal <br /><br />Twitter: @koinoniaeni <br /><br />Youtube: @koinoniaglobal<br /><br /><br /><br />Here are other videos you will be blessed by<br /><br /><br /><br />PRAYERS AGAINST LIMITATIONS OF LIFE<br /><br /><a rel="nofollow" target="blank" href="https://youtu.be/N7esLepaaqw">https://youtu.be/N7esLepaaqw</a><br /><br /><br /><br />GENUINE BROKENNESS<br /><br /><a rel="nofollow" target="blank" href="https://youtu.be/svcrjgJjIIA">https://youtu.be/svcrjgJjIIA</a><br /><br /><br /><br />WHAT POVERTY TRULY IS AND HOW TO BREAK FREE FROM IT<br /><br /><a rel="nofollow" target="blank" href="https://youtu.be/ClNahrSv8c0">https://youtu.be/ClNahrSv8c0</a><br /><br /><br /><br />3 WAYS TO DISCERN THE WILL OF GOD<br /><br /><a rel="nofollow" target="blank" href="https://youtu.be/MD-xwK_aDNw">https://youtu.be/MD-xwK_aDNw</a><br /><br /><br /><br />HOW TO EFFECTIVELY LISTEN TO RECORDED SERMONS<br /><br /><a rel="nofollow" target="blank" href="https://youtu.be/IvzjEYZ1d4Q">https://youtu.be/IvzjEYZ1d4Q</a><br /><br /><br /><br />HOW TO BRUISE THE HEAD OF THE SERPENT<br /><br /><a rel="nofollow" target="blank" href="https://youtu.be/DHaO31-5HEw">https://youtu.be/DHaO31-5HEw</a><br /><br /><br /><br />Koinonia Watch TV is an Apostolic platform to bring believers into Intimacy with the Lord Jesus and we are saddled with the responsibility of uploading contents that will be a blessing to you and bring you into your God ordained destinies.<br /><br /><br /><br />please subscribe @KOINONIA WATCH TV  and be blessed as you see out contents.{% endraw %}
