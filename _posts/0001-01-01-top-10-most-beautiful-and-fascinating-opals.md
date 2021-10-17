@@ -1,0 +1,15 @@
+---
+title: "Top 10 | Most Beautiful and Fascinating  Opals  Around the World"
+image: "https:\/\/i.ytimg.com\/vi\/0LyymS5KkZo\/hqdefault.jpg"
+vid_id: "0LyymS5KkZo"
+categories: "Education"
+tags: ["top 10","top","opal"]
+date: "2021-10-17T10:35:34+03:00"
+vid_date: "2021-10-17T02:35:18Z"
+duration: "PT16M43S"
+viewcount: "576"
+likeCount: "79"
+dislikeCount: "2"
+channel: "Andrew Pidor"
+---
+{% raw %}Dear viewers! Today we will traditionally talk about one of the most beautiful stones — OPAL STONE — The queen of all gemstones.<br />Opal stone is a gem, colored as space, rainbow, and it indeed relates to something extraordinarily magical.<br /><br />Opal stone doesn’t have any crystal structure that other natural minerals possess. It ranks low on the Mohs scale of hardness.<br />It is impossible to ignore the beautiful dance of colors that happens with every movement, called the opalescence effect.<br /><br />Rainbow modulations, changing at the smallest rotation of the opal stone, are caused by the refraction of light to submicroscopic particles of silica.<br />The opals that experience such effects are called noble and go to the category of precious stones.<br /><br />There are many different types of natural opals viz., Ethiopian, matrix, Harlequin, Contra-luz, Morado, Andamooka, and Honduran Opal.<br />Ethiopian Opal Stones<br /><br />Australia has been the dominant power in the opal market for over 100 years. During the early time, as much as 95% of the standard opal production has been worked in Australia.<br /><br />Today, Ethiopia is on its way to developing the second largest opal market in the world.<br />A small discovery in 1994 has put Ethiopia on the universal opal map. This achievement was followed by some evident developments in 2008 and 2013.<br />These are now producing beautiful precious Opal, fire opal, and black Opal with spectacular play-of-color in a variety of patterns and textures.<br />Ethiopian opals are not only attractive, but they usually cost less than similar-quality Opal from Australia.<br />Opal from this area occurs in a wide range of colors. Mostly, these Opals are of brown, red, or orange-colored, but yellow, white, and transparent colors are also very common.<br /><br />Sources:<br />1) <a rel="nofollow" target="blank" href="https://www.opalauctions.com">https://www.opalauctions.com</a><br />2) <a rel="nofollow" target="blank" href="https://nayturr.com/types-of-opals/">https://nayturr.com/types-of-opals/</a><br />3) The World of Opals: Eckert, Allan W. <br />4) <a rel="nofollow" target="blank" href="https://www.gemologyonline.com/books8.html">https://www.gemologyonline.com/books8.html</a><br />5) <a rel="nofollow" target="blank" href="https://store.nationalopal.com/category/537-opal-books">https://store.nationalopal.com/category/537-opal-books</a><br />6) <a rel="nofollow" target="blank" href="https://www.opalemio.com/en/content/16-Opals-classification-and-measuremente">https://www.opalemio.com/en/content/16-Opals-classification-and-measuremente</a><br /><br />Credits to: <br />1)  Pulitzer Opal<br />2) Discovery Australia<br /><br />#AndrewPidor #Pulitzer Opal{% endraw %}
