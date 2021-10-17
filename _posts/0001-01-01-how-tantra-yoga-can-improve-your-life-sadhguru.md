@@ -1,0 +1,15 @@
+---
+title: "How Tantra Yoga Can Improve Your Life | Sadhguru"
+image: "https:\/\/i.ytimg.com\/vi\/eOKZ69IfSjE\/hqdefault.jpg"
+vid_id: "eOKZ69IfSjE"
+categories: "Education"
+tags: ["Sadhguru","sync mind","sadhguru meditation"]
+date: "2021-10-17T17:25:05+03:00"
+vid_date: "2021-10-17T14:00:11Z"
+duration: "PT11M7S"
+viewcount: "354"
+likeCount: "28"
+dislikeCount: "0"
+channel: "Sync Mind - Binaural Beats Meditation"
+---
+{% raw %}Sadhguru talks about the significance of Tantra, and How Tantra Yoga Can Improve Your Life. He explains that Tantra essentially focused on creating a higher mind, making an intelligence beyond my present capabilities available.<br /><br />★ Background music and binaural beats frequency created by Sync Mind Team.<br /><br />Chapters:<br />00:00 - Intro<br />00:30 - The significance of Tantra<br />05:36 - Rethinking Tantra concepts<br />09:00 - How Tantra Yoga Can Improve Your Life<br /><br />► This audio session combines eye-opening speeches with binaural beats technology. Designed to inspire, motivate, and help people to reprogram their minds.<br /><br />📌  Benefits of this session: 5.5 Hz (Theta Waves)<br />►  Moving beyond knowledge to knowing (total knowing), <br />►  Clarity of vision of needed growth and direction,<br />►  Inner guidance and readiness to evolve spiritually;<br />►  Enhanced intuition.<br /><br />🎧  Works better when Listening Before Falling Asleep.<br />► Please use headphones and Listen Carefully. For maximum effect, we suggest replaying it for at least 21 days in a row.<br /><br />► Subscribe to our channel here:<br />🔗  <a rel="nofollow" target="blank" href="https://www.youtube.com/c/SyncMind">https://www.youtube.com/c/SyncMind</a><br /><br />► FOLLOW US:<br />🔗  Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/syncmindaudio/">https://www.instagram.com/syncmindaudio/</a><br /><br />► About Sadhguru:<br />Sadhguru, a yogi, mystic, poet, and visionary humanitarian is a spiritual master with a difference. His life and work are a possibility for each individual to experience the peace and joy that pervades the core of every human being. Sadhguru's vision is that everyone receives 'one drop of spirituality,' allowing them to transform their lives and take their destiny into their hands.<br />📎  Link: isha.sadhguru.org/global/en<br />📎  Link: www.innerengineering.com/<br /><br />📌  Sync Mind Audio has the owner's authorization to use this video on any distribution or channels – offline and online – and monetize them as well.<br /><br />★ Support Our Channel!<br />► Reprogram your Mind - The Secret Key to Manifestation<br />🔗  <a rel="nofollow" target="blank" href="https://syncmindglobal.com/reprogram-mind-key/">https://syncmindglobal.com/reprogram-mind-key/</a><br /><br />► Free 60 Minute Alpha Waves - Improve Your Memory<br />🔗  <a rel="nofollow" target="blank" href="https://syncmindglobal.com/sync-mind-free-bonus/">https://syncmindglobal.com/sync-mind-free-bonus/</a><br /><br />#sadhguru #syncmind #binauralbeats # sadhguru sync mind{% endraw %}
