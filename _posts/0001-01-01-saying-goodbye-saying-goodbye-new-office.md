@@ -1,0 +1,15 @@
+---
+title: "Saying Goodbye…"
+image: "https:\/\/i.ytimg.com\/vi\/1wWZfVfDVkw\/hqdefault.jpg"
+vid_id: "1wWZfVfDVkw"
+categories: "Gaming"
+tags: ["Saying","Goodbye…"]
+date: "2021-10-18T21:53:42+03:00"
+vid_date: "2021-10-17T22:21:00Z"
+duration: "PT10M31S"
+viewcount: "449774"
+likeCount: "28992"
+dislikeCount: "724"
+channel: "Ali-A"
+---
+{% raw %}Saying Goodbye - New office, getting married + more!<br />➖ All my gaming gear! ➖<br />🎧 The headset I use - <a rel="nofollow" target="blank" href="https://www.turtlebeach.com/">https://www.turtlebeach.com/</a><br />📷 How I record my gameplay - <a rel="nofollow" target="blank" href="http://e.lga.to/a">http://e.lga.to/a</a><br />🕹 Improve your aim (10% off) - <a rel="nofollow" target="blank" href="http://www.kontrolfreek.com/discount/ali-a">http://www.kontrolfreek.com/discount/ali-a</a><br />🎮 My controller - <a rel="nofollow" target="blank" href="https://scuf.co/AliA">https://scuf.co/AliA</a> (Use &quot;ALIA&quot; for discount)<br />🐯 My PC gaming gear - <a rel="nofollow" target="blank" href="https://en.roccat.org/">https://en.roccat.org/</a> (Code &quot;ALIA&quot; for 10% off)<br /><br />Hey there - I'm Ali-A! Thanks for watching one of my videos! :) I make daily gaming videos and have a load of fun doing it. Make sure you're checking out more of my videos and &quot;SUBSCRIBE&quot; to be notified every time I upload. Thanks - Enjoy the video! :D<br /><br />#UseCodeAliA<br /><br />➖ Ali-A Fortnite Maps! ➖<br />🔨 Ali-A Gun Game!                         -   9378-2655-7894<br />🔨 Ali-A World!                                 -    6799-0061-6728<br />🔨 Ali-A Box Fight 1v1                    -    2345-5663-8681<br />🔨 Ali-A Box Fight 2v2 to 5v5        -    2066-1508-4270<br />🔨 Ali-A Box Fight 16 Players        -    0354-3907-1263<br />🔨 Ali-A Box Fight 16 (Respawn)  -    7211-0450-1109<br /><br />➖ Follow me! ➖<br />📘 Facebook - <a rel="nofollow" target="blank" href="http://facebook.com/AliAarmy">http://facebook.com/AliAarmy</a><br />🐥 Twitter - <a rel="nofollow" target="blank" href="http://www.twitter.com/OMGitsAliA">http://www.twitter.com/OMGitsAliA</a><br />🎵 TikTok - <a rel="nofollow" target="blank" href="https://tiktok.com/@alia">https://tiktok.com/@alia</a><br />📸 Instagram - <a rel="nofollow" target="blank" href="http://instagram.com/AliA">http://instagram.com/AliA</a><br />👾 Join the Ali-A Discord - <a rel="nofollow" target="blank" href="https://discord.gg/AliA">https://discord.gg/AliA</a><br />👕 Ali-A Merch - <a rel="nofollow" target="blank" href="http://Ali-A.shop">http://Ali-A.shop</a><br /><br />➖ Intro Music (Listen/Download here) ➖ <br />🎵 <a rel="nofollow" target="blank" href="https://youtube.com/FutureHouseMusic">https://youtube.com/FutureHouseMusic</a><br />🎶 <a rel="nofollow" target="blank" href="https://www.youtube.com/SpinninRec">https://www.youtube.com/SpinninRec</a><br /><br />Subscribe for more videos!<br />- Ali-A<br /><br /><br />---<br />Video uploaded &amp; owned by Ali-A. (PG, Family Friendly + No Swearing!){% endraw %}
