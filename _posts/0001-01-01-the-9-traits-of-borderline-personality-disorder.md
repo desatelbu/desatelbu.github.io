@@ -1,0 +1,15 @@
+---
+title: "The 9 Traits of Borderline Personality Disorder"
+image: "https:\/\/i.ytimg.com\/vi\/IGv2O0ECQ-c\/hqdefault.jpg"
+vid_id: "IGv2O0ECQ-c"
+categories: "Education"
+tags: ["borderline personality disorder","bpd","mental health"]
+date: "2021-10-18T05:57:15+03:00"
+vid_date: "2021-10-17T14:30:04Z"
+duration: "PT6M16S"
+viewcount: "5713"
+likeCount: "453"
+dislikeCount: "6"
+channel: "BRAINY DOSE"
+---
+{% raw %}Borderline Personality Disorder (BPD) is perhaps the most misunderstood mental health condition in our society. Because of the similarities to other conditions, particularly mood disorders, borderline personality disorder can be challenging to diagnose. Therefore, knowing how to spot the 9 traits of borderline personality disorder is a good place to start.<br /><br />Typically, diagnosis is based on the signs and symptoms that have been present since adolescence or early adulthood and appear in multiple contexts. BPD impacts not just one area of their life but several, from the workplace to home and family.<br /><br />So, if any of these signs of borderline personality disorder resonate with you, it's a good idea to get in touch with a licensed mental health professional.<br /><br />-------------------------------------------------------------------------------------------------------------<br /><br />If you are having suicidal thoughts, contact the National Suicide Prevention Lifeline at 1-800-273-TALK in the U.S. or visit <a rel="nofollow" target="blank" href="https://suicidepreventionlifeline.org">https://suicidepreventionlifeline.org</a> for support and assistance. If you or a loved one are in immediate danger, call 911.<br /><br />-------------------------------------------------------------------------------------------------------------<br /><br /><br />OTHER VIDEOS TO WATCH:<br /><br />12 Mental Illness Signs You Should Not Ignore:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=hGOQpHNRF8I">https://www.youtube.com/watch?v=hGOQpHNRF8I</a><br /><br />10 Signs You're Emotionally Wounded:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=qAkwCx_mU4U">https://www.youtube.com/watch?v=qAkwCx_mU4U</a><br /><br />10 Reasons Why You Feel Empty:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=T_dsU5Ts1O4">https://www.youtube.com/watch?v=T_dsU5Ts1O4</a><br /><br /><br />------------------------------------------------------------------<br /><br />Subscribe To Our Channel for More Videos Like This!<br /><br />TWITTER: <br /><a rel="nofollow" target="blank" href="http://www.twitter.com/brainydose">http://www.twitter.com/brainydose</a><br /><br />FACEBOOK:<br /><a rel="nofollow" target="blank" href="http://www.facebook.com/brainydose">http://www.facebook.com/brainydose</a><br /><br />INSTAGRAM: <br /><a rel="nofollow" target="blank" href="http://www.instagram.com/brainydose">http://www.instagram.com/brainydose</a><br /><br />Audio &amp; Video Production by Brainy Dose<br /><br />------------------------------------------------------------------{% endraw %}
