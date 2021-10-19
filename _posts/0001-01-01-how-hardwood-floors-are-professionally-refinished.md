@@ -1,0 +1,15 @@
+---
+title: "How Hardwood Floors Are Professionally Refinished"
+image: "https:\/\/i.ytimg.com\/vi\/pdxx7k7PRcs\/hqdefault.jpg"
+vid_id: "pdxx7k7PRcs"
+categories: "Howto-Style"
+tags: ["INSIDER","hardwood","wood"]
+date: "2021-10-19T11:30:42+03:00"
+vid_date: "2021-06-04T16:00:24Z"
+duration: "PT3M28S"
+viewcount: "25050"
+likeCount: "370"
+dislikeCount: "18"
+channel: "Art Insider"
+---
+{% raw %}Wix Flooring specializes in installing, repairing, and refinishing wood flooring. The floor is prepped by sanding, buffing, and using wood filler to fix scratches and imperfections. Then one coat of stain is applied and finished off with polyurethane to protect the wood floors.<br /><br />MORE ART INSIDER VIDEOS:<br />How Fake Grass Is Installed And Cleaned<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=ELsdLDuYoO8">https://www.youtube.com/watch?v=ELsdLDuYoO8</a><br />How Professionals Clean And Maintain Cuticles<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=E5O_PoOUzuI">https://www.youtube.com/watch?v=E5O_PoOUzuI</a><br />How Plastic Bags Are Crocheted Into Sustainable Accessories<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=QbwFv10U5fY">https://www.youtube.com/watch?v=QbwFv10U5fY</a><br /><br />------------------------------------------------------<br /><br />#Hardwood #Flooring #ArtInsider<br /><br />Insider is great journalism about what passionate people actually want to know. That’s everything from news to food, celebrity to science, politics to sports and all the rest. It’s smart. It’s fearless. It’s fun. We push the boundaries of digital storytelling. Our mission is to inform and inspire.<br /><br />Subscribe to our channel and visit us at: <a rel="nofollow" target="blank" href="https://www.insider.com">https://www.insider.com</a><br />Art Insider on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/thisisinsiderart/">https://www.facebook.com/thisisinsiderart/</a><br />Art Insider on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/insiderart/">https://www.instagram.com/insiderart/</a><br />Insider on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/thisisinsider">https://twitter.com/thisisinsider</a><br />Art Insider on Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/discover/Art_Insider/0056073235">https://www.snapchat.com/discover/Art_Insider/0056073235</a><br />Insider on Amazon Prime: <a rel="nofollow" target="blank" href="https://www.amazon.com/v/thisisinsider">https://www.amazon.com/v/thisisinsider</a><br />Insider on TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@insider">https://www.tiktok.com/@insider</a><br />Art Insider on Dailymotion: <a rel="nofollow" target="blank" href="https://www.dailymotion.com/artinsider">https://www.dailymotion.com/artinsider</a><br /><br />How Hardwood Floors Are Professionally Refinished{% endraw %}
