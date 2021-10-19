@@ -1,0 +1,15 @@
+---
+title: "The Top 3 Valuation Methods of a Company | Phil Town"
+image: "https:\/\/i.ytimg.com\/vi\/mco9_E88lXs\/hqdefault.jpg"
+vid_id: "mco9_E88lXs"
+categories: "Education"
+tags: ["investing","how to invest","learn to invest"]
+date: "2021-10-19T07:01:30+03:00"
+vid_date: "2021-10-15T16:48:11Z"
+duration: "PT13M10S"
+viewcount: "7683"
+likeCount: "466"
+dislikeCount: "2"
+channel: "Phil Town's Rule #1 Investing"
+---
+{% raw %}Picking stocks is not like picking companies out of a hat. That’s why in this video, I want to discuss my top 3 valuation methods of a company that as a Rule #1 investor, you absolutely must know. <a rel="nofollow" target="blank" href="https://bit.ly/3oGVsS9">https://bit.ly/3oGVsS9</a><br /> <br />Learn how to pick stocks the Rule #1 way with my Value Investing Cheat Sheet! Click the link above to get started.<br /><br />#investing #stockmarket <br /><br />_____________<br /> <br />Looking to master investing? Attend one of my 2-Day Transformational Investing Workshops, virtually! Reserve your seat here: <a rel="nofollow" target="blank" href="https://bit.ly/r1-virtual-workshop">https://bit.ly/r1-virtual-workshop</a><br /><br />_____________<br /><br />I'm now on Clubhouse! Give me a follow: @philtown — see you there! <br /><br />_____________ <br /><br />Timestamps <br /><br />00:00 - Intro <br />02:38 - Real estate<br />04:13 - Margin of safety<br />06:19 - Capitalization rate of return <br />10:16 - Pay back time<br />11:21 - Things to know when looking at pay back time<br />12:36 - Question<br /><br />_____________ <br /><br />Learn more: <br /><br />Subscribe to my channel for free stuff, tips and more!<br />YouTube: <a rel="nofollow" target="blank" href="http://budurl.com/kacp">http://budurl.com/kacp</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/rule1investing">https://www.facebook.com/rule1investing</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/ruleoneinvesting">https://instagram.com/ruleoneinvesting</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/Rule1_Investing">https://twitter.com/Rule1_Investing</a><br />Pinterest: <a rel="nofollow" target="blank" href="http://www.pinterest.com/rule1investing">http://www.pinterest.com/rule1investing</a><br />LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/company/rule-1-investing">https://www.linkedin.com/company/rule-1-investing</a><br />Blog: <a rel="nofollow" target="blank" href="http://bit.ly/1YdqVXI">http://bit.ly/1YdqVXI</a><br />Podcast: <a rel="nofollow" target="blank" href="http://bit.ly/1KYuWb4">http://bit.ly/1KYuWb4</a><br /><br />Buy my bestselling book Rule #1: <a rel="nofollow" target="blank" href="https://amzn.to/2R9Gofj">https://amzn.to/2R9Gofj</a><br /><br />Shopping through my Amazon link is one of the best ways to support my YouTube channel!<br /><br />Investing in stocks, how to invest money, investing for beginners, investing explained, how to invest in stocks, investing 101{% endraw %}
