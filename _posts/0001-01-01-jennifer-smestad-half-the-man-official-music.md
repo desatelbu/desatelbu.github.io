@@ -1,0 +1,15 @@
+---
+title: "Jennifer Smestad - Half The Man (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/Oqrn5cHrHZc\/hqdefault.jpg"
+vid_id: "Oqrn5cHrHZc"
+categories: "Music"
+tags: ["half the man","jennifer smestad","records"]
+date: "2021-10-19T18:54:02+03:00"
+vid_date: "2020-06-20T17:29:45Z"
+duration: "PT3M36S"
+viewcount: "4913221"
+likeCount: "56494"
+dislikeCount: "790"
+channel: "Jennifer Smestad"
+---
+{% raw %}The official Music Video for &quot;Half The Man&quot; by Jennifer Smestad.<br /><br />“Half The Man” is available everywhere! Listen here: <a rel="nofollow" target="blank" href="https://js.lnk.to/HalfTheManAY">https://js.lnk.to/HalfTheManAY</a> <br /><br />Connect with Jennifer Smestad: <br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/jennifersmestad">https://www.instagram.com/jennifersmestad</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/JenniferSmestad">https://twitter.com/JenniferSmestad</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/JenniferSmestadOfficial">https://www.facebook.com/JenniferSmestadOfficial</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@jennifersmestad">https://www.tiktok.com/@jennifersmestad</a><br />Website: <a rel="nofollow" target="blank" href="http://www.jennifersmestad.com">http://www.jennifersmestad.com</a><br /><br />“Half The Man” Lyrics:<br /><br />(Verse)<br />Growing up there wasn’t much my daddy couldn’t fix<br />If it wouldn’t work he’d make the old look new again<br />The house, the fence, the bike, the car<br />The little girl tears from a broken heart<br /><br />(Chorus)<br />Daddy set the bar real high<br />Showed me what a real man looks like<br />It’s gonna take one to fill those shoes<br />In his eyes nothing less will do<br />He’s gotta be a man of God<br />Keep it tied when he ties that knot<br />Lucky as a girl’s ever gonna get<br />To love a man that’s half the man that my daddy is<br /><br />(Verse)<br />It’s never gonna fly if he’s the kind of guy that doesn’t fish<br />He better keep his word, ain’t afraid to work, and knows who he is<br />Strong with his hands, gentle with his touch<br />No such thing as loving me too much<br /><br />(Chorus)<br />Daddy set the bar real high<br />Showed me what a real man looks like<br />It’s gonna take one to fill those shoes<br />In his eyes nothing less will do<br />He’s gotta be a man of God<br />Keep it tied when he ties that knot<br />Lucky as a girl’s ever gonna get<br />To love a man that’s half the man that my daddy is<br /><br />(Bridge)<br />A man of few words, a man who leads<br />The man he is, is who he wants for me<br /><br />(Chorus)<br />Daddy set the bar real high<br />Showed me what a real man looks like<br />It’s gonna take one to fill those shoes<br />In his eyes nothing less will do<br />He’s gotta be a man of God<br />Keep it tied when he ties that knot<br />Lucky as a girl’s ever gonna get<br />To love a man that’s half the man that my daddy is<br />To find a man that’s half the man that my daddy is{% endraw %}
