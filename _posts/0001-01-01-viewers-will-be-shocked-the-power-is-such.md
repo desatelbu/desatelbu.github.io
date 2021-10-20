@@ -1,0 +1,15 @@
+---
+title: "Viewers will be shocked, the power is such that it is not handled | Vinod Prochia Ministry"
+image: "https:\/\/i.ytimg.com\/vi\/IT-rpcKWEVI\/hqdefault.jpg"
+vid_id: "IT-rpcKWEVI"
+categories: "People-Blogs"
+tags: ["Live Sunday Meeting","sunday service meeting","Apostle Vinod Prochia"]
+date: "2021-10-20T15:00:49+03:00"
+vid_date: "2021-10-20T10:30:03Z"
+duration: "PT21M15S"
+viewcount: "571"
+likeCount: "166"
+dislikeCount: "2"
+channel: "Vinod Prochia Ministry"
+---
+{% raw %}Sabhi Prabhu ke bete aur betio ko praise the lord. Humare channel mei aap bhut se sermon ,vachan, prayer se apke jeewan mei agge baddne ke liye maddad milegi aur prabhu yeshu ji ke anugreh ke dwara prabhu ke daas #apostlevinodprochia ji ke dwara ki gye prayer , sermon apko nya jeewan dega aur apko ashisho se bhar dega. Video ko dekhne wale sabhi bimar change honge aur jeewan ki har pareshania aj se khatam ho jaege. Humari video ko vishwas ke sath dekhe aur grehn kare aur ashisho ko paate rahe.<br />Vinod Prochia Ministries<br />Date -   20/ 10 / 2021<br />For more kind of information you can visit our given below links:-<br />1. <a rel="nofollow" target="blank" href="https://youtu.be/GsXz_zqbbRg">https://youtu.be/GsXz_zqbbRg</a><br />2. <a rel="nofollow" target="blank" href="https://youtu.be/uduSmMCxnkU">https://youtu.be/uduSmMCxnkU</a><br />3. <a rel="nofollow" target="blank" href="https://youtu.be/m-hybHSuhXk">https://youtu.be/m-hybHSuhXk</a><br /><br />Friends After watching our video you will surly click our Youtube channel link<br /><a rel="nofollow" target="blank" href="https://bit.ly/3sd57i8">https://bit.ly/3sd57i8</a><br /><br />#vinodprochia​ #sermon​ #prayer #video #socialmedia #instagram  #healing <br />Join this channel to get access to perks:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCliyg7E0pdNwrO1PVI0vx1w/join">https://www.youtube.com/channel/UCliyg7E0pdNwrO1PVI0vx1w/join</a><br /><br />Our mission is to save souls for the kingdom of God. #Ministering #Teaching #Prayer #Share the Gospel to save a Soul.<br /><br />Sunday and Thursday church services<br /><br />Sunday Meeting Time<br />9:00 AM to 1:00 PM<br /><br />Thursday Meeting Time<br />6:00 PM to 8:00 PM<br /><br />For Donation Vinod Prochia Ministries<br />Google Pay No.8837857284<br /><br />Church Address:- Shop No : 102 Ram Leela Ground Baltana ( Zirakpur) P.B.140604.<br /><br />Whatsapp No:- +919888805917 (Only Message)<br /><br />Prayer Request Phone Number:-<br />+91  8800889348 <br /><br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/VinodProchiaMinistry">https://www.youtube.com/c/VinodProchiaMinistry</a><br /><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/VinodProchiaMinistries">https://www.facebook.com/VinodProchiaMinistries</a><br /><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/vinodprochiaministry/?hl=en">https://www.instagram.com/vinodprochiaministry/?hl=en</a><br /><br />#LiveSundayMeeting, #subscribers #ProphetTBJoshua ,<br />#PropheTbJoshuaVision #masihgeet{% endraw %}
