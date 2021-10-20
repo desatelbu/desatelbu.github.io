@@ -1,0 +1,15 @@
+---
+title: "Irjg virus (ransomware). How to decrypt .Irjg files. Irjg File Recovery Guide."
+image: "https:\/\/i.ytimg.com\/vi\/7W2BrYDljlc\/hqdefault.jpg"
+vid_id: "7W2BrYDljlc"
+categories: "Science-Technology"
+tags: ["irjg virus","irjg ransomware","irjg"]
+date: "2021-10-20T17:56:41+03:00"
+vid_date: "2021-10-17T13:43:12Z"
+duration: "PT7M26S"
+viewcount: "5685"
+likeCount: "68"
+dislikeCount: "8"
+channel: "myantispyware"
+---
+{% raw %}This is a video guide that demonstrates How to remove Irjg virus (ransomware), Decrypt .irjg files for free, Recover ransomware encrypted files. This guide is based on the instructions posted on Myantispyware.com: <a rel="nofollow" target="blank" href="https://www.myantispyware.com/2021/10/17/how-to-remove-irjg-ransomware-decrypt-irjg-files/">https://www.myantispyware.com/2021/10/17/how-to-remove-irjg-ransomware-decrypt-irjg-files/</a><br /><br /><br />Irjg virus (Irjg ransomware) is a new malware that encrypts victims' files and thus locks up the information contained in them.<br /><br /><br /><br />The Video Guide Contents:<br />1. What is .irjg file extension/Irjg ransomware 0:00<br />2. How to remove Irjg virus (ransomware) 00:42<br />2.1. Kill Irjg virus 00:48<br />2.2. Disable Irjg ransomware Start-Up 01:09<br />2.3. Delete Irjg ransomware Task 01:27<br />2.4. Remove Irjg virus 01:53<br /><br />3. How to recover encrypted files 02:52<br />3.1. Decrypt .irjg files 03:04<br />3.2. Recover .irjg files using ShadowExplorer 3:57<br />3.3. Recover .irjg files using PhotoRec 5:10<br /><br />Links to FREE tools used in this guide:<br /><br />1. Irjg File Decrypt Tool (EmsiSoft STOP Djvu decryptor) - <a rel="nofollow" target="blank" href="https://www.myantispyware.com/2019/10/21/emsisoft-stop-djvu-ransomware-decryptor-free-way-to-decrypt-encrypted-files/">https://www.myantispyware.com/2019/10/21/emsisoft-stop-djvu-ransomware-decryptor-free-way-to-decrypt-encrypted-files/</a><br /><br />2. ShadowExplorer - <a rel="nofollow" target="blank" href="https://www.myantispyware.com/download/shadowexplorer">https://www.myantispyware.com/download/shadowexplorer</a><br />3. PhotoRec - <a rel="nofollow" target="blank" href="https://www.myantispyware.com/download/photorec/">https://www.myantispyware.com/download/photorec/</a><br />4. Free malware removal tools - <a rel="nofollow" target="blank" href="https://www.myantispyware.com/2018/04/23/best-free-malware-removal-tools/">https://www.myantispyware.com/2018/04/23/best-free-malware-removal-tools/</a><br /><br /><br />If your Task Manager does not open or the Windows reports &quot;Task manager has been disabled by your administrator&quot;, then follow the guide <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=IItmuPhY0WA">https://www.youtube.com/watch?v=IItmuPhY0WA</a><br /><br />====================<br />Subscribe to this channel or to our Facebook channel (facebook.com/myantispyware) to learn about new ways to decrypt/recover .irjg files.<br />==========================<br /><br /><br />!!! Be sure to scan your computer for malware before trying to decrypt or restore files.{% endraw %}
