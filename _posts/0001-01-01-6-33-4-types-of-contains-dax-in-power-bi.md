@@ -1,0 +1,15 @@
+---
+title: "6-33. 4 Types of Contains DAX in Power BI - TAIK18"
+image: "https:\/\/i.ytimg.com\/vi\/UQ03yC2GvmQ\/hqdefault.jpg"
+vid_id: "UQ03yC2GvmQ"
+categories: "Education"
+tags: ["power bi desktop","power bi desktop for beginners","power bi desktop tutorial"]
+date: "2021-10-20T14:54:48+03:00"
+vid_date: "2020-05-07T00:30:02Z"
+duration: "PT7M55S"
+viewcount: "1941"
+likeCount: "23"
+dislikeCount: "3"
+channel: "TAIK18"
+---
+{% raw %}In This Video, We Have Demonstrated, 4 Types of Contains DAX in Power BI - TAIK18<br /><br />#powerbi<br />#taik18<br />#dax #contains #containstring<br /><br />Thanks for watching!<br />==================================================<br />Learn Power BI For FREE !!! check the below link<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCh3MH-ixSt1HEkGpeh3bQyQ/playlists?view=50&amp;sort=dd&amp;shelf_id=10">https://www.youtube.com/channel/UCh3MH-ixSt1HEkGpeh3bQyQ/playlists?view=50&amp;sort=dd&amp;shelf_id=10</a><br /><br />Download related working files using this link <br /><a rel="nofollow" target="blank" href="https://drive.google.com/drive/folders/146aHN_8xfgmr9lFPM61zBJFwzvjOAklz">https://drive.google.com/drive/folders/146aHN_8xfgmr9lFPM61zBJFwzvjOAklz</a><br />==================================================<br /><br />If You Like The Video, Click On THUMBS UP button, and don't forget to Subscribe To This Channel also press the BELL Icon to get the latest notification for new videos.<br /><br />==================================================<br />Follow me on social media for the latest updates.<br />YouTube Channel Name: <a rel="nofollow" target="blank" href="https://www.youtube.com/TAIK18">https://www.youtube.com/TAIK18</a><br />LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/in/mohammedadnant">https://www.linkedin.com/in/mohammedadnant</a><br />Instagram : <a rel="nofollow" target="blank" href="https://www.instagram.com/mohammedadnant">https://www.instagram.com/mohammedadnant</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/mohammedadnant">https://www.facebook.com/mohammedadnant</a><br />twitter: <a rel="nofollow" target="blank" href="https://twitter.com/mohammedadnant">https://twitter.com/mohammedadnant</a><br />reddit: <a rel="nofollow" target="blank" href="https://www.reddit.com/user/mohammedadnant">https://www.reddit.com/user/mohammedadnant</a><br />==================================================<br />For Business / Freelance / Job Support / Personal Training / Corporate Training: mohammedadnant@gmail.com<br /><br />Visit our website: <a rel="nofollow" target="blank" href="https://www.taik18.com">https://www.taik18.com</a><br /><br />Created By TAIK<br />Mohammed Adnan FTC Legal Disclaimer - Some links found in the description box of my videos may be affiliate links, meaning I will make commission on sales you make through my link. This is at no extra cost to you to use my links/codes, it's just one more way to support me and my channel! 🙂{% endraw %}
