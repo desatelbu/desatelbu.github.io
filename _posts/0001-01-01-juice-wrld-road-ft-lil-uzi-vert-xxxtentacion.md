@@ -1,0 +1,15 @@
+---
+title: "Juice WRLD - Road ft. Lil Uzi Vert & XXXTENTACION (Music Video) Prod by Last Dude"
+image: "https:\/\/i.ytimg.com\/vi\/7E_9cjISbvY\/hqdefault.jpg"
+vid_id: "7E_9cjISbvY"
+categories: "Music"
+tags: ["juice wrld","lil uzi vert","xxxtentacion"]
+date: "2021-10-20T18:44:33+03:00"
+vid_date: "2021-07-17T18:14:53Z"
+duration: "PT3M10S"
+viewcount: "1452335"
+likeCount: "45721"
+dislikeCount: "512"
+channel: "Last- Dude"
+---
+{% raw %}#LLJ #LLJW<br />🌸 Buy this beat here: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=m92mhKUwEmA">https://www.youtube.com/watch?v=m92mhKUwEmA</a><br /><br />Juice WRLD - Road ft. Lil Uzi Vert, &amp; XXXTENTACION (Music Video) Prod by Last Dude<br /><br /><br />Beat Last Dude<br /><br /><br />Mashup by LastDude<br /><br /><br />SOUNDCLOUD: <a rel="nofollow" target="blank" href="https://soundcloud.com/lastdudeyt/juice-wrld-road-ft-lil-uzi-vert-lil-peep-xxxtentacion-music-video-prod-by-last-dude">https://soundcloud.com/lastdudeyt/juice-wrld-road-ft-lil-uzi-vert-lil-peep-xxxtentacion-music-video-prod-by-last-dude</a><br /><br /><br />My Instagram:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/juansebas638/?hl=es-la">https://www.instagram.com/juansebas638/?hl=es-la</a><br /><br /><br />Donations: <br /><a rel="nofollow" target="blank" href="https://www.paypal.com/paypalme/lastdude638">https://www.paypal.com/paypalme/lastdude638</a><br /><br /><br /><br />Special Thanks to &quot;AllDefMusic&quot; &quot;Empire&quot; &amp; &quot;Steve Cannon&quot; for the clips<br /><br /><br />Follow XXXTentacion:<br /><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/xxxtentacion">https://twitter.com/xxxtentacion</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/xxxtentacion">https://www.instagram.com/xxxtentacion</a><br />Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4">https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4</a><br /><br /><br />Follow Lil Uzi Vert:<br /><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/liluzivert">https://twitter.com/liluzivert</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/liluzivert/?hl=es-la">https://www.instagram.com/liluzivert/?hl=es-la</a><br />Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz">https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz</a><br /><br /><br />Follow Juice WRLD:<br /><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/JuiceWorlddd">https://twitter.com/JuiceWorlddd</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/juicewrld999">https://www.instagram.com/juicewrld999</a><br /><br />Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz</a><br /><br /><br />All rights reserved to the artists, this is just a mix made by LastDude.{% endraw %}
