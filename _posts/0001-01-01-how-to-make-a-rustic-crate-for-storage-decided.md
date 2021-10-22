@@ -1,0 +1,15 @@
+---
+title: "How to Make a Rustic Crate for Storage"
+image: "https:\/\/i.ytimg.com\/vi\/6CTsJQ5Q5XY\/hqdefault.jpg"
+vid_id: "6CTsJQ5Q5XY"
+categories: "Howto-Style"
+tags: ["Maker","DIY","How to"]
+date: "2021-10-22T14:22:04+03:00"
+vid_date: "2016-04-27T22:40:22Z"
+duration: "PT7M21S"
+viewcount: "123084"
+likeCount: "855"
+dislikeCount: "65"
+channel: "A Modern Maker"
+---
+{% raw %}Decided to make a crate style laundry basket out of some left over wood. Much better than the cheap plastic ones!<br /><br />Please Like and Subscribe: <a rel="nofollow" target="blank" href="http://www.youtube.com/c/AModernMaker">http://www.youtube.com/c/AModernMaker</a><br /><br />Tools and accessories I used:<br />Lincoln 210 MP: <a rel="nofollow" target="blank" href="https://amzn.to/2uQhgAY">https://amzn.to/2uQhgAY</a><br />Flap Discs: <a rel="nofollow" target="blank" href="https://amzn.to/2RgNWuR">https://amzn.to/2RgNWuR</a><br />Welding Helmet: <a rel="nofollow" target="blank" href="https://amzn.to/2uI2wnx">https://amzn.to/2uI2wnx</a><br />Angle Grinder: <a rel="nofollow" target="blank" href="https://amzn.to/2FUB34g">https://amzn.to/2FUB34g</a><br />Metal Cutting Saw: <a rel="nofollow" target="blank" href="https://amzn.to/2spdspl">https://amzn.to/2spdspl</a><br />Plasma Cutter: <a rel="nofollow" target="blank" href="https://amzn.to/2RhbyzI">https://amzn.to/2RhbyzI</a><br />Metal Patina: <a rel="nofollow" target="blank" href="https://amzn.to/2NpS8HO">https://amzn.to/2NpS8HO</a><br />Dewalt Miter Saw: <a rel="nofollow" target="blank" href="https://amzn.to/2FNhATc">https://amzn.to/2FNhATc</a><br />Sander: <a rel="nofollow" target="blank" href="https://amzn.to/36Ttmr2">https://amzn.to/36Ttmr2</a><br />Sandpaper: <a rel="nofollow" target="blank" href="https://amzn.to/2QS523c">https://amzn.to/2QS523c</a><br />Bandsaw: <a rel="nofollow" target="blank" href="https://amzn.to/30kJWxw">https://amzn.to/30kJWxw</a><br />Bandsaw Blade: <a rel="nofollow" target="blank" href="https://amzn.to/2RhDqUn">https://amzn.to/2RhDqUn</a><br />Track Saw: <a rel="nofollow" target="blank" href="https://amzn.to/2RVEH3N">https://amzn.to/2RVEH3N</a><br />Poly Top Coat: <a rel="nofollow" target="blank" href="https://amzn.to/30nWKTZ">https://amzn.to/30nWKTZ</a><br />Jacobean Stain: <a rel="nofollow" target="blank" href="https://amzn.to/2tlWPvb">https://amzn.to/2tlWPvb</a><br />Early American Stain: <a rel="nofollow" target="blank" href="https://amzn.to/2FTbPmV">https://amzn.to/2FTbPmV</a><br />Red Mahogany Stain: <a rel="nofollow" target="blank" href="https://amzn.to/2NtiR65">https://amzn.to/2NtiR65</a><br />Honey Stain: <a rel="nofollow" target="blank" href="https://amzn.to/2RyIGUH">https://amzn.to/2RyIGUH</a><br />Dark Walnut Stain: <a rel="nofollow" target="blank" href="https://amzn.to/3163lmu">https://amzn.to/3163lmu</a><br />Classic Gray Stain: <a rel="nofollow" target="blank" href="https://amzn.to/3aPyjnf">https://amzn.to/3aPyjnf</a><br />Painters Tape: <a rel="nofollow" target="blank" href="https://amzn.to/36WZHNA">https://amzn.to/36WZHNA</a>{% endraw %}
