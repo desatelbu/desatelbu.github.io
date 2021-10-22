@@ -1,0 +1,15 @@
+---
+title: "besties~ it's that time of year again"
+image: "https:\/\/i.ytimg.com\/vi\/c3djn53L1Xs\/hqdefault.jpg"
+vid_id: "c3djn53L1Xs"
+categories: "People-Blogs"
+tags: ["emily ewing","achillvegan","a chill vegan"]
+date: "2021-10-22T14:50:21+03:00"
+vid_date: "2021-10-22T04:14:04Z"
+duration: "PT19M28S"
+viewcount: "2494"
+likeCount: "312"
+dislikeCount: "0"
+channel: "emily ewing"
+---
+{% raw %}happy autumnification join the chill veggie discord ~~<br /><a rel="nofollow" target="blank" href="https://discord.gg/TqkdGr4zqW">https://discord.gg/TqkdGr4zqW</a><br /><br /><br />♡ follow me on my:<br />second channel → <a rel="nofollow" target="blank" href="https://www.youtube.com/emilyewing">https://www.youtube.com/emilyewing</a><br />twitch → <a rel="nofollow" target="blank" href="https://www.twitch.tv/emiewi">https://www.twitch.tv/emiewi</a><br />instagram → <a rel="nofollow" target="blank" href="https://www.instagram.com/emiewi/">https://www.instagram.com/emiewi/</a><br />twitter → <a rel="nofollow" target="blank" href="https://twitter.com/emiewi">https://twitter.com/emiewi</a><br /><br />♡<br />PUMPKIN SPICE SNICKERDOODLES<br />(inspired by Mxriyum on tiktok ~ <a rel="nofollow" target="blank" href="https://www.tiktok.com/@mxriyum/video/6871365603983150341">https://www.tiktok.com/@mxriyum/video/6871365603983150341</a><br />on youtube ~ <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCtuX3aHXOWHzqsB0vHq2ogQ)">https://www.youtube.com/channel/UCtuX3aHXOWHzqsB0vHq2ogQ)</a><br /><br />pre-heat oven to 350º<br /><br />~ whisk together wet ingredients:<br />1/2 cup softened vegan butter (I used Earth Balance spread) <br />1/2 cup sugar<br />1/4 cup brown sugar<br />3 tbsp applesauce *<br />1/4 cup pumpkin puree<br />1 tbsp vanilla extract<br /><br />~ into wet ingredients, sift dry:<br />1 3/4 cups flour <br />1 tsp pumpkin pie spice<br />1/2 tsp cinnamon<br />1 tsp baking soda<br />1 tsp cream of tartar<br />1/4 tsp salt<br /><br />cover &amp; place in fridge for apx 10 min (or freezer for shorter if you're me lol) <br />roll each cookie in pumpkin pie spice &amp; sugar! (or just cinnamon sugar for less spice-iness)<br />Bake for about 9-11 min. or till golden brown <br />(I baked them for about 10 min the last time I made them, but use your own judgement since my apartment oven is a lil wild lol)<br /><br />*if you don't have applesauce, u should be fine using this much more pumpkin! i haven't tried it yet but since they're both common egg replacements it should work well - plus it would be extra pumpkin-y if that's what u like <br />♡<br /><br />redbubble → <a rel="nofollow" target="blank" href="https://www.redbubble.com/people/caseandem">https://www.redbubble.com/people/caseandem</a><br />(art by Casey Costa-Smith ♡ <a rel="nofollow" target="blank" href="https://www.instagram.com/corncobblestew/)">https://www.instagram.com/corncobblestew/)</a><br /><br />♡ BGM from: <br /><a rel="nofollow" target="blank" href="https://www.epidemicsound.com/">https://www.epidemicsound.com/</a>{% endraw %}
