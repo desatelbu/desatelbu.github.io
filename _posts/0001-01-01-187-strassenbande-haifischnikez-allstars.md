@@ -1,0 +1,15 @@
+---
+title: "187 Strassenbande - HaifischNikez Allstars (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/1QTOpTZRvnU\/hqdefault.jpg"
+vid_id: "1QTOpTZRvnU"
+categories: "Music"
+tags: ["187","187 Strassenbande","BONEZ MC"]
+date: "2021-10-22T11:34:05+03:00"
+vid_date: "2018-12-28T16:39:16Z"
+duration: "PT3M18S"
+viewcount: "47191329"
+likeCount: "519214"
+dislikeCount: "20248"
+channel: "CrhymeTV"
+---
+{% raw %}HaifischNikez Allstars hören ► <a rel="nofollow" target="blank" href="http://187.fty.li/HaifischNikezAllstars">http://187.fty.li/HaifischNikezAllstars</a> <br />CrhymeTV abonnieren ► <a rel="nofollow" target="blank" href="http://ytb.li/CrhymeTV">http://ytb.li/CrhymeTV</a><br />187 Strassenbande Social Media ► <a rel="nofollow" target="blank" href="http://187.fty.li/social">http://187.fty.li/social</a> <br />Das Video wird unterstützt durch Produktplatzierung.<br /><br />Bonez MC ► <a rel="nofollow" target="blank" href="http://bonezmc.fty.li/social">http://bonezmc.fty.li/social</a> <br />Gzuz ► <a rel="nofollow" target="blank" href="http://gzuz.fty.li/social">http://gzuz.fty.li/social</a> <br />Maxwell ► <a rel="nofollow" target="blank" href="http://maxwell.fty.li/social">http://maxwell.fty.li/social</a> <br />LX ► <a rel="nofollow" target="blank" href="http://lx.fty.li/social">http://lx.fty.li/social</a> <br />Sa4 ► <a rel="nofollow" target="blank" href="http://sa4.fty.li/social">http://sa4.fty.li/social</a><br /><br />187 Strassenbande auf Spotify ► <a rel="nofollow" target="blank" href="https://spoti.fi/2SjJ7QY">https://spoti.fi/2SjJ7QY</a><br /><br />Produced by Jambeatz<br /><br />Music Video: <br />Script by Shaho Casado<br />Directed by Shaho Casado: <br /><a rel="nofollow" target="blank" href="http://www.shahocasado.com">http://www.shahocasado.com</a><br />►Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/shahocasado">https://www.facebook.com/shahocasado</a> <br />►Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/shahocasado">https://www.instagram.com/shahocasado</a> <br />►Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/casado_de">https://www.instagram.com/casado_de</a><br /><br />VFX:THEFLAGSHIP <br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/theflagship.official">https://www.instagram.com/theflagship.official</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/official.theflagship/">https://www.facebook.com/official.theflagship/</a><br />Website: <a rel="nofollow" target="blank" href="http://www.theflagship.at">http://www.theflagship.at</a><br /><br />Das Video wird unterstützt durch Produktplatzierung.<br /><br />Wenn euch das Video gefallen hat, gebt einen Daumen hoch dafür, teilt es mit euren Freunden und schreibt eure Meinung in die Kommentare. Um nichts zu verpassen abonniert: <a rel="nofollow" target="blank" href="http://ytb.li/CrhymeTV">http://ytb.li/CrhymeTV</a>{% endraw %}
