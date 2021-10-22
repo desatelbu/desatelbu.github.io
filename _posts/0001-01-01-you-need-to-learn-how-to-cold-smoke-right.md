@@ -1,0 +1,15 @@
+---
+title: "YOU need to learn how to COLD SMOKE RIGHT NOW! | How To"
+image: "https:\/\/i.ytimg.com\/vi\/_zMnUgBpipc\/hqdefault.jpg"
+vid_id: "_zMnUgBpipc"
+categories: "Howto-Style"
+tags: ["cold smoking","how to cold smoke","how to"]
+date: "2021-10-22T07:02:28+03:00"
+vid_date: "2021-10-21T16:00:30Z"
+duration: "PT13M49S"
+viewcount: "4022"
+likeCount: "274"
+dislikeCount: "1"
+channel: "Hey Grill Hey"
+---
+{% raw %}RECIPE HERE: <a rel="nofollow" target="blank" href="https://heygrillhey.com/smoked-chocolate-chip-cookies/">https://heygrillhey.com/smoked-chocolate-chip-cookies/</a><br />My Sauces, Rubs and Merch: <a rel="nofollow" target="blank" href="https://heygrillhey.com/store">https://heygrillhey.com/store</a><br /><br />Today, I'm going to show you everything you need to know about cold smoking! Sit back and take in the tips, the tricks, the knowledge! Then, at the end we'll make some cookies!<br /><br />Please like, comment and subscribe! Hit the notification bell so you know when my weekly uploads hit!<br /><br />0:00 - Intro<br />0:44 - Cold Smoking Basics<br />3:41 - Lighting the Smoke Tube<br />4:06 - Wood Choice<br />4:55 - Cold Smoking with Ice<br />5:44 - Prepare your Food<br />8:05 - Chocolate Chip Cookies<br />12:00 - Taste Test<br /><br />DOWNLOAD THE HEY GRILL HEY APP<br /><br />iOS: <a rel="nofollow" target="blank" href="https://apps.apple.com/us/app/hey-grill-hey-best-bbq-recipes/id1556158169">https://apps.apple.com/us/app/hey-grill-hey-best-bbq-recipes/id1556158169</a><br />ANDROID: <a rel="nofollow" target="blank" href="https://play.google.com/store/apps/details?id=au.com.hellotable.heygrillhey">https://play.google.com/store/apps/details?id=au.com.hellotable.heygrillhey</a><br /><br />LINKS TO STUFF I USE<br /><br />Camp Chef: <a rel="nofollow" target="blank" href="https://click.linksynergy.com/fs-bin/click?id=zN*84ReM8Ik&amp;offerid=680940.4&amp;type=3&amp;subid=0">https://click.linksynergy.com/fs-bin/click?id=zN*84ReM8Ik&amp;offerid=680940.4&amp;type=3&amp;subid=0</a><br /><br />ThermoWorks thermometers: <a rel="nofollow" target="blank" href="http://www.thermoworks.com?tw=HEYGRILLHEY">http://www.thermoworks.com?tw=HEYGRILLHEY</a><br /><br />Weber Kettle: <a rel="nofollow" target="blank" href="https://homedepot.sjv.io/MYEb3">https://homedepot.sjv.io/MYEb3</a><br /><br />Weber Genesis Gas Grill: <a rel="nofollow" target="blank" href="https://homedepot.sjv.io/zOV76">https://homedepot.sjv.io/zOV76</a><br /><br />Pit Barrel Cooker: <a rel="nofollow" target="blank" href="https://cabelas.7eer.net/5Bz79">https://cabelas.7eer.net/5Bz79</a><br /><br />Smoke Tube: <a rel="nofollow" target="blank" href="https://amzn.to/2HzNJQ2">https://amzn.to/2HzNJQ2</a><br /><br />Lodge Cast Iron: <a rel="nofollow" target="blank" href="https://amzn.to/2Mf50SH">https://amzn.to/2Mf50SH</a><br /><br />Kamikoto Knives: <a rel="nofollow" target="blank" href="https://amzn.to/2VZdRMN">https://amzn.to/2VZdRMN</a><br /><br />Dalstrong Knives: <a rel="nofollow" target="blank" href="https://amzn.to/2YJLJdu">https://amzn.to/2YJLJdu</a>{% endraw %}
