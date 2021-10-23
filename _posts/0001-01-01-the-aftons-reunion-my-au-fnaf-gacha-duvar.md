@@ -1,0 +1,15 @@
+---
+title: "The Aftons Reunion \/ My AU \/ FNAF \/ gacha_duvar \/ #aftonfamily #fnaf"
+image: "https:\/\/i.ytimg.com\/vi\/u0zCB-aPdqg\/hqdefault.jpg"
+vid_id: "u0zCB-aPdqg"
+categories: "People-Blogs"
+tags: ["Aftons","Reunion","gacha_duvar"]
+date: "2021-10-23T22:38:09+03:00"
+vid_date: "2021-10-23T19:30:11Z"
+duration: "PT23M44S"
+viewcount: "1356"
+likeCount: "1550"
+dislikeCount: "2"
+channel: "gacha_duvar"
+---
+{% raw %}Hi !😀<br /><br />~~🎥About the video🎥~~<br /><br />🎶Music used in the video:🎶<br /><br />_ STAGE 01 (FNAF3 OST)<br />_ Hard to say goodbye ( FNAF4 OST)<br />_ It's been so long (music box)<br />_ Turtle Crusher (music box)<br />_ Secret Garden (Kinemaster music)<br />_ No time for popcorn (FNAF6 OST)<br /><br /><br />🍭OC used in the video:🍭<br /><br />_ William Afton (as Glitchtrap, Malhare and human form)<br />_ Mrs.Afton<br />_ Elizabeth Afton<br />_ Michael Afton<br />_ CC Afton<br />_ Vanny<br />_ Ennard <br />_ Millie<br /><br /><br />🍡Fact about my AU:🍡<br /><br />_ Mrs.Afton's name is Clara<br />_ William and Mrs.Afton never abused their kids<br />_ Mrs.Afton's was killed by Ballora<br />_ Elizabeth can possess Ennard if she's near him and she wants to possess him<br />_ There's no Terrence<br />_ Mary is Michael's adoptive daughter<br />_ Vanny and Vanessa are fraternal twins (but didn't recognized eachother<br />_ Ennard is a mixture of the Funtimes<br />_ CC doesn't possess anyone and never did<br /><br /><br />🌹Ship you'll may see :🌹<br /><br />_ William X Mrs.Afton<br /><br /><br /><br />~~🍣About this channel🍣~~<br /><br />Hi, I'm gacha_duvar (you can call me duvar) and I'm making gacha FNAF content (memes, challenges or mini movies). <br /><br />Videos are usually posted once a week or twice if there's a premiere or a meme. Community post are usually posted everyday (with fun facts, sneak peek or others)<br /><br />The videos are in English (all accent mixted). I tried to put subtitles for other people who don't really understand English, but it takes a lot of time and it's kinda complicated 😭.<br /><br />I try to make the videos funny because why not? (I'm not trying to ridiculise or making fun of the lores)<br /><br />No, the AU isn't &quot;stereotypical&quot; or whatever 👀<br /><br />Gender : female<br />Pronouns: I don't really care<br />Languages : French, English, Spanish (a bit)<br />Age : 16yo<br />Favourite FNAF character : William Afton (mysterious, smart and his voice is so 🤩)<br /><br /><br /><br />~~🦋Aizawa the butterfly supremacy🦋~~<br /><br /><br /><br />⚠️Don't repost or steal the video !<br />My AU isn't canon. If there's any mistakes, let's just say it's a part of my AU. ⚠️<br />Remember, you're not forced to watch the video.<br /><br />Thank you 😄<br /><br /><br />If you want to contact me or chat :<br />Tik Tok : gacha_duvar<br />                gacha_duvar2.0<br />Insta : gacha_duvar<br />Discord : gacha_duvar#4452<br /><br /><br />#gacha #gachalife #gachaclub #fnaf #aftonfamily #fivenightsatfreddys #viral #afton #aftons #5naf{% endraw %}
