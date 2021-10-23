@@ -1,0 +1,15 @@
+---
+title: "What Every Entrepreneur NEEDS to KNOW Before Starting Their JOURNEY | Tom Bilyeu"
+image: "https:\/\/i.ytimg.com\/vi\/d83OXcJ0_MM\/hqdefault.jpg"
+vid_id: "d83OXcJ0_MM"
+categories: "Education"
+tags: ["Impact Theory","Q&A","Tom Bilyeu"]
+date: "2021-10-23T18:41:08+03:00"
+vid_date: "2021-10-23T13:00:14Z"
+duration: "PT29M7S"
+viewcount: "5007"
+likeCount: "439"
+dislikeCount: "8"
+channel: "Tom Bilyeu"
+---
+{% raw %}What every entrepreneur needs to know to start a successful business is how to ask the right questions. Because I’ve made virtually every mistake possible in building my own businesses, you can learn without the pain and time it costs me. One of the biggest things standing in the way of your success is knowing what questions to ask yourself to make progress and move forward. You know where you are at this moment and you see where you want to go. In this Q&amp;A I’m taking you through all the steps and more importantly, the questions you need to be asking yourself to start gaining momentum and start seeing results of a rapidly growing business. I’ve built the foundation of my business model on community and bringing that community value. As you begin your journey as an entrepreneur, two things are important: 1) that you start thinking from first principles and 2) that you know the problem you are solving and the value you are bringing to people.<br /> <br />3 Starter Points:<br />1. What is the problem I’m here to solve?<br />2. How do I solve the problem better than anybody else?<br />3. Get product into people’s hands to try<br /> <br /> <br />2 Power Questions for Massive Results:<br />1. Why, if I just keep doing what I'm doing now, won’t I automatically get to my goal?<br />2. Where do you apply energy to overcome the obstacle that stands between you and your goal?<br /> <br />SHOW NOTES:<br /> <br />0:00 | Introduction Entrepreneurs<br />0:30 | Starting With Business Idea<br />4:02 | The 72 Hour Rule<br />6:62 | Choosing Your Niche<br />9:15 | Making Moves to Scale<br />18:54 | Buying a Small Business<br />22:43 | Entrepreneurial Resilience<br /> <br />QUOTES:<br /> <br />“The reality is, every successful business was better at something that mattered than everybody else.” [1:35]<br /> <br />“Hone in on an area that is underserved, a need that’s not being met, with a customer that you completely understand, with a product that is better than everybody else. That's the goal.” [2:34]<br /> <br />“Avoid analysis paralysis, by having a rule that you always, and I mean always, take action.” [4:02]<br /> <br />“Running 1000 miles an hour in the wrong direction is far more beneficial than standing still [...] by moving you're learning, and that's the key.” [5:41]<br /> <br />“My partners and I were looking for the intersection of passion and opportunity, and that's what I would encourage all of you to do. There is no reason you have to settle for one or the other. You can have both.” [9:00]<br /> <br />“You shouldn't need the fact that there's all this stress and pressure on you to succeed in order to succeed.” [22:28]{% endraw %}
