@@ -1,0 +1,15 @@
+---
+title: "How to Write a Reflection"
+image: "https:\/\/i.ytimg.com\/vi\/ExcEZVTTE0g\/hqdefault.jpg"
+vid_id: "ExcEZVTTE0g"
+categories: "Education"
+tags: ["Write","Reflection"]
+date: "2021-10-23T05:06:13+03:00"
+vid_date: "2020-09-06T03:38:55Z"
+duration: "PT3M38S"
+viewcount: "27707"
+likeCount: "317"
+dislikeCount: "15"
+channel: "Tolentino Teaching"
+---
+{% raw %}Reflective writing is a powerful tool for improving your writing and thinking. Here is a quick explanation on the purpose of reflective writing.<br /><br />👉Blog and Website: <a rel="nofollow" target="blank" href="https://briantolentino.com">https://briantolentino.com</a><br /><br />👉👉👉Support me by buying mugs, t-shirts, notebooks and more! <a rel="nofollow" target="blank" href="https://www.etsy.com/shop/TolentinoTeaching?ref=seller-platform-mcnav">https://www.etsy.com/shop/TolentinoTeaching?ref=seller-platform-mcnav</a><br /><br />🔔 SUBSCRIBE for more for online teaching resources: <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCxVnC3TU90xGfwGGJj--dHA?view_as=subscriber">https://www.youtube.com/channel/UCxVnC3TU90xGfwGGJj--dHA?view_as=subscriber</a><br /><br />🎥 WANT TO CREATE VIDEOS LIKE THESE?<br />This is the software I use:  <a rel="nofollow" target="blank" href="https://www.awin1.com/cread.php?awinmid=18708&amp;awinaffid=844903&amp;p=">https://www.awin1.com/cread.php?awinmid=18708&amp;awinaffid=844903&amp;p=</a><br /><br />👨‍💻 LET'S CONNECT<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/tolentinoteaching/">https://www.instagram.com/tolentinoteaching/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/tolentinoteaching">https://www.facebook.com/tolentinoteaching</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/TolentinoTeach">https://twitter.com/TolentinoTeach</a><br />Facebook ELA Group: <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/241115104094311">https://www.facebook.com/groups/241115104094311</a><br /><br />My favorite books on writing:<br />The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century by Steven Pinker: <a rel="nofollow" target="blank" href="https://amzn.to/38m0FWm">https://amzn.to/38m0FWm</a><br />How to Argue with a Cat by Jay Hendrichs: <a rel="nofollow" target="blank" href="https://amzn.to/2MWQXCs">https://amzn.to/2MWQXCs</a><br />The Elements of Style Fourth Edition: <a rel="nofollow" target="blank" href="https://amzn.to/2MZeent">https://amzn.to/2MZeent</a><br />On Writing Well by William Zinsser: <a rel="nofollow" target="blank" href="https://amzn.to/30ouPnJ">https://amzn.to/30ouPnJ</a><br /><br />**Disclaimer: Tolentino Teaching  is a participant in the Amazon Services LLC Associates Program and AWIN, affiliate advertising programs designed to provide a means for sites to earn advertising fees by advertising and linking to www.amazon.com and <a rel="nofollow" target="blank" href="http://paidforadvertising.com/">http://paidforadvertising.com/</a>{% endraw %}
