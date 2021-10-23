@@ -1,0 +1,15 @@
+---
+title: "I Tried 7 Of Singapore's WEIRDEST Foods (so you don't have to)"
+image: "https:\/\/i.ytimg.com\/vi\/qM0laqAd55Y\/hqdefault.jpg"
+vid_id: "qM0laqAd55Y"
+categories: "Travel-Events"
+tags: ["じぶりおじさん","ジブリおじさん","シンガポール"]
+date: "2021-10-23T18:08:09+03:00"
+vid_date: "2021-10-21T12:00:12Z"
+duration: "PT22M20S"
+viewcount: "45948"
+likeCount: "959"
+dislikeCount: "29"
+channel: "Ghib Ojisan"
+---
+{% raw %}I tried 7 unique food in Singapore. Get Surfshark VPN at <a rel="nofollow" target="blank" href="https://Surfshark.deals/ghib">https://Surfshark.deals/ghib</a> and enter promo code GHIB for 83% off and 3 extra months for free!<br /><br />We all know typical Singapore food is delicious. Chicken rice, chilli crab, nasi lemak, you name it. But there are other abnormal food in this country which are not really known. Today, I spent a day trying some of them.<br /><br />00:00 intro<br />01:10 Tulang Merah<br />02:44 Shark Jelly<br />04:59 Deer #$%&amp;<br />09:48 $#%&amp; Soup<br />14:42 Unique Meat Dishes<br />19:48 Frog Porridge<br /><br />Friends in this video:<br />- Jimmy <a rel="nofollow" target="blank" href="https://www.instagram.com/jimmytaenaka/">https://www.instagram.com/jimmytaenaka/</a><br />- Andrina <a rel="nofollow" target="blank" href="https://www.instagram.com/x3kiko/">https://www.instagram.com/x3kiko/</a><br /><br />Locations in this video:<br />- Zam Zam<br />- Lao Liang Pig Trotter Jelly &amp; Shark Meat<br />- The Imperial Restaurant<br />- Tan Ser Seng Herbs Restaurant<br />- Eminent Frog Porridge<br /><br />Sponsored by SurfShark<br /><br />Follow me on social medias!<br />📸 Instagram  <a rel="nofollow" target="blank" href="https://www.instagram.com/ghibli_ojisan/">https://www.instagram.com/ghibli_ojisan/</a><br />♪ Tiktok <a rel="nofollow" target="blank" href="https://vt.tiktok.com/ZSJn5LFhK/">https://vt.tiktok.com/ZSJn5LFhK/</a><br />🐦 Twitter <a rel="nofollow" target="blank" href="https://twitter.com/ghibli_ojisan">https://twitter.com/ghibli_ojisan</a><br /><br />😃Subscribe： <a rel="nofollow" target="blank" href="http://urx3.nu/HTUJ">http://urx3.nu/HTUJ</a><br />🎥Watch - We Tried The World's Cheapest Mechilin Meal：<a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=nItX6UyA-mU">https://www.youtube.com/watch?v=nItX6UyA-mU</a><br /><br />👕Merch Links（アパレル）:<br />SE Asia | <a rel="nofollow" target="blank" href="https://ghib-ojisan.secure-decoration.com/shop/category/T-Shirt?c=2731898">https://ghib-ojisan.secure-decoration.com/shop/category/T-Shirt?c=2731898</a><br />Japan | <a rel="nofollow" target="blank" href="https://suzuri.jp/ghib-ojisan">https://suzuri.jp/ghib-ojisan</a><br />USA &amp; EU | <a rel="nofollow" target="blank" href="https://teespring.com/stores/ghib-ojisan">https://teespring.com/stores/ghib-ojisan</a><br /><br />Business Enquiries<br />✉️ghib.ojisan@gmail.com<br />You are welcome to send fan mails but I may not be able to respond to all of them. But I immensely appreciate your support. Thank you!<br /> <br />#Singapore #food{% endraw %}
