@@ -1,0 +1,15 @@
+---
+title: "Smart Parenting Hacks - My DAD is Just Dance Character | Funny Family Struggles by La La Life Games"
+image: "https:\/\/i.ytimg.com\/vi\/hJ2eSSdhkOw\/hqdefault.jpg"
+vid_id: "hJ2eSSdhkOw"
+categories: "Entertainment"
+tags: ["lalalife","games","gaming"]
+date: "2021-10-24T01:57:10+03:00"
+vid_date: "2021-10-23T12:00:21Z"
+duration: "PT16M31S"
+viewcount: "175454"
+likeCount: "2369"
+dislikeCount: "231"
+channel: "La La Life Games"
+---
+{% raw %}You love to dance!😍 And you want to win the competition! But what if you stayed at home with your dad? He wants you to eat healthy food🥦 And uses LIFE HACKS for this😏 And he is not very good at dancing... And most likely he will not help you prepare for the competition😣 But what if he turns into a character from JUST DANCE? Check it out in our new FUNNY video!<br /><br />#lalalife #games #hacks #justdance #dad #family #parenting #smart <br /><br />MUSIC 🎸🤘🎼🎵<br /><a rel="nofollow" target="blank" href="https://open.spotify.com/playlist/1cn14lHqIGqj5JTm9twoLZ?si=c766287fd35742fb">https://open.spotify.com/playlist/1cn14lHqIGqj5JTm9twoLZ?si=c766287fd35742fb</a><br />Spotify: <a rel="nofollow" target="blank" href="https://spoti.fi/37u8FFo">https://spoti.fi/37u8FFo</a><br />iTunes: <a rel="nofollow" target="blank" href="https://apple.co/3juCo3u">https://apple.co/3juCo3u</a><br />Google Music: <a rel="nofollow" target="blank" href="https://bit.ly/3me5Fkp">https://bit.ly/3me5Fkp</a><br /><br />Share and subscribe if you like video:<br />@La La Life <br />@La La Life Games <br />@La La Life Emoji <br /><br />MERCH 🎁 🎁 🎁<br />La La Life SHOP: <a rel="nofollow" target="blank" href="https://amzn.to/2IrvS0r">https://amzn.to/2IrvS0r</a><br /><br />Music by TheSoul Music: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCPo7CKRiDGn4h-H0RK5JdfA">https://www.youtube.com/channel/UCPo7CKRiDGn4h-H0RK5JdfA</a><br /><br />Chapters:<br />00:00 I don`t like this FOOD! <br />01:37 Monsters<br />02:56 Hide and Seek<br />03:35 Daddy!<br />04:36 Let`s DANCE<br />05:52 Ooooops!<br />07:20 MakeUP<br />08:26 Super Mario<br />09:33 VR<br />10:53 Tiktok Star<br />11:31 Camping<br />12:47 Food in Forest <br />14:01 Pizza<br />16:06 MOM<br /><br />–––––––––<br />All product and company names shown in the video are trademarks™ or registered® trademarks of their respective holders. The use of them does not imply any affiliation with or endorsement by them.<br /><br />This video is made for entertainment purposes. We do not make any warranties about completeness, safety, and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care, and precautions if one plans to replicate.<br /><br />The following video might feature activity performed by our actors within a controlled environment - please use judgment, care, and precaution if you plan to replicate.{% endraw %}
