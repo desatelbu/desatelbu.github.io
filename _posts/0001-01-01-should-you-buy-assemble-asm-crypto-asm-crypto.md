@@ -1,0 +1,15 @@
+---
+title: "Should you buy Assemble (ASM) Crypto? - ASM Crypto Price Prediction 2021"
+image: "https:\/\/i.ytimg.com\/vi\/Q4I0kSa5vKM\/hqdefault.jpg"
+vid_id: "Q4I0kSa5vKM"
+categories: "Education"
+tags: ["ASM","asm crypto","assemble crypto"]
+date: "2021-10-23T03:21:13+03:00"
+vid_date: "2021-10-21T17:46:19Z"
+duration: "PT3M32S"
+viewcount: "1405"
+likeCount: "40"
+dislikeCount: "2"
+channel: "Noah Reed"
+---
+{% raw %}Should you buy Assemble (ASM) Crypto? - ASM Crypto Price Prediction 2021<br /><br />ASSEMBLE Protocol – the revolutionary mileage integration platform that is built on the Ethereum Network has announced its listing on Coinbase Pro. According to the disclosure from the official source, Coinbase Pro has enabled support for the ASM-USD and ASM-USDT pairs on its platform. Trading will begin on or after 9 AM Pacific Time (PT) Thursday, October 21. However, inbound transfers have already been enabled and users can now deposit their ASM tokens into their Coinbase Pro accounts.<br />ASSEMBLE your points on distributed ledger technology<br />The revolutionary idea of bringing different mileages and loyalty points together into a single, unified, digital wallet has been pioneered by the ASSEMBLE Protocol. They strive to leverage the perks of distributed ledger technology on the Ethereum Mainnet to connect different, leading, traditional businesses onto its platform. Users can then exchange their loyalty points into the single, unified ASP point, which can further be exchanged for ASM.<br />The ASM token can currently be utilized on ASSEMBLE’s Marketplace, which can be accessed through their mobile application that is supported on both iOS and Android platforms. Users can convert their points into ASP and then further claim ASM tokens or use their ASP to purchase different goods and services offered on the platform.<br />ASSEMBLE’s most recent development has been the establishment of the desktop version of the ASSEMBLE Wallet. With its completion, users are now able to exchange points and purchase eGift cards on their desktop in addition to Android and iOS apps and mobile browsers.<br />ASM is now supported on Coinbase Pro<br />Earlier in May 2021, Coinbase Institutional officially confirmed that they enabled the cold-storage of and custody support for the ASM token. The addition of ASM to Coinbase Custody established that ASM fully complied with the legal and security review conducted by the Coinbase Custody team. This was a green light for the potential support on its other platforms, especially Coinbase Pro.<br />On 20th October 2021, Coinbase Pro officially confirmed the addition of the ASSEMBLE Protocol’s ASM token in the following pairs ASM-USD / ASM-USDT on their platform. In their official blog post, Coinbase mentioned the following, “Support for ASM will generally be available in Coinbase’s supported jurisdictions, with certain exceptions, as indicated on each asset page here. Trading will begin on or after 9AM Pacific Time (PT) Thursday October 21, if liquidity conditions are met.”<br /><br />@Noah Reed{% endraw %}
