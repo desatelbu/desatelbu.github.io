@@ -1,0 +1,15 @@
+---
+title: "This is what a $25,000 PC can do! - Dual Gaming PC Finale"
+image: "https:\/\/i.ytimg.com\/vi\/Vcp-5Zhqpvc\/hqdefault.jpg"
+vid_id: "Vcp-5Zhqpvc"
+categories: "Science-Technology"
+tags: ["lian li dk-05","lian li dk05","dual pc"]
+date: "2021-10-23T09:27:08+03:00"
+vid_date: "2021-10-22T17:36:57Z"
+duration: "PT15M51S"
+viewcount: "49053"
+likeCount: "4280"
+dislikeCount: "65"
+channel: "TechSource"
+---
+{% raw %}The dual gaming/streaming PC finale is here! This is what a $25,000 fully custom water cooled gaming and streaming PC can do!<br />Install Raid for Free ✅ IOS/ANDROID/PC: <a rel="nofollow" target="blank" href="https://clcr.me/TechSource_Oct">https://clcr.me/TechSource_Oct</a> and get a special starter pack 💥 Available only for the next 30 days<br />------------------------------------------------------------<br />▶Parts - Global◀<br />💙Intel System 💙<br />i9-11900K: <a rel="nofollow" target="blank" href="https://geni.us/GGp2">https://geni.us/GGp2</a><br />EK-Quantum MSI MPG Z590 CARBON EK X D-RGB <a rel="nofollow" target="blank" href="https://bit.ly/3bBrgQV">https://bit.ly/3bBrgQV</a><br />EVGA RTX 3090 FTW3: <a rel="nofollow" target="blank" href="https://geni.us/HxXy">https://geni.us/HxXy</a><br />G.Skill TridentZ NEO 64GB (3600Mhz): <a rel="nofollow" target="blank" href="https://geni.us/ItJ257B">https://geni.us/ItJ257B</a><br />Sabrent 8TB M.2 SSD x2: <a rel="nofollow" target="blank" href="https://geni.us/gqiOr">https://geni.us/gqiOr</a><br />EVGA G3 1000W: <a rel="nofollow" target="blank" href="https://geni.us/hRArgE">https://geni.us/hRArgE</a><br />Lian Li DK-05: <a rel="nofollow" target="blank" href="https://bhpho.to/3c02n1I">https://bhpho.to/3c02n1I</a><br /><br />🧡Amd System🧡<br />AMD Threadripper 3990X : <a rel="nofollow" target="blank" href="https://geni.us/6A62qd">https://geni.us/6A62qd</a><br />MSI Creator TRX40: <a rel="nofollow" target="blank" href="https://bit.ly/3c1y3Uj">https://bit.ly/3c1y3Uj</a><br />EVGA RTX 3080 FTW3: <a rel="nofollow" target="blank" href="https://geni.us/kziB">https://geni.us/kziB</a><br />G.Skill TridentZ NEO 64GB (3600Mhz): <a rel="nofollow" target="blank" href="https://geni.us/ItJ257B">https://geni.us/ItJ257B</a><br />Sabrent 8TB M.2 SSD: <a rel="nofollow" target="blank" href="https://geni.us/gqiOr">https://geni.us/gqiOr</a><br />EVGA G3 1000W: <a rel="nofollow" target="blank" href="https://geni.us/hRArgE">https://geni.us/hRArgE</a><br /><br />💦Water cooling Gear💦<br />EK-Quantum Velocity sTR4 D-RGB - Nickel + Plexi <a rel="nofollow" target="blank" href="https://bit.ly/3ylZ52s">https://bit.ly/3ylZ52s</a><br />EK-Quantum Reflection Uni 140 D5 PWM D-RGB – Plexi <a rel="nofollow" target="blank" href="https://bit.ly/3hBN2bo">https://bit.ly/3hBN2bo</a><br />EK-CoolStream XE 360 (Triple): <a rel="nofollow" target="blank" href="https://bit.ly/3frKY2H">https://bit.ly/3frKY2H</a><br />EK-CoolStream SE 480 (Quad): <a rel="nofollow" target="blank" href="https://bit.ly/3kh4v9U">https://bit.ly/3kh4v9U</a>{% endraw %}
