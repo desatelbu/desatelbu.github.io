@@ -1,0 +1,15 @@
+---
+title: "165 - Showdown at El Alamein - WW2 - October 23, 1942"
+image: "https:\/\/i.ytimg.com\/vi\/KL_5DYMYeYU\/hqdefault.jpg"
+vid_id: "KL_5DYMYeYU"
+categories: "Education"
+tags: ["The Great War","Wold War Two","WWII"]
+date: "2021-10-24T20:46:54+03:00"
+vid_date: "2021-10-23T13:33:54Z"
+duration: "PT18M16S"
+viewcount: "132326"
+likeCount: "10295"
+dislikeCount: "65"
+channel: "World War Two"
+---
+{% raw %}Could this be the beginning of the big break in North Africa? The Allies have the men, the armor, and the fuel... they just have to deal with the Axis minefields to try and get started.  And the Axis are throwing ever more men at Stalingrad as the Soviets grimly hold on. Another roller coaster of a week.<br /><br />Join us on Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/TimeGhostHistory">https://www.patreon.com/TimeGhostHistory</a><br />Or join the TimeGhost Army directly at: <a rel="nofollow" target="blank" href="https://timeghost.tv/signup/">https://timeghost.tv/signup/</a><br /><br />Check out our TimeGhost History YouTube channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/timeghost">https://www.youtube.com/c/timeghost</a><br />Between 2 Wars: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLrG5J-K5AYAU1R-HeWSfY2D1jy_sEssNG">https://www.youtube.com/playlist?list=PLrG5J-K5AYAU1R-HeWSfY2D1jy_sEssNG</a><br /><br />Follow WW2 Day by Day on Instagram: @ww2_day_by_day<br />Follow TimeGhost History on Instagram: @timeghosthistory <br />Like us on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/TimeGhostHistory/">https://www.facebook.com/TimeGhostHistory/</a><br /><br />Hosted by: Indy Neidell<br />Director: Astrid Deinhard<br />Producers: Astrid Deinhard and Spartacus Olsson<br />Executive Producers: Astrid Deinhard, Indy Neidell, Spartacus Olsson, Bodo Rittenauer<br />Creative Director: Wieke Kapteijns<br />Creative Producer: Maria Kyhle<br />Written by: Indy Neidell<br />Research by: Indy Neidell<br />Edited by: Lucas Aimó<br />Map animations by: Daniel Weiss<br />Map research by: Markus Linke<br />Sound design by: Marek Kamiński<br />Colorizations by: <br />Daniel Weiss, Mikolaj Uchman<br /><br />Source literature list: <a rel="nofollow" target="blank" href="http://bit.ly/WW2sources">http://bit.ly/WW2sources</a><br /><br />Archive footage: Screenocean/Reuters - <a rel="nofollow" target="blank" href="https://www.screenocean.com">https://www.screenocean.com</a><br /><br />Image sources:<br />US Navy Archives<br />USHMM<br />IWM<br />Bundesarchiv<br /><br />Soundtracks from Epidemic Sound:<br />Anxiety Attack - Bonnie Grace<br />Blood in Water - Dream Cave<br />Break Free - Fabien Tell<br />Dark Beginning - Johan Hynynen<br />I Am Unbreakable - Niklas Johansson<br />Disciples of Sun Tzu - Christian Andersen<br />Not Safe Yet - Gunnar Johnsen<br />The Proving Grounds - Dragon Tamer<br />We Must Be Prepared - Brightarm Orchestra<br />Try and Catch Us Now - David Celeste<br /><br />A TimeGhost chronological documentary produced by OnLion Entertainment GmbH.{% endraw %}
