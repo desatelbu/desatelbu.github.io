@@ -1,0 +1,15 @@
+---
+title: "Joseph Prince at New Creation Church | 2.30pm SGT"
+image: "https:\/\/i.ytimg.com\/vi\/duLxXacaT8I\/hqdefault.jpg"
+vid_id: "duLxXacaT8I"
+categories: "Nonprofits-Activism"
+tags: ["New Creation Church","NCC","nccsg"]
+date: "2021-10-24T09:44:45+03:00"
+vid_date: "2021-10-19T08:06:54Z"
+duration: "P0D"
+viewcount: "3225"
+likeCount: "239"
+dislikeCount: "1"
+channel: "New Creation Church"
+---
+{% raw %}Have a prayer need? Our pastors and leaders are here to pray with you over a video call. Head to our online prayer room on Zoom* after our 2.30pm service by visiting this link: <a rel="nofollow" target="blank" href="http://bit.ly/nccprayerroom">http://bit.ly/nccprayerroom</a><br /> <br />*You do not need to create a Zoom account to be part of this session. If you prefer to write in, share your prayer requests with us at <a rel="nofollow" target="blank" href="http://bit.ly/nccpray.">http://bit.ly/nccpray.</a><br />___________________________<br />Join us for our upcoming online English services as we worship the Lord and receive from His word through a timely message by Pastor Joseph Prince!<br /> <br />Tune in on Sunday, 24 October 2021 at the following timings:<br /> <br />• 8.30am SGT<br />• 11.30am SGT<br />• 2.30pm SGT<br />• 5.30pm SGT<br />• 8.30pm SGT<br /><br />The programme for our Sunday services is recorded in line with government health advisories.<br /><br />🌎 If you’re living in other time zones, here’s a useful tool to know what time to join us online: <a rel="nofollow" target="blank" href="https://www.thetimezoneconverter.com/">https://www.thetimezoneconverter.com/</a><br /><br />👋 Welcome!<br />If this is your first time tuning in or you’ve just made a decision to receive Jesus as your Lord and Saviour through our online services, we have a resource that we'd like to bless you with! Please connect with us via <a rel="nofollow" target="blank" href="http://bit.ly/welcometoNCC.">http://bit.ly/welcometoNCC.</a>   <br /><br />◼️ Digital Giving<br />For more info on digital giving, please visit <a rel="nofollow" target="blank" href="https://newcreation.org.sg/give">https://newcreation.org.sg/give</a>   <br /><br />🙌 Praise Report<br />Have a testimony to share? We would love to hear about it via <a rel="nofollow" target="blank" href="http://bit.ly/ncctestimony">http://bit.ly/ncctestimony</a>   <br /><br />ℹ️ More info<br />Visit <a rel="nofollow" target="blank" href="https://www.newcreation.org.sg">https://www.newcreation.org.sg</a>   <br /><br />📡 Follow us on social media<br />• Website: <a rel="nofollow" target="blank" href="https://www.newcreation.org.sg">https://www.newcreation.org.sg</a> <br />• Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/nccsg">http://facebook.com/nccsg</a> <br />• Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/nccsg">http://instagram.com/nccsg</a><br /><br />#josephprince #pastorjosephprince #newcreationchurch #nccsg #ncc #sundayservice #onlineservice #onlinechurch{% endraw %}
