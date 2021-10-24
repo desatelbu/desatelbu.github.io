@@ -1,0 +1,15 @@
+---
+title: "Ellie Goulding - Figure 8 (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/rNpBahr49mA\/hqdefault.jpg"
+vid_id: "rNpBahr49mA"
+categories: "Music"
+tags: ["Ellie","Goulding","Figure 8"]
+date: "2021-10-24T19:58:34+03:00"
+vid_date: "2012-11-20T00:00:24Z"
+duration: "PT4M4S"
+viewcount: "40036083"
+likeCount: "250842"
+dislikeCount: "6398"
+channel: "EllieGouldingVEVO"
+---
+{% raw %}Ellie Goulding - Figure 8 (Official Video)<br />Listen to Ellie's new album 'Brightest Blue': <a rel="nofollow" target="blank" href="http://elliegoulding.lnk.to/BrightestBlue">http://elliegoulding.lnk.to/BrightestBlue</a><br /><br />Follow Ellie:<br />Tik Tok: <a rel="nofollow" target="blank" href="https://EllieGoulding.lnk.to/TikTokID">https://EllieGoulding.lnk.to/TikTokID</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/elliegoulding">https://instagram.com/elliegoulding</a><br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/elliegoulding">https://facebook.com/elliegoulding</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/elliegoulding">https://twitter.com/elliegoulding</a><br />Website: <a rel="nofollow" target="blank" href="https://EllieGoulding.com">https://EllieGoulding.com</a><br />Sign Up: <a rel="nofollow" target="blank" href="http://Ellie.lnk.to/signup">http://Ellie.lnk.to/signup</a><br /><br />Lyrics<br /><br />Yeah yeah<br />Yeah yeah<br />Yeah yeah<br />Yeah yeah yeah yeah<br />Yeah yeah<br />Yeah yeah<br />Yeah yeah<br />Yeah yeah yeah yeah<br />Take it all away<br /><br />Breathe your smoke into my lungs<br />In the back of the car with you I stare into the sun<br />Still not too old to die young<br />But lovers hold on to everything<br />And lovers hold on to anything<br /><br />I chase your love around a figure 8<br />I need you more than I can take<br />You promise forever and a day<br />And then you take it all away (-way, -way)<br />And then you take it all away (-way, -way, -way, -way)<br /><br />Place a kiss on my cheekbone<br />Then you vanish me, I'm buried in the snow<br />But something tells me I'm not alone<br />But lovers hold on to everything<br />And lovers hold on to anything<br /><br />I chase your love around a figure 8<br />I need you more than I can take<br />You promise forever and a day<br />And then you take it all away (-way, -way)<br />And then you take it all away (-way, -way, -way, -way)<br /><br />So lovers hold on to everything<br />And lovers hold on to anything<br />So lovers hold on to everything<br />And lovers hold on to anything<br /><br />I chase your love around a figure 8<br />I need you more than I can take<br />You promise forever and a day<br />And then you take it all away<br />I chase your love around a figure 8<br />I need you more than I can take<br />You promise forever and a day<br />And then you take it all away (-way, -way -way, -way, -way, -way)<br />And then you take it all away (-way, -way, -way, -way)<br /><br />#EllieGoulding<br /><br />Music video by Ellie Goulding performing Figure 8. (C) 2012 Polydor Ltd. (UK){% endraw %}
