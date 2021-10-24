@@ -1,0 +1,15 @@
+---
+title: "You can’t compare Salah and Ronaldo! | Man Utd vs Liverpool | Jurgen Klopp press conference"
+image: "https:\/\/i.ytimg.com\/vi\/ocw2W8boDJM\/hqdefault.jpg"
+vid_id: "ocw2W8boDJM"
+categories: "Sports"
+tags: ["Football","Soccer","Hayters TV"]
+date: "2021-10-24T14:08:18+03:00"
+vid_date: "2021-10-22T11:48:32Z"
+duration: "PT12M42S"
+viewcount: "10609"
+likeCount: "216"
+dislikeCount: "8"
+channel: "HaytersTV"
+---
+{% raw %}-TIMESTAMPS-<br />00:00 Intro<br />00:10 Curtis will train today. Thiago no. He is running which is a good sign. Maybe he will be back before the international break, but we will see<br /><br />1:20 I've prepared the team for a tough game against an exceptional opponent. United have a really good team and it's a home game for them as well<br /><br />2:45 on the treatment of Steve Bruce: Don't read social media and don't watch the media - that is the best advice. I am really sorry for Steve Bruce. The most important skill in modern football is to not let criticism get too close to you. Or just ignore it<br /><br />5:10 on HT talks: I'm not the biggest influence on my team during a game - it is very loud in stadiums. Pep Lijnders talked next to me all game on Tuesday and I understood about 10% of what he was saying!<br /><br />6:30 We all know how the football world is. United/Liverpool is a massive game. Man Utd not overly happy with their results but they are able to incredible stuff. We will focus on ourselves<br /><br />7:45 We've played Tues/Sun, so we don't think about fatigue. Atletico had the weekend off before, so their energy was different. We fought through it and we've recovered. No consideration for the intensity of the last game from our side<br /><br />9:00 on Salah/Ronaldo: &quot;Why should we compare? Both are world-class. I would say Mo's left foot is better, Cristiano better in the air and right foot. Speed-wise, both quick and desperate to score goals but not too interested in comparing, sorry<br /><br />10:00 It's more a coincidence that we score so often. We don't rely on it. I love winning games 1-0 as well. I would love to keep a clean sheet. Goals are good for confidence but relying on that is the first step in wrong direction<br /><br />11:30 on Solsjkaer's claim over pens last season: &quot;We cannot influence refs with things like that. They are good, they go in the box, have these situations, but so do we and didn't have even a similar number<br /><br />HaytersTV – Football Up Close. We go behind the scenes with the biggest names in football to bring you interviews, training, news, live coverage, fans’ voices and funniest moments. If you love football, you’ll love Hayters TV. Subscribe now!<br />Follow HaytersTV on social media 🔥<br />www.instagram.com/HaytersTV <br />www.facebook.com/HaytersTV<br />www.twitter.com/HaytersTV<br />www.tiktok.com/@hayterstv<br />-------<br />Subscribe on YouTube - <a rel="nofollow" target="blank" href="https://www.youtube.com/hayterstv">https://www.youtube.com/hayterstv</a><br /><br />#LFC #Klopp #CR7{% endraw %}
