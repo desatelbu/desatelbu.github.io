@@ -1,0 +1,15 @@
+---
+title: "URGENT: Protect This Hawaiian Farm From Developers!"
+image: "https:\/\/i.ytimg.com\/vi\/bmQxvqtt5qo\/hqdefault.jpg"
+vid_id: "bmQxvqtt5qo"
+categories: "Travel-Events"
+tags: ["sustainable farming","permaculture design","living off grid"]
+date: "2021-10-25T11:40:55+03:00"
+vid_date: "2021-10-24T15:00:00Z"
+duration: "PT19M14S"
+viewcount: "6601"
+likeCount: "665"
+dislikeCount: "22"
+channel: "Wild We Roam"
+---
+{% raw %}What if your $5, $10, $100 could change not only one family's life, but the lives of an entire community? Please take a second to go check out Alohi Ae'a and Daniel Anthony's GoFundMe campaign and if you can afford it, please consider supporting them and their mission to bring ancient indigenous farming techniques to the forefront - <a rel="nofollow" target="blank" href="https://www.gofundme.com/f/save-our-farm-from-developers">https://www.gofundme.com/f/save-our-farm-from-developers</a><br /><br />If you donate over $500 please forward me your receipt to our email (wildweroam@gmail.com) as well as your mailing address and I will mail you a 10inx15in painting of a Kune Kune pig, just like the ones seen in this video that they have on their property.<br /><br />When Lou and I heard about the story of this Hawaiian family's farm - how they are battling to save it from developers after 7 years of restoring it back to life... after years of weekly community workshops teaching locals how to engage with the land, grow food with ancient farming techniques, bring poi back as a staple Hawaiian food...  after decades of fighting to not only protect Hawaiian agriculture land, the rights of farmers, but also rebuild a culture of people connected to where their food comes from, well, we had to share their story with you. I hope that it moves you in the same way it touched our hearts. This world has so much to learn from indigenous farmers. This project is so much bigger than just one family farm. The work that their non-profit, Hui Aloha Aina Momona, does is incredible for Hawaii and an inspiration for the world.<br /><br />This farm needs your help today. With each dollar that you donate you are getting them closer to their mission of taking full ownership of this farm, so that they can set up their farm school and leverage everything they have learned here and share it with their local community and the world at large.<br /><br />Here are all the links if you want to learn more about what they are doing:<br />GoFund Me: <a rel="nofollow" target="blank" href="https://www.gofundme.com/f/save-our-farm-from-developers">https://www.gofundme.com/f/save-our-farm-from-developers</a><br />Instagram: www.instagram.com/manaai<br />Hui Aloha Aina Momona, their non-profit: <a rel="nofollow" target="blank" href="https://www.ainamomona.org/">https://www.ainamomona.org/</a><br />Their Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/manaai/">https://www.patreon.com/manaai/</a><br />Daniel's Tiktok:  <a rel="nofollow" target="blank" href="https://www.tiktok.com/@vibewithuncle">https://www.tiktok.com/@vibewithuncle</a>{% endraw %}
