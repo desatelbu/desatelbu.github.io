@@ -1,0 +1,15 @@
+---
+title: "CADEAUX AT THE CHATEAU & IN LONDON!"
+image: "https:\/\/i.ytimg.com\/vi\/4EtkptdheDc\/hqdefault.jpg"
+vid_id: "4EtkptdheDc"
+categories: "People-Blogs"
+tags: ["chateau life","stephanie jarvis","chateau de lalande"]
+date: "2021-10-26T17:41:07+03:00"
+vid_date: "2021-10-25T19:15:10Z"
+duration: "PT58M32S"
+viewcount: "35521"
+likeCount: "3417"
+dislikeCount: "55"
+channel: "Chateau Unwrapped!"
+---
+{% raw %}As well as opening stunning gifts at the chateau, we also track Cat down in London to bring gifts to her from Cadeaux at the Chateau and from the Lalanders...<br /><br />In 'Cadeaux at the Chateau', all of the inhabitants of the Chateau de Lalande gather together to open beautiful gifts that people have sent from all over the world. All of the monetisation from these videos will be donated to a different charity each month. YouTube earnings fluctuate wildly each month, as ad revenue changes throughout the year. Here are the charities that we've donated to so far:<br />July 2020: <br />British Heart Foundation UK (in memory of my father) €634<br />August 2020: <br />Alzheimer's Research UK (in memory of all of the residents of my parents' nursing homes) €350<br />September 2020:<br />Prostate Cancer Foundation (in memory of Selmar's father) €1255<br />October 2020:<br />Medecins sans Frontieres (chosen by my mother to support vaccinations in Africa) €942 (equivalent to 426 cholera vaccinations)<br />November &amp; December 2020 &amp; Jan &amp; Feb 2021:<br />A Lalande Fashion Scholarship for a student at the Villioti Fashion Institute in South Africa €5500 <br />March 2021:<br />Suffolk Artlink £1505<br />April 2021:<br />Association Petit Prince €1.689<br />May 2021:<br />Melanoma Focus €1.204<br />June 2021:<br />Aide aux Jeunes Diabétiques €1.735<br /><br />I used to show the gifts as part of 'The Chateau Diaries' episodes, but you're all so very generous that we have many gifts, and if we spent the episodes opening them, we wouldn't be able to show you other aspects of chateau life! So, for those of you who enjoy watching presents being opened, and as a way to thank those of you who were kind enough to send them, I've made this new channel. Every week we will film your beautiful gifts whilst enjoying afternoon tea or aperitif together. <br /><br />It is very important to me that you know that we in no way expect anyone to send us gifts. I would like to go further than that and add that, if doing so will put you in any financial difficulty whatsoever, please, please do not send us anything. Knowing that you join us by watching @The Chateau Diaries gives us all an enormous boost. But for those of you who have sent these incredibly thoughtful gifts, I hope that seeing us open them gives you a fraction of the joy that you've given us, and that by monetising this channel for charity we can pass on that joy to others 💖💖💖<br /><br />If you would like to see more of our life at the chateau, please go to our main 'Chateau Diaries' channel:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/thechateaudiaries">https://www.youtube.com/thechateaudiaries</a>{% endraw %}
