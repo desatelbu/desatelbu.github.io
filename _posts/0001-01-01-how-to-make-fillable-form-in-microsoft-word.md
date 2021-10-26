@@ -1,0 +1,15 @@
+---
+title: "How to make Fillable Form in Microsoft Word"
+image: "https:\/\/i.ytimg.com\/vi\/mRTQxVauzr0\/hqdefault.jpg"
+vid_id: "mRTQxVauzr0"
+categories: "Science-Technology"
+tags: ["kevin stratvert","fillable form","form"]
+date: "2021-10-26T10:02:27+03:00"
+vid_date: "2020-11-17T11:00:13Z"
+duration: "PT12M"
+viewcount: "483253"
+likeCount: "13344"
+dislikeCount: "127"
+channel: "Kevin Stratvert"
+---
+{% raw %}In this step-by-step tutorial, learn how to create a fillable form using Microsoft Word. Others can fill out your form easily. You can create a form using things like check boxes, text boxes, date pickers, and drop-down lists.<br /><br />👋 Additional resources:<br />- Sample Cookie Order Form Word document to follow along: <a rel="nofollow" target="blank" href="https://1drv.ms/w/s!AmxrofZZlZ-whKUxYhDr_R51ziJjCQ?e=iQS0KH">https://1drv.ms/w/s!AmxrofZZlZ-whKUxYhDr_R51ziJjCQ?e=iQS0KH</a><br />- Completed Sample Cookie Order Form Word document: <a rel="nofollow" target="blank" href="https://1drv.ms/w/s!AmxrofZZlZ-whKUvJlR6LokEUstEjQ?e=jYkaAH">https://1drv.ms/w/s!AmxrofZZlZ-whKUvJlR6LokEUstEjQ?e=jYkaAH</a><br /><br />⌚ Timestamps<br />0:00 Introduction<br />0:47 Example form<br />1:34 Turn on developer tab on ribbon<br />2:35 Insert plain text field<br />4:00 Insert check boxes<br />4:57 Combo box drop down<br />6:37 Drop-down list<br />7:46 Date picker<br />8:19 Picture picker<br />8:50 Rich text field<br />10:04 Restrict editing<br />10:50 Final form<br />11:22 Wrap up<br /><br />📃 Watch related playlists and videos<br />- Word: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLlKpQrBME6xJi-alBn-OFEAX79E3bZ_H4">https://www.youtube.com/playlist?list=PLlKpQrBME6xJi-alBn-OFEAX79E3bZ_H4</a><br /><br />🚩 Connect with me on social:<br />- LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/in/kevinstratvert/">https://www.linkedin.com/in/kevinstratvert/</a><br />- Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/kevstrat">https://twitter.com/kevstrat</a><br />- Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/Kevin-Stratvert-101912218227818">https://www.facebook.com/Kevin-Stratvert-101912218227818</a><br /><br />🔔 Subscribe to my YouTube channel<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/kevlers?sub_confirmation=1">https://www.youtube.com/user/kevlers?sub_confirmation=1</a><br /><br />🎬 Want to watch again? Navigate back to my YouTube channel quickly<br /><a rel="nofollow" target="blank" href="http://www.kevinstratvert.com">http://www.kevinstratvert.com</a><br /><br />🛍 Support me with your Amazon purchases: <a rel="nofollow" target="blank" href="https://amzn.to/3kCP2yz">https://amzn.to/3kCP2yz</a><br /><br />⚖ As full disclosure, I use affiliate links above. Purchasing through these links gives me a small commission to support videos on this channel -- the price to you is the same.<br /><br />#word #microsoftword{% endraw %}
