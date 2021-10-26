@@ -1,0 +1,15 @@
+---
+title: "HARD PLAY СМОТРИТ ЮТУБЕР - Дудя оштрафовали на 100 000 \/\/ «Мужское государство» — экстремисты"
+image: "https:\/\/i.ytimg.com\/vi\/Lk_bG8-Z7lI\/hqdefault.jpg"
+vid_id: "Lk_bG8-Z7lI"
+categories: "Comedy"
+tags: ["hard play","hardplay","хардплей"]
+date: "2021-10-27T01:16:04+03:00"
+vid_date: "2021-10-26T15:00:10Z"
+duration: "PT8M6S"
+viewcount: "22595"
+likeCount: "4641"
+dislikeCount: "47"
+channel: "Hard Play"
+---
+{% raw %}- СТАТЬ СПОНСОРОМ ➤ <a rel="nofollow" target="blank" href="https://goo.su/8mce">https://goo.su/8mce</a><br />- TELEGRAM ➤ <a rel="nofollow" target="blank" href="https://teleg.run/hplegion​​">https://teleg.run/hplegion​​</a> или HARD INSIDE<br />- РОСПИСЬ В ВК ➤ <a rel="nofollow" target="blank" href="https://signalerts.ru/buy/4767â€‹">https://signalerts.ru/buy/4767â€‹</a><br /><br />Хай! В этом ролики мы посмотрим самые свежие новости в мире ютуба, такие как штраф Дудя, закрытие &quot;мужского государства&quot; и много другое,  а после дадим своё мнение по поводу этого всего. Всем приятного просмотра, аппетита!<br /><br />- МЕРЧ HARD PLAY ➤ <a rel="nofollow" target="blank" href="http://hardplaystyle.ru​">http://hardplaystyle.ru​</a><br />- ИГРОВОЙ КАНАЛ ➤ <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC1zjXCkpx-bOxmytxBc6Q_g">https://www.youtube.com/channel/UC1zjXCkpx-bOxmytxBc6Q_g</a><br />- TELEGRAM ➤ <a rel="nofollow" target="blank" href="https://teleg.run/hplegion​​">https://teleg.run/hplegion​​</a> или HARD INSIDE<br />- ИНСТАГРАМ ➤ <a rel="nofollow" target="blank" href="https://www.instagram.com/hard.inst">https://www.instagram.com/hard.inst</a><br />- TIK TOK : <a rel="nofollow" target="blank" href="https://www.tiktok.com/@hard.tk">https://www.tiktok.com/@hard.tk</a><br />- СТРАНИЦА ВК : <a rel="nofollow" target="blank" href="https://vk.com/hard_rus">https://vk.com/hard_rus</a><br />- ГРУППА ВКОНТАКТЕ : <a rel="nofollow" target="blank" href="https://vk.com/hp_legion">https://vk.com/hp_legion</a><br />- DISCORD : <a rel="nofollow" target="blank" href="https://discord.gg/hardplay">https://discord.gg/hardplay</a><br />- ОПОВЕЩЕНИЕ О СТРИМАХ ВК : <a rel="nofollow" target="blank" href="https://goo.gl/L75cVB">https://goo.gl/L75cVB</a> ​​ (поставь + в вк)<br /><br />Оригинал : <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=k8M5kDJ1zCA">https://www.youtube.com/watch?v=k8M5kDJ1zCA</a><br /><br />Плейлисты<br />МИСТИКА/ЗАБРОШКИ : <a rel="nofollow" target="blank" href="https://bit.ly/34rUiPc">https://bit.ly/34rUiPc</a><br />ХАРД ЧЕЛЛЕНДЖ : <a rel="nofollow" target="blank" href="https://bit.ly/34zVoIs">https://bit.ly/34zVoIs</a><br />СМЕШНЫЕ НАРЕЗКИ : <a rel="nofollow" target="blank" href="https://bit.ly/2nsSDXz">https://bit.ly/2nsSDXz</a><br />ПРОХОЖДЕНИЯ ИГР : <a rel="nofollow" target="blank" href="https://bit.ly/3fyPwWe">https://bit.ly/3fyPwWe</a><br />ВЛОГ 2021 : <a rel="nofollow" target="blank" href="https://bit.ly/2SE81j9​">https://bit.ly/2SE81j9​</a><br /><br /> реакция хардплей хард плей хард плей смотрит реакция хард плей ютубер дудя оштрафовали саша спилберг{% endraw %}
