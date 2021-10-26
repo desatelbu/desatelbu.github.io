@@ -1,0 +1,15 @@
+---
+title: "Eternals: Angelina Jolie and Salma Hayek on If They Could Have Beaten Thanos"
+image: "https:\/\/i.ytimg.com\/vi\/hXukUM5hn3c\/hqdefault.jpg"
+vid_id: "hXukUM5hn3c"
+categories: "Entertainment"
+tags: ["collider","celebrity interview","collider interview"]
+date: "2021-10-26T09:50:51+03:00"
+vid_date: "2021-10-25T15:31:28Z"
+duration: "PT5M7S"
+viewcount: "5651"
+likeCount: "264"
+dislikeCount: "2"
+channel: "Collider Interviews"
+---
+{% raw %}With director Chloé Zhao’s Eternals opening in theaters November 5th, I recently got to speak with Angelina Jolie and Salma Hayek about making the Marvel movie. During the fun interview, they revealed which of their friends and family were most excited about them joining the MCU, if they debated how powerful each character is and who was stronger, why they changed their powers from the comics, what fans would be surprised to learn about the making of Eternals, and who would have won if the Eternals had fought Thanos.<br /><br />As you’ve seen in the trailers, Marvel’s Eternals follows a group of heroes from beyond the stars who had protected the Earth since the dawn of man and have lived quietly on our planet for 7,000 years. But when the creatures they had come to Earth to defeat mysteriously return, the group is forced to unite to try and save humanity. Eternals boasts a great ensemble cast, and it stars Gemma Chan as humankind-loving Sersi, Richard Madden as the all-powerful Ikaris, Kumail Nanjiani as cosmic-powered Kingo, Lia McHugh as the eternally young, old-soul Sprite, Brian Tyree Henry as the intelligent inventor Phastos, Lauren Ridloff as the super-fast Makkari, Barry Keoghan as aloof loner Druig, Don Lee as the powerful Gilgamesh, Kit Harington as Dane Whitman, with Salma Hayek as the wise and spiritual leader Ajak, and Angelina Jolie as the fierce warrior Thena. The film was written by Chloé Zhao, Patrick Burleigh, Ryan Firpo, and Kaz Firpo. Kevin Feige and Nate Moore are the producers, with Louis D’Esposito, Victoria Alonso and Kevin de la Noy serving as executive producers.<br /><br />Watch what they had to say in the player above and below is exactly what we talked about.<br /><br />Angelina Jolie and Salma Hayek<br />    If the Eternals had fought Thanos on their own could they have won?<br />    Did they debate how powerful each character is and how much damage they could take?<br />    Why the powers were changed from the comics.<br />    Which of their friends and family were most excited they were joining the MCU?<br />    What would fans be surprised to learn about the making of Eternals?<br /><br />#Eternals #AngelinaJolie #SalmaHayek<br /><br />For interviews, movie reviews, and more visit <a rel="nofollow" target="blank" href="https://collider.com">https://collider.com</a><br /><br /><br />FOLLOW US ON SOCIAL<br /><a rel="nofollow" target="blank" href="https://twitter.com/collider">https://twitter.com/collider</a><br /><a rel="nofollow" target="blank" href="https://instagram.com/collider">https://instagram.com/collider</a><br /><a rel="nofollow" target="blank" href="https://facebook.com/collider">https://facebook.com/collider</a>{% endraw %}
