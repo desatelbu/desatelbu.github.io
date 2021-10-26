@@ -1,0 +1,15 @@
+---
+title: "MIR4 How to Enhance Equipment +6 to +8 Safe Mode & Darkened Stone"
+image: "https:\/\/i.ytimg.com\/vi\/PMrTAkREkx4\/hqdefault.jpg"
+vid_id: "PMrTAkREkx4"
+categories: "Gaming"
+tags: ["IceXgame","MIR4"]
+date: "2021-10-26T17:23:32+03:00"
+vid_date: "2021-10-24T11:57:02Z"
+duration: "PT3M33S"
+viewcount: "2332"
+likeCount: "31"
+dislikeCount: "3"
+channel: "IceXgame"
+---
+{% raw %}MIR4 How to Enhance Equipment +6 to +8 Safe Mode &amp; Darkened Stone <br /><br />- Use Yellow Stone Enhance at +4 ( You Have Chance to Get +5 to +8 ) <br />- If Failed and Get +5 ( Reduce level with Darkened Stone to +4 &amp; Try Again )<br /><br />Join this channel to get access to perks:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCxRED3mXWiTo32c_K-Kxfqw/join">https://www.youtube.com/channel/UCxRED3mXWiTo32c_K-Kxfqw/join</a><br /><br />Support Channel:<br /> PayPal: <a rel="nofollow" target="blank" href="https://www.paypal.me/icexgame">https://www.paypal.me/icexgame</a><br /><br />Black Desert Mobile Guide: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL2fl77XDMGcAkAnIe4BSTgZzIw6NWLcyT">https://www.youtube.com/playlist?list=PL2fl77XDMGcAkAnIe4BSTgZzIw6NWLcyT</a><br /><br />Black Desert Mobile Awakening Class &amp; Boss: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL2fl77XDMGcBGYtC7LQNeZS_CBcIIWSaV">https://www.youtube.com/playlist?list=PL2fl77XDMGcBGYtC7LQNeZS_CBcIIWSaV</a><br /><br />Daily Android &amp; IOS Game Sub Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCIuzBTcFEosOqj9XrGoCl7A">https://www.youtube.com/channel/UCIuzBTcFEosOqj9XrGoCl7A</a><br /><br />Daily New Game: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL2fl77XDMGcBiwJiSt7jaVNR2b3JtlmHl">https://www.youtube.com/playlist?list=PL2fl77XDMGcBiwJiSt7jaVNR2b3JtlmHl</a><br /><br />Game News &amp; Trailer: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL2fl77XDMGcCS66Znwi4ZtQbUGPGU9dbB">https://www.youtube.com/playlist?list=PL2fl77XDMGcCS66Znwi4ZtQbUGPGU9dbB</a><br /><br />Guide &amp; Tutorial: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL2fl77XDMGcBECRGKlhX5kWH94ZDIgXak">https://www.youtube.com/playlist?list=PL2fl77XDMGcBECRGKlhX5kWH94ZDIgXak</a><br /><br />CHANNEL SUPPORT AND SOCIAL MEDIA:<br /><br />PayPal: <a rel="nofollow" target="blank" href="https://www.paypal.me/icexgame">https://www.paypal.me/icexgame</a><br />Donation: <a rel="nofollow" target="blank" href="https://youtube.streamlabs.com/meganecrotictaimusic">https://youtube.streamlabs.com/meganecrotictaimusic</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/IceXgame">https://www.facebook.com/IceXgame</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/IceXgame">https://twitter.com/IceXgame</a><br /><br />If you want this video to Remove, can request us from our Email.<br /><br />Thank for Watching - IceXgame Free to Play{% endraw %}
