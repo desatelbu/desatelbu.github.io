@@ -1,0 +1,15 @@
+---
+title: "Profitable ICT Student Who Took 49,000 Screenshots w\/ SG"
+image: "https:\/\/i.ytimg.com\/vi\/cj3GfISuYRQ\/hqdefault.jpg"
+vid_id: "cj3GfISuYRQ"
+categories: "Education"
+tags: ["NASDAQ","Penny Stocks","Stock trading"]
+date: "2021-10-30T02:42:07+03:00"
+vid_date: "2021-10-28T10:30:14Z"
+duration: "PT58M56S"
+viewcount: "7409"
+likeCount: "447"
+dislikeCount: "4"
+channel: "Trading Nut"
+---
+{% raw %}<a rel="nofollow" target="blank" href="https://tradingnut.com/sg/">https://tradingnut.com/sg/</a> - Click here for full interview + show notes<br /><br />SPONSOR: Get Funded! Up to 70% Profit Share <a rel="nofollow" target="blank" href="https://www.CityTradersImperium.com/tradingnut">https://www.CityTradersImperium.com/tradingnut</a><br /><br />============================<br /><br />SILVER SPONSOR:<br /><br />Join Mudrex and claim your $25 free credit! Also 3 random people will be selected to win 1 ETH each - ends 1st Nov 2021: <a rel="nofollow" target="blank" href="https://tradingnut.com/mudrex/">https://tradingnut.com/mudrex/</a><br /><br />============================<br /><br />Check Out Cam's Broker: <a rel="nofollow" target="blank" href="https://tradingnut.com/hankotraderedirect/">https://tradingnut.com/hankotraderedirect/</a><br /><br />=============================<br /><br />Learn the &quot;EASIEST &amp; FASTEST&quot; Way To Build Trading Robots<br /><br />1) Start with Cam's FREE Training &amp; Trading Robot: <br /><a rel="nofollow" target="blank" href="https://tradingnut.com/FreeTraining">https://tradingnut.com/FreeTraining</a><br /><br />2) Let Cam Teach You Everything He Knows: <br /><a rel="nofollow" target="blank" href="https://tradingnut.com/EasiestWayToBuildAlgos">https://tradingnut.com/EasiestWayToBuildAlgos</a><br /> <br />=============================<br /><br />32:31 You have to find that balance not just in trading but also with yourself and your finances.<br /><br />48:44 Try to look for areas of liquidity and inefficiencies.<br /><br />55:10 Be a nerd. Be a student of the game. Collect data. Journal.<br /><br />=============================<br /><br />Follow on INSTAGRAM:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/tradingnut/">https://www.instagram.com/tradingnut/</a><br /><br />Join my Telegram chat:<br /><a rel="nofollow" target="blank" href="https://tradingnut.com/telegramchat/">https://tradingnut.com/telegramchat/</a><br /><br />Subscribe on APPLE PODCASTS:<br /><a rel="nofollow" target="blank" href="https://itunes.apple.com/nz/podcast/trading-nut/id1435314680">https://itunes.apple.com/nz/podcast/trading-nut/id1435314680</a><br /><br />Follow on SPOTIFY:<br /><a rel="nofollow" target="blank" href="https://open.spotify.com/show/2kbC6FEWOVNNawssaJeK9b">https://open.spotify.com/show/2kbC6FEWOVNNawssaJeK9b</a><br /><br />=============================<br /><br />Join this channel to get access to perks:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UClyYQXuaV_74AiO1tHjQ5IQ/join">https://www.youtube.com/channel/UClyYQXuaV_74AiO1tHjQ5IQ/join</a>{% endraw %}
