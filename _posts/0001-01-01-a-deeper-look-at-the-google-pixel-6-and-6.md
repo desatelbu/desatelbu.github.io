@@ -1,0 +1,15 @@
+---
+title: "A Deeper Look at the Google Pixel 6 and 6 Pro"
+image: "https:\/\/i.ytimg.com\/vi\/iXVdeYbgEvQ\/hqdefault.jpg"
+vid_id: "iXVdeYbgEvQ"
+categories: "People-Blogs"
+tags: ["Waveform","WVFRM","Podcast"]
+date: "2021-10-30T11:00:35+03:00"
+vid_date: "2021-10-29T15:29:30Z"
+duration: "PT1H3M10S"
+viewcount: "40060"
+likeCount: "1822"
+dislikeCount: "32"
+channel: "WVFRM Podcast"
+---
+{% raw %}Marques is back from his Ultimate Frisbee tournament and dives right into the news with Andrew. First they talk about how the tournament went before jumping right into MacBook Pro notch talk and guessing what the Facebook rebrand is going to be (it was revealed after this recording to be &quot;Meta&quot;). After that David Imel comes on to discuss the Pixel 6 and 6 Pro review that went out this week which takes up most of the episode. Finally, they wrap up the episode with some Tesla talk, because Tesla news is mandatory now.<br /><br />Chapters:<br />00:00 Intro<br />00:22 Ultimate Frisbee tournament recap<br />02:30 MacBook Pro <br />08:38 Facebook Papers and name change <br />13:33 Peloton (Sponsored)<br />14:57 David joins for Pixel 6 talk<br />30:29 Pixel 6 and 6 Pro photos<br />34:35 Magic eraser<br />37:23 Battery life<br />42:36 Tensor language processing demo<br />48:50 Who is upgrading?<br />52:08 Amazing segue to Tesla news<br />1:01:43 Outro<br /><br />Links to articles:<br />Facebook Rebrand: <a rel="nofollow" target="blank" href="https://bit.ly/3BkswlL">https://bit.ly/3BkswlL</a><br />8 Things about Facebook Papers: <a rel="nofollow" target="blank" href="https://bit.ly/2ZwYYnM">https://bit.ly/2ZwYYnM</a><br />Pixel 6 Review typed mostly with voice: <a rel="nofollow" target="blank" href="https://bit.ly/3nBN8B3">https://bit.ly/3nBN8B3</a><br />Hertz Buys 100,000 Teslas: <a rel="nofollow" target="blank" href="https://bit.ly/3GuLmKB">https://bit.ly/3GuLmKB</a><br />Tesla market cap hits $1 trillion: <a rel="nofollow" target="blank" href="https://bit.ly/3vT97Y1">https://bit.ly/3vT97Y1</a><br /><br />Twitters:<br /><a rel="nofollow" target="blank" href="https://twitter.com/wvfrm">https://twitter.com/wvfrm</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/mkbhd">https://twitter.com/mkbhd</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/andymanganelli">https://twitter.com/andymanganelli</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/DurvidImel">https://twitter.com/DurvidImel</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/AdamLukas17">https://twitter.com/AdamLukas17</a><br /><br />Instagram: <br /><a rel="nofollow" target="blank" href="https://www.instagram.com/wvfrmpodcast/">https://www.instagram.com/wvfrmpodcast/</a><br /><br />Shop the merch: <br />shop.mkbhd.com<br /><br />Join the Discord: <br /><a rel="nofollow" target="blank" href="https://discord.gg/mkbh">https://discord.gg/mkbh</a><br /><br />Music by 20syl: <br /><a rel="nofollow" target="blank" href="https://bit.ly/2S53xlC">https://bit.ly/2S53xlC</a><br /><br />Waveform is part of the Vox Media Podcast Network.{% endraw %}
