@@ -1,0 +1,15 @@
+---
+title: "I SURVIVED THE ZOMBIE ATTACK IN THIS APOCALYPTIC WORLD | Before the Dawn"
+image: "https:\/\/i.ytimg.com\/vi\/RvbietUNmx0\/hqdefault.jpg"
+vid_id: "RvbietUNmx0"
+categories: "Gaming"
+tags: ["스팀게임리뷰","스팀 로그라이크","스팀 전략rpg"]
+date: "2021-10-31T10:05:26+03:00"
+vid_date: "2021-10-29T17:07:52Z"
+duration: "PT10M55S"
+viewcount: "25775"
+likeCount: "1283"
+dislikeCount: "14"
+channel: "NoBeans"
+---
+{% raw %}Check out Before the Dawn: <a rel="nofollow" target="blank" href="https://ggcont.me/30Z9IMc">https://ggcont.me/30Z9IMc</a><br /><br />Before the Dawn:<br /><br />Before the Dawn is turn-based Medieval Zombie Apocalypse created by an Indie Game company named Time Stone Games, where the player aims to survive from incoming zombies by collecting weapons, foods, medical utilities, and etc.<br /><br />Before the Dawn is different from any other zombie apocalypse games. Its setting is based on the Medieval age, which makes the game a bit harder since weapon technology is not as developed as the 21st century. Lack of high-tech weapons, therefore, lead the players to fear. Because of these reasons, players have to avoid the zombies to get to the final destination, The Sanctuary.<br /><br />There are no other games like Before the Dawn. One of the advantages is that the game is based on the medieval age without any magic or fantasy. If magics and powerful heroes become a common part of the game, it would ruin the whole purpose of the survival game. Therefore, removing the unnecessaries, we allowed the hyper reality theme to be well seeped into Before of the Dawn.<br /><br />We aim to develop the game through adding personal characteristics of each character. The characteristics will allow conflicts between the characters. For example, in films like “The Walking Dead”, leaders in surviving clans tend to ignore the minors for greater good for the majorities. These kinds of problems will cause dissatisfaction towards the minors, then will lead to conflicts within the clan. When personality is implemented, to avoid any conflicts, all characters will have a satisfaction level on their profile and players need to manage and take care of the problems to avoid conflict.<br /><br />Currently, the demo version of Before the Dawn takes around 20 minutes to complete. However, advanced users will be able to complete it within 10 minutes. The internal testing version of the game includes multiple missions and quests from the NPCs and can be completed within 2 hours. On the release version, the game will be divided into multiple ‘acts’. Each ‘act’ will be around 3~5 hours and ‘act’ is defined as completing from starting spawn to the destination point, The Sanctuary. Lastly, we aim to add unlocking new characters, which will create a whole new playstyle. Creating new features and allowing users to make their own playstyle will make the game replayable by accessing the features.<br /><br />Before the Dawn will give players ‘living agony’ and will be released for early access in the 2nd half of the year 2022.<br /><br />Chapters<br />0:00 Game overview<br />00:58 The Church<br />06:25 The Town{% endraw %}
