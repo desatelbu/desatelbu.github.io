@@ -1,0 +1,15 @@
+---
+title: "#shorts | Sheepishly Me SHORTS | ewe BLEW it!! 😬"
+image: "https:\/\/i.ytimg.com\/vi\/xrayYBoaS48\/hqdefault.jpg"
+vid_id: "xrayYBoaS48"
+categories: "People-Blogs"
+tags: ["#shorts","Sheepishly","SHORTS"]
+date: "2021-11-01T00:50:50+03:00"
+vid_date: "2021-10-31T12:00:23Z"
+duration: "PT1M"
+viewcount: "18500"
+likeCount: "1656"
+dislikeCount: "22"
+channel: "Sandi Brock"
+---
+{% raw %}#shorts <br />FOR FULL LENGTH VIDEO CLICK LINK BELOW👇👇<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=XH8Ew276lJk">https://www.youtube.com/watch?v=XH8Ew276lJk</a><br /><br />Found an already popped abscess on this ewe... At first I thought it was CL, as this is typically where you would see it on a sheep!<br />But, after uploading this video, someone wondered if maybe it was a dog bite??<br />My dog is getting great at herding, but maybe she nipped this one to turn her around when I wasn't looking?<br />Thoughts?<br />#shorts #sheep #farming<br /><br />THANKS SO MUCH FOR WATCHING!!!<br /><br />MY NEW WEBSITE!!<br /><a rel="nofollow" target="blank" href="https://sheepishlyme.com/">https://sheepishlyme.com/</a><br /><br />CHECK OUT THE BEARDED BUTCHER SHOP! <br />(Here’s my link!) 👇<br /><a rel="nofollow" target="blank" href="https://www.beardedbutchers.com/Sandi">https://www.beardedbutchers.com/Sandi</a><br />~disclaimer… this is an affiliate link meaning I will make a small commission off a sale from this link😊<br /><br />MORE INFO ON MY HANDLING SYSTEM!👇 <br /><a rel="nofollow" target="blank" href="https://lakelandfarmandranch.com/">https://lakelandfarmandranch.com/</a><br /><br />Mail:<br />PO BOX 402<br />Hensall, ON Canada<br />N0M 1X0<br /><br />Follow me on:<br />TikTok (NEW!!):  <a rel="nofollow" target="blank" href="https://www.tiktok.com/@sheepishly.me">https://www.tiktok.com/@sheepishly.me</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/sheepishly.me/">https://www.instagram.com/sheepishly.me/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.fmVM...acebook.com/sheepi...">https://www.fmVM...acebook.com/sheepi...</a><br />Twitter:  <a rel="nofollow" target="blank" href="https://twitter.com/sandibrock">https://twitter.com/sandibrock</a><br /><br />WE STARTED A PODCAST!!!<br />UNpopular Farmer➡️ <a rel="nofollow" target="blank" href="https://www.unpopularfarmer.com/">https://www.unpopularfarmer.com/</a><br /><br />Subscribe to my channel: <br />➡️ <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCmVMNXTsmxr1wkaQ5sExJ9A">https://www.youtube.com/channel/UCmVMNXTsmxr1wkaQ5sExJ9A</a><br /><br />*NEW*<br />JESS HAS HER OWN YOUTUBE CHANNEL NOW!!<br />➡️ <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCVq3xZv5fEAUSKdg0HHciew">https://www.youtube.com/channel/UCVq3xZv5fEAUSKdg0HHciew</a><br /><br />MARK’S YOUTUBE CHANNEL!!<br />➡️ <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCl7w_vIfnELsmuKRR-TRSZA">https://www.youtube.com/channel/UCl7w_vIfnELsmuKRR-TRSZA</a>{% endraw %}
