@@ -1,0 +1,15 @@
+---
+title: "John Galliano: Fashion’s Greatest Showman Turns Ciné-Auteur | The Business of Fashion"
+image: "https:\/\/i.ytimg.com\/vi\/VCgUoZGsmSU\/hqdefault.jpg"
+vid_id: "VCgUoZGsmSU"
+categories: "Entertainment"
+tags: ["Business","fashion","BoF"]
+date: "2021-10-31T18:33:58+03:00"
+vid_date: "2021-10-21T06:49:01Z"
+duration: "PT46M51S"
+viewcount: "13327"
+likeCount: "508"
+dislikeCount: "12"
+channel: "The Business of Fashion"
+---
+{% raw %}BoF's editor-at-large, Tim Blanks, sat down with John Galliano in Maison Margiela’s Paris headquarters to watch the latest film he has made with director Olivier Dahan for MM’s Spring 2022 Co-Ed collection. <br /><br />Film has become Galliano’s fascination over the past twenty months.  The designer who was responsible for some of the grandest live spectacles fashion has ever seen in the glory days of the Nineties and Noughties was seduced by the idea that, with all the restrictions of the pandemic, he could still make memorable, even startling visual co-relatives for his clothes.  “There was no way I was not going to create, even if it was with a small team,” Galliano says. “This idea that through film we could reinforce the ethics of house took on a great appeal for me.”  <br /><br />Read the full article on www.businessoffashion.com <br /><br />Subscribe to BoF’s YouTube channel to never miss a video.<br /><br />Look out for more VOICES videos coming soon, bringing you the best of our annual global gathering for big thinkers. <br /><br />CONNECT WITH THE BUSINESS OF FASHION: <br />Web: <a rel="nofollow" target="blank" href="https://www.businessoffashion.com">https://www.businessoffashion.com</a> <br />Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/BoF">https://www.twitter.com/BoF</a> <br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/businessoffa...">https://www.facebook.com/businessoffa...</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/BoF">https://www.instagram.com/BoF</a> <br />LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/company/the-...">https://www.linkedin.com/company/the-...</a><br />Pinterest: <a rel="nofollow" target="blank" href="https://www.pinterest.co.uk/fashionbu...">https://www.pinterest.co.uk/fashionbu...</a><br />Newsletter: <a rel="nofollow" target="blank" href="https://www.businessoffashion.com/new...">https://www.businessoffashion.com/new...</a><br /><br />ABOUT THE BUSINESS OF FASHION: The Business of Fashion is a next-generation fashion media company conceived for today’s global and hyper-connected world. Founded in 2007 by Imran Amed, BoF is known for its authoritative, agenda-setting point of view on the global fashion industry, and is an indispensable resource for fashion executives, creatives, students, and entrepreneurs in over 200 countries. It has been described as “The Economist of Fashion,” “A Daily Destination for Fashion’s Power Players”, and “The Industry Bible”, www.businessoffashion.com{% endraw %}
