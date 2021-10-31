@@ -1,0 +1,15 @@
+---
+title: "This I Promise You - Sam Mangubat 🎵"
+image: "https:\/\/i.ytimg.com\/vi\/bOtYfj27q9o\/hqdefault.jpg"
+vid_id: "bOtYfj27q9o"
+categories: "Music"
+tags: ["This I Promise You Sam Mangubat","This I Promise You","This I Promise You Acoustic"]
+date: "2021-10-31T21:27:01+03:00"
+vid_date: "2020-05-15T21:45:16Z"
+duration: "PT4M39S"
+viewcount: "5976488"
+likeCount: "16383"
+dislikeCount: "1179"
+channel: "ItsLyricKo"
+---
+{% raw %}Sam Mangubat - This I Promise You 🎵<br />► Official Music Video: <a rel="nofollow" target="blank" href="https://youtu.be/arBDAhlAm2c">https://youtu.be/arBDAhlAm2c</a><br /><br />Let's support Sam Mangubat Music Buy &amp; Stream on Spotify:<br />► <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/73dgrlUNeTLiZFL1BpNVlw?si=y3wwfi3gSqaMl_Vzosmlcg">https://open.spotify.com/artist/73dgrlUNeTLiZFL1BpNVlw?si=y3wwfi3gSqaMl_Vzosmlcg</a><br /><br />This channel is purely fan-made, if you (owners) want to remove any video, please CONTACT US DIRECTLY before doing anything. We will respectfully remove it. <br />Email us: notetoselfofficial07@gmail.com<br /><br />_____________________________________________________<br />Hey Guys 😊 <br />Do you like more Sam Mangubat Covers? Then stick around ! Subscribe <a rel="nofollow" target="blank" href="https://www.youtube.com/c/itslyricko">https://www.youtube.com/c/itslyricko</a> and hit that notification 🔔 Bell to not miss our New Video upload!!! <br /><br />Thanks for watching! Don't forget to Like &amp; Share my video if you enjoy it, but DO NOT REUPLOAD.<br />Thank you! <br /><br />Have a nice day! <br />_____________________________________________________<br />None of these images, music &amp; video clips were created/owned by us. All credits go to the right owners. No copyright intended.<br /><br />_____________________________________________________<br /><br />Get your music featured in this channel? <br />Email me: notetoselfofficial07@gmail.com<br />_____________________________________________________<br /><br />Connect with Sam Mangubat :<br />Facebook: <a rel="nofollow" target="blank" href="https://m.facebook.com/officialsammangubat">https://m.facebook.com/officialsammangubat</a><br />Twitter: <a rel="nofollow" target="blank" href="http://www.twitter.com/sammangubat">http://www.twitter.com/sammangubat</a><br />Instagram: @sammangubat<br />Youtube: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/SamMangubat">https://www.youtube.com/c/SamMangubat</a><br />_____________________________________________________<br />#ThisIPromiseYou #SamMangubat #itslyricko<br /><br />Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &quot;fair use&quot; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.{% endraw %}
