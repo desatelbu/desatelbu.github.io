@@ -1,0 +1,15 @@
+---
+title: "Best Ratchet (ROUND 2)? Snap On vs Milwaukee, Ryobi, Husky, Ingersoll Rand, ACDelco"
+image: "https:\/\/i.ytimg.com\/vi\/v36w14JQouc\/hqdefault.jpg"
+vid_id: "v36w14JQouc"
+categories: "Howto-Style"
+tags: ["project farm","ratchet","best ratchet"]
+date: "2021-11-01T01:11:20+03:00"
+vid_date: "2021-10-31T16:50:34Z"
+duration: "PT16M17S"
+viewcount: "109616"
+likeCount: "8156"
+dislikeCount: "72"
+channel: "Project Farm"
+---
+{% raw %}6 BRANDS: Snap On, Milwaukee, Ryobi, Husky, Ingersoll Rand, ACDelco.  Ratchets tested for maximum torque, working speed, minimum and maximum RPM, noise, weight, tool balance, endurance under constant load, battery run time, and battery recharge time. I purchased all of the ratchets tested to ensure unbiased reviews. So, thank you for supporting the channel!<br /><br />➡ Thank you very much for supporting the channel: <a rel="nofollow" target="blank" href="https://www.patreon.com/projectfarm">https://www.patreon.com/projectfarm</a>  <br />➡ An easy way to find past videos along with products tested: <a rel="nofollow" target="blank" href="http://bit.ly/2FCrBpk">http://bit.ly/2FCrBpk</a>  A big thanks to Jim for putting this together. <br />➡ Merch: www.Project-Farm.com    <br />➡ Click here if you'd like to subscribe:   <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC2rzsm1Qi6N1X-wuOg_p0Ng?sub_confirmation=1">https://www.youtube.com/channel/UC2rzsm1Qi6N1X-wuOg_p0Ng?sub_confirmation=1</a> <br />➡ As an Amazon Associate I earn from qualifying purchases.<br /><br />➡ Products Tested In This Video (in no particular order):<br />Ryobi: <a rel="nofollow" target="blank" href="https://amzn.to/3GCPKHC">https://amzn.to/3GCPKHC</a><br />Milwaukee: <a rel="nofollow" target="blank" href="https://amzn.to/3jMVioT">https://amzn.to/3jMVioT</a><br />Ingersoll Rand: <a rel="nofollow" target="blank" href="https://amzn.to/3BuG2TC">https://amzn.to/3BuG2TC</a><br />ACDelco: <a rel="nofollow" target="blank" href="https://amzn.to/3mv3jRu">https://amzn.to/3mv3jRu</a><br />Husky: <a rel="nofollow" target="blank" href="https://amzn.to/3mtLp1j">https://amzn.to/3mtLp1j</a><br /><br />Torque Adapter Used to Test Ratchets: <a rel="nofollow" target="blank" href="https://amzn.to/3btR9le">https://amzn.to/3btR9le</a><br /><br />Videography Equipment:<br />Sony DSC-RX10 III Cyber-shot Digital Still Camera: <a rel="nofollow" target="blank" href="https://amzn.to/2YdXvPw">https://amzn.to/2YdXvPw</a><br />Canon 70D Camera: <a rel="nofollow" target="blank" href="https://amzn.to/31b5Gy0">https://amzn.to/31b5Gy0</a><br />Azden Microphone: <a rel="nofollow" target="blank" href="https://amzn.to/34d3DLE">https://amzn.to/34d3DLE</a><br />Go Pro Bundle:  <a rel="nofollow" target="blank" href="https://amzn.to/3Ca0ZVN">https://amzn.to/3Ca0ZVN</a><br /><br />This video is only for entertainment purposes. If you rely on the information portrayed in this video, you assume the responsibility for the results. Project Farm LLC{% endraw %}
