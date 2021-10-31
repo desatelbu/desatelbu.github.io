@@ -1,0 +1,15 @@
+---
+title: "ALLEGRA  - Between (feat. Young Echo)"
+image: "https:\/\/i.ytimg.com\/vi\/NMWcxLrWfnM\/hqdefault.jpg"
+vid_id: "NMWcxLrWfnM"
+categories: "Music"
+tags: ["local","supportlocal","pinoyrap"]
+date: "2021-10-31T12:38:17+03:00"
+vid_date: "2019-01-01T13:41:40Z"
+duration: "PT3M41S"
+viewcount: "283516"
+likeCount: "2101"
+dislikeCount: "62"
+channel: "LOCAL"
+---
+{% raw %}Title: ALLEGRA - Between (feat. Young Echo)<br /><br />Listen &quot;Between&quot; on:<br />Spotify: <a rel="nofollow" target="blank" href="https://spoti.fi/2S7eEVD">https://spoti.fi/2S7eEVD</a><br />Apple Music: <a rel="nofollow" target="blank" href="https://apple.co/2Ac7SGR">https://apple.co/2Ac7SGR</a><br />Soundcloud: <a rel="nofollow" target="blank" href="https://bit.ly/2KpZ0SE">https://bit.ly/2KpZ0SE</a>  <br /><br />Follow ALLEGRA<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/ALLEGRA1997/">https://www.facebook.com/ALLEGRA1997/</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/allegra___97/">https://www.instagram.com/allegra___97/</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/allegra___97">https://twitter.com/allegra___97</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/allegra1997">https://soundcloud.com/allegra1997</a><br /><br />Follow Young Echo<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/YoungEchoTurla/">https://www.facebook.com/YoungEchoTurla/</a><br /><br />SUBSCRIBE NOW: <a rel="nofollow" target="blank" href="http://bit.ly/subLOCAL">http://bit.ly/subLOCAL</a><br /><br />LOCAL<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/localmusicph">https://www.facebook.com/localmusicph</a><br />Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/localmusicph">https://www.twitter.com/localmusicph</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/localmusicph">https://www.instagram.com/localmusicph</a><br />Youtube: <a rel="nofollow" target="blank" href="https://www.youtube.com/localmusicph">https://www.youtube.com/localmusicph</a><br /><br />✨ Spotify Playlist:<br /><a rel="nofollow" target="blank" href="http://bit.ly/LOCALSpotifyPlaylist">http://bit.ly/LOCALSpotifyPlaylist</a><br /><br />🌊 LOCAL Merch Available now:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/localmusicph/shop">https://www.facebook.com/localmusicph/shop</a><br /><br />LOCAL is a community and platform that promotes local music from underground artists. We started back in 2017 and our vision is to put local artists on the pedestal to be successful and be heard by a wider audience.<br /><br />We will continue to work with only the best! Be on the look out for new exciting releases and projects that we will drop in the future!<br /><br />------<br /><br />All the tracks that we upload has the permission to be uploaded and distributed from the artists themselves.<br /><br />Contact us: localmusicph@gmail.com<br />#LOCAL #SUPPORTLOCAL{% endraw %}
