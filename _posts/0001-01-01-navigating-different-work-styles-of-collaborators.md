@@ -1,0 +1,15 @@
+---
+title: "Navigating Different Work Styles of Collaborators"
+image: "https:\/\/i.ytimg.com\/vi\/Oro7oKF2QuQ\/hqdefault.jpg"
+vid_id: "Oro7oKF2QuQ"
+categories: "Education"
+tags: ["elearning","talent management","cloud learning"]
+date: "2021-10-31T03:53:48+03:00"
+vid_date: "2020-03-16T16:26:09Z"
+duration: "PT5M17S"
+viewcount: "11453"
+likeCount: "82"
+dislikeCount: "2"
+channel: "Skillsoft YouTube"
+---
+{% raw %}Collaboration requires team members who are willing to share their experiences and skills and learn from one another. This means navigating a wide variety of approaches and work styles. These working styles can affect how people make decisions, deal with change,  deal with risk, and deal with each other. Turning these diverse styles into an overall cohesive team can present a serious challenge.<br /><br />Learn more in the Skillsoft Business Continuity Learning Center: <a rel="nofollow" target="blank" href="http://bit.ly/39Xt4kn">http://bit.ly/39Xt4kn</a><br />Read more on our blog: <a rel="nofollow" target="blank" href="http://bit.ly/3cW0t0P">http://bit.ly/3cW0t0P</a><br /><br />----------------------------------------------------------------<br /><br />Visit our website: <a rel="nofollow" target="blank" href="https://www.skillsoft.com/">https://www.skillsoft.com/</a><br />Join us on LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/company/skillsoft/">https://www.linkedin.com/company/skillsoft/</a><br />Tweet with us: <a rel="nofollow" target="blank" href="https://twitter.com/skillsoft">https://twitter.com/skillsoft</a><br />Follow us on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/skillsoft">https://www.facebook.com/skillsoft</a><br /><br />----------------------------------------------------------------<br /><br />About Skillsoft<br /><br />Skillsoft helps companies unlock the potential in their most valuable asset – their people – by delivering engaging content and powerful technology that drives business impact for modern enterprises. Skillsoft comprises three award-winning systems that support learning, performance and success: Skillsoft learning content, the Percipio intelligent learning experience platform and the SumTotal suite for Talent Development.<br /> <br />Skillsoft provides a comprehensive selection of cloud-based corporate learning content, including courses, videos, books, and other resources on Leadership Development, Business Skills, Digital Transformation, Technology &amp; Developer, and Compliance. Percipio’s intuitive design engages modern learners and its consumer-led experience assists in accelerating learning. The SumTotal suite delivers measurable impact across that entire employee lifecycle via award-winning technology that powers talent acquisition, learning management and talent management.<br /> <br />Skillsoft is trusted by thousands of the world’s leading organizations, including many within the Fortune 500. Learn more at www.skillsoft.com.{% endraw %}
