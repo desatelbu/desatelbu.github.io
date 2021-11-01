@@ -1,0 +1,15 @@
+---
+title: "deem spencer - Se Réveiller | A COLORS SHOW"
+image: "https:\/\/i.ytimg.com\/vi\/Sj25InfFa7M\/hqdefault.jpg"
+vid_id: "Sj25InfFa7M"
+categories: "Music"
+tags: ["deem spencer","révellier","deem Spencer - révellier | a colors show"]
+date: "2021-11-01T20:39:13+03:00"
+vid_date: "2021-11-01T17:00:10Z"
+duration: "PT2M3S"
+viewcount: "2155"
+likeCount: "418"
+dislikeCount: "6"
+channel: "COLORS"
+---
+{% raw %}Jamaica, Queens-raised rapper, songwriter and producer  @deem spencer brings laid back vibes to the COLORS stage with a chilled out performance of his new single ‘Se Réveiller’.<br /><br />Follow<br />▶ Stream: <a rel="nofollow" target="blank" href="https://colors.lnk.to/allshowscxs">https://colors.lnk.to/allshowscxs</a><br />▶ Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/DeemSpencer/">https://www.facebook.com/DeemSpencer/</a><br />▶ Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/deemspencer/">https://www.instagram.com/deemspencer/</a><br />—<br />Follow COLORS:<br />▶ Apparel Shop: <a rel="nofollow" target="blank" href="https://colors.lnk.to/shopcxs">https://colors.lnk.to/shopcxs</a><br />▶ On Socials: <a rel="nofollow" target="blank" href="https://colors.lnk.to/socials">https://colors.lnk.to/socials</a><br />▶ On Spotify: <a rel="nofollow" target="blank" href="https://colors.lnk.to/Spotify">https://colors.lnk.to/Spotify</a><br />▶ On Apple Music: <a rel="nofollow" target="blank" href="https://colors.lnk.to/applemusic">https://colors.lnk.to/applemusic</a><br />▶ On the Web: <a rel="nofollow" target="blank" href="https://colorsxstudios.com">https://colorsxstudios.com</a><br /><br />Check out our curated playlists:<br />▶ ALL COLORS SHOWS: <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLWa4R2I19VH7Mtxo3VvqwnNlXgLpf4_d3">https://youtube.com/playlist?list=PLWa4R2I19VH7Mtxo3VvqwnNlXgLpf4_d3</a><br />▶ JADE (Smooth): <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLWa4R2I19VH6mND1HUBeHJN1NMzi6VAFR">https://youtube.com/playlist?list=PLWa4R2I19VH6mND1HUBeHJN1NMzi6VAFR</a><br />▶ AMBER (Groove): <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLWa4R2I19VH5d2tiAhSYawnNuwuNxs53G">https://youtube.com/playlist?list=PLWa4R2I19VH5d2tiAhSYawnNuwuNxs53G</a><br />▶ RUBY (The Function): <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLWa4R2I19VH7WEZgUsNUMPQRGLfiyIHJz">https://youtube.com/playlist?list=PLWa4R2I19VH7WEZgUsNUMPQRGLfiyIHJz</a><br /><br />COLORSxSTUDIOS is a unique aesthetic music platform showcasing exceptional talent from around the globe. COLORS focuses on the most distinctive new artists and original sounds in an increasingly fragmented and saturated scene. All COLORS shows seek to provide clear, minimalistic stage that shines a spotlight on the artists, giving them the opportunity to present their music without distraction.<br /><br />#colors #deemspencer #seréveiller{% endraw %}
