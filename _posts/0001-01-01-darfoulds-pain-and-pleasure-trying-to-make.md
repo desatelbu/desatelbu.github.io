@@ -1,0 +1,15 @@
+---
+title: "Darfoulds - Pain and Pleasure"
+image: "https:\/\/i.ytimg.com\/vi\/CUR453McRL0\/hqdefault.jpg"
+vid_id: "CUR453McRL0"
+categories: "Music"
+tags: ["darfoulds","pain and pleasure","pop"]
+date: "2021-11-02T12:03:41+03:00"
+vid_date: "2020-03-29T18:26:31Z"
+duration: "PT3M35S"
+viewcount: "2720"
+likeCount: "11"
+dislikeCount: "0"
+channel: "Darfoulds"
+---
+{% raw %}Trying to make it in the music business is tough.....this is a song about it!<br />#rockytraining #pop #synthwave<br /><br />Listen to Darfoulds<br />Spotify<br /> <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/2GZqA3MvwfWpFycVgpY7CZ?si=DApg1bcwSEqJ7agSnjwNWA">https://open.spotify.com/artist/2GZqA3MvwfWpFycVgpY7CZ?si=DApg1bcwSEqJ7agSnjwNWA</a><br /><br />Apple music<br /><a rel="nofollow" target="blank" href="https://music.apple.com/gb/artist/darfoulds/1479272498">https://music.apple.com/gb/artist/darfoulds/1479272498</a><br /><br />Support Darfoulds<br /><a rel="nofollow" target="blank" href="https://darfoulds.bandcamp.com/">https://darfoulds.bandcamp.com/</a><br />Instagram <a rel="nofollow" target="blank" href="https://www.instagram.com/darfoulds/">https://www.instagram.com/darfoulds/</a><br />Soundcloud <a rel="nofollow" target="blank" href="https://soundcloud.com/darfouldsmusic">https://soundcloud.com/darfouldsmusic</a><br />Facebook - <a rel="nofollow" target="blank" href="https://facebook.com/darfouldsmusic">https://facebook.com/darfouldsmusic</a><br />twitter - <a rel="nofollow" target="blank" href="https://twitter.com/Darfouldsmusic">https://twitter.com/Darfouldsmusic</a><br /><br />Business/licensing contact   darfouldsmusic@gmail.com<br /><br />Video excerpts from Rocky<br /><br />Pain and pleasure lyrics<br /><br />Played in the avenues and alleyways<br />On my dads old piano<br />I'd be playing with one finger<br />While standing on my tip toe<br />Maybe this set my path<br />On a life of high and lows<br />But this is my life blood<br />It's all I know<br /><br />Its my pain and my pleasure<br />Its me its just who I am<br />Its my pain and my pleasure<br />Its me its just who I am<br />My pain and pleasure<br />Its me its just who I am<br /><br />I've spent so many hours driving<br />Up and down these same roads<br />Never followed from the same crowd<br />It all felt like the same thing<br />But it's all about me now<br />Cos I'm writing my own lines<br />This time no excuses <br />It's all I know<br /><br />Its my pain and my pleasure<br />Its me its just who I am<br />Its my pain and my pleasure<br />Its me its just who I am<br /><br />Ive spent all of my life<br />Just pushing on through<br />I guess its just me it's who I am<br />Sometimes I'm burning up<br />It's the rage inside<br />But I'll never give up it's who I am<br /><br />Its my pain and my pleasure<br />Oo oo oo oo<br />Its my pain and my pleasure<br />Its me its just who I am<br /><br />It's all I know I know<br />Its just me its who I am<br />Ive spent all of my life<br />Just pushing on through yeah<br />It's just me it's who I am<br />Its just who I am{% endraw %}
