@@ -1,0 +1,15 @@
+---
+title: "Lebanon Under Attack: U.S., Saudi & Israeli Attempts To Destroy Resistance, w\/ As'ad AbuKhalil"
+image: "https:\/\/i.ytimg.com\/vi\/UOtLIHHhXlQ\/hqdefault.jpg"
+vid_id: "UOtLIHHhXlQ"
+categories: "Entertainment"
+tags: ["lebanon","beirut","news"]
+date: "2021-11-02T14:39:53+03:00"
+vid_date: "2021-11-01T18:25:08Z"
+duration: "PT1H44M"
+viewcount: "5260"
+likeCount: "442"
+dislikeCount: "18"
+channel: "BreakThrough News"
+---
+{% raw %}Lebanon can’t catch a break.  Amidst the worst economic collapse in the modern era, the Saudis and their regional allies are punishing the tiny country over comments criticizing the war on Yemen. To make matters worse, October saw clashes in Beirut on a front line that dates back to the civil war of the 1980s, with a Saudi and U.S.-backed Christian militia opening fire on Shia protesters affiliated with Hezbollah. <br /><br />Why is all this happening now? Does it have anything to do with the Lebanese civil war? What was that war even about? Was it really just a sectarian bloodbath or an international attack on the Arab left? And how does it relate to the economic collapse and ongoing foreign meddling wreaking havoc on Lebanon today? <br /><br />Here to put it all in its historical context is As’ad AbuKhalil, a professor of political science at California State University Stanislaus.<br /><br />Listen to every episode of Rania Khalek Dispatches anywhere you get podcasts.<br />Spotify: <a rel="nofollow" target="blank" href="https://spoti.fi/3za9DRK">https://spoti.fi/3za9DRK</a><br />Apple: <a rel="nofollow" target="blank" href="https://apple.co/3zeYpeW">https://apple.co/3zeYpeW</a> <br /><br />TIME CODES:<br />0:00 Intro<br />2:15 Saudi Arabia’s assault on Lebanon<br />4:31 The real reason Saudi is punishing Lebanon<br />8:15 Foreign meddling in Lebanon<br />13:56 Who are the Lebanese Forces and Samir Geagea? <br />19:26 The Lebanese civil war was a conspiracy against the Arab left<br />22:45 Who really controls Lebanon?<br />25:18 Who assisted the Lebanese right-wing militias?<br />29:59  Why the Lebanese left &amp; PLO lost<br />33:42 US &amp; Israeli involvement<br />39:34 The far right Christian Kataeb (Phalange) militia<br />45:56 The problem with the Lebanese Army <br />52:43 How Rafic Hariri set the stage for Lebanon’s collapse<br />59:45 The October 2019 uprising: Revolution or imperialist meddling?<br />1:02:43 Dangers of Western-funded NGOs &amp; civil society<br />1:07:56 Why is the Arab left so weak? Why is today’s resistance religious in form? <br />1:14:18 Debating Hezbollah’s alliance with corrupt parties<br />1:15:37 Will we ever find out the truth about the Beirut port explosion? <br />1:23:55 Is the US withdrawing from the Middle East?<br />1:27:36 Iraq, Syria, Lebanon &amp; Jordan need economic cooperation &amp; unity to survive<br />1:29:58 The problem with regional media<br />1:35:18 Is the economic crisis worse than the civil war?<br />1:39:35 Can you separate the political crisis from the economic crisis?{% endraw %}
