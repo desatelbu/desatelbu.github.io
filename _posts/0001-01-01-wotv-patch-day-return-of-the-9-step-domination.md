@@ -1,0 +1,15 @@
+---
+title: "WoTV PATCH DAY! Return of the 9-Step Domination AND Some Good Deals (FFBE War of the Visions)"
+image: "https:\/\/i.ytimg.com\/vi\/PMQl8fCaDBc\/hqdefault.jpg"
+vid_id: "PMQl8fCaDBc"
+categories: "Gaming"
+tags: ["war of the visions","final fantasy","ffbe wotv"]
+date: "2021-11-03T19:42:11+03:00"
+vid_date: "2021-11-03T08:41:40Z"
+duration: "PT9M22S"
+viewcount: "2552"
+likeCount: "173"
+dislikeCount: "1"
+channel: "Auronnj Jayy"
+---
+{% raw %}9 step fans and daily shard fans will be happy.  There is still access to cheap Large energy pots though, and some really nice retry-able banners out there.  Good luck on your pulls everyone!<br /><br />Amazon Coins Offer: <a rel="nofollow" target="blank" href="https://l.linklyhq.com/l/X5tU">https://l.linklyhq.com/l/X5tU</a><br />Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/auronnj">https://www.patreon.com/auronnj</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/auronnj">https://twitter.com/auronnj</a><br />My Discord: <a rel="nofollow" target="blank" href="https://discord.gg/yJUGpTrbAd">https://discord.gg/yJUGpTrbAd</a><br />WoTV Guild Discord: <a rel="nofollow" target="blank" href="https://discord.gg/8RfX9kw">https://discord.gg/8RfX9kw</a><br />Twitch: twitch.com/auronnj<br /><br />--------------------------------<br />Game Information:<br /><br />FFBE: War of the Visions Discord: <a rel="nofollow" target="blank" href="https://discord.gg/wotvffbe">https://discord.gg/wotvffbe</a><br />FFBE: War of the Visions Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/wotvffbe">https://twitter.com/wotvffbe</a><br />FFBE: War of the Visions Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/wotvffbe">https://www.facebook.com/wotvffbe</a><br />FFBE: War of the Visions Website: <a rel="nofollow" target="blank" href="https://wotvffbe.com/">https://wotvffbe.com/</a><br /><br />--------------------------------<br /><br />Game Description:<br /><br />FFBE WoTV is a spiritual successor to the original Final Fantasy Tactics.  It is a tactical RPG that follows Mont, the protagonist, as he tries to navigate the complicated life of a prince from a kingdom at war.<br /><br />PVP: PVP in WoTV is both live and automated.  Live PVP is run through friendly matches and community tournaments. Auto PVP is the bulk of the game and features an arena with rankings and rewards, as well as a Guild vs. Guild system that is a fun experience every day!<br /><br />PVE: PVE can be played on either auto or manual and has many different types.  The story mode is long and engaging.  Raids drop about once a month for a real challenging boss fight.  And other events spawn on a weekly basis offering new loot and challenges.<br /><br />Community: The best thing about this game is the amazing community.  Whether it is the reddit community or the many discords the community in WoTV is the best!<br /><br />Thanks for stopping by!<br />#WaroftheVisions #wotv #mobilegaming{% endraw %}
