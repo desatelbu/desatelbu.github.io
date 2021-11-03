@@ -1,0 +1,15 @@
+---
+title: "Songs to put you in a better mood ~ Music for a better mood"
+image: "https:\/\/i.ytimg.com\/vi\/ikeR2UUiJwo\/hqdefault.jpg"
+vid_id: "ikeR2UUiJwo"
+categories: "Music"
+tags: ["chill music","chill music 2021","chill songs 2021"]
+date: "2021-11-03T23:34:41+03:00"
+vid_date: "2021-11-03T07:12:03Z"
+duration: "PT1H36M45S"
+viewcount: "12449"
+likeCount: "305"
+dislikeCount: "11"
+channel: "Something old, something new"
+---
+{% raw %}Songs to put you in a better mood ~ Music for a better mood<br /><br />#usuk #goodmood #goodmoodmusic<br /><br />Your ideas to something old, something new: <a rel="nofollow" target="blank" href="https://forms.gle/JEVWkMQQL2b1o6EQ6">https://forms.gle/JEVWkMQQL2b1o6EQ6</a><br />🎹 Everyone likes, subscribe and press the notification bell to support us!<br />Something Old - Something New's our goal is to help make listening a fun and warm experience for people by top songs.<br />📌 We also make life easier for people who want to keep their life happily entertained. Our videos also give you an opportunity to music with your friend, your colleague,...<br />Subscribe Now To Listen More Good Top Songs at Something Old - Something New: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/Somethingoldsomethingnew">https://www.youtube.com/c/Somethingoldsomethingnew</a><br /><br />🎙️ Tracklist:<br />00:00 | 0. 01 - Bruno Mars - Marry You<br />03:50 | 1. 02 - Anne-Marie - 2002<br />06:57 | 2. 03 - Clean Bandit - Tick Tock (feat. 24kGoldn)<br />09:55 | 3. 04 - Jason Derulo - Take You Dancing<br />13:05 | 4. 05 - G-Eazy - Good Life<br />16:51 | 5. 06 - Jason Derulo - Swalla (feat. Nicki Minaj &amp; Ty Dolla $ign)<br />20:27 | 6. 07 - Marshmello - FRIENDS<br />23:50 | 7. 08 - Ava Max - Kings &amp; Queens<br />26:32 | 8. 09 - Clean Bandit - Solo (feat. Demi Lovato)<br />30:15 | 9. 10 - Jess Glynne - I'll Be There<br />33:29 | 10. 11 - Bebe Rexha - I Got You<br />36:41 | 11. 12 - Clean Bandit - Rockabye (feat. Sean Paul &amp; Anne-Marie)<br />40:52 | 12. 13 - Ava Max - Salt<br />43:52 | 13. 14 - Bruno Mars - Leave The Door Open<br />47:54 | 14. 15 - Zac Efron - Rewrite The Stars<br />51:31 | 15. 16 - Jason Mraz - I'm Yours<br />55:34 | 16. 17 - Bruno Mars - Count on Me<br />58:51 | 17. 18 - Pink Sweat$ - At My Worst<br />01:01:41 | 18. 19 - Jason Mraz - Lucky<br />01:04:53 | 19. 20 - Lily Allen - Fuck You<br />01:08:33 | 20. 21 - B.o.B - Airplanes (feat. Hayley Williams of Paramore)<br />01:11:33 | 21. 22 - Fitz and The Tantrums - HandClap<br />01:14:46 | 22. 23 - Ava Max - So Am I<br />01:17:51 | 23. 24 - Sofía Reyes - 1, 2, 3 (feat. Jason Derulo &amp; De La Ghetto)<br />01:21:12 | 24. 25 - Bebe Rexha - (Not) The One<br />01:24:14 | 25. 26 - Sub Urban - INFERNO<br />01:26:27 | 26. 27 - Anne-Marie - Ciao Adios<br />01:29:47 | 27. 28 - Bebe Rexha - Baby, I'm Jealous (feat. Doja Cat)<br />01:32:43 | 28. 29 - Bebe Rexha - Last Hurrah<br />01:35:13 | 29. 30 - Ava Max - EveryTime I Cry<br /><br />© Copyright by WMG.<br /> All copyright issues, please contact by mail: channel@chilledlab.com<br />☛ Do not reup.{% endraw %}
