@@ -1,0 +1,15 @@
+---
+title: "You need Money, You can Have Time | Apostle Joshua Selman"
+image: "https:\/\/i.ytimg.com\/vi\/TyKkUxUlWjU\/hqdefault.jpg"
+vid_id: "TyKkUxUlWjU"
+categories: "People-Blogs"
+tags: ["Joshua Selman","Prosperity","Messages"]
+date: "2021-11-04T15:09:38+03:00"
+vid_date: "2021-08-17T10:00:12Z"
+duration: "PT13M37S"
+viewcount: "13013"
+likeCount: "409"
+dislikeCount: "7"
+channel: "Kingdom Secrets"
+---
+{% raw %}Download more messages from our telegram channel<br /><a rel="nofollow" target="blank" href="https://t.me/kingdomsecretsbook">https://t.me/kingdomsecretsbook</a><br /><br />The full message is from &quot;The spirit of favour &quot;  Apostle Joshua Selman is the founder of ENI (Eternity Network International). <br /><br />You need Money, You can Have Time<br /><br />Visit our website to download free messages from great men of God:<br />www.kingdomsecretonline.com<br /><br />ENI is an apostolic ministry committed to replicating the fullness of God’s life on earth. Koinonia is a weekly meeting where believers encounter the holy spirit. ENI  is a place where believers experience true intimacy with the Holy Spirit and are en-graced to stand as God's agent of transformation on earth.  <br /><br />For the full  message and other messages of Apostle Joshua Selman , visit the official download site for ENI Ministry :<br /><a rel="nofollow" target="blank" href="https://koinoniadownloads.org">https://koinoniadownloads.org</a><br /><br /><br />For ANY Enquiry about Koinonia Eternity Network International :<br /><br />Official Koinonia LINES:<br />08075770001 (Public Relations)<br />08147214444 (Public Relations)<br />09077777853 (Prayer and Counselling)<br />09065996660 (Finance Department)<br />08100289892 (Media Department)<br /><br />About Us:<br />Please SUBSCRIBE to receive more of kingdom secrets...    <br />Follow us on our social media account:<br /><br />Instagram: www.instagram.com/kingdomsecrets_tv<br /><br />Facebook: www.facebook.com/kingdomsecretstv<br /><br /> License for Images and Videos – Pixabay License:<br />Images and Videos on Pixabay are made available under the Pixabay License on the following terms. Under the Pixabay License you are granted an irrevocable, worldwide, non-exclusive and royalty free right to use, download, copy, modify or adapt the Images and Videos for commercial or non-commercial purposes. Attribution of the photographer or Pixabay is not required but is always appreciated.<br /><br /><br />Fair Use Disclaimer:<br /><br />Our purpose, when making  this motivational videos, is to make quality educational motivational videos and share these with our viewers.<br /><br />1)This video has no negative impact on the original works (It would actually be positive for them)<br />2)This video is also used for teaching purposes.<br />3)It is transformative in nature.<br />4)I ONLY used bits and pieces of videos to get the point across where necessary.<br /><br />If anyone have an issue with the files in this video, please email us on Kunleakintola1@gmail.com  we can come to an agreement or remove the content.{% endraw %}
