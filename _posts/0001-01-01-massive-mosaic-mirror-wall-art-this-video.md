@@ -1,0 +1,15 @@
+---
+title: "MASSIVE Mosaic Mirror Wall Art"
+image: "https:\/\/i.ytimg.com\/vi\/72qBOj47SqU\/hqdefault.jpg"
+vid_id: "72qBOj47SqU"
+categories: "Howto-Style"
+tags: ["diy","woodworking","plywood"]
+date: "2021-11-04T09:55:04+03:00"
+vid_date: "2021-11-03T14:00:02Z"
+duration: "PT8M2S"
+viewcount: "5573"
+likeCount: "497"
+dislikeCount: "13"
+channel: "Pneumatic Addict"
+---
+{% raw %}This video is sponsored by Cricut® |  Artwork is expensive. Large artwork can be insanely expensive! If you have large blank walls and aren't willing to shell out big bucks, it's time to DIY. In this video, I'm sharing how to make an ENORMOUS, modern, mosaic mirror for around $100, using the Cricut® Explore 3 Smart Cutting Machine. #cricutmade<br />________________________________________________________________________ <br />For more information about Cricut® Smart Cutting Machines and other products at <a rel="nofollow" target="blank" href="https://cricut.com/">https://cricut.com/</a><br />_________________________________________________________________________<br />Click here for the BLOG POST and more information:<br /><a rel="nofollow" target="blank" href="https://www.pneumaticaddict.com">https://www.pneumaticaddict.com</a><br />__________________________________________________________________________<br />-- PRODUCTS USED -- (affiliate links) <br /><br />Cricut Explore 3 Smart Cutting Machine: <a rel="nofollow" target="blank" href="https://amzn.to/319wAIY">https://amzn.to/319wAIY</a><br /><br />Cricut Smart Permanent Vinyl- Matte White: <a rel="nofollow" target="blank" href="https://amzn.to/3CKa7Qw">https://amzn.to/3CKa7Qw</a><br />Cricut Premium Permanent Vinyl- Frosted Opaque: <a rel="nofollow" target="blank" href="https://amzn.to/3nHYSSF">https://amzn.to/3nHYSSF</a><br />Cricut Premium Permanent Vinyl- Parchment: <a rel="nofollow" target="blank" href="https://amzn.to/3muN8TT">https://amzn.to/3muN8TT</a><br />_________________________________________________________________________<br />Pneumatic Addict on INSTAGRAM: <a rel="nofollow" target="blank" href="https://www.instagram.com/pneumaticaddict/">https://www.instagram.com/pneumaticaddict/</a><br />_________________________________________________________________________<br /><br />-FOLLOW ME ON SOCIAL- <br /><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/PneumaticAddict">https://www.facebook.com/PneumaticAddict</a> <br /><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/pneumaticaddict/">https://www.instagram.com/pneumaticaddict/</a><br /><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/pneumaticaddict">https://twitter.com/pneumaticaddict</a> <br /><br />Pinterest: <a rel="nofollow" target="blank" href="https://www.pinterest.com/pneumaticaddict/">https://www.pinterest.com/pneumaticaddict/</a><br /><br />Blog: <a rel="nofollow" target="blank" href="http://www.pneumaticaddict.com/">http://www.pneumaticaddict.com/</a>{% endraw %}
