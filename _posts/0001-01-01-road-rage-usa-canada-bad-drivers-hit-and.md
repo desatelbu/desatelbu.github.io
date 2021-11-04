@@ -1,0 +1,15 @@
+---
+title: "Road Rage USA & Canada | Bad Drivers, Hit and Run, Brake check, Instant Karma, Car Crash | New 2021"
+image: "https:\/\/i.ytimg.com\/vi\/DBQRgFWrYnk\/hqdefault.jpg"
+vid_id: "DBQRgFWrYnk"
+categories: "Autos-Vehicles"
+tags: ["road rage","road rage karma","brake check"]
+date: "2021-11-04T14:44:30+03:00"
+vid_date: "2021-11-03T18:33:30Z"
+duration: "PT8M18S"
+viewcount: "263904"
+likeCount: "5757"
+dislikeCount: "125"
+channel: "Dashcam Lessons"
+---
+{% raw %}🛑 All videos are used with the copyright holder's permissions! (CHECK THE COMMENT SECTION OF EVERY LINK BELOW) ✔️<br /><br />⚫ Submit your Dashcam video: dashcamlessons@gmail.com<br /><br />⚫ Links to the original videos:<br /><br />1. L.E. Phant - <a rel="nofollow" target="blank" href="https://youtu.be/t31nMGA1tOY">https://youtu.be/t31nMGA1tOY</a> --- Ragin… ( Lakeland FL ) <br /><br />2. u/gozorninplat -  --- Idiot in a car and on a bike? ( Washington state. ) <br /><br />3. WoodburyMan - <a rel="nofollow" target="blank" href="https://youtu.be/jB8g-CZKRv4">https://youtu.be/jB8g-CZKRv4</a> --- 2021 04 06 Van (  ) <br /><br />   WoodburyMan - <a rel="nofollow" target="blank" href="https://youtu.be/RY1J58gfe74">https://youtu.be/RY1J58gfe74</a> --- Rear End Combined View 2021 0513 215944 095R 000 1 (  ) <br /><br />4. SP Detectors - <a rel="nofollow" target="blank" href="https://youtu.be/BEAGhoo2F9k">https://youtu.be/BEAGhoo2F9k</a> --- When you think you fast and then this happened (  ) <br /><br />   SP Detectors - <a rel="nofollow" target="blank" href="https://youtu.be/3jIKs5khTVQ">https://youtu.be/3jIKs5khTVQ</a> --- Chicago Police vs speeding E63s AMG (  ) <br /><br />5. LI R6 - <a rel="nofollow" target="blank" href="https://youtu.be/c_X0Jtu2Ln8">https://youtu.be/c_X0Jtu2Ln8</a> --- Bad Drivers of Washington ( Pierce County WA ) <br /><br />6. Brian -  --- Entitled last second turner came inches within hitting me (  )<br /><br />7. Patrick -  ---  Road Rage Incident in Apple Valley CA<br /><br />8. Jason - <a rel="nofollow" target="blank" href="https://youtu.be/uagyd7_e698">https://youtu.be/uagyd7_e698</a> --- Accident (  )<br /><br />9. Nathan -  --- Dashcam footage (  )<br /><br />10. Joshua  -  --- Dash cam video (  ) <br /><br />11. Lesco Brandon -  --- Car accident (  ) <br /><br />12. miloCody - <a rel="nofollow" target="blank" href="https://youtu.be/Zz7FnEHkn4c">https://youtu.be/Zz7FnEHkn4c</a> --- When you gotta go you gotta go... ( Claremont, California ) <br /><br />13. Ric Rhino - <a rel="nofollow" target="blank" href="https://youtu.be/0RkCBcXJTCw">https://youtu.be/0RkCBcXJTCw</a> --- Car Wreck 2021 ( on I-70 in Rifle, Colorado ) <br /><br />14. jfejapan -  ---  ( Maynard, MA )<br /><br />15. Darrel -  --- Car Accident video and picture ( North Carolina ) <br /><br />16. Sean -  --- Car accident  ( under Prudential Center on Route 90, Boston MA )<br /><br />17. mrhilljohn - <a rel="nofollow" target="blank" href="https://youtu.be/3kLLV11KbsA">https://youtu.be/3kLLV11KbsA</a> --- Cutoff in front of Costco in Rocklin ( Rocklin CA ){% endraw %}
