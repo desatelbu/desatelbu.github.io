@@ -1,0 +1,15 @@
+---
+title: "Global National: Nov. 4, 2021 | Canada's civilian justice system to handle military misconduct cases"
+image: "https:\/\/i.ytimg.com\/vi\/6EnRcDPpqUs\/hqdefault.jpg"
+vid_id: "6EnRcDPpqUs"
+categories: "News-Politics"
+tags: ["global news","Anita Anand","Canadian military"]
+date: "2021-11-05T15:54:16+03:00"
+vid_date: "2021-11-05T01:30:11Z"
+duration: "PT21M49S"
+viewcount: "19575"
+likeCount: "202"
+dislikeCount: "79"
+channel: "Global News"
+---
+{% raw %}Sexual misconduct cases within the Canadian Armed Forces have festered and gone unpunished for years. Now, new Defence Minister Anita Anand says allegations of misconduct within the military should be handled by the civilian justice system. Abigail Bimman reports on Anand's plans to follow recommendations by retired Supreme Court justice Louise Arbour.<br /><br />Backlash is mounting in Quebec and Ontario, where COVID-19 vaccine mandates for health-care workers have been ditched. The provinces believe the rules could result in staff shortages. But would health-care systems really be at risk? Eric Sorensen has a reality check.<br /><br />Meanwhile, parts of Newfoundland and Labrador's health system are recovering after a crippling cyberattack cancelled thousands of medical appointments and critical procedures. Ross Lord explains why the crisis for the province's patients is not over yet and why the rest of the country should pay attention.<br /><br />After undergoing a biopsy, British Columbia Premier John Horgan has confirmed the growth in his throat is cancerous. Keith Baldrey looks at the treatment ahead for Horgan and the critical message the 62-year-old is sending to the general public.<br /><br />Also, Canada is now among at least 20 countries pledging to stop funding international fossil fuel projects, as world leaders continue to hash out action plans at the COP26 climate summit in Glasgow, Scotland. But as Crystal Goomansingh reports, a few key countries are snubbing the goal.<br /><br />And Ottawa's pandemic benefits were meant to help Canadians, particularly seniors and other vulnerable people. But as David Akin explains, that much-needed money has now dried up for some of the population.<br /><br />For more info, please go to <a rel="nofollow" target="blank" href="https://globalnews.ca/news/8349589/canadian-forces-military-sexual-misconduct-civilian-authority/">https://globalnews.ca/news/8349589/canadian-forces-military-sexual-misconduct-civilian-authority/</a><br />Subscribe to Global News Channel HERE: <a rel="nofollow" target="blank" href="http://bit.ly/20fcXDc">http://bit.ly/20fcXDc</a><br />Like Global News on Facebook HERE: <a rel="nofollow" target="blank" href="http://bit.ly/255GMJQ">http://bit.ly/255GMJQ</a><br />Follow Global News on Twitter HERE: <a rel="nofollow" target="blank" href="http://bit.ly/1Toz8mt">http://bit.ly/1Toz8mt</a><br />Follow Global News on Instagram HERE: <a rel="nofollow" target="blank" href="https://bit.ly/2QZaZIB">https://bit.ly/2QZaZIB</a><br />#CdnMilitary #Coronavirus #COVID19 #GlobalNews{% endraw %}
