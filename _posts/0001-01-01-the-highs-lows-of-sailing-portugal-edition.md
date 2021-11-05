@@ -1,0 +1,15 @@
+---
+title: "The HIGHS & LOWS of SAILING – Portugal Edition | Sailing MAKANI Ep15"
+image: "https:\/\/i.ytimg.com\/vi\/XQVoYMHXiN8\/hqdefault.jpg"
+vid_id: "XQVoYMHXiN8"
+categories: "Travel-Events"
+tags: ["sailing","sail","sailboat"]
+date: "2021-11-05T20:00:27+03:00"
+vid_date: "2020-09-26T18:00:03Z"
+duration: "PT17M44S"
+viewcount: "1311"
+likeCount: "103"
+dislikeCount: "0"
+channel: "Sailing MAKANI"
+---
+{% raw %}Ahoy there, we are Kathi &amp; Max from Austria. We're #traveling around Europe while living aboard our beautiful french #sailboat MAKANI and share our adventures here on YouTube.<br /><br />In this episode, we replace one of our batteries after facing a scary moment on board. We later continue along the coast of Portugal for 32 hours without a stop and Max hurts his arm and knee when we dock in Cascais near Lisbon. We make a decision not to sail over night again and stick to day trips instead. When we finally round Cape St. Vincent and reach the beautiful Algarve, we explore some caves with the dinghy and enjoy the summer that we have been chasing for so long.<br /><br />–<br />In this episode: Sailing SAETTA | Saskia &amp; Miguel <br /><br /><a rel="nofollow" target="blank" href="http://sailingsaetta.com/">http://sailingsaetta.com/</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCDPD_y0ZNvGXs4tJEn3P4Mg">https://www.youtube.com/channel/UCDPD_y0ZNvGXs4tJEn3P4Mg</a><br /><br />–<br />Thanks for watching and welcome on board.<br /><br />If you’re new here, make sure to watch last week's episode next, where we sail from Baiona in Spain to Porto in Portugal through 13 hours of the thickest fog we have ever seen. – Find it here: <a rel="nofollow" target="blank" href="https://youtu.be/IadQXYdW9RE">https://youtu.be/IadQXYdW9RE</a><br /><br />–<br />Music: <a rel="nofollow" target="blank" href="https://artlist.io/">https://artlist.io/</a><br />–<br />To find out more about us and the boat subscribe, check out <a rel="nofollow" target="blank" href="https://www.sailingmakani.com">https://www.sailingmakani.com</a> and follow us on Instagram <a rel="nofollow" target="blank" href="https://www.instagram.com/sailing.makani/">https://www.instagram.com/sailing.makani/</a><br /><br />–<br />*** SUPPORT OUR MAKANI-ADVENTURE ***<br />With the monthly support of our patrons, we can refit the boat, buy better editing equipment and keep the adventure going. As a thank you, you’ll get access to our bonus-content and other benefits that we create especially for you. Entry level $2.50/month. – <a rel="nofollow" target="blank" href="https://www.patreon.com/makaniadventure">https://www.patreon.com/makaniadventure</a><br /><br />A monthly subscription is too much for you, but you still want to contribute? No problem. You can also leave us a tip via Paypal. You choose the amount! – <a rel="nofollow" target="blank" href="https://www.paypal.com/paypalme/makaniadventure">https://www.paypal.com/paypalme/makaniadventure</a><br /><br />THANK YOU so much for considering this. It helps us out BIG TIME!{% endraw %}
