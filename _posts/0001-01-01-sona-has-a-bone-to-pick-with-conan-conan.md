@@ -1,0 +1,15 @@
+---
+title: "Sona Has A Bone To Pick With Conan | Conan O’Brien Needs a Friend"
+image: "https:\/\/i.ytimg.com\/vi\/xKEDsLQm9u4\/hqdefault.jpg"
+vid_id: "xKEDsLQm9u4"
+categories: "Comedy"
+tags: ["team coco podcasts","team coco podcast","podcast"]
+date: "2021-11-05T07:09:34+03:00"
+vid_date: "2021-11-04T16:00:34Z"
+duration: "PT6M52S"
+viewcount: "43645"
+likeCount: "1612"
+dislikeCount: "14"
+channel: "Team Coco"
+---
+{% raw %}Sona can't say she listened to every episode of the podcast while she was on maternity leave, but there was one segment that caught her attention. Hear more from this episode with guest Elvis Costello @ <a rel="nofollow" target="blank" href="http://listen.teamcoco.com/costello">http://listen.teamcoco.com/costello</a><br /><br />Subscribe to watch more Team Coco videos <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA?sub_confirmation=1">https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA?sub_confirmation=1</a><br />Listen to the Full Podcast  <a rel="nofollow" target="blank" href="https://link.chtbl.com/conan">https://link.chtbl.com/conan</a><br /> <br />FOLLOW TEAM COCO PODCASTS ON SOCIAL<br />Conan O’Brien on Twitter <a rel="nofollow" target="blank" href="https://twitter.com/conanobrien/">https://twitter.com/conanobrien/</a><br />Team Coco Podcasts on Instagram  <a rel="nofollow" target="blank" href="https://www.instagram.com/teamcocopodcasts/">https://www.instagram.com/teamcocopodcasts/</a><br /> <br />FOLLOW TEAM COCO ON SOCIAL<br />Team Coco on Facebook <a rel="nofollow" target="blank" href="https://www.facebook.com/teamcoco">https://www.facebook.com/teamcoco</a><br />Team Coco on Twitter <a rel="nofollow" target="blank" href="https://twitter.com/teamcoco">https://twitter.com/teamcoco</a><br />Team Coco on Instagram  <a rel="nofollow" target="blank" href="https://www.instagram.com/teamcoco/">https://www.instagram.com/teamcoco/</a><br /> <br />ABOUT CONAN O’BRIEN NEEDS A FRIEND<br />Deeper, unboundedly playful, and free from FCC regulations, Conan O’Brien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way. Watch highlights of Conan, Sona Movsesian and Matt Gourley chatting with celebrities and meeting fans, along with special segments like “Review the Reviewers” and “Big Dick History.”<br /> <br />ABOUT TEAM COCO<br />Team Coco is the YouTube home for all things Conan O’Brien and the Team Coco Podcast Network. Team Coco features over 25 years of comedy sketches, celebrity interviews and stand-up comedy sets from CONAN on TBS and Late Night with Conan O’Brien, as well as exclusive videos from podcasts like Conan O’Brien Needs a Friend,<br />Literally! with Rob Lowe, Why Won’t You Date Me? with Nicole Byer, The Three Questions with Andy Richter, May I Elaborate? with JB Smoove and Scam Goddess with Laci Mosley.<br /> <br />Team Coco<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/TeamCoco">https://www.youtube.com/c/TeamCoco</a>{% endraw %}
