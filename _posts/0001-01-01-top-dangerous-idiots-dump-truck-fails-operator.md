@@ -1,0 +1,15 @@
+---
+title: "TOP Dangerous IDIOTS Dump Truck Fails Operator - Car Fails Driving - Heavy Equipment Machines Worker"
+image: "https:\/\/i.ytimg.com\/vi\/2unKjowRi80\/hqdefault.jpg"
+vid_id: "2unKjowRi80"
+categories: "Science-Technology"
+tags: ["Machine Fastest","top","dangerous"]
+date: "2021-11-05T06:21:00+03:00"
+vid_date: "2021-11-04T13:04:11Z"
+duration: "PT37M58S"
+viewcount: "16067"
+likeCount: "105"
+dislikeCount: "8"
+channel: "Machine Fastest"
+---
+{% raw %}TOP Dangerous IDIOTS Dump Truck Fails Operator - Car Fails Driving - Heavy Equipment Machines Worker<br /><br />This Video is a collection of serious fault situations of Heavy Equipment, Excavator, Truck, Bulldozer Operator Fail<br />To warn those who are operating all means, machines, Heavy Equipment must always be careful when working to avoid mistakes like in the clip<br />Always be safe in work and labor.<br />For a safe working environment for yourself and everyone around you<br /><br />Thank For Watching!!!<br />Music:<br />Raving Energy (faster) by Kevin MacLeod<br />Link: <a rel="nofollow" target="blank" href="https://incompetech.filmmusic.io/song/5030-raving-energy-faster-">https://incompetech.filmmusic.io/song/5030-raving-energy-faster-</a><br />License: <a rel="nofollow" target="blank" href="https://filmmusic.io/standard-license">https://filmmusic.io/standard-license</a><br /><br />Who Likes to Party by Kevin MacLeod<br />Link: <a rel="nofollow" target="blank" href="https://incompetech.filmmusic.io/song/4627-who-likes-to-party">https://incompetech.filmmusic.io/song/4627-who-likes-to-party</a><br />License: <a rel="nofollow" target="blank" href="https://filmmusic.io/standard-license">https://filmmusic.io/standard-license</a><br /><br />Chee Zee Caves V2 by Kevin MacLeod<br />Link: <a rel="nofollow" target="blank" href="https://incompetech.filmmusic.io/song/3492-chee-zee-caves-v2">https://incompetech.filmmusic.io/song/3492-chee-zee-caves-v2</a><br />License: <a rel="nofollow" target="blank" href="https://filmmusic.io/standard-license">https://filmmusic.io/standard-license</a><br /><br />Malicious by Kevin MacLeod<br />Link: <a rel="nofollow" target="blank" href="https://incompetech.filmmusic.io/song/4014-malicious">https://incompetech.filmmusic.io/song/4014-malicious</a><br />License: <a rel="nofollow" target="blank" href="https://filmmusic.io/standard-license">https://filmmusic.io/standard-license</a><br /><br />Movement Proposition by Kevin MacLeod<br />Link: <a rel="nofollow" target="blank" href="https://incompetech.filmmusic.io/song/4088-movement-proposition">https://incompetech.filmmusic.io/song/4088-movement-proposition</a><br />License: <a rel="nofollow" target="blank" href="https://filmmusic.io/standard-license">https://filmmusic.io/standard-license</a><br /><br />The Complex by Kevin MacLeod<br />Link: <a rel="nofollow" target="blank" href="https://incompetech.filmmusic.io/song/4488-the-complex">https://incompetech.filmmusic.io/song/4488-the-complex</a><br />License: <a rel="nofollow" target="blank" href="https://filmmusic.io/standard-license">https://filmmusic.io/standard-license</a>{% endraw %}
