@@ -1,0 +1,15 @@
+---
+title: "Finishing a good book is like leaving a good friend | ContraBEAT Jazz Music The Most Relaxing of All"
+image: "https:\/\/i.ytimg.com\/vi\/6B-KV-HMdHI\/hqdefault.jpg"
+vid_id: "6B-KV-HMdHI"
+categories: "People-Blogs"
+tags: ["Contra Beat","piano work music","lofi hip hop piano"]
+date: "2021-11-06T23:14:59+03:00"
+vid_date: "2021-11-06T12:20:57Z"
+duration: "PT1H52M13S"
+viewcount: "576"
+likeCount: "0"
+dislikeCount: "0"
+channel: "CONTRA BEAT"
+---
+{% raw %}Finishing a good book is like leaving a good friend | ContraBEAT Jazz Music The Most Relaxing of All<br />Welcome to my channel!<br /><br />Contra Beat is a Mexican company that shares piano music. We are located in Mexico and we have been sharing piano music since the year 2000. Our tone of voice is friendly, which reflects our relationship with all people who share this type of music. Contra Beat collaborates with other companies to make their content available for everyone to enjoy it.<br />0:00 And the fierce coursers urged their rapid pace<br />2:52 And the goddess of plenty benedictions is flinging<br />5:48 And the damsel should be dreary<br />8:23 And the Elfin bore on its back<br />11:03 And the roads of the world that lead to Rome<br />13:52 And the fierce coursers urged their rapid pace<br />16:45 And the cloud that took the form<br />19:28 And the glinting rays of a rising sun flashed on funnel and<br />22:25 And thaws deliver<br />25:05 And the Sardinian and each isle beside<br />27:57 And the splendors and delights<br />30:53 And they call to the young men and to one another<br />33:52 And the liquid beat of her rippling feet<br />36:40 And the fair young West is turning<br />39:36 And the burning track of his car<br />42:31 And the Prince of all the land<br />45:26 And the cloud that took the form<br />48:10 And therefore was Law given them to evince<br />50:46 And the rattle of buses and scrape of feet<br />53:20 And the mitre of mystery<br />56:17 And the fair young West is turning<br />59:13 And the bonny Earl of Murray<br />1:02:02 And therefore was Law given them to evince<br />1:04:39 And the Sardinian and each isle beside<br />1:07:30 And the roads of the world that lead to Rome<br />1:10:19 And the red ball has descended<br />1:13:12 And the fierce unrests<br />1:15:53 And the breeze sweeps over the rippling rows<br />1:18:51 And the sweet content<br />1:21:36 And the goddess of plenty benedictions is flinging<br />1:24:32 And the red ball has descended<br />1:27:25 And that light curl that slumbers by<br />1:30:03 And the hollow murmurs that shook the sky<br />1:32:57 And that crystalling sphere whose balance weighs<br />1:35:49 And the fierce unrests<br />1:38:30 And the calm crucifix that from the wall<br />1:41:15 And that crystalling sphere whose balance weighs<br />1:44:07 And therefore was Law given them to evince<br />All rights belong to our team.<br />Please do not re-upload<br />Please subscribe to our channel for more videos!<br /><br />#ContraBeat #ContraBeatpianomorning #ContraBeatpianostudy #ContraBeatrainydaypiano #CONTRABEATpiano #CONTRABEATpianoMusic{% endraw %}
