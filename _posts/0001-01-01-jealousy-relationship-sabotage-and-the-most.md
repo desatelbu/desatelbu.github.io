@@ -1,0 +1,15 @@
+---
+title: "Jealousy, Relationship Sabotage, and the MOST Attractive Strategy for Dealing With Insecurities"
+image: "https:\/\/i.ytimg.com\/vi\/cH0OJru0kHc\/hqdefault.jpg"
+vid_id: "cH0OJru0kHc"
+categories: "Education"
+tags: ["Matthew Hussey","Matt Hussey","Get The Guy"]
+date: "2021-11-06T22:57:46+03:00"
+vid_date: "2021-11-06T12:45:01Z"
+duration: "PT27M30S"
+viewcount: "11226"
+likeCount: "690"
+dislikeCount: "7"
+channel: "Matthew Hussey"
+---
+{% raw %}►► Learn More About The Life-Changing Virtual Retreat<br />&amp; Lock in Your Early Bird Discount now (Ends Nov 30th). . . <br />→ <a rel="nofollow" target="blank" href="http://www.MHVirtualRetreat.com">http://www.MHVirtualRetreat.com</a><br /><br />▼<br />Don’t Miss Out! Subscribe to my YouTube channel now.<br />I post new love life advice for you every weekend.<br /><br />▼<br />As I read through the comments on last week’s video, “6 Relationship Red Flags That Are Surprisingly Toxic,” it became clear that people were hungry for more details about the right way to be vulnerable with a partner or someone they’re dating.<br /> <br />Have you ever had an insecurity, a jealousy, or something that hurt you or made you feel threatened, but you didn’t know the right way to bring it up?<br /> <br />Of course you have. We all have. Maybe you’re feeling that right now. It can be terrifying, can’t it? <br /><br />Well, here’s the good news . . . being vulnerable can actually create a deeper bond with someone, as well as reveal if they’re the right person for you in the first place.<br /> <br />The bad news is that if we’re not careful, constructive vulnerability can mutate into what I call “dumping.”<br /><br />This video will reveal what you can do if you’re worried you’ve fallen into this trap, or are about to . . .<br /><br />►► FREE download: “9 Texts No Man Can Resist” → <a rel="nofollow" target="blank" href="http://www.9texts.com">http://www.9texts.com</a><br /><br />►► FREE download: “5 Compliments to Get Him Addicted to You” → <a rel="nofollow" target="blank" href="http://www.SayThisToHim.com">http://www.SayThisToHim.com</a><br /><br /><br />▼ Get My Latest Dating Tips and Connect With Me… ▼<br /><br />Blog → <a rel="nofollow" target="blank" href="https://www.howtogettheguy.com/blog/">https://www.howtogettheguy.com/blog/</a><br /><br />Facebook → <a rel="nofollow" target="blank" href="https://facebook.com/CoachMatthewHussey">https://facebook.com/CoachMatthewHussey</a><br /><br />Instagram → <a rel="nofollow" target="blank" href="https://www.instagram.com/thematthewhussey">https://www.instagram.com/thematthewhussey</a><br /><br />Twitter → <a rel="nofollow" target="blank" href="https://twitter.com/matthewhussey">https://twitter.com/matthewhussey</a><br /><br />▼ Connect with Stephen ▼<br /><br />Youtube → <a rel="nofollow" target="blank" href="https://bit.ly/StephenHusseyYoutube">https://bit.ly/StephenHusseyYoutube</a><br /><br />Instagram → <a rel="nofollow" target="blank" href="http://bit.ly/StephenHusseyIG">http://bit.ly/StephenHusseyIG</a>{% endraw %}
