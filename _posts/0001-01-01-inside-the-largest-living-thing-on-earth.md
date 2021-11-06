@@ -1,0 +1,15 @@
+---
+title: "Inside the Largest Living Thing On Earth!"
+image: "https:\/\/i.ytimg.com\/vi\/TJuVm5p4TI0\/hqdefault.jpg"
+vid_id: "TJuVm5p4TI0"
+categories: "Education"
+tags: ["science","pbs digital studios","pbs"]
+date: "2021-11-06T22:51:36+03:00"
+vid_date: "2021-11-06T14:31:10Z"
+duration: "PT10M26S"
+viewcount: "51438"
+likeCount: "4715"
+dislikeCount: "62"
+channel: "It's Okay To Be Smart"
+---
+{% raw %}Check out American Veteran on @PBS Voices  ►► <a rel="nofollow" target="blank" href="https://youtu.be/P8bt1bwllZg">https://youtu.be/P8bt1bwllZg</a> <br />We’re on PATREON! Join the community <a rel="nofollow" target="blank" href="https://www.patreon.com/itsokaytobesmart">https://www.patreon.com/itsokaytobesmart</a><br />↓↓↓ More info and sources below ↓↓↓<br /><br />The biggest thing that has ever lived on Earth… is a tree? Hard to believe, but it’s true. Travel with me to the Rocky Mountains of Colorado to go inside the most massive species on our planet, and learn what unique and special evolutionary adaptations let them get so big. <br /><br />Thanks to Dr. Jeffry B. Mitton (UC-Boulder) for sharing his years of research into giant quaking aspens and for telling us where to go see such pretty fall colors<br /><br />References:<br /><br />Mitton, J. B. &amp; Grant, M. C. Observations on the Ecology and Evolution of Quaking Aspen, Populus tremuloides, in the Colorado Front Range. 9 (2021).<br /><br />Mitton, J. B. &amp; Grant, M. C. Genetic Variation and the Natural History of Quaking Aspen. BioScience 46, 25–31 (1996).<br /><br />Grant, M. C., Mitton, J. B. &amp; Linhart, Yan. B. Even larger organisms. Nature 360, 216–216 (1992).<br /><br />-----------<br /><br />Special thanks to our Brain Trust Patrons:<br /><br />Barbora Bei<br />Ken Board<br />T Clinger<br />Attila Pix<br />Burt Humburg<br />DeliciousKashmiri<br />Brian Chang<br />Roy Lasris<br />dani bowman<br />David Johnston<br />Salih Arslan<br />Baerbel Winkler<br />Robert Young<br />Amy Sowada<br />Eric Meer<br />Dustin<br />Karen Haskell<br />AlecZero<br /><br />Join us on Patreon! <br /><a rel="nofollow" target="blank" href="https://patreon.com/itsokaytobesmart">https://patreon.com/itsokaytobesmart</a><br /><br />Twitter <br /><a rel="nofollow" target="blank" href="http://www.twitter.com/DrJoeHanson">http://www.twitter.com/DrJoeHanson</a><br /><a rel="nofollow" target="blank" href="http://www.twitter.com/okaytobesmart">http://www.twitter.com/okaytobesmart</a> <br /><br />Instagram <br /><a rel="nofollow" target="blank" href="http://www.instagram.com/DrJoeHanson">http://www.instagram.com/DrJoeHanson</a> <br /><a rel="nofollow" target="blank" href="http://www.instagram.com/okaytobesmart">http://www.instagram.com/okaytobesmart</a> <br /><br />Merch<br /><a rel="nofollow" target="blank" href="https://store.dftba.com/collections/its-okay-to-be-smart">https://store.dftba.com/collections/its-okay-to-be-smart</a><br /><br />Facebook<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/itsokaytobesmartpbs/">https://www.facebook.com/itsokaytobesmartpbs/</a>{% endraw %}
