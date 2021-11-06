@@ -1,0 +1,15 @@
+---
+title: "Angry Gold Digger Sues UK Dating Agency Over The Lack Of \"Good\" Men"
+image: "https:\/\/i.ytimg.com\/vi\/m8Pc6J8P5Rs\/hqdefault.jpg"
+vid_id: "m8Pc6J8P5Rs"
+categories: "News-Politics"
+tags: ["ssm","strong Successful Male","successful male"]
+date: "2021-11-06T17:39:02+03:00"
+vid_date: "2021-11-04T00:00:01Z"
+duration: "PT24M53S"
+viewcount: "25146"
+likeCount: "1817"
+dislikeCount: "13"
+channel: "Strong Successful Male"
+---
+{% raw %}Check Out My New Channel 'They Did What?!' For All Crazy Stories:<br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC5-WY95KzSupndTXDok3scg">https://www.youtube.com/channel/UC5-WY95KzSupndTXDok3scg</a><br /><br />In today's video, I go over an article that talks about how a 47 year old gold digger sued a UK dating agency over the lack of good men.<br /><br />In the second article I cover how research shows the gals are way pickier then men and wealth is the #1 priority. <br /><br />Strong Successful Male<br /><br />Follow Or Support Me On Locals (Exclusive Content For Supporters) - <br /><a rel="nofollow" target="blank" href="https://strongsuccessfulmale.locals.com">https://strongsuccessfulmale.locals.com</a><br /><br />*Use coupon code SSMLOCALS1 for a FREE 30 day trial<br /><br />Support Me On Patreon (Exclusive Content For Supporters -<br /><a rel="nofollow" target="blank" href="https://www.patreon.com/strongsuccessfulmale?fan_landing=true">https://www.patreon.com/strongsuccessfulmale?fan_landing=true</a><br /><br />Follow Me On Instagram -  <br /><a rel="nofollow" target="blank" href="http://www.instagram.com/strong_successful_male">http://www.instagram.com/strong_successful_male</a><br /><br />Sources:<br /><br /><a rel="nofollow" target="blank" href="https://www.theguardian.com/lifeandstyle/2018/aug/15/not-enough-fish-woman-successfully-sues-dating-agency-seventy-thirty">https://www.theguardian.com/lifeandstyle/2018/aug/15/not-enough-fish-woman-successfully-sues-dating-agency-seventy-thirty</a><br /><br /><a rel="nofollow" target="blank" href="https://www.dailymail.co.uk/news/article-9599033/Proof-women-demanding-men-look-partner.html">https://www.dailymail.co.uk/news/article-9599033/Proof-women-demanding-men-look-partner.html</a><br /><br />******************************************************<br /><br />Disclaimers:<br /><br />*This video is designed for entertainment and information purposes only.  All advice discussed in this video (and this channel) are my personal opinions and are based on my personal experiences.  I am not a licensed therapist, psychologist, marriage counselor, medical doctor, dietician or financial advisor.  You are responsible for your own actions.  You should not act or rely upon any of the information contained herein without seeking professional advice.<br /><br />*The pictures used in the thumbnails have been purchased and used in accordance with my agreement with Canva.<br /><br />*Links included in this description may be affiliate links.  If you purchase a product or service with the links that I provide I may receive a small commission.  There is no additional charge to you.{% endraw %}
