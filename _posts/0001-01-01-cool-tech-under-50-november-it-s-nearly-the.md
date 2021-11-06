@@ -1,0 +1,15 @@
+---
+title: "Cool Tech Under $50 - November!"
+image: "https:\/\/i.ytimg.com\/vi\/Z85Ie3BM3iY\/hqdefault.jpg"
+vid_id: "Z85Ie3BM3iY"
+categories: "Science-Technology"
+tags: ["randomfrankp","4k","2021"]
+date: "2021-11-07T02:00:34+03:00"
+vid_date: "2021-11-06T13:00:30Z"
+duration: "PT9M35S"
+viewcount: "104839"
+likeCount: "9275"
+dislikeCount: "108"
+channel: "randomfrankp"
+---
+{% raw %}It's nearly the Holidays...which means it's everyone's favorite time of the year! Today I've got some cool tech gadgets under $50 for you to all check out and build that tech wish list!<br />🔥  RM4 Mini Universal Remote: <a rel="nofollow" target="blank" href="https://amzn.to/3BQysCY">https://amzn.to/3BQysCY</a><br />🔥  RGB Corner Lamp: <a rel="nofollow" target="blank" href="https://amzn.to/3wj0h65">https://amzn.to/3wj0h65</a><br />🔥  RGB Monitor Light Bar: <a rel="nofollow" target="blank" href="https://amzn.to/3okoy8j">https://amzn.to/3okoy8j</a><br />🔥  RGB Monitor Riser/Hub: <a rel="nofollow" target="blank" href="https://amzn.to/3qjPZkS">https://amzn.to/3qjPZkS</a><br />🔥  Magnetic Cables Kit: <a rel="nofollow" target="blank" href="https://amzn.to/2YjGkiM">https://amzn.to/2YjGkiM</a><br /><br />• Follow me on Twitter! <a rel="nofollow" target="blank" href="https://twitter.com/randomfrankp">https://twitter.com/randomfrankp</a><br />• Join our Discord! <a rel="nofollow" target="blank" href="https://discord.gg/FmxUcmg">https://discord.gg/FmxUcmg</a><br />• Join this channel to get member perks:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UChnN9MPURwKV2PbEoT2vhTQ/join">https://www.youtube.com/channel/UChnN9MPURwKV2PbEoT2vhTQ/join</a><br /><br />• Sign up for Amazon Prime for FREE! <a rel="nofollow" target="blank" href="http://amazon.com/tryprimefree?tag=randomfrankp-20">http://amazon.com/tryprimefree?tag=randomfrankp-20</a><br /><br />My Setup Gear! <a rel="nofollow" target="blank" href="https://www.amazon.com/shop/influencer-24d38060">https://www.amazon.com/shop/influencer-24d38060</a><br />My Camera Gear: <br />• BlackMagic URSA Mini Pro Camera: <a rel="nofollow" target="blank" href="https://amzn.to/2DD1nSt">https://amzn.to/2DD1nSt</a><br />• BMPCC 6k Camera: <a rel="nofollow" target="blank" href="https://amzn.to/2R4ckAZ">https://amzn.to/2R4ckAZ</a><br />• Sigma 18-35 Lens: <a rel="nofollow" target="blank" href="http://amzn.to/29vcOZD">http://amzn.to/29vcOZD</a><br />• Sigma 50mm: <a rel="nofollow" target="blank" href="https://amzn.to/2YAKsVT">https://amzn.to/2YAKsVT</a><br />• Manfrotto Tripod &amp; Head: <a rel="nofollow" target="blank" href="http://amzn.to/29vcRVi">http://amzn.to/29vcRVi</a><br />• Sennheiser MKH416 Mic: <a rel="nofollow" target="blank" href="http://amzn.to/2iOo9bV">http://amzn.to/2iOo9bV</a><br /><br />Music: Esbe - <a rel="nofollow" target="blank" href="http://www.switchy.bandcamp.com">http://www.switchy.bandcamp.com</a><br /><br />FTC Disclosure: Amazon links provided are linked to my Amazon Affiliate account &amp; support the channel at no extra cost to you.{% endraw %}
