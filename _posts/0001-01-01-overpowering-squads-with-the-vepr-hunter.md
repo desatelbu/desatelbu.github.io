@@ -1,0 +1,15 @@
+---
+title: "OVERPOWERING SQUADS WITH THE VEPR HUNTER - Escape From Tarkov Gameplay"
+image: "https:\/\/i.ytimg.com\/vi\/mVwZ5NdREDQ\/hqdefault.jpg"
+vid_id: "mVwZ5NdREDQ"
+categories: "Gaming"
+tags: ["OVERPOWERING","SQUADS","HUNTER"]
+date: "2021-11-06T09:39:00+03:00"
+vid_date: "2020-04-27T20:16:46Z"
+duration: "PT26M46S"
+viewcount: "257448"
+likeCount: "8167"
+dislikeCount: "153"
+channel: "OperatorDrewski"
+---
+{% raw %}►Follow my Twitch! <a rel="nofollow" target="blank" href="https://www.twitch.tv/operatordrewski">https://www.twitch.tv/operatordrewski</a><br /><br />Subscribe for more videos :D ► <a rel="nofollow" target="blank" href="https://bit.ly/2QEpFh5">https://bit.ly/2QEpFh5</a><br />►Support my videos on Patreon! <a rel="nofollow" target="blank" href="https://www.patreon.com/OperatorDrewski">https://www.patreon.com/OperatorDrewski</a><br />►Follow my Twitter! <a rel="nofollow" target="blank" href="http://www.Twitter.com/OperatorDrewski">http://www.Twitter.com/OperatorDrewski</a><br />►Follow my Facebook!  <a rel="nofollow" target="blank" href="http://www.Facebook.com/OperatorDrewski">http://www.Facebook.com/OperatorDrewski</a><br />►Follow my Instagram! <a rel="nofollow" target="blank" href="http://www.Instagram.com/OperatorDrewski">http://www.Instagram.com/OperatorDrewski</a><br /><br />Join my own Discord! <a rel="nofollow" target="blank" href="https://discord.gg/drewski">https://discord.gg/drewski</a> <br />Checkout my Merchandise: <a rel="nofollow" target="blank" href="http://bit.ly/2pgZEs3">http://bit.ly/2pgZEs3</a><br /><br />▼ PC Specs ▼<br />Checkout my video of it: <a rel="nofollow" target="blank" href="http://bit.ly/2phPCXy">http://bit.ly/2phPCXy</a><br /><br />CPU: <a rel="nofollow" target="blank" href="https://amzn.to/2Suzkqd">https://amzn.to/2Suzkqd</a><br />GPU: <a rel="nofollow" target="blank" href="https://amzn.to/2tDZT2p">https://amzn.to/2tDZT2p</a><br />MOBO: <a rel="nofollow" target="blank" href="https://amzn.to/2VmA8PR">https://amzn.to/2VmA8PR</a><br />RAM: <a rel="nofollow" target="blank" href="https://amzn.to/2ExURef">https://amzn.to/2ExURef</a><br />SSD: <a rel="nofollow" target="blank" href="https://amzn.to/2VpCI7W">https://amzn.to/2VpCI7W</a><br />HDD: <a rel="nofollow" target="blank" href="https://amzn.to/2BUSVux">https://amzn.to/2BUSVux</a><br /><br />▼ My Accessories ▼<br /><br />Headset: <a rel="nofollow" target="blank" href="https://amzn.to/2H4Ulpt">https://amzn.to/2H4Ulpt</a><br />Mouse: <a rel="nofollow" target="blank" href="https://amzn.to/2Vuc1z5">https://amzn.to/2Vuc1z5</a><br />Keyboard: <a rel="nofollow" target="blank" href="https://amzn.to/2XmZEX8">https://amzn.to/2XmZEX8</a><br />Microphone: <a rel="nofollow" target="blank" href="https://amzn.to/2EyV1BY">https://amzn.to/2EyV1BY</a><br />USB Audio: <a rel="nofollow" target="blank" href="https://amzn.to/2XqsTIz">https://amzn.to/2XqsTIz</a><br />Monitors: <a rel="nofollow" target="blank" href="https://amzn.to/2Xn00Ns">https://amzn.to/2Xn00Ns</a> <br />Mousepad: <a rel="nofollow" target="blank" href="https://amzn.to/2Exk0p6/">https://amzn.to/2Exk0p6/</a>{% endraw %}
