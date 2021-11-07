@@ -1,0 +1,15 @@
+---
+title: "BMW 220d review. The sensible choice! bmw k9 bmw 4n BMW4X4"
+image: "https:\/\/i.ytimg.com\/vi\/2xl7I8BP0Ig\/hqdefault.jpg"
+vid_id: "2xl7I8BP0Ig"
+categories: "People-Blogs"
+tags: ["kporsche panamera turbo s","bmw 7 series drag race","carwow"]
+date: "2021-11-07T21:39:22+03:00"
+vid_date: "2021-09-30T23:51:27Z"
+duration: "PT16S"
+viewcount: "3"
+likeCount: "1"
+dislikeCount: "0"
+channel: "worldallDrive1998"
+---
+{% raw %}Ladies and Gentlemen, this is your Pilot speaking, my name is Tseno and I hope you are having a great day. In today's episode I will review the very controversial BMW 2-series and why I think it has it's place in BMW's lineup. Seat back, relax and enjoy the episode! Time stamps: Intro: 00:00 Exterior: 01:15 Interior: 04:34 Drive: 05:46 Conclusion:<br />DRAG RACE! BMW 750i vs Porsche Panamera Turbo + Tuned RS6 C7 Bonus.<br />Cars with Pilot<br />Ladies and Getlemen, this is your pilot speaking, my name is Tseno and here we are with another drag race just for you! This is between some of best german luxury limousines on the market. The Porsche Panamera turbo with its 550hp against new facelifted 2020 BMW 750i with the updated 4.4 Liter V8 with 530hp. Are you ready for this one? Let's go! Special thanks to: Alex, Rosen, Mariq, Dimitar and Mr. Poryazov for making this episode possible21 bmw<br />Dyno'd our E60 M5 at European Auto Source in Anaheim, CA. The car put down 441rwhp and 333tq Engine/Exhaust Mods are: Eisenmann Race Section 3 Radenergie Sec. 1 and 2 RPI Scoops/Block-Off Plates BMC Filters BMW4X<br />New BMW M4 review: see how quick it is 0-60mph &amp; <br />Need help buying your next car? Click and my team and I will help you choose your ideal car at a fair price - from Mat Watson! ............................................................. Introducing the all-new BMW M4! That’s right, Mat’s finally got his hands on the new M4 Competition! We know certain elements (👀) of the M4’s design may not be to everyone’s taste, but does the new M4 offer enough changes elsewhere to help you overlook them? Well with it being a BMW M, we need to start with performance… And we can assure you that the new M3 &amp; M4 do NOT disappoint! With a 3-litre straight-six turbo, they can put down a whopping 510hp and 650Nm, while it can easily shoot you to 60mph in under 4 seconds! But of course, we know you’re probably still not happy with that new grille. But let’s be honest, given it was announced so long ago, aren’t we all kind of used to it now? Or are you still so disappointed you can’t bear to look yet? So what do you think? The performance is exactly the same as the new BMW M3 Competition, but would you choose the coupe M4 over the saloon M3? Let us know in the comments! Chapters 00:00​ Intro 00:44​ Price 01:26​ Exterior Design 04:54 Interior 05:58​ Back Seats 06:33 Boot 06:54 Five Good Features 08:11 Five Annoying Features 09:11​ Drivetrain 10:22​ Engine 11:00 Drifting 12:35​ 0-60mph 13:28​ Brakes 13:46 Driving 17:28 Verdict{% endraw %}
