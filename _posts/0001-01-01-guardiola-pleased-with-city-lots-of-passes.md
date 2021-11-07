@@ -1,0 +1,15 @@
+---
+title: "Guardiola pleased with City 'lots of passes' in 2-0 win over United"
+image: "https:\/\/i.ytimg.com\/vi\/tZ-nWQfM_VI\/hqdefault.jpg"
+vid_id: "tZ-nWQfM_VI"
+categories: "Sports"
+tags: ["city lots","guardiola","united"]
+date: "2021-11-07T19:38:39+03:00"
+vid_date: "2021-11-06T20:46:05Z"
+duration: "PT8M6S"
+viewcount: "2122"
+likeCount: "18"
+dislikeCount: "6"
+channel: "Daily Mail"
+---
+{% raw %}OLIVER HOLT AT OLD TRAFFORD: It was early in the second half, as Ole Gunnar Solskjaer stood on the touchline in the rain, when the chant first rose from the corner of Old Trafford where the Manchester City fans were ranged. 'Ole, Ole, give us a wave,' the City supporters sang, as if the Manchester United boss was their friend and their ally in their attempt to retain their Premier League title.  Whenever there was a break in play, they returned to the same theme. 'Ole's at the wheel,' they yelled over and over again, hijacking a chant that was once a favourite refrain of United supporters so desperate for their old goalscoring hero to succeed as a manager. When he refused to acknowledge him, they laughed and booed in pantomime fashion. It has got to the stage now, sadly, where opposing fans see Solskjaer as their secret weapon. They want him to stay more than United supporters. The chants felt cruel, as the chants of opposing fans often do. <br /><br />Original Article: <a rel="nofollow" target="blank" href="http://www.dailymail.co.uk/sport/football/article-10160757/Manchester-United-vs-Man-City-Premier-League-2021-22-Live-Result.html">http://www.dailymail.co.uk/sport/football/article-10160757/Manchester-United-vs-Man-City-Premier-League-2021-22-Live-Result.html</a><br />Original Video: <a rel="nofollow" target="blank" href="http://www.dailymail.co.uk/video/football/video-2541631/Video-Guardiola-pleased-City-lots-passes-2-0-win-United.html">http://www.dailymail.co.uk/video/football/video-2541631/Video-Guardiola-pleased-City-lots-passes-2-0-win-United.html</a><br /><br />Daily Mail Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/dailymail">http://facebook.com/dailymail</a><br />Daily Mail IG: <a rel="nofollow" target="blank" href="http://instagram.com/dailymail">http://instagram.com/dailymail</a><br />Daily Mail Snap: <a rel="nofollow" target="blank" href="https://www.snapchat.com/discover/Daily-Mail/8392137033">https://www.snapchat.com/discover/Daily-Mail/8392137033</a><br />Daily Mail Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/MailOnline">http://twitter.com/MailOnline</a><br />Daily Mail Pinterest: <a rel="nofollow" target="blank" href="http://pinterest.co.uk/dailymail">http://pinterest.co.uk/dailymail</a><br />Daily Mail Google+: <a rel="nofollow" target="blank" href="https://plus.google.com/+DailyMail">https://plus.google.com/+DailyMail</a><br /><br />Get the free Daily Mail mobile app: <a rel="nofollow" target="blank" href="http://dailymail.co.uk/mobile">http://dailymail.co.uk/mobile</a>{% endraw %}
