@@ -1,0 +1,15 @@
+---
+title: "Nightfall - 'Ishtar (Celebrate your Beauty)' official performance video 2020"
+image: "https:\/\/i.ytimg.com\/vi\/j2XovkplHV4\/hqdefault.jpg"
+vid_id: "j2XovkplHV4"
+categories: "Music"
+tags: ["Nightfall","Nightfall band","Night Fall"]
+date: "2021-11-08T03:48:24+03:00"
+vid_date: "2020-09-09T12:00:27Z"
+duration: "PT8M2S"
+viewcount: "91050"
+likeCount: "2744"
+dislikeCount: "57"
+channel: "Season of Mist"
+---
+{% raw %}Nightfall performing 'Ishtar (Celebrate your Beauty)' live at the Sierra studios in Athens, Greece.<br />The track is taken from the band's 'Athenian Echoes' album, which was originally released in 1995 and soon will be reissued by Season of Mist.<br /><br />Engineered by Christos Bozikis <br />Mixed and Mastered by Fotis Benardo @ DevasoundZ studios<br />Directed by John Nikolopoulos<br />Crew: Aggelos Karatzas, Theo Papadopoulos<br /><br />NIGHTFALL on tour 2021<br />+Draconian<br />11 Mar 21 Warsaw (PL) Hydrozagadka<br />12 Mar 21 Gdansk (PL) Drizzly Grizzly<br />13 Mar 21 Berlin (DE) Nuke<br />14 Mar 21 Leipzig (DE) Hellraiser<br />15 Mar 21 Prague (CZ) Black Pes<br />16 Mar 21 Regensburg (DE) Eventhall Airport<br />17 Mar 21 Mannheim (DE) MS Connexion Complex<br />18 Mar 21 Dortmund (DE) Junkyard<br />19 Mar 21 Hamburg (DE) Kronensaal<br />20 Mar 21 Enschede (NL) Metropool<br />21 Mar 21 Rotterdam (NL) Baroeg<br />22 Mar 21 Antwerpen (BE) Zappa<br />23 Mar 21 Rennes (FR) Ubu<br />24 Mar 21 Paris (FR) Petit Bain<br />25 Mar 21 Wetzikon (CH) Hall of Fame<br />26 Mar 21 Paderno (IT) Slaughter Club<br />27 Mar 21 San Donà di Piave (IT) Revolver<br />28 Mar 21 Vienna (AT) Viper Room<br /><br />Follow Nightfall:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/nightfallbandofficial">https://www.facebook.com/nightfallbandofficial</a><br /><a rel="nofollow" target="blank" href="http://www.nightfallofficial.com">http://www.nightfallofficial.com</a><br /><a rel="nofollow" target="blank" href="https://nightfall-cult.bandcamp.com">https://nightfall-cult.bandcamp.com</a><br /><a rel="nofollow" target="blank" href="https://nightfallofficial.bandcamp.com">https://nightfallofficial.bandcamp.com</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/nightfallband">https://www.instagram.com/nightfallband</a><br /><br />Subscribe to Season Of Mist for new releases : <a rel="nofollow" target="blank" href="https://som.lnk.to/YouTube">https://som.lnk.to/YouTube</a><br /><br />Follow Season Of Mist:<br /><a rel="nofollow" target="blank" href="http://www.season-of-mist.com">http://www.season-of-mist.com</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/seasonofmistofficial">http://www.facebook.com/seasonofmistofficial</a><br /><a rel="nofollow" target="blank" href="http://www.youtube.com/user/SeasonOfMistLabel">http://www.youtube.com/user/SeasonOfMistLabel</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/seasonofmistofficial">https://www.instagram.com/seasonofmistofficial</a>{% endraw %}
