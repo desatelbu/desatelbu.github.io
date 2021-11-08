@@ -1,0 +1,15 @@
+---
+title: "Hindus' Middle Finger to Courts on Diwali | हिंदुओं ने किया इलाक़ा धुआँ-धुआँ, मी-लहसुन नाराज़"
+image: "https:\/\/i.ytimg.com\/vi\/XmwBoQET834\/hqdefault.jpg"
+vid_id: "XmwBoQET834"
+categories: "News-Politics"
+tags: ["Do politics latest video","Ajeet bharti video","india politics"]
+date: "2021-11-08T03:55:05+03:00"
+vid_date: "2021-11-07T13:19:29Z"
+duration: "PT23M38S"
+viewcount: "150406"
+likeCount: "25247"
+dislikeCount: "170"
+channel: "DO Politics"
+---
+{% raw %}After illogical, unscientific and completely non-sensical bans were imposed in several states on firecrackers during Diwali, a united Hindu retaliation was seen. People defied tha ban and kept the festive spirit alive as courts chose to ignore parali-bruning, construction dust and vehicular pollution to deny Hindus their joy on Festival of Lights and firecrackers. #CrackersBan #Deepawali #Diwali2021<br /><br />हिंदुओं ने इस साल एकजुटता से पटाखों पर लगाए गए कुतर्की, अवैज्ञानिक और मूर्खतापूर्ण प्रतिबंधों को आड़े हाथों लिया। न्यायाधीशों को यह संदेश दिया गया कि प्रदूषण पटाखों में नहीं, उनके मस्तिष्क में है। <br />--<br />If You liked the Video, Kindly Support Us: <br />Paytm/PhonePe/Google: 7303069286<br />BHIM/UPI: 7303069286@paytm  <br /><a rel="nofollow" target="blank" href="https://www.paypal.com/paypalme/dopolitics">https://www.paypal.com/paypalme/dopolitics</a><br /><a rel="nofollow" target="blank" href="https://www.patreon.com/DOpolitics">https://www.patreon.com/DOpolitics</a><br />-<br />Follow us on our social media channels :<br />Facebook: <a rel="nofollow" target="blank" href="https://www.fb.com/DOpolitics.in">https://www.fb.com/DOpolitics.in</a><br />Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/DOpolitics_in">https://www.twitter.com/DOpolitics_in</a><br />Insta: <a rel="nofollow" target="blank" href="https://www.Instagram.com/DOpolitics">https://www.Instagram.com/DOpolitics</a><br />Koo: <a rel="nofollow" target="blank" href="https://www.kooapp.com/profile/dopolitics">https://www.kooapp.com/profile/dopolitics</a><br />Telegram: <a rel="nofollow" target="blank" href="https://www.t.me/DOpolitics">https://www.t.me/DOpolitics</a><br /><br />---<br />DO Politics is a digital newsroom which aims to fill the absence of unbiased, un-yelling news service. News can, should and must NOT be a tool of entertainment. Its purpose ought to be driving discussions and evoking thoughts as a tool of social and national change. <br /><br />It is for you to decide whether you want to be the part of a propaganda fuelled media and its narrative, or you want to support independent and unbiased media like us.<br />--<br />This video is about: ajeet bharti, ajit bharti, ajit bharti latest, ajeet bharti latest video, ajeet bharti video today, ajeet bharti do politics, ajeet bharti news analysis, ajeet bharti roast, ajeet bharti satire, ajeet bharti do politics, diwali, deepawali, firecrackers, patakha ban, cracker ban, diwali ban, Supreme Court, ajeet bharti on patakha ban, ajeet bharti on Supreme Court, hindu lives, hindu festivals, united hindus, dhramansh{% endraw %}
