@@ -1,0 +1,15 @@
+---
+title: "Why I have to carry Polar Bear protection when walking my dog | SVALBARD close to the North Pole"
+image: "https:\/\/i.ytimg.com\/vi\/M6cQfR1xGXM\/hqdefault.jpg"
+vid_id: "M6cQfR1xGXM"
+categories: "People-Blogs"
+tags: ["spitsbergen","remote","island"]
+date: "2021-11-08T09:07:28+03:00"
+vid_date: "2021-11-07T16:37:08Z"
+duration: "PT17M4S"
+viewcount: "57625"
+likeCount: "3732"
+dislikeCount: "21"
+channel: "Cecilia Blomdahl"
+---
+{% raw %}Greetings from Svalbard, an island close to the North Pole where we have polar bears! In this video I talk a bit more about polar bears and why we need to carry polar bear protection when out walking our dogs! I hope you enjoy the video! :)<br /><br />Sources: <br />www.svalbardposten.no<br />www.sysselmesteren.no<br /><br />Let me know what you think in the comments and subscribe for more videos from my life on Svalbard, an island close to the North Pole!<br /><br />➣ SUBSCRIBE for new videos every week! <a rel="nofollow" target="blank" href="https://youtube.com/c/CeciliaBlomdahl">https://youtube.com/c/CeciliaBlomdahl</a><br />➣ Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/sejsejlija">https://instagram.com/sejsejlija</a><br />➣ Tiktok: <a rel="nofollow" target="blank" href="https://vm.tiktok.com/ZMeHEygbT/​​​">https://vm.tiktok.com/ZMeHEygbT/​​​</a><br />➣ <a rel="nofollow" target="blank" href="https://patreon.com/ceciliablomdahl">https://patreon.com/ceciliablomdahl</a> - I want to thank every single one who has signed up to my patreon, the support means everything to me! <br /><br />Guyyysss! I made merch!<br /><a rel="nofollow" target="blank" href="https://cecilia-blomdahl.creator-spring.com">https://cecilia-blomdahl.creator-spring.com</a><br /><br />Music from Epidemic Sound! Referral link below:<br /><a rel="nofollow" target="blank" href="https://www.epidemicsound.com/referral/4qbpmf/">https://www.epidemicsound.com/referral/4qbpmf/</a><br />Songs in this video:<br />- Wichita - The Eastern Plain<br />- Reckless - The Eastern Plain<br /><br />Affiliate links for some of our things:<br />↠ Manfrotto Hiking Tripod: <a rel="nofollow" target="blank" href="https://amzn.to/3jVL7ii">https://amzn.to/3jVL7ii</a><br />↠ String lights: <a rel="nofollow" target="blank" href="https://amzn.to/3BMIeGS">https://amzn.to/3BMIeGS</a><br />↠ Sage Coffee Machine: <a rel="nofollow" target="blank" href="https://amzn.to/38TfhfY">https://amzn.to/38TfhfY</a><br /><br />Camera gear:<br />  ↠ Sony a7iii + Tamron lens<br />  ↠ Sony a7c + Tamron lens<br />  ↠ Sony ZV-1 + Zhiyun Crane M2<br />  ↠ DJI Mavic 2 Pro + Smart Controller<br /><br />About Cecilia:<br />Cecilia Blomdahl is originally from Sweden and moved to Svalbard 6 years ago. She works as a photographer and videographer in Longyearbyen, and with her social media channels. Check her out on tiktok and instagram! Here on youtube she posts videos about her daily life in her cabin with her boyfriend Christoffer and her dog Grim, living just outside of Longyearbyen. Subscribe for videos about her daily life as well as adventures on an island close to the North Pole. They have polar bears there!{% endraw %}
