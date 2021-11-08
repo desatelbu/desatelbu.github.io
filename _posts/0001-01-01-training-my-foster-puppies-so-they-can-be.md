@@ -1,0 +1,15 @@
+---
+title: "Training My Foster Puppies So They Can Be Upstanding Members of Society"
+image: "https:\/\/i.ytimg.com\/vi\/nPpWuYk2GYA\/hqdefault.jpg"
+vid_id: "nPpWuYk2GYA"
+categories: "Pets-Animals"
+tags: ["joey graceffa","joey graceffa vlogs","pregnant husky"]
+date: "2021-11-08T05:51:33+03:00"
+vid_date: "2021-11-07T22:15:01Z"
+duration: "PT8M8S"
+viewcount: "48181"
+likeCount: "5586"
+dislikeCount: "15"
+channel: "Joey Graceffa Vlogs"
+---
+{% raw %}Training my foster puppies so they can be upstanding members of society😌😌 <br />Subscribe: <a rel="nofollow" target="blank" href="http://bit.ly/JoeyGVlogs">http://bit.ly/JoeyGVlogs</a> | Enable ALL push notifications 🔔<br />Watch the NEWEST videos: <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLiyCaZMKIW1pPB5TnewaiFF5iwye3GMag&amp;playnext=1&amp;index=2">https://youtube.com/playlist?list=PLiyCaZMKIW1pPB5TnewaiFF5iwye3GMag&amp;playnext=1&amp;index=2</a><br /><br />Shop NEW Merch: <a rel="nofollow" target="blank" href="https://shopcrystalwolf.com/">https://shopcrystalwolf.com/</a><br /><br />Follow Joey Graceffa:<br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/joeygraceffa">https://instagram.com/joeygraceffa</a><br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/JoeyGraceffa">https://facebook.com/JoeyGraceffa</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/joeyGraceffa">https://twitter.com/joeyGraceffa</a><br />Main Channel: <a rel="nofollow" target="blank" href="http://bit.ly/SubJoeyG">http://bit.ly/SubJoeyG</a><br />Gaming Channel: <a rel="nofollow" target="blank" href="http://bit.ly/JoeyGaming">http://bit.ly/JoeyGaming</a><br /><br />Stream Joey Graceffa: <br />Apple: <a rel="nofollow" target="blank" href="http://bit.ly/JoeyiTunes">http://bit.ly/JoeyiTunes</a><br />Spotify: <a rel="nofollow" target="blank" href="http://bit.ly/JoeyGSpotify">http://bit.ly/JoeyGSpotify</a><br /><br />Watch more Joey Graceffa: <br />Puppy First Time: <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLiyCaZMKIW1pLZDRQtX9vnLQGAveOxf9I&amp;playnext=1">https://youtube.com/playlist?list=PLiyCaZMKIW1pLZDRQtX9vnLQGAveOxf9I&amp;playnext=1</a><br />Newest Videos: <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLiyCaZMKIW1pPB5TnewaiFF5iwye3GMag&amp;playnext=1&amp;index=2">https://youtube.com/playlist?list=PLiyCaZMKIW1pPB5TnewaiFF5iwye3GMag&amp;playnext=1&amp;index=2</a><br />Most Popular: <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLiyCaZMKIW1oo0DekumkSIJZMp_wvClhL&amp;playnext=1">https://youtube.com/playlist?list=PLiyCaZMKIW1oo0DekumkSIJZMp_wvClhL&amp;playnext=1</a><br /><br />About Joey Graceffa: <br />Ahh good day everyone! My name is Joey Graceffa and welcome to my official daily vlog YouTube channel where I like to film my daily life with my puppies. You can find videos on my life with puppies, puppy first times, cute puppy moments, and SO much more! Join the family and make sure you are subscribed! I love you, until next time, good damn bye!{% endraw %}
