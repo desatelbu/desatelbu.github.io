@@ -1,0 +1,15 @@
+---
+title: "Ningol Chakauba - A Special Ningol's Video Release || Unofficial Music Video 2021 ||"
+image: "https:\/\/i.ytimg.com\/vi\/CqVdfvA7OXY\/hqdefault.jpg"
+vid_id: "CqVdfvA7OXY"
+categories: "People-Blogs"
+tags: ["Ningol Chakauba","Ningol Chakauba 2021","Ningol Chakauba song"]
+date: "2021-11-09T07:36:45+03:00"
+vid_date: "2021-11-06T06:45:03Z"
+duration: "PT5M45S"
+viewcount: "56075"
+likeCount: "4525"
+dislikeCount: "61"
+channel: "Bashan Akham"
+---
+{% raw %}Ningol Chakauba - A Special Ningol's Video Release || Unofficial Music Video 2021 ||<br /><br />Ningol Chakouba is a festival of manipuris in India. Ningol Chakouba is a social celebration and is devoted to fortify the bond between wedded ladies and their parental families. Ningol Chakouba is celebrated in November as per Manipur schedule's second lunar day of the month Heyangei. Meiteis and numerous different groups of Manipur commend the celebration with a similar soul. Ningol implies ladies and Chakouba implies calling for lunch or supper.<br /><br />On the Ningol Chakouba day individuals welcome their wedded girls and their kids to their home for lunch or supper and offer endowments to little girls and their kids. On this day, wedded ladies go to their home from remove spots to fortify their association with maternal family and review their beautiful childhood memories.<br /><br />              BASHAN AKHAM PRESENTS<br />Ningol Chakauba Unofficial Music Video <br />Song Link - <a rel="nofollow" target="blank" href="https://youtu.be/TaTiN-YpAd8">https://youtu.be/TaTiN-YpAd8</a><br /><br />Cast: Yumnam Sister Vlog &amp; Bramachari Mayum Joybabu<br />Cinematography : Rohit Singha <br />D.O.P &amp; Edit: Bashan Akham.<br />Makeup &amp; Costume: Thoibi Oinam<br /><br />📢Come And Connect Us On Social Media Handles.<br /><br />Yumnam Sister Vlog :<br />Instagram: <br /><a rel="nofollow" target="blank" href="https://www.instagram.com/yumnam_sister_vlog/?utm_medium=copy_link">https://www.instagram.com/yumnam_sister_vlog/?utm_medium=copy_link</a><br /><br />joybabu Sharma:<br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/tomthin_xrma?utm_medium=copy_link">https://instagram.com/tomthin_xrma?utm_medium=copy_link</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/tomthin.xrma">https://www.facebook.com/tomthin.xrma</a><br /><br /><br />Bashan Akham<br />Facebook:<a rel="nofollow" target="blank" href="https://www.facebook.com/profile.php?id=100069069608139">https://www.facebook.com/profile.php?id=100069069608139</a><br />Instagram:<a rel="nofollow" target="blank" href="https://instagram.com/bashan_singha?utm_medium=copy_link">https://instagram.com/bashan_singha?utm_medium=copy_link</a><br /><br />Rohit Singha : <a rel="nofollow" target="blank" href="https://www.instagram.com/_independent_soul_1/?utm_medium=copy_link">https://www.instagram.com/_independent_soul_1/?utm_medium=copy_link</a><br /><br /><br />    [ THANKS FOR WATCHING THE VIDEO]{% endraw %}
