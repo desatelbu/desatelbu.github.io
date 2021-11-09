@@ -1,0 +1,15 @@
+---
+title: "SERENA WILLIAMS AND HER HUSBAND ALEXIS OHANIAN HEAD FOR AN EXQUISITE GUCCI EVENT"
+image: "https:\/\/i.ytimg.com\/vi\/1xkhLo-fr9E\/hqdefault.jpg"
+vid_id: "1xkhLo-fr9E"
+categories: "Sports"
+tags: ["serena williams","serena williams 2021","serena williams daughter"]
+date: "2021-11-09T20:41:50+03:00"
+vid_date: "2021-11-09T16:00:03Z"
+duration: "PT3M40S"
+viewcount: "291"
+likeCount: "39"
+dislikeCount: "0"
+channel: "ASH TENNIS TV"
+---
+{% raw %}Serena Williams Looked Sensational When She And Her Husband Alexis Ohanian Attended Lacma's 10th Annual Art+film Gala In Los Angeles On Saturday. The Superstar Athlete, Donned A Show-stopping Black Gown Complete With A Plunging Neckline.<br /><br />Alongside Feather Detailing And Cosied Up To Her Reddit Co-founder Husband, For Photographers. Serena's Sweeping Dress Was Nipped In With A Satin Waistline, Showcasing Her Enviable Physique. She Wore Her Hair Swept From Her Face And Teamed Her Look With Elegant, Semi-sheer Gloves And A Delicate Choker Adorned With A Pink Rose.<br /><br />The Mother-of-one Dressed Her Earlobes With Statement-making Drop Earrings And Made Her Look Pop With A Bold Swipe Of Purple Lipstick. Alexis - With Whom Serena Shares Her Four-year-old Daughter Olympia - Looked Dapper In A Smart Suit.<br /><br />She took to Instagram to share a few pictures of the gorgeous look, posting one photo set that featured a solo shot of herself and another with her husband, Alexis Ohanian. “Feeling @gucci,” she appropriately captioned the photo, nodding to her all Gucci ensemble.<br /><br />The athlete then blessed her 13.8 million IG followers once more when she posted a few pictures from the event, one that showed off her full look from the teal carpet and two more that gave us an even greater close-up of the stunning champion.  “It was a @gucci Art &amp; Film Festival kind of night,” she captioned this photo carousel. “Thank you @gettyimages @lacma @alessandro_michele.”<br /><br />“🔥🔥🔥🔥🔥👏👏❤️❤️. This photo says a thousand words. 🥰🥰,” one fan commented underneath Serena’s photos while another said, “Love love love !! Looking fabulous. #OhMyGucci 🖤.” And yes, she does look fabulous indeed!<br /><br />Other Celebrity Guests At The Lacma Event Included Miley Cyrus, Hailey Bieber, Jared Leto, Dakota Johnson And Elle Fanning. The Lacma Art+film Gala Returned As An In-person Occasion On Saturday After Being Canceled Last Year Due To The Covid-19 Pandemic And The Safety Precautions That Went Along With It.<br /><br />Gucci Continued Its Partnership With The Beloved Los Angeles Art Museum By Returning As This Year's Sponsor. It Comes Amid The Luxury Brand's 100th Anniversary, With Audi Also Lending Support To The Annual Event.<br /><br />According To Lacma, All Of The Proceeds Garnered From The Gala 'go Toward Underwriting Lacma's Initiative To Make Film More Central To The Museum's Curatorial Programming, While Also Funding Lacma's Broader Mission.' This Mission Includes 'exhibitions, Acquisitions, And Educational Programming, In Addition To Screenings That Explore The Intersection Of Art And Film.'{% endraw %}
