@@ -1,0 +1,15 @@
+---
+title: "Miley Cyrus - We Can't Stop (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/JUHYhXwYiRU\/hqdefault.jpg"
+vid_id: "JUHYhXwYiRU"
+categories: "Music"
+tags: ["Miley","Cyrus","Can't"]
+date: "2021-11-10T09:39:48+03:00"
+vid_date: "2013-06-29T21:59:32Z"
+duration: "PT3M57S"
+viewcount: "4854157"
+likeCount: "48950"
+dislikeCount: "974"
+channel: "FinasteAlice"
+---
+{% raw %}Hello!<br />I know I can be a bit a head in the text, but hope it works anyway :))<br />Please let me know if there is any song you want me to make a lyrics on :D<br /><br />It's our party we can do what we want<br />It's our party we can say what we want<br />It's our party we can love who we want<br />We can kiss who we want<br />We can see who we want (2x)<br /><br />Red cups and sweaty bodies everywhere<br />Hands in the air like we don't care<br />Cause we came to have so much fun now<br />Got somebody here might get some now<br /><br />If you're not ready to go home<br />Can I get a hell no<br />Cause we gonna go all night<br />Till we see the sunlight alright<br /><br />So la da di da di, we like to party<br />Dancing with Miley<br />Doing whatever we want<br />This is our house<br />This is our rules<br />And we can't stop<br />And we won't stop<br />Can't you see it's we who own the night<br />Can't you see it we who bout' that life<br />And we can't stop<br />And we won't stop<br />We run things, Things don't run we<br />We don't take nothing from nobody<br /><br />It's our party we can do what we want<br />It's our party we can say what we want<br />It's our party we can love who we want<br />We can kiss who we want<br />We can see who we want<br /><br />To my homegirls here with the big butts<br />Shaking it like we at a strip club<br />Remember only God can judge us<br />Forget the haters cause somebody loves ya<br />And everyone in line in the bathroom<br />Trying to get a line in the bathroom<br />We all so turnt up here<br />Getting turnt up yea yea<br /><br />So la da di da di, we like to party<br />Dancing with Miley<br />Doing whatever we want<br />This is our house<br />This is our rules<br />And we can't stop<br />And we won't stop<br />Can't you see it's we who own the night<br />Can't you see it we who bout' that life<br />And we can't stop<br />And we won't stop<br />We run things<br />Things don't run we<br />We don't take nothing from nobody<br /><br />It's our party we can do what we want<br />It's our party we can say what we want<br />It's our party we can love who we want<br />We can kiss who we want<br />We can see who we want<br /><br />It's our party we can do what we want to<br />It's our house we can love who we want to<br />It's our song we can sing if we want to<br />It's my mouth I can say what I want to<br />Yea, Yea, Yeah<br /><br />And we can't stop<br />And we won't stop<br />Can't you see it's we who own the night<br />Can't you see it we who bout' that life<br />And we can't stop<br />And we won't stop<br />We run things<br />Things don't run we<br />We don't take nothing from nobody<br />Yea, Yea, Yea{% endraw %}
