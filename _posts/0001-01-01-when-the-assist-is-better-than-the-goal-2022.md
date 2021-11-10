@@ -1,0 +1,15 @@
+---
+title: "When the Assist is BETTER than The Goal 2022 ᴴᴰ"
+image: "https:\/\/i.ytimg.com\/vi\/zH9PNwHJsZI\/hqdefault.jpg"
+vid_id: "zH9PNwHJsZI"
+categories: "Sports"
+tags: ["Assist","BETTER","ᴴᴰ"]
+date: "2021-11-10T21:21:11+03:00"
+vid_date: "2021-11-10T12:02:37Z"
+duration: "PT10M41S"
+viewcount: "26851"
+likeCount: "1924"
+dislikeCount: "18"
+channel: "Lorenzo F7"
+---
+{% raw %}Follow me on TikTok - <a rel="nofollow" target="blank" href="https://www.tiktok.com/@lorenzo.f7">https://www.tiktok.com/@lorenzo.f7</a><br /><br />Amazing Skills &amp; Goals by the Best Players! :D<br />A compilation of best moments.<br />Click &quot;Show more&quot; to find the name of the songs and more info<br /><br />Video Produced by: Lorenzo F7<br />Computer used: Macbook Pro 15' Retina<br />Software used: Final Cut Pro X, After Effects CC{% endraw %}
