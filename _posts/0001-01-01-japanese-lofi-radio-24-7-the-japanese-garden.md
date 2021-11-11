@@ -1,0 +1,15 @@
+---
+title: "Japanese Lofi Radio 24\/7 🔴The Japanese Garden 🔴 No Copyright Lofi Hip Hop Beats To Study"
+image: "https:\/\/i.ytimg.com\/vi\/-p4YbaSRlsM\/hqdefault.jpg"
+vid_id: "-p4YbaSRlsM"
+categories: "Music"
+tags: ["aesthetic music","aesthetic lofi","space lofi"]
+date: "2021-11-12T02:15:52+03:00"
+vid_date: "2021-11-11T13:34:11Z"
+duration: "P0D"
+viewcount: "3300"
+likeCount: "238"
+dislikeCount: "2"
+channel: "lofi geek"
+---
+{% raw %}Japanese Lofi Radio 24/7 🔴The Japanese Garden 🔴 No Copyright Lofi Hip Hop Beats To Study<br />✔ Lofi Playlist: <a rel="nofollow" target="blank" href="https://spoti.fi/3c3MEiV">https://spoti.fi/3c3MEiV</a><br />👇 Want to use these songs in your video? Find instructions below 👇 <br /><br />🍕Join Discord 🍕 <a rel="nofollow" target="blank" href="https://discord.gg/P7nrnUQJdH">https://discord.gg/P7nrnUQJdH</a><br /><br />Commands for the chat:<br />!menu ( to see the full bar's menu )<br />!joke<br />!love<br />!time<br />!winner<br />!discord<br /><br />music by @lofigeek<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/lofigeek">https://www.instagram.com/lofigeek</a><br />artwork by @shanevmm<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/shanevmm">https://www.instagram.com/shanevmm</a><br /><br />I produce chill lofi chill beats to study/relax to, Japanese lofi, japanese chillhop music, lofi japanese songs, lofi japanese beats, lofi sleep beats, study beats, chillhop beats, lofi hip hop beats for you. I believe that the lofi community is the best on internet, and I appreciate your feedback and support. If you like my songs, you can use them in your videos too, and don't forget to add my social links ( youtube &amp; spotify ).<br /><br />勉強するlofiヒップホップ音楽<br /><br />⭐ Clear instructions about using my lo-fi songs ⭐<br />1) All songs are SAFE to be used in ANY of your videos, nobody will strike your video.<br />2) In case you need to monetize the video using my songs, send the video link to my label at soundinvasionrecords@gmail.com - They will check if you added my credits in the description, and release any claim. Make sure you send them an email only in case your channel is approved to monetize, otherwise it makes no sense.<br />3) Again, the music is SAFE to be used in your videos. If you get a claim, it is NOT a copyright violation.<br /><br />Special thanks to ChilledCow, Dreamy, the bootleg boy, Ambition and The Jazz Hop Cafe for inspiring me to create this chill lofi beats. You are great!<br /><br />chill study beats, lofi hip hop mix, lofi, lofi hip hop, lo fi, lo-fi, chill, lofi beats, lofi music, beats, study, lo-fi hip hop, hip hop, relax, lofi type beat, lofi radio, lofi mix, mood, billie eilish, chilledcow, the bootleg boy, happy lofi, cute lofi, feardog, chill beats, lofi chill beats, beat, anime, vibe, instrumental, lo-fi mix, low fi, lowfi, gaming music, chill mix ,meditation music, japanese lofi, lofi 2021, lofi playlist 2021, lofi 24/7<br /><br />#japanese #lofi #nocopyright{% endraw %}
