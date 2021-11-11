@@ -1,0 +1,15 @@
+---
+title: "CKay - Love Nwantiti (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/NNv-Lb52VX4\/hqdefault.jpg"
+vid_id: "NNv-Lb52VX4"
+categories: "Music"
+tags: ["love nwantiti","love nwantiti ckay"]
+date: "2021-11-11T19:16:33+03:00"
+vid_date: "2021-11-11T10:55:28Z"
+duration: "PT3M15S"
+viewcount: "81352"
+likeCount: "5064"
+dislikeCount: "79"
+channel: "Cakes & Eclairs"
+---
+{% raw %}CKay - Love Nwantiti (Lyrics)<br />🎵 Follow Cakes &amp; Eclairs on Spotify: <a rel="nofollow" target="blank" href="http://bit.ly/CakesEclairs">http://bit.ly/CakesEclairs</a><br />🔔 Don't forget to subscribe and turn on notifications!<br /><br />Stream Love Nwantiti CKay : <a rel="nofollow" target="blank" href="https://Ckay.lnk.to/lovenwantitiYA">https://Ckay.lnk.to/lovenwantitiYA</a><br /><br />Follow CKay<br /><a rel="nofollow" target="blank" href="https://instagram.com/ckay_yo/">https://instagram.com/ckay_yo/</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/ckay_yo">https://twitter.com/ckay_yo</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/ckayyo/">https://www.facebook.com/ckayyo/</a><br /><br /><br />Love Nwantiti Lyrics<br />[Intro]<br />Tu-tu-tu, tu-tu-tu-uh-tu-tu<br />Uh-tu-tu-tu, tu-tu-tu-uh-tu-tu<br />CKay, yo<br /><br />[Verse 1]<br />My baby my valentine (Uh)<br />Girl na you dey make my temperature dey rise<br />If you leave me, I go die (I swear)<br />You are like the oxygen I need to survive<br />I'll be honest<br />Your loving dey totori me<br />I-I'm so obsessed<br />I want to chop your nkwobi<br /><br />[Bridge]<br />(Unle) Your body dey baka mi si (Unle)<br />Open am make I see (Unle)<br />Gimme love nwantiti<br />Baby make a bad man sing oh<br /><br />[Hook]<br />Ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah-ah-ah<br /><br />[Verse 2]<br />Baby girl, where you from come (Eh)<br />Your body na follow come (Yeah)<br />No be silicon (Eh)<br />Baba God e finish work (Eh-eh-eh-eh-eh)<br />Without you I go fit lose my mind<br />Without you I go fit fall and die<br />Without you I go give all my life<br />Without you (without you)<br /><br />[Bridge]<br />(Unle) Your body dey baka mi si (Unle)<br />Open am make I see (Oh yeah)<br />Gimme love nwantiti<br />Baby make a bad man sing oh yeah<br /><br />[Hook]<br />Ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah<br />Ah-ah-ah-ah-ah-ah-ah-ah<br /><br />[Verse 3]<br />You mean the world to me<br />If I live in fantasy<br />Ah ya eiya<br />I love you<br />Ah ya eiya<br />No one above you<br />Lover, don't give this love to nobody<br />Lover, don't call another nigga honey<br />Lover, lover<br />I wanna be your lover<br />Forever, forever<br /><br />[Outro]<br />Tu-tu-tu, tu-tu-tu-uh-tu-tu<br />Uh-tu-tu-tu, tu-tu-tu-uh-tu-tu<br />(Tempo) CKay, yo<br /><br />#lovenwantiti #ckay #lyrics{% endraw %}
