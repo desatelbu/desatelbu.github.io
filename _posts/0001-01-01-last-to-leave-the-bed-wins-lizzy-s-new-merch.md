@@ -1,0 +1,15 @@
+---
+title: "LAST TO LEAVE THE BED WINS!!"
+image: "https:\/\/i.ytimg.com\/vi\/IQoJ6lqRo5Q\/hqdefault.jpg"
+vid_id: "IQoJ6lqRo5Q"
+categories: "Entertainment"
+tags: ["Lizzy Capri","lizzy","Team RAR"]
+date: "2021-11-12T01:59:29+03:00"
+vid_date: "2021-11-11T15:00:14Z"
+duration: "PT25M38S"
+viewcount: "135721"
+likeCount: "5581"
+dislikeCount: "215"
+channel: "Lizzy Capri"
+---
+{% raw %}LIZZY'S NEW MERCH 👚 <a rel="nofollow" target="blank" href="https://lizzy.teamrar.com/">https://lizzy.teamrar.com/</a> <br />USE DISCOUNT CODE LIZZY FOR 5$ OFF!!<br /><br />In today's video, I challenge Team RAR to a Last to Leave the Bed Challenge. Carter Sharer, Bailey, Deniesse and I compete in this 24 hour challenge to see who can last the longest on the bed. Comment down below which person you think won the challenge and if you would try this challenge at home. <br /><br />MR BEAST - <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=cV2gBU6hKfY">https://www.youtube.com/watch?v=cV2gBU6hKfY</a><br />FAZE RUG - <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=GkJAJaXGwyQ">https://www.youtube.com/watch?v=GkJAJaXGwyQ</a><br />ALEXA RIVERA - <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=7TVOSA2Jau8">https://www.youtube.com/watch?v=7TVOSA2Jau8</a><br />THE NORRIS NUTS - youtube.com/watch?v=HTI8_iMbljI<br /><br /><br /><br />Join this channel to get access to perks:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCXOSzGyN3EPZfKE2hujeIYA/join">https://www.youtube.com/channel/UCXOSzGyN3EPZfKE2hujeIYA/join</a><br /><br />📷INSTAGRAM → <a rel="nofollow" target="blank" href="https://www.instagram.com/lizzycapri/">https://www.instagram.com/lizzycapri/</a><br />⏰TIK TOK → <a rel="nofollow" target="blank" href="https://www.tiktok.com/@lizzycapri">https://www.tiktok.com/@lizzycapri</a><br />📘FACEBOOK → LIZZY CAPRI <a rel="nofollow" target="blank" href="https://goo.gl/AX1d4t">https://goo.gl/AX1d4t</a><br />💬DISCORD → <a rel="nofollow" target="blank" href="https://discordapp.com/invite/lizzycord">https://discordapp.com/invite/lizzycord</a><br />-----------------------------------------------------------------------------------------------------------<br /><br />VIDEO EDITOR: Mckenna Maringer <br />Business Inquiries: lizzy.integrations@teamrar.com<br /><br />WARNING: <br />This video is only for entertainment purposes. Do not attempt to recreate any of the acts in this video, as they may be dangerous if not done correctly, and could result in serious injury. If you rely on the information portrayed in this video, you assume the responsibility for the results. Have fun, but always think ahead, and remember that every project you try is at YOUR OWN RISK.<br /><br />This footage is property of Dream Team Studios LLC and is not allowed to be repurposed without written consent from Dream Team Studios LLC. For any requests from media contact us at lizzy.integrations@teamrar.com{% endraw %}
