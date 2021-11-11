@@ -1,0 +1,15 @@
+---
+title: "Life in The Minors of Pro Hockey | Sweden's Best Goalie"
+image: "https:\/\/i.ytimg.com\/vi\/H0Izbcm0A6s\/hqdefault.jpg"
+vid_id: "H0Izbcm0A6s"
+categories: "Sports"
+tags: ["Minors","Hockey","Sweden's"]
+date: "2021-11-11T21:06:16+03:00"
+vid_date: "2021-11-08T15:00:12Z"
+duration: "PT14M48S"
+viewcount: "19618"
+likeCount: "831"
+dislikeCount: "34"
+channel: "trav4oilers"
+---
+{% raw %}Taking down the league's best. It's game day baby and we're looking to bounce back. Who's the best goalie in Sweden? You're looking at him + Get 20% OFF the Lawn Mower 4.0 <a rel="nofollow" target="blank" href="http://www.manscaped.com/TRAVSUCKS">http://www.manscaped.com/TRAVSUCKS</a><br /><br />Subscribe ➝ <a rel="nofollow" target="blank" href="https://www.youtube.com/user/Trav4oilers?sub_confirmation=1">https://www.youtube.com/user/Trav4oilers?sub_confirmation=1</a><br />Become a channel member for exclusive perks ➝ <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCFBWSLarsNTsHe8y5id9hEg/join">https://www.youtube.com/channel/UCFBWSLarsNTsHe8y5id9hEg/join</a><br /><br />MY SOCIAL MEDIA<br />Instagram  ► <a rel="nofollow" target="blank" href="http://instagram.com/trav4oilers">http://instagram.com/trav4oilers</a><br />TikTok   ► <a rel="nofollow" target="blank" href="https://www.tiktok.com/@trav4oilers">https://www.tiktok.com/@trav4oilers</a><br /> <br />MY PODCAST<br />Apple ► <a rel="nofollow" target="blank" href="https://podcasts.apple.com/ca/podcast/slangin-the-bizkit/id1562205682">https://podcasts.apple.com/ca/podcast/slangin-the-bizkit/id1562205682</a><br />Video Version ► <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCL_pqKCp4cQw-n39acga4nA">https://www.youtube.com/channel/UCL_pqKCp4cQw-n39acga4nA</a><br /><br />MY ESSENTIALS  (I get paid when you use &quot;TRAVSUCKS&quot; code)<br />Pro Laces   ➝  <a rel="nofollow" target="blank" href="https://www.prolaces.ca/en/armor/28-pro-laces-armor-extra-long-trav4.html">https://www.prolaces.ca/en/armor/28-pro-laces-armor-extra-long-trav4.html</a>  (10% off)<br />Buttendz    ➝  <a rel="nofollow" target="blank" href="https://buttendz.com/shop/">https://buttendz.com/shop/</a> (10% off)<br />Beyond Yourself Supplements ➝  <a rel="nofollow" target="blank" href="https://beyondyourself.ca">https://beyondyourself.ca</a> (20% off)<br />Insta360 OneR ➝ <a rel="nofollow" target="blank" href="https://www.insta360.com/sal/one_r?insrc=INRP0XR">https://www.insta360.com/sal/one_r?insrc=INRP0XR</a><br /><br />MOVEMBER CAMPAIGN ➝ <a rel="nofollow" target="blank" href="https://movember.com/m/14675401?mc=1">https://movember.com/m/14675401?mc=1</a><br /><br />00:00 Intro<br />00:07 FLU has gotten in the locker room<br />01:26 I need to tell you about this<br />02:06 Practice <br />03:30 Road trip recap<br />04:04 1st period<br />06:22 3rd period<br />11:19 Post game celebration<br />12:20 I AM BROKE, Rent is late<br />13:34 Listen up, let me remind you<br />14:13 Fundraising for cancer<br />14:24 Outro{% endraw %}
