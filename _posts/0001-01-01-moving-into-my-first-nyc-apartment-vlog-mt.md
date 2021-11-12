@@ -1,0 +1,15 @@
+---
+title: "MOVING into my FIRST NYC APARTMENT *vlog*"
+image: "https:\/\/i.ytimg.com\/vi\/m3gQAK5x8dc\/hqdefault.jpg"
+vid_id: "m3gQAK5x8dc"
+categories: "People-Blogs"
+tags: ["new york city apartment","new york city apartment tour","new york city move in"]
+date: "2021-11-13T01:17:05+03:00"
+vid_date: "2021-11-11T00:15:19Z"
+duration: "PT12M45S"
+viewcount: "187910"
+likeCount: "14897"
+dislikeCount: "61"
+channel: "ur mom ashley"
+---
+{% raw %}mt first week in new york city!!!! I MOVED TO NEW YORK: <a rel="nofollow" target="blank" href="https://youtu.be/JPiTmVeqXfk">https://youtu.be/JPiTmVeqXfk</a><br /><br />✧ ROOMIES ✧<br /> @Elliot Choy   <br /> @Kelly Wakasa  <br /> @annemariechase <br /><br />Q+A (relationship status, post-grad life, living situation) <a rel="nofollow" target="blank" href="https://youtu.be/-eL6aZkh8f8">https://youtu.be/-eL6aZkh8f8</a><br /><br />EXTRA DYNAMIC PODCAST: <a rel="nofollow" target="blank" href="https://www.flowcode.com/page/extradynamicpodcast">https://www.flowcode.com/page/extradynamicpodcast</a><br />✪ life &amp; my relationship status: <a rel="nofollow" target="blank" href="https://shorturl.at/drA27">https://shorturl.at/drA27</a><br />✪ COLLEGE ADVICE PODCAST (w/ AMBER): <a rel="nofollow" target="blank" href="https://shorturl.at/cgmyJ">https://shorturl.at/cgmyJ</a><br /><br />💕 ✧ MY JEWELRY COLLECTION RESTOCK: <a rel="nofollow" target="blank" href="https://honeylock.co/collections/ashley-x-honeylock">https://honeylock.co/collections/ashley-x-honeylock</a><br />NECKLACES + BRACELETS both in stock for a LIMITED TIME!! ✧ 💕<br /><br />(っ◔◡◔)っ  MY SOCIALS  <br />click here to see all! <a rel="nofollow" target="blank" href="https://flow.page/ashleyalexander​​">https://flow.page/ashleyalexander​​</a><br />✪ TIKTOK @urmomaaashleyk <a rel="nofollow" target="blank" href="https://vm.tiktok.com/u7uSr9/​​">https://vm.tiktok.com/u7uSr9/​​</a><br />✪ INSTA @aaashleyk (aye aye ashley k) :P <br />✪ TWITTER @urmomashley<br />✪ DEPOP @urmomashley<br />✪ SPOTIFY @urmomashley<br />✪ PODCAST: <a rel="nofollow" target="blank" href="https://www.flowcode.com/page/extradynamicpodcast">https://www.flowcode.com/page/extradynamicpodcast</a><br />✪ DISCORD: <a rel="nofollow" target="blank" href="https://discord.gg/MJeQ8GP">https://discord.gg/MJeQ8GP</a><br />✪ TWITCH: <a rel="nofollow" target="blank" href="https://www.twitch.tv/aaashleyk​​">https://www.twitch.tv/aaashleyk​​</a><br />MY FAVES: <a rel="nofollow" target="blank" href="https://www.amazon.com/shop/urmomashley​">https://www.amazon.com/shop/urmomashley​</a><br /><br />VLOG CAMERA used in this video (Sony ZV-1): <a rel="nofollow" target="blank" href="https://shop-links.co/1744263885785928326">https://shop-links.co/1744263885785928326</a><br />my fav starter camera: <a rel="nofollow" target="blank" href="https://amzn.to/30sHtDa​​">https://amzn.to/30sHtDa​​</a><br />I edit w/ Final Cut Pro X !!<br />current sub count: 1,060,000 :)<br /><br />-<br />business email: ashley@whalarstars.com{% endraw %}
