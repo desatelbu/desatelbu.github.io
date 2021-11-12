@@ -1,0 +1,15 @@
+---
+title: "🎃🦇💖mini halloween vlog: Divoom unboxing, draw with me"
+image: "https:\/\/i.ytimg.com\/vi\/--2ejxL_eCk\/hqdefault.jpg"
+vid_id: "--2ejxL_eCk"
+categories: "Film-Animation"
+tags: ["Divoom","Ditoo-Plus","Draw with me"]
+date: "2021-11-13T00:54:26+03:00"
+vid_date: "2021-11-12T14:56:49Z"
+duration: "PT17M1S"
+viewcount: "4253"
+likeCount: "950"
+dislikeCount: "0"
+channel: "Likelihood Art"
+---
+{% raw %}thank you for 334K!<br /><br />Hi! Hope you guys had a good Halloween! This video is late lol but I still wanted to post it. I didn't get up to much on halloween, I had bad cramps (╥﹏╥) but I managed to draw something for the season! You can see it on my insta and twitter :) Enjoy the video!<br /><br />✨watch in HD✨<br /><br />➽───────────────❥<br />✿ DIVOOM ✿<br /> Check out the speaker here! <br /> Their official website: <a rel="nofollow" target="blank" href="https://bit.ly/3yoItXM,">https://bit.ly/3yoItXM,</a> thanks<br /><br />Divoom Ditoo: <a rel="nofollow" target="blank" href="https://amzn.to/2Q3aZfF">https://amzn.to/2Q3aZfF</a> <br />Divoom Ditoo: <a rel="nofollow" target="blank" href="https://bit.ly/3sGXocG">https://bit.ly/3sGXocG</a><br />Divoom Store: <a rel="nofollow" target="blank" href="https://amzn.to/3cSwOYD">https://amzn.to/3cSwOYD</a><br /><br /> <br />ALSO! They gave me a code for you guys!<br />♡ 5% discount code: Z3QR7YP19XRH ♡<br /><br />- - - - - - - - - - - - - - - - <br />✿ Brushes ✿<br />FREE: “Sexy Flatbrush” by @/eunivrz on twitter!  <a rel="nofollow" target="blank" href="https://twitter.com/eunivrz/status/1454230920467202055?s=21">https://twitter.com/eunivrz/status/1454230920467202055?s=21</a><br />PAID: “Abel Eraser” from AbelArt’s essential pack (no. 1)  <a rel="nofollow" target="blank" href="https://abelart.gumroad.com/l/fJzY">https://abelart.gumroad.com/l/fJzY</a><br />(I changed the settings on mine a bit: I removed tilt and changed the rendering to uniform blending)<br />- - - - - - - - - - - - - - - - <br /><br />My instagram: <a rel="nofollow" target="blank" href="https://instagram.com/likelihood_art?igshid=1xuv4b7gugzfq">https://instagram.com/likelihood_art?igshid=1xuv4b7gugzfq</a><br />My twitter: <a rel="nofollow" target="blank" href="https://twitter.com/likelihood_art">https://twitter.com/likelihood_art</a><br /><br /> - - - - - - - - - - - - - - - - <br />✯ Editing app : VLLO premium &amp; Final Cut Pro X<br />✯ Camera : iPhone 11<br />✯ Ipad Pro 2020 &amp; Apple Pencil 2nd gen<br />✯ Procreate &amp; Clip Studio Paint EX<br /><br /> - - - - - - - - - - - - - - - - <br />🎼 🎵<br />Music by DENYCE - nostalgia lane - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=02B871EB">https://thmatc.co/?l=02B871EB</a><br />Rose [prod. By Lukrembo]<br />Music by Naomi - Daydreamer - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=66B6D578">https://thmatc.co/?l=66B6D578</a><br /><br /> - - - - - - - - - - - - - - - - <br /><br />💌For business only: likelihoodart@gmail.com<br /><br /><br />（╹◡╹）{% endraw %}
