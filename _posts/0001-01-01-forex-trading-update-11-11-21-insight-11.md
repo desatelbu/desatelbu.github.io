@@ -1,0 +1,15 @@
+---
+title: "FOREX TRADING - UPDATE: 11\/11\/21 INSIGHT & 11\/12\/21 INSIGHT | MPW CONCEPT (INTRADAY)"
+image: "https:\/\/i.ytimg.com\/vi\/RmBaLpIJMns\/hqdefault.jpg"
+vid_id: "RmBaLpIJMns"
+categories: "Education"
+tags: ["FOREX","TRADING","UPDATE:"]
+date: "2021-11-12T05:51:49+03:00"
+vid_date: "2021-11-12T02:20:15Z"
+duration: "PT28M42S"
+viewcount: "3"
+likeCount: "0"
+dislikeCount: "0"
+channel: "Kuya Dwa"
+---
+{% raw %}11/11/12 INSIGHT (MPW CONCEPT): <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=MrZZt9vEoh0&amp;t=6s">https://www.youtube.com/watch?v=MrZZt9vEoh0&amp;t=6s</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=MrZZt9vEoh0&amp;t=6s">https://www.youtube.com/watch?v=MrZZt9vEoh0&amp;t=6s</a><br /><br />Join this group, a genuine and safe environment for aspiring FIlipino Traders: <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/20515...">https://www.facebook.com/groups/20515...</a><br />(SCAMMER FREE)<br /><br />Risk Disclaimer:<br />Trading foreign exchange on margin carries a high level of risk, and may not be suitable for all investors. Past performance is not indicative of future results. The high degree of leverage can work against you as well as for you. Before deciding to invest in foreign exchange you should carefully consider your investment objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading, and seek advice from an independent financial advisor if you have any doubts.<br /><br />Risks Associated with Forex Trading:<br />Trading foreign currencies can be a challenging and potentially profitable opportunity for investors. However, before deciding to participate in the Forex market, you should carefully consider your investment objectives, level of experience, and risk appetite. Most importantly, do not invest money you cannot afford to lose.<br /><br />There is considerable exposure to risk in any foreign exchange transaction. Any transaction involving currencies involves risks including, but not limited to, the potential for changing political and/or economic conditions that may substantially affect the price or liquidity of a currency. Investments in foreign exchange speculation may also be susceptible to sharp rises and falls as the relevant market values fluctuate.<br /><br />The leveraged nature of Forex trading means that any market movement will have an equally proportional effect on your deposited funds. This may work against you as well as for you. Not only may investors get back less than they invested, but in the case of higher risk strategies, investors may lose the entirety of their investment. It is for this reason that when speculating in such markets it is advisable to use only risk capital.{% endraw %}
