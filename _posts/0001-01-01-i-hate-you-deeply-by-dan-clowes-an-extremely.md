@@ -1,0 +1,15 @@
+---
+title: "\"I Hate You Deeply\" by Dan Clowes. An EXTREMELY Relevant Strip in the Social Media Age!"
+image: "https:\/\/i.ytimg.com\/vi\/FJmFS1MThMY\/hqdefault.jpg"
+vid_id: "FJmFS1MThMY"
+categories: "Entertainment"
+tags: ["ed piskor","jim rugg","wizard magazine"]
+date: "2021-11-12T21:42:36+03:00"
+vid_date: "2021-11-12T14:00:06Z"
+duration: "PT20M19S"
+viewcount: "1654"
+likeCount: ""
+dislikeCount: ""
+channel: "Cartoonist Kayfabe"
+---
+{% raw %}Ed's Links (Order RED ROOM!, Patreon, etc): <a rel="nofollow" target="blank" href="https://linktr.ee/edpiskor">https://linktr.ee/edpiskor</a><br />Jim's Links (Patreon, Store, social media): <a rel="nofollow" target="blank" href="https://linktr.ee/jimrugg">https://linktr.ee/jimrugg</a><br />-------------------------<br />E-NEWSLETTER: Keep up with all things Cartoonist Kayfabe through our newsletter! News, appearances, special offers, and more - signup here for free: <a rel="nofollow" target="blank" href="https://cartoonistkayfabe.substack.com/">https://cartoonistkayfabe.substack.com/</a><br />---------------------<br />SNAIL MAIL! Cartoonist Kayfabe, PO Box 3071, Munhall, Pa 15120<br />---------------------<br />T-SHIRTS and MERCH: <a rel="nofollow" target="blank" href="https://shop.spreadshirt.com/cartoonist-kayfabe">https://shop.spreadshirt.com/cartoonist-kayfabe</a><br />---------------------<br />Connect with us: <br /><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/cartoonist.kayfabe/">https://www.instagram.com/cartoonist.kayfabe/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/CartoonKayfabe">https://twitter.com/CartoonKayfabe</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/Cartoonist.Kayfabe">https://www.facebook.com/Cartoonist.Kayfabe</a><br /><br />Ed's Contact info:<br /><a rel="nofollow" target="blank" href="https://Patreon.com/edpiskor">https://Patreon.com/edpiskor</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/ed_piskor">https://www.instagram.com/ed_piskor</a><br /><a rel="nofollow" target="blank" href="https://www.twitter.com/edpiskor">https://www.twitter.com/edpiskor</a><br /><a rel="nofollow" target="blank" href="https://www.amazon.com/Ed-Piskor/e/B00LDURW7A/ref=dp_byline_cont_book_1">https://www.amazon.com/Ed-Piskor/e/B00LDURW7A/ref=dp_byline_cont_book_1</a><br /><br />Jim's contact info:<br /><a rel="nofollow" target="blank" href="https://www.patreon.com/jimrugg">https://www.patreon.com/jimrugg</a><br /><a rel="nofollow" target="blank" href="https://www.jimrugg.com/shop">https://www.jimrugg.com/shop</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/jimruggart">https://www.instagram.com/jimruggart</a><br /><a rel="nofollow" target="blank" href="https://www.twitter.com/jimruggart">https://www.twitter.com/jimruggart</a><br /><a rel="nofollow" target="blank" href="https://www.amazon.com/Jim-Rugg/e/B0034Q8PH2/ref=sr_tc_2_0?qid=1543440388&amp;sr=1-2-ent">https://www.amazon.com/Jim-Rugg/e/B0034Q8PH2/ref=sr_tc_2_0?qid=1543440388&amp;sr=1-2-ent</a>{% endraw %}
