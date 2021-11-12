@@ -1,0 +1,15 @@
+---
+title: "6 NEW SUBPOENAS Issued to Top Trump Advisers Who Ran Insurrection ‘Command Center’"
+image: "https:\/\/i.ytimg.com\/vi\/F5wxjEk4Bqk\/hqdefault.jpg"
+vid_id: "F5wxjEk4Bqk"
+categories: "News-Politics"
+tags: ["Donald Trump","President Donald Trump","President Trump"]
+date: "2021-11-12T03:11:34+03:00"
+vid_date: "2021-11-09T22:05:23Z"
+duration: "PT8M"
+viewcount: "23196"
+likeCount: "2663"
+dislikeCount: "17"
+channel: "Jesse Dollemore"
+---
+{% raw %}Jesse talks about the continuing investigation of the House Select Committee investigating the January 6th insurrection at the United States Capitol building and those being compelled to testify. <br /><br />CLICK THE JOIN BUTTON and partner with me and support my work by becoming a Channel Member: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCUSySH2YjIwsDu2Hx6DWwTA/join">https://www.youtube.com/channel/UCUSySH2YjIwsDu2Hx6DWwTA/join</a><br /><br />- Subscribe to the YouTube Channel<br />- Subscribe to my twice-weekly (TOTALLY different than the YouTube videos) Podcast (I Doubt It) on Apple Podcasts, Google Podcasts, Spotify or at <a rel="nofollow" target="blank" href="https://www.dollemore.com">https://www.dollemore.com</a><br /><br />#DollemoreDaily #January6 #Insurrection<br /><br />Support with PayPal – <a rel="nofollow" target="blank" href="https://www.dollemore.com/paypal">https://www.dollemore.com/paypal</a><br /><br />Support with CRYPTOCURRENCY - <a rel="nofollow" target="blank" href="https://dollemore.com/support-show-w-crypto/">https://dollemore.com/support-show-w-crypto/</a><br /><br />Buy some merch – Buy a T-Shirt, Hoodie, Mug, or Tote – <a rel="nofollow" target="blank" href="https://www.dollemore.info">https://www.dollemore.info</a><br /><br />TRE45ON SHIRTS AVAILABLE AT <a rel="nofollow" target="blank" href="http://www.dollemore.info">http://www.dollemore.info</a><br /><br />Podcast Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/IDoubtItPodcast">https://www.facebook.com/IDoubtItPodcast</a><br /><br />Podcast Twitter - <a rel="nofollow" target="blank" href="https://www.twitter.com/IDoubtItPodcast">https://www.twitter.com/IDoubtItPodcast</a><br /><br />Jesse on Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/dollemore">https://www.twitter.com/dollemore</a><br /><br />Brittany Page on Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/brittanyepage">https://www.twitter.com/brittanyepage</a><br /><br />Sources:<br /><br />- <a rel="nofollow" target="blank" href="https://www.washingtonpost.com/politics/house-jan-6-committee-issues-subpoenas-to-6-top-trump-advisers-including-pair-involved-in-willard-hotel-command-center/2021/11/08/6e91b0f2-40a6-11ec-a88e-2aa4632af69b_story.html">https://www.washingtonpost.com/politics/house-jan-6-committee-issues-subpoenas-to-6-top-trump-advisers-including-pair-involved-in-willard-hotel-command-center/2021/11/08/6e91b0f2-40a6-11ec-a88e-2aa4632af69b_story.html</a>{% endraw %}
