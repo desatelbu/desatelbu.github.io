@@ -1,0 +1,15 @@
+---
+title: "VFX Artists React to DUNE Bad & Great CGi"
+image: "https:\/\/i.ytimg.com\/vi\/OHPkdMGI6D4\/hqdefault.jpg"
+vid_id: "OHPkdMGI6D4"
+categories: "Entertainment"
+tags: ["vfx","vfx artists react","react"]
+date: "2021-11-14T02:11:06+03:00"
+vid_date: "2021-11-13T17:00:29Z"
+duration: "PT21M41S"
+viewcount: "408887"
+likeCount: "29531"
+dislikeCount: "291"
+channel: "Corridor Crew"
+---
+{% raw %}ExpressVPN ► <a rel="nofollow" target="blank" href="https://expressvpn.com/corridorcrew">https://expressvpn.com/corridorcrew</a> Take back your Internet privacy TODAY and find out how you can get 3 months free.<br />Join OUR WEBSITE ► <a rel="nofollow" target="blank" href="https://bit.ly/Crew_Membership">https://bit.ly/Crew_Membership</a><br /><br />THIS EPISODE ►<br />The crew is back on the couch, this time to compare the VFX of Denis Villeneuve's 2021 Sci-Fi Epic &quot;DUNE&quot; with David Lynch's version from 1984.<br /><br />FOLLOW ►<br />Instagram: <a rel="nofollow" target="blank" href="http://bit.ly/_Corridor_Instagram">http://bit.ly/_Corridor_Instagram</a><br />Sub-Reddit: <a rel="nofollow" target="blank" href="http://bit.ly/_Corridor_Sub-Reddit">http://bit.ly/_Corridor_Sub-Reddit</a><br /><br />SUPPORT ► <br />Join Our Website: <a rel="nofollow" target="blank" href="https://bit.ly/Crew_Membership">https://bit.ly/Crew_Membership</a><br />Buy Merch: <a rel="nofollow" target="blank" href="http://bit.ly/Corridor_Store">http://bit.ly/Corridor_Store</a><br /><br />OUR GEAR, SOFTWARE &amp; PARTNERS  ►<br />Our Go-To Gear: <a rel="nofollow" target="blank" href="https://bhpho.to/3r0wEnt">https://bhpho.to/3r0wEnt</a><br />Puget Systems Computers: <a rel="nofollow" target="blank" href="http://bit.ly/PC_Puget_Workstations">http://bit.ly/PC_Puget_Workstations</a><br />ActionVFX: <a rel="nofollow" target="blank" href="https://bit.ly/TheBest_ActionVFX">https://bit.ly/TheBest_ActionVFX</a><br />Cinema4D: <a rel="nofollow" target="blank" href="http://bit.ly/Try_Cinema4D">http://bit.ly/Try_Cinema4D</a><br />Insydium: <a rel="nofollow" target="blank" href="https://bit.ly/Insydium_Plugins">https://bit.ly/Insydium_Plugins</a><br />Boris FX - Mocha, Sapphire &amp; Continuum: <a rel="nofollow" target="blank" href="https://bit.ly/2Y0XLUX">https://bit.ly/2Y0XLUX</a><br />Octane Render by OTOY: <a rel="nofollow" target="blank" href="http://bit.ly/Octane_Wrender">http://bit.ly/Octane_Wrender</a><br />Motion Captured with Xsens Suit: <a rel="nofollow" target="blank" href="http://bit.ly/Xsens_MoCap_Suit">http://bit.ly/Xsens_MoCap_Suit</a><br />Reallusion: <a rel="nofollow" target="blank" href="https://corridor.video/Reallusion_3Dsoftware">https://corridor.video/Reallusion_3Dsoftware</a><br />Unreal MegaGrant: <a rel="nofollow" target="blank" href="http://bit.ly/Unreal_MegaGrant">http://bit.ly/Unreal_MegaGrant</a><br /><br />MUSIC ►<br />Epidemic: <a rel="nofollow" target="blank" href="http://bit.ly/Corridor_Music">http://bit.ly/Corridor_Music</a> click this link for a free month!{% endraw %}
