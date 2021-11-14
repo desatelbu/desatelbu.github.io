@@ -1,0 +1,15 @@
+---
+title: "IS THIS TOO MUCH? THEY STOLE THE SHOW | MIAMI RIVER GETS WILD | BOAT ZONE"
+image: "https:\/\/i.ytimg.com\/vi\/1IJcAG11yI0\/hqdefault.jpg"
+vid_id: "1IJcAG11yI0"
+categories: "Entertainment"
+tags: ["boat zone","wavy boats","Alfred montaner"]
+date: "2021-11-14T23:17:19+03:00"
+vid_date: "2021-08-04T19:14:50Z"
+duration: "PT9M36S"
+viewcount: "590495"
+likeCount: "3224"
+dislikeCount: "202"
+channel: "Boat Zone"
+---
+{% raw %}The Miami River evolved over thousands of years from a tidal channel into a freshwater stream that carried water from the Everglades to Biscayne Bay. It is the oldest natural landmark in Southeast Florida. The 5.5-mile (8.9 km) long river flows from the terminus of the Miami Canal at Miami International Airport to Biscayne Bay. The 15-foot deep navigable waterway's shoreline features public riverwalks, city parks, over 7,000 new residential units, 17 restaurants, and 16 historic sites.<br />__________<br />Uncensored Content In Patreon<br /><a rel="nofollow" target="blank" href="https://www.patreon.com/boatzone">https://www.patreon.com/boatzone</a><br />__________<br />This video is sponsored by the following sponsors:<br /><br />UniVista Insurance<br />Free Quotes-Call Now 786.272.9414<br /><a rel="nofollow" target="blank" href="https://www.univistainsurance.com/bz-video1">https://www.univistainsurance.com/bz-video1</a><br /><br />SunGlass Outlet<br />Leading destination for discounted brand name sunglasses.<br /><a rel="nofollow" target="blank" href="https://www.sunglassoutlet.com">https://www.sunglassoutlet.com</a><br /><br />Cafe El Mio <br />Authentic Cuban Coffee 786.671.6785<br /><a rel="nofollow" target="blank" href="https://www.cafeelmio.com">https://www.cafeelmio.com</a> <br /><br />Interested in advertise your business with us? Send us your questions or visit our Website WWW.boatzone.us<br />__________<br />Follow us: <br />Boat Zone Miami:  <a rel="nofollow" target="blank" href="https://bit.ly/BoatZoneMiami">https://bit.ly/BoatZoneMiami</a><br />Miami Boat Life <a rel="nofollow" target="blank" href="https://www.youtube.com/c/MiamiBoatLife">https://www.youtube.com/c/MiamiBoatLife</a><br />Instagram: <a rel="nofollow" target="blank" href="https://bit.ly/BoatZoneInstagram">https://bit.ly/BoatZoneInstagram</a><br />Facebook: <a rel="nofollow" target="blank" href="https://bit.ly/BoatZoneFacebook2">https://bit.ly/BoatZoneFacebook2</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@boat.zone">https://www.tiktok.com/@boat.zone</a><br />__________<br />Our Gear <br /><a rel="nofollow" target="blank" href="https://amzn.to/3pUs8pW">https://amzn.to/3pUs8pW</a><br /><a rel="nofollow" target="blank" href="https://amzn.to/3pVM0ZR">https://amzn.to/3pVM0ZR</a><br />__________<br />Don't forget to like, share, comment, and subscribe.  Also, ring the notification bell to be notified of all my upcoming videos. Thanks for watching!<br /><br />All Rights Reserved | Any unauthorized use of this content including screenshots of this video, download, or re-post is prohibited by copyrights.{% endraw %}
