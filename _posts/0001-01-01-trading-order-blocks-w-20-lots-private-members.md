@@ -1,0 +1,15 @@
+---
+title: "Trading Order Blocks w\/ 20 Lots | Private Members Content"
+image: "https:\/\/i.ytimg.com\/vi\/eXvES8xn2BY\/hqdefault.jpg"
+vid_id: "eXvES8xn2BY"
+categories: "Entertainment"
+tags: ["Forex","Make Money Online","Easy Forex Training"]
+date: "2021-11-14T14:59:56+03:00"
+vid_date: "2021-11-14T00:08:14Z"
+duration: "PT53M56S"
+viewcount: "1044"
+likeCount: "57"
+dislikeCount: "1"
+channel: "TechnicalGods"
+---
+{% raw %}This video has no audio as I do not talk while trading alone. <br /><br />Get Access To The Official TGFX Tradingview Indicator - <a rel="nofollow" target="blank" href="https://tgfx-academy.com/product/tgfx-session-indicator-tradingview/">https://tgfx-academy.com/product/tgfx-session-indicator-tradingview/</a><br />Join our free telegram group! <a rel="nofollow" target="blank" href="https://t.me/TechnicalGods">https://t.me/TechnicalGods</a><br />____________<br />Trader MUST haves!<br />Tradingview Pro - Get $30 in free credit!<br /><a rel="nofollow" target="blank" href="https://www.tradingview.com/gopro/?share_your_love=Rayyvbeats">https://www.tradingview.com/gopro/?share_your_love=Rayyvbeats</a><br />Favorite Broker -WSX Pro<br /><a rel="nofollow" target="blank" href="https://wsxpro.com?refid=1629295934149&amp;cmp=1d7z5m6z">https://wsxpro.com?refid=1629295934149&amp;cmp=1d7z5m6z</a><br />The BEST Trading Journal - <a rel="nofollow" target="blank" href="https://tradersync.com/?ref=raytgfx">https://tradersync.com/?ref=raytgfx</a><br />Subscribe for more content like this!! <a rel="nofollow" target="blank" href="https://bit.ly/2XBSJeQ">https://bit.ly/2XBSJeQ</a><br />#Forex #HowToTradeForex #MakeMoneyOnline #FinancialFreedom<br />Join our free telegram group! <a rel="nofollow" target="blank" href="https://t.me/TechnicalGods">https://t.me/TechnicalGods</a><br />:moneybag: FOLLOW ME HERE :moneybag:<br />Instagram @Rayvaughnfx <a rel="nofollow" target="blank" href="http://instagram.com/rayvaughnfx">http://instagram.com/rayvaughnfx</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/TechnicalGodsfx">https://www.facebook.com/TechnicalGodsfx</a><br />TikTok: <a rel="nofollow" target="blank" href="https://vm.tiktok.com/Et6Dcv/">https://vm.tiktok.com/Et6Dcv/</a><br />Interested in joining a personalized advanced forex training community?<br /><a rel="nofollow" target="blank" href="https://www.Technicalgods.com">https://www.Technicalgods.com</a><br />- Full online educational course that breaks down trading with simplicity<br />- Also includes: Psychology, Live trade &amp; market breakdowns, backtesting<br />- 1 on 1 training with you until the markets become second nature to you which are hosted on a online webinar software where you can ask me questions and get them answered live.<br />____________<br />Thank you to everyone watching out there! I hope you find endless value in the videos released through this channel. Make sure to Like, Share, and Subscribe, so that I know what kind of content you’d like more of! Have questions about your own trading career? Email me @ Technicalgodsfx@gmail.com<br />TechnicalGods | Trading Should Be Simple ©{% endraw %}
