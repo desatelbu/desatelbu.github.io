@@ -1,0 +1,15 @@
+---
+title: "Jimmy Carr: The Easiest Way To Live A Happier Life | E106"
+image: "https:\/\/i.ytimg.com\/vi\/roROKlZhZyo\/hqdefault.jpg"
+vid_id: "roROKlZhZyo"
+categories: "People-Blogs"
+tags: ["The Diary Of A CEO","the diary of a CEO podcast","Jimmy Carr"]
+date: "2021-11-16T01:30:45+03:00"
+vid_date: "2021-11-15T06:00:13Z"
+duration: "PT1H41M16S"
+viewcount: "12208"
+likeCount: "567"
+dislikeCount: "4"
+channel: "The Diary Of A CEO"
+---
+{% raw %}This weeks episode is entitled  'Jimmy Carr: The Easiest Way To Live A Happier Life'.<br /><br />Topics:<br />0:00 Intro<br />03:04 Your early years<br />15:52 Mental health and online connections<br />23:24 Fatherhood<br />31:32 Atheism<br />39:10 Leaving the corporate world for comedy<br />51:31 Find purpose and knowing you’re enough<br />58:45 Whats happiness?<br />01:03:38 Hard work<br />01:13:04 Branding <br />01:14:19 Tax avoidance - anxiety and depression  <br />01:22:55 Losing your virginity at 26 <br />01:24:52 NLP - Neuro-linguistic programming <br />01:36:27 The last guests question<br /><br /><br />Jimmy’s Book: <a rel="nofollow" target="blank" href="http://smarturl.it/BeforeAndLaughter">http://smarturl.it/BeforeAndLaughter</a><br /><br /><br />An in-depth audience Q&amp;A from Jimmy about his book: <a rel="nofollow" target="blank" href="https://www.momenthouse.com/jimmycarr">https://www.momenthouse.com/jimmycarr</a><br /><br /><br />Jimmy:<br /><a rel="nofollow" target="blank" href="https://www.jimmycarr.com/">https://www.jimmycarr.com/</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/jimmycarrfans">https://www.youtube.com/user/jimmycarrfans</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/jimmycarr">https://twitter.com/jimmycarr</a><br /><br /><br />THE DIARY OF A CEO LIVE TICKETS ON SALE NOW 🚀- <a rel="nofollow" target="blank" href="https://g2ul0.app.link/diaryofaceolive">https://g2ul0.app.link/diaryofaceolive</a><br /><br /><br />Listen on:<br />Apple podcast - <a rel="nofollow" target="blank" href="https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-by-steven-bartlett/id1291423644">https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-by-steven-bartlett/id1291423644</a><br />Spotify - <a rel="nofollow" target="blank" href="https://open.spotify.com/show/7iQXmUT7XGuZSzAMjoNWlX">https://open.spotify.com/show/7iQXmUT7XGuZSzAMjoNWlX</a><br /><br /><br />FOLLOW ►<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/steven/">https://www.instagram.com/steven/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/SteveBartlettSC">https://twitter.com/SteveBartlettSC</a><br />Linkedin: <a rel="nofollow" target="blank" href="https://www.linkedin.com/in/steven-bartlett-56986834/">https://www.linkedin.com/in/steven-bartlett-56986834/</a><br /><br /><br />Sponsors: <br />Huel - <a rel="nofollow" target="blank" href="https://uk.huel.com/">https://uk.huel.com/</a><br />Myenergi - <a rel="nofollow" target="blank" href="https://bit.ly/3oeWGnl">https://bit.ly/3oeWGnl</a>{% endraw %}
