@@ -1,0 +1,15 @@
+---
+title: "Luke Combs - Doin' This (Live from the 55th Annual CMA Awards)"
+image: "https:\/\/i.ytimg.com\/vi\/3Spp8fVL_Nw\/hqdefault.jpg"
+vid_id: "3Spp8fVL_Nw"
+categories: "Music"
+tags: ["Country","Doin' This","Luke Combs"]
+date: "2021-11-15T21:07:55+03:00"
+vid_date: "2021-11-12T23:59:35Z"
+duration: "PT4M6S"
+viewcount: "48768"
+likeCount: "1982"
+dislikeCount: "22"
+channel: "LukeCombsVEVO"
+---
+{% raw %}Listen to “Doin’ This,” out now: <a rel="nofollow" target="blank" href="https://LC.lnk.to/dointhisYT">https://LC.lnk.to/dointhisYT</a><br />  <br />Chorus:<br />I’d have a Friday night crowd in the palm of my hand<br />Cup of brown liquor, couple buddies in a band<br />Singin’ them same damn songs like I am now<br />I’d be feelin’ on fire on a hardwood stage<br />Bright lights like lightning runnin’ through my veins<br />At the Grand Ole Opry or a show in some no name town<br />I’d still be doin’ this if I wasn’t doin’ this<br /> <br />Listen On:<br />Apple Music: <a rel="nofollow" target="blank" href="https://LC.lnk.to/dointhisYT/applemusic">https://LC.lnk.to/dointhisYT/applemusic</a><br />Spotify: <a rel="nofollow" target="blank" href="https://LC.lnk.to/dointhisYT/spotify">https://LC.lnk.to/dointhisYT/spotify</a><br />Amazon Music: <a rel="nofollow" target="blank" href="https://LC.lnk.to/dointhisYT/amazonmusic">https://LC.lnk.to/dointhisYT/amazonmusic</a><br />iTunes: <a rel="nofollow" target="blank" href="https://LC.lnk.to/dointhisYT/itunes">https://LC.lnk.to/dointhisYT/itunes</a><br />Pandora: <a rel="nofollow" target="blank" href="https://LC.lnk.to/dointhisYT/pandora">https://LC.lnk.to/dointhisYT/pandora</a><br />YouTube Music: <a rel="nofollow" target="blank" href="https://LC.lnk.to/dointhisYT/youtubemusic">https://LC.lnk.to/dointhisYT/youtubemusic</a>  <br />All retailers: <a rel="nofollow" target="blank" href="https://LC.lnk.to/dointhisYT">https://LC.lnk.to/dointhisYT</a><br />  <br />Follow Luke: <br />Instagram: <a rel="nofollow" target="blank" href="https://LC.lnk.to/profileYT/instagram">https://LC.lnk.to/profileYT/instagram</a><br />Facebook: <a rel="nofollow" target="blank" href="https://LC.lnk.to/profileYT/facebook">https://LC.lnk.to/profileYT/facebook</a><br />Twitter: <a rel="nofollow" target="blank" href="https://LC.lnk.to/profileYT/twitter">https://LC.lnk.to/profileYT/twitter</a><br />TikTok: <a rel="nofollow" target="blank" href="https://LC.lnk.to/profileYT/tiktok">https://LC.lnk.to/profileYT/tiktok</a><br />Twitch: <a rel="nofollow" target="blank" href="https://LC.lnk.to/profileYT/twitch">https://LC.lnk.to/profileYT/twitch</a><br />Subscribe to his channel: <a rel="nofollow" target="blank" href="https://LC.lnk.to/profileYT/youtube">https://LC.lnk.to/profileYT/youtube</a><br />Website/Tour Dates/Bootleggers Fan Club: <a rel="nofollow" target="blank" href="https://LC.lnk.to/profileYT/officialsite">https://LC.lnk.to/profileYT/officialsite</a><br /> <br />#LukeCombs #DoinThis #CMAs #CMAAwards<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/JT6Rd8">http://vevo.ly/JT6Rd8</a>{% endraw %}
