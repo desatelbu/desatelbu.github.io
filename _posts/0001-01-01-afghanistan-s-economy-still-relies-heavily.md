@@ -1,0 +1,15 @@
+---
+title: "Afghanistan's economy still relies heavily on opium, cannabis | DW News"
+image: "https:\/\/i.ytimg.com\/vi\/90lKT41QcCs\/hqdefault.jpg"
+vid_id: "90lKT41QcCs"
+categories: "News-Politics"
+tags: ["DW News"]
+date: "2021-11-16T15:54:44+03:00"
+vid_date: "2021-11-16T12:00:08Z"
+duration: "PT7M25S"
+viewcount: "2135"
+likeCount: "64"
+dislikeCount: "3"
+channel: "DW News"
+---
+{% raw %}Amid the economic malaise in Afghanistan, there's one market raking in cash – the opium trade. The UN has reported a record opium harvest in the country for the fifth year running – worth up to 2.7 billion dollars annually. Over 100,000 Afghans are involved in the illegal trade. For many farmers, opium is the only way to make ends meet. DW correspondent Nick Connolly met some of them.<br />After years of earning protection money from the illegal drug trade, while fighting their insurgency against Afghanistan’s Western-backed government, the Taliban now say they want to put an end to the cultivation and use of what is – by most estimates – the country’s most valuable export.<br />This at a time of extreme stress for the country’s farmers. Drought, plummeting consumer demand and border closures have seen their incomes dwindle.<br />The one crop still performing for these farmers is the opium poppy. Here in Kandahar province it’s sold openly alongside the farmers’ other produce. The only thing the Taliban announcement changed, these farmers tell us, was to drive up opium prices, while the prices for other crops are collapsing.<br />With Afghanistan’s land borders for the most part shut to legal exports - entire harvests of pomegranates and other export crops have rotted or been sold for a pittance - while smuggling routes for opium and cannabis have stayed open.<br />Margins are tight even at the best of times. <br />But for now there’s little prospect of international aid returning in anything like the volumes seen under the previous government. Without it, Afghanistan’s economy looks set to suffer for the foreseeable future, opening the way for more poppies and more cannabis across these fields - and more drugs on the streets of Afghanistan’s neighbors.<br /><br /><br />Subscribe: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/deutschewelleenglish?sub_confirmation=1">https://www.youtube.com/user/deutschewelleenglish?sub_confirmation=1</a><br /><br />For more news go to: <a rel="nofollow" target="blank" href="http://www.dw.com/en/">http://www.dw.com/en/</a><br />Follow DW on social media:<br />►Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/deutschewellenews/">https://www.facebook.com/deutschewellenews/</a><br />►Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/dwnews">https://twitter.com/dwnews</a><br />►Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/dwnews">https://www.instagram.com/dwnews</a><br />Für Videos in deutscher Sprache besuchen Sie: <a rel="nofollow" target="blank" href="https://www.youtube.com/dwdeutsch">https://www.youtube.com/dwdeutsch</a><br /><br /><br />#Afghanistan #Taliban #Opium{% endraw %}
