@@ -1,0 +1,15 @@
+---
+title: "This is What Ina will Tell you When you PROPOSE to Her! (Hololive EN)"
+image: "https:\/\/i.ytimg.com\/vi\/akZYpSzn6dE\/hqdefault.jpg"
+vid_id: "akZYpSzn6dE"
+categories: "Entertainment"
+tags: ["HololiveEnglish","Ame","Calli"]
+date: "2021-11-16T13:59:36+03:00"
+vid_date: "2021-11-16T05:47:52Z"
+duration: "PT45S"
+viewcount: "3389"
+likeCount: "562"
+dislikeCount: "1"
+channel: "Whatopia \/ Hololive Clipper"
+---
+{% raw %}Enjoy! Thanks For Watching~<br />Subscribe for daily Hololive contents~<br /><br />Source: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=GPRvvCTaPPQ&amp;t=0s">https://www.youtube.com/watch?v=GPRvvCTaPPQ&amp;t=0s</a><br /><br />If This is &quot;Ame bug review&quot; that mean I forgot to change the Source... Sorry~ Please notify me if I do~ Thank you!<br /><br />============================================================<br /><br />My goal is to push everyone into the rabbit hole and make them suffer<br />from happiness like I did~<br />Like and Subscribe for daily dose of Hololive!<br />My Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCAnUBKzIF_oR4yNUfqIkCqw">https://www.youtube.com/channel/UCAnUBKzIF_oR4yNUfqIkCqw</a><br />My Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/WhatopiaCity">https://twitter.com/WhatopiaCity</a><br /><br />============================================================<br /><br />Ninomae Ina'nis Ch: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg">https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</a><br /><br />============================================================<br /><br />Outro:<br />Voice: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=rQwmMfRehsU&amp;t=4376s">https://www.youtube.com/watch?v=rQwmMfRehsU&amp;t=4376s</a><br />Art: FantasticFooF - <a rel="nofollow" target="blank" href="https://www.reddit.com/r/Hololive/comments/lfodjy/nene_seal/">https://www.reddit.com/r/Hololive/comments/lfodjy/nene_seal/</a><br />Song: Vlad Gluschenko - Tropical Evening<br />Music provided by Vlog No Copyright Music.<br />Creative Commons - Attribution 3.0 Unported<br />Video Link: <a rel="nofollow" target="blank" href="https://youtu.be/T5usbtpaVd8">https://youtu.be/T5usbtpaVd8</a><br />Channel Avatar: <a rel="nofollow" target="blank" href="https://twitter.com/jinnystic">https://twitter.com/jinnystic</a><br /><br />============================================================<br /><br />If I uploaded content similar to yours, Contact Me By Email, I will Take The Video Down.<br /><br />#Hololive #Vtuber #Fun #HololiveEnglish #Sana #Space #Fauna #Nature #Mumei #Owl #Bae #Rat #Kronii #Time #IRyS #VSinger #GawrGura #chumbuds #TAKAMORI #hololiveEN #hololiveMyth #WatsonAmelia #Hic #Ame <br />#AmeLive #TakoTime #NinomaeInanis #Ina #Pun #MoriCalliope #Calli #TakanashiKiara #Kiara #KFP <br />#funny #moments #compilation #joke #comedy #hololive #virtualyoutuber #vtuber  #announcement #statement #Yagoo{% endraw %}
