@@ -1,0 +1,15 @@
+---
+title: "The Illusion of Detail"
+image: "https:\/\/i.ytimg.com\/vi\/5jffJeeXaVQ\/hqdefault.jpg"
+vid_id: "5jffJeeXaVQ"
+categories: "Education"
+tags: ["How to paint","how to paint with oils","oil painting made easy"]
+date: "2021-11-16T21:54:32+03:00"
+vid_date: "2019-01-13T12:32:23Z"
+duration: "PT27M38S"
+viewcount: "2776592"
+likeCount: "94494"
+dislikeCount: "2284"
+channel: "Stuart Davies"
+---
+{% raw %}If you would like to own one of my paintings click on this link: <a rel="nofollow" target="blank" href="https://youtu.be/aBGIqayEBb4">https://youtu.be/aBGIqayEBb4</a><br />and follow the instructions in the description box. It's completely free - I will pay for shipping. This offer ends on 24 December 2021.<br /><br />I apologise for the bad sound quality. Since I made this video I have much better microphones and a decent pop filter. I should also mention, I was exhausted when I made this video (insomnia) and I said that I was painting on board... Wrong! It's on canvas.<br /><br />How to paint detail without detail using oils.<br />Colours used, sap green, cadmium red, red ochre, ultramarine blue, titanium white, yellow ochre (small amount in the sky)  and royal blue.<br /><br />If you would like to join one of my Zoom classes, please take a look here: <a rel="nofollow" target="blank" href="https://stuartdaviesfineart.com/new-online-painting-workshops">https://stuartdaviesfineart.com/new-online-painting-workshops</a><br /><br />My wife's yoga channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/TheVoiceofLife">https://www.youtube.com/user/TheVoiceofLife</a><br /><br />The music: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=_-ijr436AYg&amp;ab_channel=AudioLibrary%E2%80%94Musicforcontentcreators">https://www.youtube.com/watch?v=_-ijr436AYg&amp;ab_channel=AudioLibrary%E2%80%94Musicforcontentcreators</a><br /><br />If you like crime thrillers, try mine: <a rel="nofollow" target="blank" href="https://www.amazon.com/Saxon-Book-1-Chronicles/dp/1782796886">https://www.amazon.com/Saxon-Book-1-Chronicles/dp/1782796886</a><br />Or go to: <a rel="nofollow" target="blank" href="https://www.johnhuntpublishing.com">https://www.johnhuntpublishing.com</a><br /><br />You may like this: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=kSk9NLtjLts&amp;t=64s">https://www.youtube.com/watch?v=kSk9NLtjLts&amp;t=64s</a><br />My website: stuartdaviesfineart.com<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/stuartdaviesartist">https://www.facebook.com/stuartdaviesartist</a><br /><br />Instagram : stuartdavies385<br /><br />A big thank you to my patrons, with your help I was able to produce another video, thanks to your kind contributions.<br /><br />My Patreon page: <a rel="nofollow" target="blank" href="https://www.patreon.com/StuartDaviesArtist">https://www.patreon.com/StuartDaviesArtist</a><br /><br />You may like: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=-37AWcoqfGM">https://www.youtube.com/watch?v=-37AWcoqfGM</a>{% endraw %}
