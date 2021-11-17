@@ -1,0 +1,15 @@
+---
+title: "I Tried Bretman Rock's ABSolutely NOT Workout"
+image: "https:\/\/i.ytimg.com\/vi\/W5QBXpCsB3c\/hqdefault.jpg"
+vid_id: "W5QBXpCsB3c"
+categories: "Entertainment"
+tags: ["Tried","Bretman","Rock's"]
+date: "2021-11-17T12:52:54+03:00"
+vid_date: "2021-11-16T18:00:09Z"
+duration: "PT11M35S"
+viewcount: "3490"
+likeCount: "332"
+dislikeCount: "10"
+channel: "TC2"
+---
+{% raw %}Today Ciera tries another workout challenge, this time it is Bretman Rock's absolutely not workout! Make sure to come back to our channel on Tuesdays for new videos! Like this video if you enjoyed it! Also join the TC2 Crew by subscribing!<br />-----------------------------------------------------------------------<br />Our Merchandise Shop: <a rel="nofollow" target="blank" href="https://teespring.com/stores/tc2">https://teespring.com/stores/tc2</a><br />Our Facebook page: <a rel="nofollow" target="blank" href="https://bit.ly/38Vd8P8">https://bit.ly/38Vd8P8</a><br />Our Facebook group: <a rel="nofollow" target="blank" href="https://bit.ly/32iLqcM">https://bit.ly/32iLqcM</a><br />------------------------------------------------------------------------<br />Our Channel: <a rel="nofollow" target="blank" href="http://goo.gl/HIWu4T">http://goo.gl/HIWu4T</a><br />Subscribe: <a rel="nofollow" target="blank" href="http://goo.gl/nN0Eyl">http://goo.gl/nN0Eyl</a><br />---------------------------------------------<br />Social Media<br />Megan and Ciera's Channel: <a rel="nofollow" target="blank" href="https://goo.gl/pdcvs7">https://goo.gl/pdcvs7</a><br />Maggie's Channel: <a rel="nofollow" target="blank" href="https://goo.gl/hK3idx">https://goo.gl/hK3idx</a><br />TheCheernastics2 Instagram: <a rel="nofollow" target="blank" href="http://goo.gl/VYMdiY">http://goo.gl/VYMdiY</a><br />TheCheernastics2 Twitter: <a rel="nofollow" target="blank" href="http://goo.gl/m34sCU">http://goo.gl/m34sCU</a><br />Megan's Instagram: <a rel="nofollow" target="blank" href="http://goo.gl/YRuVf8">http://goo.gl/YRuVf8</a><br />Megan’s Snapchat: megann_marie32<br />Megan’s Twitter: <a rel="nofollow" target="blank" href="https://goo.gl/tP3HMh">https://goo.gl/tP3HMh</a><br />Megan's Tik Tok: meganstitz1<br />Ciera's Instagram: <a rel="nofollow" target="blank" href="http://goo.gl/U57OF4">http://goo.gl/U57OF4</a><br />Ciera’s Twitter: <a rel="nofollow" target="blank" href="https://goo.gl/ZAw3fa">https://goo.gl/ZAw3fa</a><br />Ciera's Tik Tok: cierastitz<br />Maggie's Instagram: <a rel="nofollow" target="blank" href="http://goo.gl/QAXg50">http://goo.gl/QAXg50</a><br />Maggie’s Snapchat: maggieatcheson<br />Maggie’s Twitter: <a rel="nofollow" target="blank" href="https://goo.gl/s3CoIO">https://goo.gl/s3CoIO</a><br />Maggie's Tik Tok: maggieatcheson<br />------------------------------------------<br />FAQ<br /><br />How old are you? Megan and Ciera are 22 and Maggie is 21<br /> <br />Camera: Canon Rebel T5i+ Røde Videomic Pro<br /><br />Video Editor: Final Cut Pro X<br />---------------------------------<br />Intro and End Card Music{% endraw %}
