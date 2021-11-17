@@ -1,0 +1,15 @@
+---
+title: "Wild Dogs Pop Huge Pimple on Buffalo"
+image: "https:\/\/i.ytimg.com\/vi\/SZi-hwpA1kg\/hqdefault.jpg"
+vid_id: "SZi-hwpA1kg"
+categories: "Pets-Animals"
+tags: ["Kruger","national","park"]
+date: "2021-11-17T20:32:28+03:00"
+vid_date: "2021-11-16T08:36:30Z"
+duration: "PT3M31S"
+viewcount: "234755"
+likeCount: "2259"
+dislikeCount: "535"
+channel: "Latest Sightings"
+---
+{% raw %}A buffalo with a large hernia was separated from the herd and was no match for a pack of hungry wild dogs. <br />Send in your wildlife video here, and earn money: <a rel="nofollow" target="blank" href="https://www.latestsightings.com/partnership">https://www.latestsightings.com/partnership</a><br /><br />This sighting was captured by 42-year-old, Wildlife Safari Guide, Sebastian Sande Sakala, while on a game drive with guests in the Lower Zambezi National Park. <br /><br />Sebastian tells LatestSightings.com the story: “We had gone out on a game drive and were tracking wild dogs for over an hour when we finally saw 2 dogs stand up. They were both looking in the same direction and we knew they had their eyes locked on their next meal.”<br /><br />“The wild dogs chased the herd and were able to separate a female buffalo with a large hernia (caused by complications with giving birth) from the herd. The wild dogs started attacking the buffalo until they brought it down. They went back to the den that evening to rest and care for the young and were back in the morning to finish off their hard-earned kill.”<br /><br />“The wild dogs were joined by vultures and hyenas and by the afternoon there was nothing left of the kill.”<br /><br />“I was very excited to see a kill and it was one of the most memorable sightings I have ever seen!”<br /><br />“Don’t forget that we are in their natural environment, and it is important to give the animals space when they are hunting.” <br /><br /><br />BOOK YOUR TRIP TO KRUGER: <a rel="nofollow" target="blank" href="http://bit.ly/BookatKruger">http://bit.ly/BookatKruger</a><br /><br /><br /><br />To license the footage: <br /><br />Contact@LatestSightings.com<br /><br /><br /><br />Get some of our exclusive specials at the Kruger National Park (Free nights): <br /><br /><a rel="nofollow" target="blank" href="https://www.latestsightings.com/specials">https://www.latestsightings.com/specials</a><br /><br /><br /><br />Snapchat: LatestSightings<br /><br />Twitter &amp; Instagram: @LatestKruger<br /><br /><br /><br />For live wildlife sightings in the Kruger National Park: <a rel="nofollow" target="blank" href="http://www.latestsightings.com/">http://www.latestsightings.com/</a><br /><br /><br /><br />And like our Facebook page for great sightings and photos: <a rel="nofollow" target="blank" href="https://www.facebook.com/latestsightingskruger">https://www.facebook.com/latestsightingskruger</a><br /><br /><br /><br />Subscribe to us on YouTube: <a rel="nofollow" target="blank" href="http://www.youtube.com/LatestSightings">http://www.youtube.com/LatestSightings</a>{% endraw %}
