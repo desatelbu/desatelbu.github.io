@@ -1,0 +1,15 @@
+---
+title: "\" Be Aware of What is Coming! \" Something Huge is COMING Up!"
+image: "https:\/\/i.ytimg.com\/vi\/fGpNfx0pBL0\/hqdefault.jpg"
+vid_id: "fGpNfx0pBL0"
+categories: "Education"
+tags: ["pleiadians","spiritual","aliens"]
+date: "2021-11-17T04:43:13+03:00"
+vid_date: "2021-11-16T17:00:13Z"
+duration: "PT10M5S"
+viewcount: "9774"
+likeCount: "1251"
+dislikeCount: "11"
+channel: "The Truth Can Change Your Life"
+---
+{% raw %}Support my work on Subscribestar: 💖 <a rel="nofollow" target="blank" href="https://www.subscribestar.com/truth-can-change-your-life">https://www.subscribestar.com/truth-can-change-your-life</a><br /><br />Buy our products. You can buy here! USING THIS PROMO CODE (FEDERATION) DISCOUNT -3.33$ - <br />You can buy here - <a rel="nofollow" target="blank" href="https://teespring.com/stores/truth-can-change-your-life">https://teespring.com/stores/truth-can-change-your-life</a><br /><br />ALL VIDEOS FROM THE BEGINNING (Playlist): <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLoFxckN1BsDJwr_G_-6ADpE-9m-hKPcxs">https://www.youtube.com/playlist?list=PLoFxckN1BsDJwr_G_-6ADpE-9m-hKPcxs</a><br /><br />Special thanks for your support joining our Youtube membership<br />- SPONSORS<br />DHPJunior<br />Suz Welsh <br />James Sidow<br />Linda Herman<br />Aaron Holmes<br />mendi cowles<br />Crystal 1111 <br />Jan Peter Bevaart<br />Sandy B<br />Robert Lucci <br />First Light<br />Christy Campbell <br />Todd Richards<br />neil rodewald                    <br />Nicole Campbell<br />TracyVW<br />Arthur Martinez<br />tyrian warrior<br />Amirah Fattal<br />Love and light<br />T Mark Hightower<br />Jackie Pope<br />Tracy Hill<br />Lightfoot Osolage<br />Tiara M.<br />Marvie Look<br />chemistri<br />soullvx<br />Kara Emmons<br />Satori's World of Cards<br />Ryan<br />lyndia hale<br />Steven Pelton<br />TheSaint135<br />Johnny Hulsey<br />Rambling Gypsy<br />CONNIE GAUSE<br />Shaun Collins<br />Agnes<br />Roger Kinkaid<br />Pinellas County Electric<br />Leesa NYC<br />Kyle Smith<br />Jonathan Chow<br />Camille Rodgers<br />Susan Wagner<br />CREATAWAY LIGHTWERKERS NETWORK<br />Nilsa Corsino-Cruz<br />qwajminone89<br />GEORGE THEODOROU<br />Genis Renee<br />Merrily<br />Amirah Fattal<br />anne mott<br />Devan Conoscenti<br /><br />- Light Bringers<br />Allen Davis<br />Mazie Miles<br />Vivian Forrester <br />Sharon Wingblade<br />Q Ty - Aletha<br />Heather Clarke<br />My Stupend<br />Anthony Pierce<br />Tracy Bohorquez<br />Heather Luberts<br />Jamie Sipmann<br />john corbett<br />natalie sahli<br />Jal Fedor<br />Jasmin A<br />D.W .B<br />Suz Welsh<br /><br />Join us on 👇:<br />💜 <a rel="nofollow" target="blank" href="https://www.facebook.com/TruthCanChangeYourLife/">https://www.facebook.com/TruthCanChangeYourLife/</a><br />💜 <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/384441361989233/">https://www.facebook.com/groups/384441361989233/</a><br /><br />Visuals:  StoryBlocks /Pexels /Pixabay/Other<br />Voice-over Recording , Audio &amp; Video Production by Truth Can Change Your Life Youtube Channel{% endraw %}
