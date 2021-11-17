@@ -1,0 +1,15 @@
+---
+title: "Keeping Tom Brady safe is crucial for Bucs' longevity | Pro Football Talk | NBC Sports"
+image: "https:\/\/i.ytimg.com\/vi\/1SWLQo612Fo\/hqdefault.jpg"
+vid_id: "1SWLQo612Fo"
+categories: "Sports"
+tags: ["NFL","nbc sports","profootballtalk"]
+date: "2021-11-17T07:24:21+03:00"
+vid_date: "2021-11-16T18:30:03Z"
+duration: "PT7M49S"
+viewcount: "2256"
+likeCount: "43"
+dislikeCount: "10"
+channel: "NBC Sports"
+---
+{% raw %}Mike Florio and Chris Simms explain why Bruce Arians and the Buccaneers need to step up and protect Tom Brady better if they want to keep him upright and keep him in Tampa. #NBCSports #ProFootballTalk #TomBrady<br />» Subscribe to NBC Sports: <a rel="nofollow" target="blank" href="https://www.youtube.com/nbcsports?sub_confirmation=1">https://www.youtube.com/nbcsports?sub_confirmation=1</a><br />» Watch Pro Football Talk live on Peacock weekdays 7a-9a: <a rel="nofollow" target="blank" href="https://bit.ly/2JpZZpo">https://bit.ly/2JpZZpo</a><br />» Get the latest from Pro Football Talk: <a rel="nofollow" target="blank" href="https://profootballtalk.nbcsports.com/">https://profootballtalk.nbcsports.com/</a><br /><br />NBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NHL, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more. Subscribe to our channel for the latest sporting news and highlights!<br /><br />Mike Florio, creator of the industry-leading Profootballtalk.com, offers his NFL insight alongside regular guests, including former NFL athletes such as Chris Simms. Pro Football Talk informs and entertains with the most up-to-date news and analysis surrounding the topical NFL stories of the day.<br /><br />Visit NBC Sports: <a rel="nofollow" target="blank" href="https://www.nbcsports.com">https://www.nbcsports.com</a><br />Find NBC Sports on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/NBCSports">https://www.facebook.com/NBCSports</a><br />Follow NBC Sports on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/nbcsports">https://twitter.com/nbcsports</a><br />Follow NBC Sports on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/nbcsports/">https://www.instagram.com/nbcsports/</a><br /><br /><a rel="nofollow" target="blank" href="https://www.nbcsports.com/nfl/sunday-night-football">https://www.nbcsports.com/nfl/sunday-night-football</a><br /><a rel="nofollow" target="blank" href="https://nbcsports.com/motors/nascar">https://nbcsports.com/motors/nascar</a><br /><a rel="nofollow" target="blank" href="https://nbcsports.com/soccer/premier-league">https://nbcsports.com/soccer/premier-league</a><br /><br />Keeping Tom Brady safe is crucial for Bucs' longevity | Pro Football Talk | NBC Sports<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/nbcsports">https://www.youtube.com/nbcsports</a>{% endraw %}
