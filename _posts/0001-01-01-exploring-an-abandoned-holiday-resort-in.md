@@ -1,0 +1,15 @@
+---
+title: "Exploring an Abandoned Holiday Resort in the Italian Mountains - Found Infirmary"
+image: "https:\/\/i.ytimg.com\/vi\/G9eqw5GCtNY\/hqdefault.jpg"
+vid_id: "G9eqw5GCtNY"
+categories: "Entertainment"
+tags: ["abandoned","urban","exploration"]
+date: "2021-11-18T02:11:24+03:00"
+vid_date: "2021-11-17T21:51:19Z"
+duration: "PT20M56S"
+viewcount: "123"
+likeCount: "784"
+dislikeCount: "11"
+channel: "The Proper People"
+---
+{% raw %}Thanks to NordVPN for sponsoring a portion of this video!<br />Go to <a rel="nofollow" target="blank" href="https://NordVPN.com/properpeople">https://NordVPN.com/properpeople</a> to get a 2-year plan at a huge discount plus 1 month free. It’s risk free with Nord’s 30 day money-back guarantee!<br /><br />In this episode, we are in Italy exploring what is known as &quot;The Green Hospital&quot; in the exploration community. We soon find out it is not really a hospital and not that green either. Instead, it is a brutalist holiday resort built in the mountains that happens to have an infirmary. <br /><br />Check out @Broken Window Theory's channel as well!<br />Their video: <a rel="nofollow" target="blank" href="https://youtu.be/se7rMzIHzVw">https://youtu.be/se7rMzIHzVw</a><br /><br /><a rel="nofollow" target="blank" href="http://theproperpeople.com">http://theproperpeople.com</a><br /><br />JOIN US ON:<br /><a rel="nofollow" target="blank" href="http://facebook.com/theproperpeople">http://facebook.com/theproperpeople</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/theproperpeople">http://twitter.com/theproperpeople</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/theproperpeople">http://instagram.com/theproperpeople</a><br /><a rel="nofollow" target="blank" href="https://www.reddit.com/r/theproperpeople">https://www.reddit.com/r/theproperpeople</a><br /><a rel="nofollow" target="blank" href="https://tiktok.com/@theproperpeople">https://tiktok.com/@theproperpeople</a><br /><a rel="nofollow" target="blank" href="https://discord.gg/theproperpeople">https://discord.gg/theproperpeople</a><br /><br />Thanks to Musicbed for providing the music in this video.<br /><a rel="nofollow" target="blank" href="http://share.mscbd.fm/theproperpeople">http://share.mscbd.fm/theproperpeople</a> (Affiliate Link)<br /><br />Intro Music: <a rel="nofollow" target="blank" href="https://artist.landr.com/music/672985173835">https://artist.landr.com/music/672985173835</a><br /><br />Enjoying our videos? Help us make more by buying a print: <a rel="nofollow" target="blank" href="http://theproperpeople.com/shop">http://theproperpeople.com/shop</a><br />Supporting us on Patreon: <a rel="nofollow" target="blank" href="http://patreon.com/theproperpeople">http://patreon.com/theproperpeople</a><br />Purchasing a t-shirt: <a rel="nofollow" target="blank" href="http://theproperpeople.com/merch">http://theproperpeople.com/merch</a><br /><br />Equipment we use to make our videos: <a rel="nofollow" target="blank" href="https://theproperpeople.com/gear/">https://theproperpeople.com/gear/</a>{% endraw %}
