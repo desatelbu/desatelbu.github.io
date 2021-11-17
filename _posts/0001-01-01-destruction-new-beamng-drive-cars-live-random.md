@@ -1,0 +1,15 @@
+---
+title: "Destruction New BeamNG Drive Cars Live - Random Vehicles High Speed Jumps and Crashes"
+image: "https:\/\/i.ytimg.com\/vi\/o2vp19qCS4s\/hqdefault.jpg"
+vid_id: "o2vp19qCS4s"
+categories: "Gaming"
+tags: ["beamng.drive","beamng crashes","high speed crashes"]
+date: "2021-11-17T12:30:18+03:00"
+vid_date: "2021-11-14T06:36:16Z"
+duration: "PT1H7M11S"
+viewcount: "99107"
+likeCount: "463"
+dislikeCount: "181"
+channel: "Good Cat"
+---
+{% raw %}BeamNG Drive Cars Crashes LIVE<br />TOP 100 High Speed Car Jumps <a rel="nofollow" target="blank" href="https://youtu.be/_HJSCDksxcw">https://youtu.be/_HJSCDksxcw</a><br />Satisfying Cars Crashes <a rel="nofollow" target="blank" href="https://youtu.be/Ab7vDPHZdY0">https://youtu.be/Ab7vDPHZdY0</a><br />Destruction All Cars Live <a rel="nofollow" target="blank" href="https://youtu.be/mwc46KLx_Cg">https://youtu.be/mwc46KLx_Cg</a><br />BeamNG Drive Fun Madness <a rel="nofollow" target="blank" href="https://youtu.be/KDtMLx1AteA">https://youtu.be/KDtMLx1AteA</a><br />Open Bridge Crashes <a rel="nofollow" target="blank" href="https://youtu.be/SOrvLRSGN9I">https://youtu.be/SOrvLRSGN9I</a><br />Crazy Vehicle Jumping And Crashing <a rel="nofollow" target="blank" href="https://youtu.be/YxDdw3Dp6qc">https://youtu.be/YxDdw3Dp6qc</a><br />All Cars Total Crashes in Portal <a rel="nofollow" target="blank" href="https://youtu.be/A7pSVUHum1E">https://youtu.be/A7pSVUHum1E</a><br /><br />-----------------------------------------------<br /><br />A sandbox car driving simulation. BeamNG.drive is a debut work of the indie developer Beam NG and the result of several years spent developing a highly-realistic driving model. Players can sit behind the wheel of several vehicle types (e.g. passenger cars, pick-ups trucks, vans) and explore the vast terrains prepared by the developers. In addition, the creators prepared several game modes, including police pursuits, street races, and courier missions. In-game editor lets the players create their own vehicles and tracks. The driving model takes into account the numerous factors that influence moving vehicles. The pinnacle of BeamNG.drive is its remarkably realistic damage system - the in-game crashes' resemblance to real-life road accidents is almost terrifying.<br />Game Official Website (you can purchase &amp; download the game there):<br /><a rel="nofollow" target="blank" href="http://www.beamng.com">http://www.beamng.com</a> <br /><br />-----------------------------------------------<br /><br />All the content you can find/watch on my channel is recorded and edited by myself!<br />Remember to always drive carefully, wear a seat belt and please don’t try any of these so called “stunts” ;)<br /><br />-----------------------------------------------<br /><br />Become a channel sponsor and you will get access to exclusive bonuses. <br />More details:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC8IPw_17AtXZN4H96p6gw_w/join">https://www.youtube.com/channel/UC8IPw_17AtXZN4H96p6gw_w/join</a><br /><br />#mods #crashes #beamngdrive{% endraw %}
