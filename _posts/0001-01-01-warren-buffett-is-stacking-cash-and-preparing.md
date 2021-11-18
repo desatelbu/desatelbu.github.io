@@ -1,0 +1,15 @@
+---
+title: "Warren Buffett Is Stacking Cash And Preparing For COLLAPSE..."
+image: "https:\/\/i.ytimg.com\/vi\/UhS8GAOIXbU\/hqdefault.jpg"
+vid_id: "UhS8GAOIXbU"
+categories: "Education"
+tags: ["investing","finance","business"]
+date: "2021-11-18T17:42:56+03:00"
+vid_date: "2021-11-16T17:27:35Z"
+duration: "PT12M16S"
+viewcount: "32894"
+likeCount: "1784"
+dislikeCount: "48"
+channel: "Stoic Finance"
+---
+{% raw %}Join Our Private Investing Community, Get Buy/Sell Alerts For My Personal Portfolio, Get Loads Of Exclusive Content Like Private Livestreams, And Support The Channels Here:<br />🔥  Stoic Media: <a rel="nofollow" target="blank" href="https://www.patreon.com/StoicMedia">https://www.patreon.com/StoicMedia</a><br /><br />BLOCKFI: Get Up to $250 In Bitcoin For Free When You Sign Up:<br />💰 Everyone Everywhere: <a rel="nofollow" target="blank" href="https://blockfi.com/stoicfinance">https://blockfi.com/stoicfinance</a><br /><br />Check Out My Other Channel Here!<br />📈 Stoic Crypto: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCreVQ_ZnWcCP1tFNqWbXPcg">https://www.youtube.com/channel/UCreVQ_ZnWcCP1tFNqWbXPcg</a><br /><br />Videos Referenced In The Video:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=geRIJQJXRVo">https://www.youtube.com/watch?v=geRIJQJXRVo</a><br /><br />Warren Buffet needs no introduction. He’s the oracle of Omaha, the most famous and successful investor of all time, the man who built Berkshire Hathaway into one of the most valuable companies in the world, and in doing all that, he became one of the wealthiest people alive as well. In recent years though, he’s come under a lot of fire from people who disagree with his investment philosophy, who don’t like how he has performed over the last decade, and who claim that maybe, just maybe, he’s lost his touch. Now I might not be one of those critics, but that doesn’t mean I can’t recognise the validity behind their arguments. Over the last year especially, Warren has been building an absolutely monstrous cash position, waiting for the buying opportunity that seemingly, doesn’t want to arrive. Today, we’re going to listen to what Buffett has to say, why he’s been building this cash position, and maybe even what he expects for the future. <br /><br />DISCLAIMERS:<br />Under Section 107 of the Copyright Act 1976, allowance is made for &quot;fair use&quot; for purposes such as criticism, commenting, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favour of fair use.<br /><br />I am not a financial advisor and this is not a financial advice channel. All information is provided strictly for educational purposes. It does not take into account anybody's specific circumstances or situation. If you are making investment or other financial management decisions and require advice, please consult a suitably qualified licensed professional.<br /><br />#Buffett #Munger #BerkshireHathaway{% endraw %}
