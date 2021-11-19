@@ -1,0 +1,15 @@
+---
+title: "Friday Night Funkin' - Perfect Combo - Martian Mixtape 3.0 Mod + Cutscenes & Extras [HARD]"
+image: "https:\/\/i.ytimg.com\/vi\/aKwmTxj9Pa0\/hqdefault.jpg"
+vid_id: "aKwmTxj9Pa0"
+categories: "Gaming"
+tags: ["Friday Night Funkin","Full Combo","DDR"]
+date: "2021-11-20T00:26:15+03:00"
+vid_date: "2021-11-19T17:30:05Z"
+duration: "PT48M2S"
+viewcount: "6928"
+likeCount: "889"
+dislikeCount: "9"
+channel: "Flippy"
+---
+{% raw %}My absolute favorite mod is back with an absolutely INCREDIBLE update AND it's on my absolute favorite engine, this is the absolute best thing I could ask for!!! I am MADLY in love with this entire mod, I can genuinely replay it over and over again and never get bored, all the songs are absolutely fantastic, the art is just drowning in creativity and charm and the entire mod is just SO well made all around!!! This update literally made this the perfect mod for me personally, it's genuinely crazy how awesome it is in every single regard. All the different gimmicks for the characters, all corresponding to their own personalities!! And the characters are all so fantastic and interesting, even when they don't use any dialogue! And when they DO use dialogue, they're even better, my god that last secret song was absolutely insane, I loved that gimmick so much. I've definitely had some dilemmas about how I should present some songs, mainly Crack and Egomania, I was thinking if I should replace the volume of the songs, so it's consistent, but I figured it'd be best to show how cool the gimmicks are by themselves! Also I hope it gets more people to stream music from this mod and just download and play it themselves, it deserves at LEAST one million downloads, I still think it's so damn underrated. Absolutely wonderful mod, I had a ton of fun playing through it and I'll definitely play it much more in the future! Hope you guys enjoy!<br />Link to mod: <a rel="nofollow" target="blank" href="https://gamebanana.com/mods/285500">https://gamebanana.com/mods/285500</a><br /><br />0:00 - Probed<br />1:52 - Lazerz<br />3:46 - Brainfuck<br />5:12 - Annihilation Lol<br />5:43 - Confidential<br />7:46 - Aegis<br />9:52 - Crack<br />11:59 - Enforcement<br />14:00 - Marrow<br />16:04 - Pelvic<br />17:58 - Spinal Tap<br />19:46 - Tinfoil<br />21:17 - Jitter<br />23:30 - Exclusion Zone<br />26:16 - Boing<br />28:25 - Freak<br />29:57 - Breakout<br />32:05 - Rude<br />33:51 - Extremination<br />35:41 - Craniotomy<br />37:37 - Aneurysmia<br />38:33 - Aerodynamix<br />40:08 - Annihilation<br />42:03 - Spacecataz<br />44:07 - Egomania<br /><br />Join this FNF Leaderboards Discord if you want to see actually good players! <a rel="nofollow" target="blank" href="https://discord.gg/pSnB7ExjEp">https://discord.gg/pSnB7ExjEp</a><br /><br />Support the developers!<br /><a rel="nofollow" target="blank" href="https://www.kickstarter.com/projects/funkin/friday-night-funkin-the-full-ass-game/">https://www.kickstarter.com/projects/funkin/friday-night-funkin-the-full-ass-game/</a><br /><a rel="nofollow" target="blank" href="https://ninja-muffin24.itch.io/funkin">https://ninja-muffin24.itch.io/funkin</a>{% endraw %}
