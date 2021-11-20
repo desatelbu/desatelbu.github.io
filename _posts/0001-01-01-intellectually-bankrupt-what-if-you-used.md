@@ -1,0 +1,15 @@
+---
+title: "Intellectually Bankrupt"
+image: "https:\/\/i.ytimg.com\/vi\/jiDvV17ZT2I\/hqdefault.jpg"
+vid_id: "jiDvV17ZT2I"
+categories: "Comedy"
+tags: ["Intellectually","Bankrupt"]
+date: "2021-11-20T11:38:59+03:00"
+vid_date: "2021-11-18T21:06:49Z"
+duration: "PT5M58S"
+viewcount: "43903"
+likeCount: "6229"
+dislikeCount: "92"
+channel: "DarkMatter2525"
+---
+{% raw %}What if you used presuppositional apologetics to argue about things that actually affect your life?<br /><br />If you'd like to support my channel, and get access to perks, these are the best ways:<br />Patreon:<br /><a rel="nofollow" target="blank" href="https://www.patreon.com/darkmatter2525">https://www.patreon.com/darkmatter2525</a><br />Subscribestar:<br /><a rel="nofollow" target="blank" href="https://www.subscribestar.com/darkmatter2525">https://www.subscribestar.com/darkmatter2525</a><br />YouTube Membership:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCLhtZqdkjshgq8TqwIjMdCQ/join">https://www.youtube.com/channel/UCLhtZqdkjshgq8TqwIjMdCQ/join</a><br /><br />Playlists of DarkMatter2525 Videos:<br />Courtroom Dramas:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=NGeSKrKlZJA&amp;list=PLv--V1yc2QDLMmiPFCkJosseM1yQKDgBH">https://www.youtube.com/watch?v=NGeSKrKlZJA&amp;list=PLv--V1yc2QDLMmiPFCkJosseM1yQKDgBH</a><br /><br />Power Corrupts:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=pA5PlJiqOnk&amp;list=PLv--V1yc2QDJi6hFNhur3iAsyFpXRtB8w">https://www.youtube.com/watch?v=pA5PlJiqOnk&amp;list=PLv--V1yc2QDJi6hFNhur3iAsyFpXRtB8w</a><br /><br />Bible Cartoons:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=A_a6RjR_AHY&amp;list=PLECD9ACF9D6F1F8FF">https://www.youtube.com/watch?v=A_a6RjR_AHY&amp;list=PLECD9ACF9D6F1F8FF</a><br /><br />Atheistic Animations:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=ttevamkS6gw&amp;list=PL9D1CD5CDC7C1C4B7">https://www.youtube.com/watch?v=ttevamkS6gw&amp;list=PL9D1CD5CDC7C1C4B7</a><br /><br />God &amp; Jeffery:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=YdKzpV7sa10&amp;list=PL71922DE34C9673BD">https://www.youtube.com/watch?v=YdKzpV7sa10&amp;list=PL71922DE34C9673BD</a><br /><br />Non-cartoons:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=KFi4pUIAlQs&amp;list=PL6098B82532B4A1F1">https://www.youtube.com/watch?v=KFi4pUIAlQs&amp;list=PL6098B82532B4A1F1</a><br /><br />Political Cartoons:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=u1ovUbSZcXQ&amp;list=PLv--V1yc2QDLPOUiD2IIAORpukds8-Soq">https://www.youtube.com/watch?v=u1ovUbSZcXQ&amp;list=PLv--V1yc2QDLPOUiD2IIAORpukds8-Soq</a><br /><br />My Misc Videos:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=wfjM2xJ6l54&amp;list=PLv--V1yc2QDLNIKWX8DnyRSt3Dnm_xyEQ">https://www.youtube.com/watch?v=wfjM2xJ6l54&amp;list=PLv--V1yc2QDLNIKWX8DnyRSt3Dnm_xyEQ</a>{% endraw %}
