@@ -1,0 +1,15 @@
+---
+title: "Turbo Kei Truck on the Dyno ready to go bush"
+image: "https:\/\/i.ytimg.com\/vi\/GCXZUy7UUB0\/hqdefault.jpg"
+vid_id: "GCXZUy7UUB0"
+categories: "Autos-Vehicles"
+tags: ["mighty","car","mods"]
+date: "2021-11-22T12:11:18+03:00"
+vid_date: "2021-11-21T22:51:36Z"
+duration: "PT22M50S"
+viewcount: "141312"
+likeCount: "10259"
+dislikeCount: "88"
+channel: "Mighty Car Mods"
+---
+{% raw %}We turbocharged our JDM Kei Tipper Truck using some old Subaru parts. Now it's time to head to the dyno and tune it then get it ready to go bush on the BEST 4WD CHANNEL OF ALL TIME!<br /><br />🔔 Hit the bell next to Subscribe so you don't miss a video!<br /><br />As seen on this Mighty Car Mods Episode:<br />📚 THE CARS OF MIGHTY CAR MODS:<a rel="nofollow" target="blank" href="https://mightycarmods.com/products/copy-of-the-cars-of-mighty-car-mods-ultimate-edition-hardcover-book">https://mightycarmods.com/products/copy-of-the-cars-of-mighty-car-mods-ultimate-edition-hardcover-book</a><br />👕 IN THE BIN SHIRT: <a rel="nofollow" target="blank" href="https://mightycarmods.com/products/in-the-bin-tee-shirt">https://mightycarmods.com/products/in-the-bin-tee-shirt</a><br />👕 TRUCK YEAH: <a rel="nofollow" target="blank" href="https://mightycarmods.com/collections/clothing/products/truck-yeah-t-shirt">https://mightycarmods.com/collections/clothing/products/truck-yeah-t-shirt</a><br /><br />Special thanks to Scott at Haltech for his tuning skills<br /><a rel="nofollow" target="blank" href="https://www.haltech.com.au">https://www.haltech.com.au</a><br /><br />This is the ECU we used:<br /><a rel="nofollow" target="blank" href="https://www.haltech.com/product-category/ecu-universal-wiring-kits/elite-1500/">https://www.haltech.com/product-category/ecu-universal-wiring-kits/elite-1500/</a><br /><br />Social stuff:<br />Facebook: <a rel="nofollow" target="blank" href="http://www.facebook.com/mightycarmods">http://www.facebook.com/mightycarmods</a><br />Instagram: <a rel="nofollow" target="blank" href="http://www.instagram.com/mightycarmods">http://www.instagram.com/mightycarmods</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/mightycarmods">https://twitter.com/mightycarmods</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@mightycarmods">https://www.tiktok.com/@mightycarmods</a><br /><br />Also something to note around Mighty Car Mods: we are normal guys and are not trained mechanics. We like to make interesting car mods and show you how we've gone about it, but we can't promise that anything we show you will work for your particular car, or that you won't harm yourself, someone else, your car or your warranty doing it. Please be safe, be responsible and unless you know what you're doing, do not fool around with very serious machinery just because you've seen us make it look so easy. Talk to a qualified mechanic if you are in any doubt. Some of the products featured in this video may be supplied by sponsors. For a list of our current sponsors please go to mightycarmods.com{% endraw %}
