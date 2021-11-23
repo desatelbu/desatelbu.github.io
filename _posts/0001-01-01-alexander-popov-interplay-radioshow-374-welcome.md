@@ -1,0 +1,15 @@
+---
+title: "Alexander Popov - Interplay Radioshow #374"
+image: "https:\/\/i.ytimg.com\/vi\/eFNKOS2pBpA\/hqdefault.jpg"
+vid_id: "eFNKOS2pBpA"
+categories: "Music"
+tags: ["Trance","Progressive","Music"]
+date: "2021-11-23T12:46:37+03:00"
+vid_date: "2021-11-22T18:00:10Z"
+duration: "PT1H37S"
+viewcount: "682"
+likeCount: "84"
+dislikeCount: "0"
+channel: "Alexander Popov"
+---
+{% raw %}Welcome to my new episode Interplay Radioshow #374<br /><br />Today music by: Ahmed Helmy, Ferry Corsten, Heard Right, Hypersia, Richard Durand, Seegy and many more, stay tuned!<br /><br />Check new music: Alexander Popov &amp; Kitone &amp; Julia Viktoria - Breathe (Ahmed Helmy Remix)<br />FREE DL / STREAM: <a rel="nofollow" target="blank" href="https://biglink.to/BREATHEREMIX">https://biglink.to/BREATHEREMIX</a><br /><br />Follow <a rel="nofollow" target="blank" href="https://instagram.com/interplaystudioru">https://instagram.com/interplaystudioru</a><br /><br />Follow my Playlists on Spotify:<br />'Interplay Radio' - <a rel="nofollow" target="blank" href="https://spoti.fi/2GPTc78">https://spoti.fi/2GPTc78</a><br />'Melodic &amp; Progressive' - <a rel="nofollow" target="blank" href="https://spoti.fi/3iFqWlC">https://spoti.fi/3iFqWlC</a><br /><br />Send your demos to my label 'Interplay Records': <a rel="nofollow" target="blank" href="https://fanlink.to/INTERPLAYDEMO">https://fanlink.to/INTERPLAYDEMO</a><br /><br />Tracklist:<br />02. Heard Right - Space [Interplay Flow]<br />03. AWAKEND &amp; TRØVES - Floating Through The Sky (Steve Brian Remix) [Enhanced Progressive]<br />04. Kryder - Piece Of Art [Armada Music]<br />05. Alexander Popov &amp; Kitone &amp; Julia Viktoria - Breathe (Ahmed Helmy Remix) [Interplay]<br />06. Alexander Popov &amp; Whiteout - Right Back<br />07. Ahmed Helmy - Space Mission [ASOT]<br />08. Costa &amp; Jessie Lee Thetford - Distant World [Raz Nitzan Music]<br />09. Ramsey Westwood - Over You [Interplay Global]<br />10. Ferry Corsten - Space Invaders Are Smoking Grass (Club Mix) [Flashover]<br />11. Richard Durand &amp; Susana - I Matter To You [Magik Muzik]<br />12. Luminn - Blossom [AVA White]<br />13. Bruno Oloviani &amp; Hypersia - Beyond The Stars [Interplay]<br />14. Dan Iwan - Spirit Of Trance [Interplay]<br />15. Matt Eray - Out Of Control [ASOT]<br /><br />Follow Alexander Popov:<br />▶ <a rel="nofollow" target="blank" href="https://instagram.com/popovmusic">https://instagram.com/popovmusic</a><br />▶ <a rel="nofollow" target="blank" href="https://soundcloud.com/popovmusic">https://soundcloud.com/popovmusic</a><br />▶ <a rel="nofollow" target="blank" href="https://facebook.com/alexanderpopovofficial">https://facebook.com/alexanderpopovofficial</a><br />▶ <a rel="nofollow" target="blank" href="https://twitter.com/popovmusic">https://twitter.com/popovmusic</a><br />▶ <a rel="nofollow" target="blank" href="https://youtube.com/user/popovmusic">https://youtube.com/user/popovmusic</a><br />▶ <a rel="nofollow" target="blank" href="https://vk.com/popovmusic">https://vk.com/popovmusic</a><br />▶ <a rel="nofollow" target="blank" href="https://alexanderpopov.ru">https://alexanderpopov.ru</a>{% endraw %}
