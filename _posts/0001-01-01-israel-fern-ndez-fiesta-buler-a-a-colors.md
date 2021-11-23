@@ -1,0 +1,15 @@
+---
+title: "Israel Fernández - Fiesta (Bulería) | A COLORS SHOW"
+image: "https:\/\/i.ytimg.com\/vi\/4l4fAqc7u-Y\/hqdefault.jpg"
+vid_id: "4l4fAqc7u-Y"
+categories: "Music"
+tags: ["Israel fernandez","fiesta (bulería)","Israel fernandez - fiesta (bulería) | a colors show"]
+date: "2021-11-23T03:25:15+03:00"
+vid_date: "2021-11-22T17:00:12Z"
+duration: "PT2M58S"
+viewcount: "20066"
+likeCount: "2208"
+dislikeCount: "34"
+channel: "COLORS"
+---
+{% raw %}Spanish flamenco singer @Israel Fernandez Cantaor   shares an extraordinary performance of his new single ‘Fiesta (Bulería)’.<br /><br /><br />Follow<br />▶ Stream: <a rel="nofollow" target="blank" href="https://colors.lnk.to/allshowscxs">https://colors.lnk.to/allshowscxs</a><br />▶ Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/israelfernandezpagina">https://www.facebook.com/israelfernandezpagina</a><br />▶ Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/israelfernandezcantaor/">https://www.instagram.com/israelfernandezcantaor/</a><br />—<br />Follow COLORS:<br />▶ Apparel Shop: <a rel="nofollow" target="blank" href="https://colors.lnk.to/shopcxs">https://colors.lnk.to/shopcxs</a><br />▶ On Socials: <a rel="nofollow" target="blank" href="https://colors.lnk.to/socials">https://colors.lnk.to/socials</a><br />▶ On Spotify: <a rel="nofollow" target="blank" href="https://colors.lnk.to/Spotify">https://colors.lnk.to/Spotify</a><br />▶ On Apple Music: <a rel="nofollow" target="blank" href="https://colors.lnk.to/applemusic">https://colors.lnk.to/applemusic</a><br />▶ On the Web: <a rel="nofollow" target="blank" href="https://colorsxstudios.com">https://colorsxstudios.com</a><br /><br />Check out our curated playlists:<br />▶ ALL COLORS SHOWS: <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLWa4R2I19VH7Mtxo3VvqwnNlXgLpf4_d3">https://youtube.com/playlist?list=PLWa4R2I19VH7Mtxo3VvqwnNlXgLpf4_d3</a><br />▶ JADE (Smooth): <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLWa4R2I19VH6mND1HUBeHJN1NMzi6VAFR">https://youtube.com/playlist?list=PLWa4R2I19VH6mND1HUBeHJN1NMzi6VAFR</a><br />▶ AMBER (Groove): <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLWa4R2I19VH5d2tiAhSYawnNuwuNxs53G">https://youtube.com/playlist?list=PLWa4R2I19VH5d2tiAhSYawnNuwuNxs53G</a><br />▶ RUBY (The Function): <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLWa4R2I19VH7WEZgUsNUMPQRGLfiyIHJz">https://youtube.com/playlist?list=PLWa4R2I19VH7WEZgUsNUMPQRGLfiyIHJz</a><br /><br />COLORSxSTUDIOS is a unique aesthetic music platform showcasing exceptional talent from around the globe. COLORS focuses on the most distinctive new artists and original sounds in an increasingly fragmented and saturated scene. All COLORS shows seek to provide clear, minimalistic stage that shines a spotlight on the artists, giving them the opportunity to present their music without distraction.<br /><br />#colors #israelfernandez #fiestabulería{% endraw %}
