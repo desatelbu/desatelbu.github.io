@@ -1,0 +1,15 @@
+---
+title: "Vegans Try Each Other's Mac & Cheese"
+image: "https:\/\/i.ytimg.com\/vi\/1jMYedHR2Ls\/hqdefault.jpg"
+vid_id: "1jMYedHR2Ls"
+categories: "People-Blogs"
+tags: ["BuzzFeed","BuzzFeed Video","Cocoa Butter"]
+date: "2021-11-23T19:40:13+03:00"
+vid_date: "2021-11-21T16:00:03Z"
+duration: "PT11M14S"
+viewcount: "94838"
+likeCount: "4979"
+dislikeCount: "27"
+channel: "Cocoa Butter"
+---
+{% raw %}Mac &amp; Cheese is a staple in every black household &amp; these three blindfolded contestants are adding their vegan twist to the recipe. Which one do you think will have the best dish?<br /><br /><br /><br />Cocoa Butter<br />Your destination for Black culture and entertainment. We are timely, relevant, connected a moving at the speed of culture. Join the community. Subscribe: <a rel="nofollow" target="blank" href="https://www.youtube.com/cocoabutter">https://www.youtube.com/cocoabutter</a><br /><br />GET MORE BUZZFEED:<br /><a rel="nofollow" target="blank" href="https://www.buzzfeed.com">https://www.buzzfeed.com</a><br /><a rel="nofollow" target="blank" href="https://www.buzzfeed.com/videos">https://www.buzzfeed.com/videos</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/buzzfeedvideo">https://www.youtube.com/buzzfeedvideo</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/asis">https://www.youtube.com/asis</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/buzzfeedmultiplayer">https://www.youtube.com/buzzfeedmultiplayer</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/buzzfeedunsolvednetwork">https://www.youtube.com/buzzfeedunsolvednetwork</a><br /><a rel="nofollow" target="blank" href="http://youtube.com/buzzfeedceleb">http://youtube.com/buzzfeedceleb</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/perolike">https://www.youtube.com/perolike</a> <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/buzzfeedviolet">https://www.youtube.com/buzzfeedviolet</a> <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/goodful">https://www.youtube.com/goodful</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/nifty">https://www.youtube.com/nifty</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/buzzfeedtasty">https://www.youtube.com/buzzfeedtasty</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/bringme">https://www.youtube.com/bringme</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/CocoaButter">https://www.youtube.com/c/CocoaButter</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/abouttoeat">https://www.youtube.com/abouttoeat</a><br /><br />Credits: <a rel="nofollow" target="blank" href="https://www.buzzfeed.com/bfmp/videos/145707">https://www.buzzfeed.com/bfmp/videos/145707</a><br /><br /><br /><br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/cocoa-butter">https://www.youtube.com/c/cocoa-butter</a>{% endraw %}
