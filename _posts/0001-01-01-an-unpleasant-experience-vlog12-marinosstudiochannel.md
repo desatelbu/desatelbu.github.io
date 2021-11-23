@@ -1,0 +1,15 @@
+---
+title: "Μία δυσάρεστη εμπειρία | An unpleasant experience #Vlog12"
+image: "https:\/\/i.ytimg.com\/vi\/ZaUe7TrEfqM\/hqdefault.jpg"
+vid_id: "ZaUe7TrEfqM"
+categories: "People-Blogs"
+tags: ["Μιά δυσάρεστη εμπειρία","#Τράπουλα","#Χαρτομαντεία"]
+date: "2021-11-23T11:42:22+03:00"
+vid_date: "2021-09-24T00:29:11Z"
+duration: "PT20M40S"
+viewcount: "183"
+likeCount: "2"
+dislikeCount: "0"
+channel: "marinos avraam"
+---
+{% raw %}#MarinosStudioChannel #MarinosAvraam #ΜαρίνοςΑβραάμ #Άγιος_Κυπριανός #Χαρτομαντεία<br />#Τράπουλα #Ριξίματα #Μαγεία #Μαντεία<br /><br />Μία δυσάρεστη εμπειρία. <br />Σε αυτό το βίντεο μιλάω σχετικά με το τι μου συνέβηκε μεταξύ Φεβρουαρίου - Απριλίου 2021 όταν κάποια κοπέλα εν αγνοία μου μου έριχνε χαρτιά χωρίς να το ξέρω και χωρίς να της το ζητήσω. Δεν ξέρω τι προσπαθούσε να κάνει. Δεσίματα, να μάθει ίσως για μένα ; Προσπαθούσε να μου κάνει κακό; Δεν ξέρω.  Αυτό που κατάφερε ήταν σε τελική ανάλυση η πρόκληση μαγείας εις βάρος μου. Το πρόβλημα τελικά λύθηκε μετά από την επίσκεψη μου στον Άγιο Κυπριανό όπου εκεί μου διάβασαν τις ευχές του Αγίου Κυπριανού για τα μάγια. Η κάρα του Αγίου Κυπριανού βρίσκετε στο χωριό Μένοικο της Κύπρου. (Επαρχία Λευκωσίας). Ο Άγιος Κυπριανός είναι ο Άγιος για τα μάγια. Ευτυχώς που η ανοησία αυτής της κοπέλας δεν μου προκάλεσε μεγαλύτερο κακό.<br /><br />Description in English <br />An unpleasant experience.<br />In this video I talk about what happened to me between February - April 2021 when a girl unknowingly threw playing cards at me without my knowledge and without asking her. I do not know what he was trying to do. To tie me to her with playing cards, maybe to find out about me? Did he try to hurt me with his magic and playing cards? I do not know. What he did succeed in the end was to cause magic against me. The problem was finally solved after my visit to Agios Kyprianos where they read to me the wishes of Agios Kyprianos for the sorcery. The bones of Agios Kyprianos are located in the village of Meniko in Cyprus. (Nicosia Province). Saint Kyprianos is the Saint for sorcery and the neutralization of magic. Fortunately, the foolishness of this girl did not cause me any greater harm.<br /><br />#MarinosStudioChannel<br /><br />#MarinosAvraam<br />#ΜαρίνοςΑβραάμ<br />#Άγιος_Κυπριανός<br />#Χαρτομαντεία<br />#Τράπουλα<br />#Ριξίματα<br />#Μαγεία<br />#Μαντεία<br /><br />Facebook :             <a rel="nofollow" target="blank" href="https://www.facebook.com/marinos.avraam">https://www.facebook.com/marinos.avraam</a><br />Twitter :                  <a rel="nofollow" target="blank" href="https://twitter.com/amarinos73">https://twitter.com/amarinos73</a><br />Instagram  :           <a rel="nofollow" target="blank" href="https://www.instagram.com/?hl=en">https://www.instagram.com/?hl=en</a><br />Superclub-Radio : <a rel="nofollow" target="blank" href="https://www.superclub-radio.com">https://www.superclub-radio.com</a><br />Kit-Radio Cy        : <a rel="nofollow" target="blank" href="https://www.kit-radio.com">https://www.kit-radio.com</a>{% endraw %}
