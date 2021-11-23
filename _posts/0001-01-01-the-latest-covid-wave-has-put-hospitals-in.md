@@ -1,0 +1,15 @@
+---
+title: "The latest COVID wave has put hospitals in parts of Germany under immense strain | DW News"
+image: "https:\/\/i.ytimg.com\/vi\/Flc_q15tK1U\/hqdefault.jpg"
+vid_id: "Flc_q15tK1U"
+categories: "News-Politics"
+tags: ["DW News","Germany","COVID-19"]
+date: "2021-11-23T07:45:54+03:00"
+vid_date: "2021-11-19T22:02:58Z"
+duration: "PT7M49S"
+viewcount: "147194"
+likeCount: "1733"
+dislikeCount: "166"
+channel: "DW News"
+---
+{% raw %}In the past two weeks, the number of new cases has jumped by more than 60%. On Friday, Germany recorded 52,970 daily new infections, a day after registering over 65,000 daily cases, a record since the start of the pandemic. Health officials are warning that the number is likely to at least double in the coming days.<br /><br />German Health Minister Jens Spahn on Friday said that the pandemic situation has worsened over the past week and it's now &quot;more serious than last week,&quot; adding that the country is facing &quot;a national emergency.&quot; <br /><br />When asked about the possibility of imposing a new lockdown for everyone, he said: &quot;We're in a situation where we can't rule anything out.&quot;<br /><br />The comments came as Germany's upper house of parliament, the Bundesrat, approved new restrictions to curb COVID, a day after the lower house passed the measures.<br /><br />As per the new rules, the so-called hospitalization incidence will be the new benchmark for introducing tougher COVID regulations in the country.<br /><br />According to that metric, if more than three inhabitants per 100,000 in a region are hospitalized with COVID, the &quot;2G&quot; rule will apply for all public leisure activities in a given state — referring to the shorthand in Germany for a rule that allows freedoms like access to restaurants and hotels only to those who are either vaccinated or have recovered from COVID.<br /><br />The &quot;2G+&quot; rule will kick in when the hospitalization incidence hits a value of six per 100,000, meaning even the vaccinated and recovered people will be required to produce an additional negative COVID test result. From a value of nine, further measures such as contact restrictions are to be implemented.<br /><br />Subscribe: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/deutschewelleenglish?sub_confirmation=1">https://www.youtube.com/user/deutschewelleenglish?sub_confirmation=1</a><br /><br />For more news go to: <a rel="nofollow" target="blank" href="http://www.dw.com/en/">http://www.dw.com/en/</a><br />Follow DW on social media:<br />►Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/deutschewellenews/">https://www.facebook.com/deutschewellenews/</a><br />►Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/dwnews">https://twitter.com/dwnews</a><br />►Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/dwnews">https://www.instagram.com/dwnews</a><br />Für Videos in deutscher Sprache besuchen Sie: <a rel="nofollow" target="blank" href="https://www.youtube.com/dwdeutsch">https://www.youtube.com/dwdeutsch</a><br /><br />#COVID19 #Germany #pandemic{% endraw %}
