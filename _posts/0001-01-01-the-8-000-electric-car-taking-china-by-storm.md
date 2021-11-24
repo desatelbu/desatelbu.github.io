@@ -1,0 +1,15 @@
+---
+title: "The £8,000 Electric Car Taking China By Storm | Fully Charged"
+image: "https:\/\/i.ytimg.com\/vi\/tkOqIEUAlw4\/hqdefault.jpg"
+vid_id: "tkOqIEUAlw4"
+categories: "Autos-Vehicles"
+tags: ["electric car youtube channel","why should i buy an electric car","green energy comment"]
+date: "2021-11-24T21:40:29+03:00"
+vid_date: "2021-11-23T17:00:40Z"
+duration: "PT10M2S"
+viewcount: "76368"
+likeCount: "3974"
+dislikeCount: "85"
+channel: "Fully Charged Show"
+---
+{% raw %}Unlike the European market where cheap, basic electric cars continue to be about as common as rocking horse poo, the Chinese market is positively spoiled with them. In fact, there are now so many different new EVs on sale in China for less than the equivalent of £10,000 that it’s actually becoming quite tricky to stand out in that segment (which is a lovely problem to have!).<br /><br />But one new supermini has quickly established itself as a new favourite with Chinese buyers: the T03 from Leapmotor. Does this new EV, starting at the equivalent of just over £8,000, represent the perfect sweet spot where cheap meets cheerful? We sent our Chinese correspondent Elliot to find out. <br /><br />Read more in Jack's blog: <a rel="nofollow" target="blank" href="https://fullycharged.show/blog/leapmotor-t03-yet-another-chinese-ev-bargain/">https://fullycharged.show/blog/leapmotor-t03-yet-another-chinese-ev-bargain/</a><br /><br />Fully Charged LIVE is coming to EUROPE! Join us in Amsterdam next March - get your tickets here<br /><a rel="nofollow" target="blank" href="https://fullycharged.show/events/fully-charged-live-europe/">https://fullycharged.show/events/fully-charged-live-europe/</a><br /><br />Fully Charged is 100% independent thanks to YouTube Memberships and Patreons. Without you this channel wouldn’t be possible! If you’d like to help support the Fully Charged channel:<br /><br />Become a PATREON: <a rel="nofollow" target="blank" href="https://www.patreon.com/FullyChargedShow">https://www.patreon.com/FullyChargedShow</a> <br />Become a YOUTUBE MEMBER: use JOIN button above <br />Subscribe to Fully Charged &amp; the Fully Charged PLUS channels <br />Browse the Fully Charged store: <a rel="nofollow" target="blank" href="https://shop.fullycharged.show/">https://shop.fullycharged.show/</a> <br /><br />Visit our LIVE exhibitions in Europe, USA &amp; AUSTRALIA: <a rel="nofollow" target="blank" href="https://FullyCharged.Show/events">https://FullyCharged.Show/events</a> <br />Subscribe for episode alerts &amp; the Fully Charged newsletter: <a rel="nofollow" target="blank" href="https://fullycharged.show/zap-sign-up/">https://fullycharged.show/zap-sign-up/</a> <br />Visit: <a rel="nofollow" target="blank" href="https://FullyCharged.Show">https://FullyCharged.Show</a> <br />Find us on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/fullychargedshw">https://twitter.com/fullychargedshw</a> <br />Follow us on Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/fullychargedshow">https://instagram.com/fullychargedshow</a><br /><br />#Leap #T03 #EV #CheapEV # Cheapelectriccar{% endraw %}
