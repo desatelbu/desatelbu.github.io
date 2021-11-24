@@ -1,0 +1,15 @@
+---
+title: "JESSIA - But I Don'T (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/Ns0f5Ysh-fw\/hqdefault.jpg"
+vid_id: "Ns0f5Ysh-fw"
+categories: "Music"
+tags: ["JESSIA","But","Don'T"]
+date: "2021-11-24T20:09:30+03:00"
+vid_date: "2021-10-19T23:00:10Z"
+duration: "PT2M44S"
+viewcount: "414939"
+likeCount: "11435"
+dislikeCount: "123"
+channel: "JESSIAVEVO"
+---
+{% raw %}&quot;But I Don'T” performed by JESSIA taken from her EP 'How Are You?' Listen &amp; download here: <a rel="nofollow" target="blank" href="https://jessia.lnk.to/howareyou">https://jessia.lnk.to/howareyou</a><br /><br />►Subscribe to JESSIA: <a rel="nofollow" target="blank" href="http://jessia.lnk.to/subscribe">http://jessia.lnk.to/subscribe</a> <br /><br />►Follow JESSIA<br /><a rel="nofollow" target="blank" href="https://jessiamusic.com">https://jessiamusic.com</a><br /><a rel="nofollow" target="blank" href="https://www.tiktok.com/@jessiamusic?">https://www.tiktok.com/@jessiamusic?</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/jessiamusic/">https://www.instagram.com/jessiamusic/</a> <br /><a rel="nofollow" target="blank" href="https://twitter.com/jessiamusic">https://twitter.com/jessiamusic</a> <br /><a rel="nofollow" target="blank" href="https://www.facebook.com/iamjessia">https://www.facebook.com/iamjessia</a><br /><br />Official “But I Don'T” Lyrics:<br /><br />I hope you found what you’ve been looking for I pray to god it’s not me<br />Cause I’m doing better things than being yours I know it’s hard to believe<br />Cause when you’re asking why I’m not coming by<br />Honestly I don’t really care<br /><br />And if I really wanted to I would<br />Show up at your doorstep unannounced But honestly I think that I am good<br />I don’t really need to stick around<br />To watch you waste your life away<br />It’s been a year and nothing’s changed If I really wanted to I would<br />If i really wanted to<br />But I don’t<br />But I don’t<br /><br />Hey what you don’t with that pretty face <br />I hope she fakes when she screams <br />Naw I’m just playing but I kinda hate <br />Seeing you kiss in the streets<br /><br />But when you’re asking why<br />I’m not coming by<br />Honestly is that even a question<br /><br />And if I really wanted to I would<br />Show up at your doorstep unannounced But honestly I think that I am good<br />I don’t really need to stick around<br />To watch you waste your life away<br />It’s been a year and nothing’s changed If I really wanted to I would<br />If i really wanted to<br />But I don’t<br />But I don’t<br />But I don’t<br /><br />I could ask you a million times why it didn’t work out <br />But would the answers change my mind<br />Oh wow riveting<br />So go on and live your life<br />Hope you figure it out<br />Cause I could ruin you if I tried<br /><br />But I don’t <br />But I don’t<br /><br />#JESSIA #HOWAREYOU #BUTIDONT<br /><br />Music video by JESSIA performing But I Don'T. Artist Driven Records; © 2021 Republic Records, a division of UMG Recordings, Inc.<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/RgT19X">http://vevo.ly/RgT19X</a>{% endraw %}
