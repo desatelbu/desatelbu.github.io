@@ -1,0 +1,15 @@
+---
+title: "James Mercy - Take You On (Lyrics) ft. PhiloSofie"
+image: "https:\/\/i.ytimg.com\/vi\/p-8Rw57EMec\/hqdefault.jpg"
+vid_id: "p-8Rw57EMec"
+categories: "Music"
+tags: ["take you on","take you on lyrics","lyrics take you on"]
+date: "2021-11-25T19:41:23+03:00"
+vid_date: "2020-08-07T22:11:47Z"
+duration: "PT3M"
+viewcount: "357779"
+likeCount: "7006"
+dislikeCount: "112"
+channel: "Prestige Vibes"
+---
+{% raw %}🎵 James Mercy - Take You On (Lyrics) ft. PhiloSofie<br />⏬ Download / Stream: <a rel="nofollow" target="blank" href="http://ncs.io/TYO">http://ncs.io/TYO</a><br />🔔 Turn on notifications to stay updated with new uploads!<br /><br />🎵 Music submissions: <a rel="nofollow" target="blank" href="https://prestigevibes.edmdistrict.com/">https://prestigevibes.edmdistrict.com/</a><br /><br />👉 James Mercy<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/jamesmercymusic">https://www.instagram.com/jamesmercymusic</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/jamesmercymusic">https://www.facebook.com/jamesmercymusic</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/jamesmercymusic">https://soundcloud.com/jamesmercymusic</a><br /><br />👉 PhiloSofie<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/RealPhiloSofie">https://www.facebook.com/RealPhiloSofie</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/sofieso">https://www.instagram.com/sofieso</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/realphilosofie">https://soundcloud.com/realphilosofie</a><br /><br />👉 Prestige Vibes:<br /><a rel="nofollow" target="blank" href="https://facebook.com/PrestigeVibes">https://facebook.com/PrestigeVibes</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/prestige_vibes">https://twitter.com/prestige_vibes</a><br /><br /><br />🎤 Lyrics: James Mercy - Take You On  ft. PhiloSofie<br /><br />I look at people<br />And i wonder all day<br />Who are you <br />When you are not the one in your way<br />And then I think about myself In that state<br />I'm pretty boss <br />Who gon' 'mash your brainwaves <br />I'm freak in sheets<br />But I got class<br />I'ma grab a knife If you want in<br />Best you ever had<br />Give It to you bad <br /><br />I'm the girl that they don't talk about <br />Quiet with a big mouth <br />Listen for the doubt<br />Then call it <br />Make you out for what you say to me<br />Look at every single deed<br />If you got what i need then<br />I'll take you on like big deal <br />Legs you can unseal<br />Key in the ignition <br />Just keep full like I had a meal <br />Once in a while feel on my <br />I know you like it<br />Can't fight it <br />Imma let you ride the wave<br />I'm new york<br />And  you're LA<br />Come together feel the shockwaves<br /><br />.........<br />📷 Wallpaper: <a rel="nofollow" target="blank" href="https://unsplash.com/">https://unsplash.com/</a><br />.........<br />📧Contact: prestigemnc@gmail.com<br /><br />#JamesMercy  #TakeYouOn #Lyrics #PhiloSofie{% endraw %}
