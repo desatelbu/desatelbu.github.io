@@ -1,0 +1,15 @@
+---
+title: "Bitcoin & Crypto ALT's Trade, only bettered by the Global Macro viewpoint What you should do next"
+image: "https:\/\/i.ytimg.com\/vi\/LVHrn-HHHII\/hqdefault.jpg"
+vid_id: "LVHrn-HHHII"
+categories: "Education"
+tags: ["HVF","HVF Method","The Hunt Volatility Funnel Method"]
+date: "2021-11-25T04:11:34+03:00"
+vid_date: "2021-11-24T16:10:29Z"
+duration: "PT1H3M30S"
+viewcount: "4818"
+likeCount: "734"
+dislikeCount: "11"
+channel: "The Crypto Sniper"
+---
+{% raw %}💥Book a free virtual call with us here: <a rel="nofollow" target="blank" href="http://marketsniper.me/2OJbM4Y">http://marketsniper.me/2OJbM4Y</a><br /><a rel="nofollow" target="blank" href="https://themarketsniper.com">https://themarketsniper.com</a> - For more Information <br /><br />🍏 Join our Free trading course here: <a rel="nofollow" target="blank" href="https://themarketsniper.com/tradesmart/">https://themarketsniper.com/tradesmart/</a> <br /><br />🔑 Order your physical Gold &amp; Silver with PureGold here: <a rel="nofollow" target="blank" href="https://marketsniper.me/3t0t38j">https://marketsniper.me/3t0t38j</a><br /><br />I use Bitfinex: <a rel="nofollow" target="blank" href="https://marketsniper.me/3oVuRPK">https://marketsniper.me/3oVuRPK</a> <br /><br />I use FTX: <a rel="nofollow" target="blank" href="https://ftx.com/#a=11842239">https://ftx.com/#a=11842239</a> <br /><br />For 100x FX Margin Beat the Margin reductions, but Safe like the EU, Sweden Based Scandinavian Capital Markets for FX trading.<br /><a rel="nofollow" target="blank" href="http://themarketsniper.com/scm/">http://themarketsniper.com/scm/</a> <br /><br /><br />If you’re interested in successful trading without sitting in front of the screen all day I would suggest you to join our HVF trading community <br /><br />Thank you for your continuous support! <br /><br />Official The Market Sniper Merch: <a rel="nofollow" target="blank" href="https://bit.ly/2UGMpjt">https://bit.ly/2UGMpjt</a><br /><br />Originator of The Hunt Volatility Funnel Method [HVF Method] Trader, Technical Analyst &amp; Teacher (c) Copyright 2020<br /><br />The Market Sniper on Odysee: <a rel="nofollow" target="blank" href="https://odysee.com/@TheMarketSniper:f">https://odysee.com/@TheMarketSniper:f</a><br /><br />Disclaimer: <br />Our videos provide material for informational and entertainment purposes only <br />Trading is risky. <br />Before trading or investing, you should be aware of the risks involved, and take appropriate risk mitigation steps as necessary. Check multiple sources for information prior to investing or trading. <br />No liability for losses as a result of your actions on any information or perceived information from these videos, will be accepted.<br /><br />0:00 Intro <br />3:30 DXY Chart <br />23:10 Bitcoin <br />32:15 Binance Coin/BTC <br />35:00 Wealth positioning <br />40:00 Comments <br />42:00 Uranium <br />43:20 Bitcoin low time frame <br />48:45 Total <br />51:30 BTC/EURO <br />53:55 CRO <br />56:00 ELRND <br />57:20 SOL <br />58:35 DXY{% endraw %}
