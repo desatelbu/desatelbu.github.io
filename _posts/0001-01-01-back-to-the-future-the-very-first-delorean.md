@@ -1,0 +1,15 @@
+---
+title: "Back to the Future | The Very First DeLorean Time Travel Scene"
+image: "https:\/\/i.ytimg.com\/vi\/FWG3Dfss3Jc\/hqdefault.jpg"
+vid_id: "FWG3Dfss3Jc"
+categories: "Entertainment"
+tags: ["universal pictures","back to the future","back to the future delorean"]
+date: "2021-11-25T17:13:05+03:00"
+vid_date: "2020-05-09T13:00:05Z"
+duration: "PT7M16S"
+viewcount: "751233"
+likeCount: "9073"
+dislikeCount: "189"
+channel: "Universal Pictures"
+---
+{% raw %}Travel back to the first time you saw a DeLorean go 88 mph... and vanish into flaming tire tracks! <br />Celebrate Back to the Future's 35th anniversary on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/BTTF/">https://www.facebook.com/BTTF/</a><br /><br />Buy/Rent Back to the Future!<br />Amazon: <a rel="nofollow" target="blank" href="https://www.amazon.com/Back-to-the-Future-HD/dp/B00498XR9U">https://www.amazon.com/Back-to-the-Future-HD/dp/B00498XR9U</a><br />iTunes: <a rel="nofollow" target="blank" href="https://itunes.apple.com/us/movie/back-to-the-future/id380239015">https://itunes.apple.com/us/movie/back-to-the-future/id380239015</a><br />YouTube Movies: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=UpEbGV-mjq0">https://www.youtube.com/watch?v=UpEbGV-mjq0</a><br />Google Play: <a rel="nofollow" target="blank" href="https://play.google.com/store/movies/details/Back_to_the_Future?id=UpEbGV-mjq0&amp;hl=en_US">https://play.google.com/store/movies/details/Back_to_the_Future?id=UpEbGV-mjq0&amp;hl=en_US</a><br />Fandango Now: <a rel="nofollow" target="blank" href="https://www.fandangonow.com/details/movie/back-to-the-future-1985/1MV7df2fa6b9701b20d36d8079aaf32e950">https://www.fandangonow.com/details/movie/back-to-the-future-1985/1MV7df2fa6b9701b20d36d8079aaf32e950</a><br />VUDU: <a rel="nofollow" target="blank" href="https://www.vudu.com/content/movies/details/Back-to-the-Future/72268">https://www.vudu.com/content/movies/details/Back-to-the-Future/72268</a><br />Universal Pictures Home Entertainment: <a rel="nofollow" target="blank" href="https://www.uphe.com/movies/back-to-the-future">https://www.uphe.com/movies/back-to-the-future</a><br /><br />From the Academy Award-winning filmmakers Steven Spielberg and Robert Zemeckis comes Back to the Future - the original, groundbreaking adventure that sparked one of the most successful trilogies ever! When teenager Marty McFly (Michael J. Fox) is blasted to 1955 in the DeLorean time machine created by the eccentric Doc Brown (Christopher Lloyd), he finds himself mixed up in a time-shattering chain reaction that could vaporize his future - and leave him trapped in the past. Powered by innovative special effects, unforgettable songs and non-stop action, Back to the Future is an unrivaled adventure that stands the test of time.<br /><br />© 1985 Universal City Studios, Inc. All Rights Reserved.<br />Cast: Michael J. Fox, Christopher Lloyd, Lea Thompson, Thomas F. Wilson, Crispin Glover, Claudia Wells, Billy Zane, Casey Siemaszko<br />Produced By: Bob Gale, Neil Canton<br />Written By: Bob Gale &amp; Robert Zemeckis<br />Directed By: Robert Zemeckis{% endraw %}
