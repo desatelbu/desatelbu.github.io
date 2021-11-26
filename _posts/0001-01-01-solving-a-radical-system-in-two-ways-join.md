@@ -1,0 +1,15 @@
+---
+title: "Solving a Radical System in Two Ways"
+image: "https:\/\/i.ytimg.com\/vi\/mZZ3alNFHhE\/hqdefault.jpg"
+vid_id: "mZZ3alNFHhE"
+categories: "Education"
+tags: ["algebra","algebraic equations","SyberMath"]
+date: "2021-11-26T04:56:43+03:00"
+vid_date: "2021-11-24T17:15:11Z"
+duration: "PT8M36S"
+viewcount: "12160"
+likeCount: "368"
+dislikeCount: "6"
+channel: "SyberMath"
+---
+{% raw %}Join this channel to get access to perks:→ <a rel="nofollow" target="blank" href="https://bit.ly/3cBgfR1">https://bit.ly/3cBgfR1</a> <br />My merch → <a rel="nofollow" target="blank" href="https://teespring.com/stores/sybermath?page=1">https://teespring.com/stores/sybermath?page=1</a><br />Follow me → <a rel="nofollow" target="blank" href="https://twitter.com/SyberMath">https://twitter.com/SyberMath</a> <br />Subscribe → <a rel="nofollow" target="blank" href="https://www.youtube.com/SyberMath?sub_confirmation=1">https://www.youtube.com/SyberMath?sub_confirmation=1</a><br />Suggest → <a rel="nofollow" target="blank" href="https://forms.gle/A5bGhTyZqYw937W58">https://forms.gle/A5bGhTyZqYw937W58</a><br />If you need to post a picture of your solution or idea:<br /><a rel="nofollow" target="blank" href="https://twitter.com/intent/tweet?text=@SyberMath">https://twitter.com/intent/tweet?text=@SyberMath</a> <br />#ChallengingMathProblems #RadicalSystems<br /><br />EXPLORE 😎:<br />A rational equation. A challenge in algebra: <a rel="nofollow" target="blank" href="https://youtu.be/XUq96gvZ_vA">https://youtu.be/XUq96gvZ_vA</a><br /><br />Finding the area of a weird region in a quarter circle: <a rel="nofollow" target="blank" href="https://youtu.be/1Ckw39vxETM">https://youtu.be/1Ckw39vxETM</a><br /><br />Solving an exponential equation: <a rel="nofollow" target="blank" href="https://youtu.be/in8dH2LQaSY">https://youtu.be/in8dH2LQaSY</a><br /><br />PLAYLISTS 🎵 :<br />Number Theory Problems: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLvPOIUdohGFBjmKtCL0LXGPBxr7CVyjJV">https://www.youtube.com/playlist?list=PLvPOIUdohGFBjmKtCL0LXGPBxr7CVyjJV</a><br /><br />Challenging Math Problems: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLvPOIUdohGFDy3byhJ1wBQPVFwu9ZlM-7">https://www.youtube.com/playlist?list=PLvPOIUdohGFDy3byhJ1wBQPVFwu9ZlM-7</a><br /><br />Trigonometry Problems: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLvPOIUdohGFAbHlGlzKTHpOzDh2cQCN56">https://www.youtube.com/playlist?list=PLvPOIUdohGFAbHlGlzKTHpOzDh2cQCN56</a><br /><br />Diophantine Equations and Systems: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLvPOIUdohGFBTgY5FKFfalwTFtNieOY5I">https://www.youtube.com/playlist?list=PLvPOIUdohGFBTgY5FKFfalwTFtNieOY5I</a><br /><br />Calculus: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLvPOIUdohGFAmPjF08A7llzsa4qtIAa_K">https://www.youtube.com/playlist?list=PLvPOIUdohGFAmPjF08A7llzsa4qtIAa_K</a>{% endraw %}
