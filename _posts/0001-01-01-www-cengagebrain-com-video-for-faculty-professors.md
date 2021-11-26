@@ -1,0 +1,15 @@
+---
+title: "www.CengageBrain.com video for faculty"
+image: "https:\/\/i.ytimg.com\/vi\/AyNKE_rR3VI\/hqdefault.jpg"
+vid_id: "AyNKE_rR3VI"
+categories: "Education"
+tags: ["textbook","publisher"]
+date: "2021-11-26T10:38:07+03:00"
+vid_date: "2012-08-28T05:57:53Z"
+duration: "PT2M25S"
+viewcount: "6466"
+likeCount: "6"
+dislikeCount: "1"
+channel: "CengageBrain"
+---
+{% raw %}Professors considering materials for their course should turn to Cengage Learning, as Cengage Learning offers a unique online retail channel for students:  www.cengagebrain.com<br /><br />Welcome to CengageBrain.com, an intelligent online bookstore and digital learning center that provides students a way to buy, rent or access textbooks, eChapters, eBooks, study solutions or digital learning solutions the way they want, while saving some cash. CengageBrain.com makes learning easier, more accessible and...dare we say...cool.<br />Hundreds of items vie to take up space in a student's brain. So whether it's memorizing the year that Ponce de Leon discovered Florida or remembering to order concert tickets for the next Flaming Hornets show, they're forced to prioritize what sticks in their minds.<br />That's why Cengage Learning introduced CengageBrain.com -- the Center of Engagement for Modern Learning.<br />CengageBrain.com puts learning at a student's fingertips -- whether they're online or downloading it to their chosen device, they have access to their materials wherever they go. Our learning tools fit with their digi lifestyle.<br />Textbook rentals are simple to use, cost effective and convenient—just what students want and need! <br />Textbook rentals save students up to 65% off the average retail price and are delivered right to their doorstep.   It's easy to order and even easier to return with the prepaid shipping label that comes with it. <br />Just like Textbook rentals, eBooks are up to 65% off the average retail price of the printed textbook and they allow students to access their reading anywhere, anytime.  <br />eChapters give students the ability to buy only what they need and save! Students can access eChapters anytime and simply pay as they go throughout their course.<br />Textbooks are shipped directly to a student's doorstep -- allowing them to avoid campus bookstore lines. Every title on CengageBrain.com is offered at 15-20% off the average retail price, and students receive Free shipping on orders over $25<br />Free online study tools are easy to use and help students get the grades they want -- now.<br />Our textbooks and course materials allow students to get their schoolwork done, in a way that fits their lifestyles and saves them money.<br />Checkout CengageBrain.com today and see what makes us the Center of Engagement for Modern Learning. <br />We also encourage you to recommend CengageBrain.com to your students -- you'll become a hero and perhaps your name will stand out among the thousands of names and dates they need to remember.<br />Cengage their brains, good grades will follow{% endraw %}
