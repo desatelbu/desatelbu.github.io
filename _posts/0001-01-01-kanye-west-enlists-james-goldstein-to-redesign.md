@@ -1,0 +1,15 @@
+---
+title: "Kanye West Enlists James Goldstein to Redesign Malibu Home | TMZ TV"
+image: "https:\/\/i.ytimg.com\/vi\/fTLgsYg1coY\/hqdefault.jpg"
+vid_id: "fTLgsYg1coY"
+categories: "Entertainment"
+tags: ["TMZ","TMZ Sports","TMZ Live"]
+date: "2021-11-27T21:34:27+03:00"
+vid_date: "2021-11-24T21:00:11Z"
+duration: "PT1M42S"
+viewcount: "21631"
+likeCount: "311"
+dislikeCount: "30"
+channel: "TMZ"
+---
+{% raw %}Kanye West is up to something at his new Malibu pad -- and whatever that something is ... he wants the man living in one of the most unique homes in town to help.<br /><br />SUBSCRIBE: <a rel="nofollow" target="blank" href="http://tmz.me/wONe5NO">http://tmz.me/wONe5NO</a><br /><br />About TMZ:<br />TMZ has consistently been credited for breaking the biggest stories dominating the entertainment news landscape and changed the way the public gets their news. Regularly referenced by the media, TMZ is one of the most cited entertainment news sources in the world. <br /><br />Subscribe to TMZ on YouTube for breaking celebrity news/ gossip and insight from the newsroom staff, the best clips from TMZ on TV, Raw &amp; Uncut TMZ video (from TMZ.com) and the latest video from TMZ Sports and TMZ Live! <br /><br />We love Hollywood, we just have a funny way of showing it.<br /><br />Need More TMZ?<br />TMZ Website: <a rel="nofollow" target="blank" href="http://tmz.me/fPrTwZt">http://tmz.me/fPrTwZt</a><br />LIKE TMZ on Facebook! <a rel="nofollow" target="blank" href="http://tmz.me/9sGB00a">http://tmz.me/9sGB00a</a><br />FOLLOW TMZ on Twitter! <a rel="nofollow" target="blank" href="http://tmz.me/9LeeNWQ">http://tmz.me/9LeeNWQ</a><br />FOLLOW TMZ on Instagram! <a rel="nofollow" target="blank" href="http://tmz.me/ep7d8Bn">http://tmz.me/ep7d8Bn</a><br />TMZ on TV &amp; TMZ Sports on FS1 Tune In Info: <a rel="nofollow" target="blank" href="http://tmz.me/ccuirUZ">http://tmz.me/ccuirUZ</a><br />TMZ is on iOS! <a rel="nofollow" target="blank" href="http://tmz.me/ecOjgiH">http://tmz.me/ecOjgiH</a><br />TMZ is on Android! <a rel="nofollow" target="blank" href="http://tmz.me/pkwieRA">http://tmz.me/pkwieRA</a><br /><br />Got a Tip?<br />Contact TMZ: <a rel="nofollow" target="blank" href="http://tmz.me/UsxYCvE">http://tmz.me/UsxYCvE</a><br /><br />Check out TMZ Live, TMZ Sports and toofab!<br />TMZ Live: <a rel="nofollow" target="blank" href="http://tmz.me/GxCXCfl">http://tmz.me/GxCXCfl</a><br />Subscribe! TMZ Live: <a rel="nofollow" target="blank" href="http://tmz.me/cLxA82p">http://tmz.me/cLxA82p</a><br />TMZ Sports: <a rel="nofollow" target="blank" href="http://tmz.me/jMBERbb">http://tmz.me/jMBERbb</a><br />Subscribe! TMZ Sports: <a rel="nofollow" target="blank" href="http://tmz.me/jMBERbb">http://tmz.me/jMBERbb</a><br />Toofab: <a rel="nofollow" target="blank" href="http://tmz.me/dsXztns">http://tmz.me/dsXztns</a><br />Subscribe! toofab: <a rel="nofollow" target="blank" href="http://tmz.me/VeVLMmi">http://tmz.me/VeVLMmi</a><br /><br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/TMZ">https://www.youtube.com/c/TMZ</a>{% endraw %}
