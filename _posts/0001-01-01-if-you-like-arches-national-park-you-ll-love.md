@@ -1,0 +1,15 @@
+---
+title: "If You Like Arches National Park, You'll LOVE This Place! (SUV Camping\/Vanlife Adventures)"
+image: "https:\/\/i.ytimg.com\/vi\/k5sNz8RG4SI\/hqdefault.jpg"
+vid_id: "k5sNz8RG4SI"
+categories: "Travel-Events"
+tags: ["arches national park","gmc yukon","mc"]
+date: "2021-11-27T18:11:23+03:00"
+vid_date: "2021-11-27T14:00:15Z"
+duration: "PT26M"
+viewcount: "1199"
+likeCount: "170"
+dislikeCount: "0"
+channel: "SUV RVing"
+---
+{% raw %}In this video I meet up with a buddy to explore an area I've never been to that is reported to have the second-highest concentration of natural arches in the world, second only to the famous Arches National Park.<br /><br />DATE FILMED: Late September 2021<br /><br />** Loren's Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/loreaneakins/">https://www.instagram.com/loreaneakins/</a><br />** Loren's website: <a rel="nofollow" target="blank" href="http://loreneakins.com/">http://loreneakins.com/</a><br /><br />► Adventure Know-How: <a rel="nofollow" target="blank" href="https://adventureknowhow.com/">https://adventureknowhow.com/</a><br />► The SUV RVing Website: <a rel="nofollow" target="blank" href="https://suvrving.com/">https://suvrving.com/</a><br />► My online store (SUV camping/vandwelling/overlanding accessories &amp; SUV RVing merch): <a rel="nofollow" target="blank" href="https://KamchatkaGear.com">https://KamchatkaGear.com</a><br /><br />GPS COORDINATES, LINKS, etc.<br />** Video tour of Dennis's minivan: <a rel="nofollow" target="blank" href="https://youtu.be/rIcb2yOFPPE">https://youtu.be/rIcb2yOFPPE</a><br />** The kayaking adventure Dennis and I went on: <a rel="nofollow" target="blank" href="https://youtu.be/aoKkViHo-WY">https://youtu.be/aoKkViHo-WY</a><br />** My Arches NP book: <a rel="nofollow" target="blank" href="https://amzn.to/3kK4Bqi">https://amzn.to/3kK4Bqi</a><br />** Campsite: 39.09743, -108.79759<br />** Trailhead: 39.13722, -108.83346<br />** Window Rock Tower: 39.14135, -108.82919<br />** Hole in the Bridge Arch: 39.14652, -108.85173<br />** Centennial Arch: 39.14438, -108.84823<br />** Cedar Tree Arch: 39.14036, -108.84252<br />** RoadShower (I think this is the V1, and it's up to V4 now): <a rel="nofollow" target="blank" href="https://yakima.com/products/roadshower">https://yakima.com/products/roadshower</a><br /><br />OTHER LINKS<br />** Gear I use: <a rel="nofollow" target="blank" href="https://suvrving.com/gear">https://suvrving.com/gear</a><br />** SUV RVing the Book: <a rel="nofollow" target="blank" href="https://amzn.to/2SUrtme">https://amzn.to/2SUrtme</a> (Affiliate link)<br />** The blog: <a rel="nofollow" target="blank" href="http://suvrving.com">http://suvrving.com</a> <br />** Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/suvrving">http://instagram.com/suvrving</a> <br />** My other YouTube channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/tenkaraaddict">https://www.youtube.com/c/tenkaraaddict</a>  <br /><br />#adventure #travel #camping{% endraw %}
