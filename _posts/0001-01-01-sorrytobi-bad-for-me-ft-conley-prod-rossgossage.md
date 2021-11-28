@@ -1,0 +1,15 @@
+---
+title: "SorryTobi - Bad for me Ft.Conley (Prod.Rossgossage)"
+image: "https:\/\/i.ytimg.com\/vi\/MFklwAxgm9w\/hqdefault.jpg"
+vid_id: "MFklwAxgm9w"
+categories: "Music"
+tags: ["SHI KEI死","Shi Kei","Algorithm"]
+date: "2021-11-28T13:16:56+03:00"
+vid_date: "2021-11-27T17:56:32Z"
+duration: "PT2M25S"
+viewcount: "672"
+likeCount: "94"
+dislikeCount: "0"
+channel: "SHI KEI死"
+---
+{% raw %}Like, Subscribe, Comment &amp; Click the 🔔 for more; <a rel="nofollow" target="blank" href="https://www.youtube.com/c/SHIKEI死">https://www.youtube.com/c/SHIKEI死</a><br /><br />Support the channel<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCWxGObBc8ZZSKuxbpHKNrIw/join">https://www.youtube.com/channel/UCWxGObBc8ZZSKuxbpHKNrIw/join</a><br /><br />» Support The Artists! «<br /><br />Song:- SorryTobi - Bad for me Ft.Conley (Prod.Rossgossage)<br /><br />SorryTobi<br /><a rel="nofollow" target="blank" href="https://soundcloud.com/sorrytobi">https://soundcloud.com/sorrytobi</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/sorrytobi/">https://www.instagram.com/sorrytobi/</a><br /><a rel="nofollow" target="blank" href="https://open.spotify.com/artist/6WbDlkwfSE9F8C1SWovF50">https://open.spotify.com/artist/6WbDlkwfSE9F8C1SWovF50</a><br /><br />Conley<br /><a rel="nofollow" target="blank" href="https://soundcloud.com/cade-conley-1">https://soundcloud.com/cade-conley-1</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/itsconleymusic/">https://www.instagram.com/itsconleymusic/</a><br /><a rel="nofollow" target="blank" href="https://landingpage.musicceecee.com/notaphase">https://landingpage.musicceecee.com/notaphase</a><br /><br />Prod.Rossgossage<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UChR-g_CMniP-3ZLr_Lni10g">https://www.youtube.com/channel/UChR-g_CMniP-3ZLr_Lni10g</a><br /><br />Join the Discord: <a rel="nofollow" target="blank" href="https://discord.gg/Vv5p7EvmrK">https://discord.gg/Vv5p7EvmrK</a> <br /><br />My Soundcloud playlist :-<br /><a rel="nofollow" target="blank" href="https://soundcloud.com/ben-drowned-885468953/sets/2021-playlist">https://soundcloud.com/ben-drowned-885468953/sets/2021-playlist</a><br /><br />Sub to the second channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC0eHKK4mZLibTuq5EVb_zMA">https://www.youtube.com/channel/UC0eHKK4mZLibTuq5EVb_zMA</a><br /><br />Follow me on these platforms 👌<br /><br />📷: <a rel="nofollow" target="blank" href="https://www.instagram.com/6shi6kei6/">https://www.instagram.com/6shi6kei6/</a><br /><br />☁️: <a rel="nofollow" target="blank" href="https://soundcloud.com/ben-drowned-885468953">https://soundcloud.com/ben-drowned-885468953</a><br /><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@shi_kei666?lang=en">https://www.tiktok.com/@shi_kei666?lang=en</a><br /><br />#SHI KEI <br />I do not claim to own this song/video if you would like it taken down msg me.{% endraw %}
