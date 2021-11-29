@@ -1,0 +1,15 @@
+---
+title: "🚨🔥 [LIVE]: BIG Earnings Week! Market Open!"
+image: "https:\/\/i.ytimg.com\/vi\/l9SMlpZckAs\/hqdefault.jpg"
+vid_id: "l9SMlpZckAs"
+categories: "Education"
+tags: ["investing news","investing portfolio","investing short term"]
+date: "2021-11-29T23:00:24+03:00"
+vid_date: "2021-11-29T15:16:03Z"
+duration: "PT45M6S"
+viewcount: "1463"
+likeCount: "114"
+dislikeCount: "2"
+channel: "Kaswrp"
+---
+{% raw %}🟢🚀⚡ THANKS GIVING Discount! FULL Fundamental Analysis Course! 🚨 Get 40% OFF ($160 OFF)🚨 Use Code &quot;BLACKFRIDAY&quot;  ► <a rel="nofollow" target="blank" href="https://bit.ly/3a3r8IO">https://bit.ly/3a3r8IO</a> ​<br /><br />🟢🤑💸 Join our discord: <a rel="nofollow" target="blank" href="https://www.patreon.com/moneyvesting">https://www.patreon.com/moneyvesting</a><br /><br />🟢📊 Join TipRanks ► <a rel="nofollow" target="blank" href="https://bit.ly/3voP0yJ">https://bit.ly/3voP0yJ</a><br /><br />🟢📈 Join TradingView (Charting Software) ► <a rel="nofollow" target="blank" href="https://bit.ly/3tt7mP2">https://bit.ly/3tt7mP2</a><br /><br />🟢📊 Join Finviz (Market Updates) ► <a rel="nofollow" target="blank" href="https://finviz.com/?a=384942174">https://finviz.com/?a=384942174</a><br /><br />🟢📢 Join this channel to get access to perks ►<a rel="nofollow" target="blank" href="https://bit.ly/3gtaRjo">https://bit.ly/3gtaRjo</a><br /><br />🟢🙌  My PayPal ►<a rel="nofollow" target="blank" href="https://paypal.me/kaswrp?locale.x=en_GB">https://paypal.me/kaswrp?locale.x=en_GB</a><br /><br />1. 🚀 Subscribe to The Channel: <a rel="nofollow" target="blank" href="https://bit.ly/2VE5KlN">https://bit.ly/2VE5KlN</a><br />2. 📲  Connect with me on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/kaswrp/">https://www.instagram.com/kaswrp/</a><br /><br />DISCLOSURES: (Thank you for supporting the channel! ❤️)<br />1. If you sign up for Robinhood using my affiliate link - We both get a FREE stock. <br />2. If you sign up with TradingView using my affiliate link - I will get a small commission. <br />-----------------------------------------------------------------------------------------------------------<br /><br />Please be sure to LIKE, SUBSCRIBE, and turn on them NOTIFICATIONS.<br />Let me know in the comments if there is anything I can improve on moving forward. <br /><br />Thanks for Watching! <br /><br />------------------------------------------------------------------------------------------------------------------------------------<br />🚧🚧 DISCLAIMER: 🚧🚧<br />I am NOT a Financial or Investment advisor. Always make sure to:<br />📈 Do your own due diligence (DD) and research. If you decide to buy or sell anything, that is entirely your decision and your decision alone.<br />📈 NEVER Trade/Invest based on other people's opinions. Please do your own research and DD. Information provided in this video is for entertainment purposes ONLY. This is NOT financial or investment advice, it's meant for entertainment purposes only. Please seek a professional for financial or investment advice.{% endraw %}
