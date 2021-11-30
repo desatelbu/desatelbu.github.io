@@ -1,0 +1,15 @@
+---
+title: "Solo Hiking 115km in Ordesa, the Pyrenees"
+image: "https:\/\/i.ytimg.com\/vi\/nyvehUgBc3g\/hqdefault.jpg"
+vid_id: "nyvehUgBc3g"
+categories: "Travel-Events"
+tags: ["Hiking","115km","Ordesa,"]
+date: "2021-11-30T22:16:49+03:00"
+vid_date: "2021-11-26T15:00:10Z"
+duration: "PT26M4S"
+viewcount: "17177"
+likeCount: "968"
+dislikeCount: "7"
+channel: "Harmen Hoek"
+---
+{% raw %}In July 2021 I solo hiked a 6-day 115 kilometer loop in the central part of the Pyrenees. My route started in Parque Nacional Ordesa y Monte Perdido in Spain and crossed the border into Parc national des Pyrénées in France. Along the way I wild camped.<br />This is an ambient film without dialog.<br /><br />7,245m elevation gain, 115.23k.<br />All trip details, including a full day-by-day itinerary, map and gpx-file, pack-list and information about camping, travel, weather and difficulty can be found on:<br /><a rel="nofollow" target="blank" href="https://harmenhoek.com/">https://harmenhoek.com/</a> (live at start of Premiere)<br /><br />Gear:<br />Camera: <a rel="nofollow" target="blank" href="https://amzn.to/31aQofa">https://amzn.to/31aQofa</a><br />Lens 12-35: <a rel="nofollow" target="blank" href="https://amzn.to/3jJN4ht">https://amzn.to/3jJN4ht</a><br />Lens 7-14: <a rel="nofollow" target="blank" href="https://amzn.to/3GrLyu5">https://amzn.to/3GrLyu5</a><br />Tripod: <a rel="nofollow" target="blank" href="https://amzn.to/3vOW2ik">https://amzn.to/3vOW2ik</a><br />Drone: <a rel="nofollow" target="blank" href="https://amzn.to/30XYeZl">https://amzn.to/30XYeZl</a><br />Tent: Big Agnes Copper Spur HV UL2<br />Backpack: <a rel="nofollow" target="blank" href="https://amzn.to/3BgTRoM">https://amzn.to/3BgTRoM</a><br />Water bottle with filter: <a rel="nofollow" target="blank" href="https://amzn.to/3pZzvi3">https://amzn.to/3pZzvi3</a><br />Water bottle: <a rel="nofollow" target="blank" href="https://amzn.to/3bivrRb">https://amzn.to/3bivrRb</a><br />Water sack: <a rel="nofollow" target="blank" href="https://amzn.to/2XSsiVf">https://amzn.to/2XSsiVf</a><br />Air mattress: <a rel="nofollow" target="blank" href="https://amzn.to/3pIKSKO">https://amzn.to/3pIKSKO</a><br />Pillow: <a rel="nofollow" target="blank" href="https://amzn.to/3CoSoOE">https://amzn.to/3CoSoOE</a><br />Cooking kit: GSI Outdoors Halulite Minimalist <br />Stove: <a rel="nofollow" target="blank" href="https://amzn.to/3vPUp3K">https://amzn.to/3vPUp3K</a><br />Shoes: <a rel="nofollow" target="blank" href="https://amzn.to/30XZ4VZ">https://amzn.to/30XZ4VZ</a><br /><br />All carbon emissions of this trip were offset by Trees for All.<br /><br />Timestamps:<br />0:00 Intro<br />1:01 Day 1 - Ordesa Valley [19k; 1800m gain]<br />4:25 Day 2 - Monte Perdido &amp; Lago Marboré, Spain to France [19k; 1200m gain]<br />8:55 Day 3 - Gavarnie &amp; GR10 [17k; 800m gain]<br />11:30 Day 4 - Lac d'Ossoue &amp; thunderstorms, France to Spain [28k; 1600m gain]<br />16:40 Day 5 - Parque Nacional Ordesa [19k; 1600m gain]<br />21:42 Day 6 - Faja de las Flores [14k; 200m gain]<br />24:35 Outro &amp; Photos{% endraw %}
