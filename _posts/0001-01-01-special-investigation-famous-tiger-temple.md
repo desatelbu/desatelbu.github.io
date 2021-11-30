@@ -1,0 +1,15 @@
+---
+title: "Special Investigation: Famous Tiger Temple Accused of Supplying Black Market | National Geographic"
+image: "https:\/\/i.ytimg.com\/vi\/5lO7OOoZ1o4\/hqdefault.jpg"
+vid_id: "5lO7OOoZ1o4"
+categories: "Entertainment"
+tags: ["national geographic","nat geo","natgeo"]
+date: "2021-11-30T14:16:57+03:00"
+vid_date: "2016-01-22T16:50:53Z"
+duration: "PT7M28S"
+viewcount: "139797"
+likeCount: "844"
+dislikeCount: "48"
+channel: "National Geographic"
+---
+{% raw %}In December 2014 three adult tigers went missing from the famed Tiger Temple in Thailand. According to information presented to National Geographic, these tigers may have become victims of the illegal wildlife trade, with the knowledge of the temple. This popular tourist destination presents itself as a sanctuary for wildlife, but conservationists and former temple insiders have uncovered evidence that tells a different story.<br />➡ Subscribe: <a rel="nofollow" target="blank" href="http://bit.ly/NatGeoSubscribe">http://bit.ly/NatGeoSubscribe</a><br /><br />About National Geographic:<br />National Geographic is the world's premium destination for science, exploration, and adventure. Through their world-class scientists, photographers, journalists, and filmmakers, Nat Geo gets you closer to the stories that matter and past the edge of what's possible.<br /><br />Get More National Geographic:<br />Official Site: <a rel="nofollow" target="blank" href="http://bit.ly/NatGeoOfficialSite">http://bit.ly/NatGeoOfficialSite</a><br />Facebook: <a rel="nofollow" target="blank" href="http://bit.ly/FBNatGeo">http://bit.ly/FBNatGeo</a><br />Twitter: <a rel="nofollow" target="blank" href="http://bit.ly/NatGeoTwitter">http://bit.ly/NatGeoTwitter</a><br />Instagram: <a rel="nofollow" target="blank" href="http://bit.ly/NatGeoInsta">http://bit.ly/NatGeoInsta</a><br /><br />Click here to read more: <a rel="nofollow" target="blank" href="http://news.nationalgeographic.com/2016/01/160121-tiger-temple-thailand-trafficking-laos0/">http://news.nationalgeographic.com/2016/01/160121-tiger-temple-thailand-trafficking-laos0/</a><br />Learn how to save the world's Big Cats: <a rel="nofollow" target="blank" href="http://animals.nationalgeographic.com/animals/big-cats-initiative/">http://animals.nationalgeographic.com/animals/big-cats-initiative/</a><br />PRODUCERS: Sharon Guynup and Steve Winter<br />VIDEOGRAPHERS: Steve Winter and Gabriella Garcia-Pardo<br />SENIOR PRODUCER: Edythe McNamee<br />PRODUCER/EDITOR: Jennifer Murphy<br />ADDITIONAL VIDEO AND PHOTOS: CEE4LIFE, Environmental Investigation Agency, International Tiger Coalition, Wildlife Protection Society of India, Sharon Guynup, and Steve Winter<br /><br />Special Investigation: Famous Tiger Temple Accused of Supplying Black Market | National Geographic<br /><a rel="nofollow" target="blank" href="https://youtu.be/5lO7OOoZ1o4">https://youtu.be/5lO7OOoZ1o4</a><br /><br />National Geographic<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/natgeo">https://www.youtube.com/natgeo</a>{% endraw %}
