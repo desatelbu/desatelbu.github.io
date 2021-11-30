@@ -1,0 +1,15 @@
+---
+title: "How to Make a Scrappy Binding and Attach to a Quilt with Darvanalee Designs Studio"
+image: "https:\/\/i.ytimg.com\/vi\/Asx0KjhdASw\/hqdefault.jpg"
+vid_id: "Asx0KjhdASw"
+categories: "Howto-Style"
+tags: ["How to Make a Scrappy Binding and Attach to a Quilt","Darvanalee Designs Studio","Darvanalee Designs"]
+date: "2021-11-30T07:16:19+03:00"
+vid_date: "2018-04-27T09:39:58Z"
+duration: "PT27M45S"
+viewcount: "3549"
+likeCount: "117"
+dislikeCount: "5"
+channel: "Darvanalee Designs Studio With Nicole Reed"
+---
+{% raw %}Buy Nicole a Coffee <br /><a rel="nofollow" target="blank" href="https://bit.ly/39TZSKp">https://bit.ly/39TZSKp</a> How to Make a Scrappy Binding and Attach to a Quilt<br />The clapper that was mentioned  ▶ <a rel="nofollow" target="blank" href="https://amzn.to/2HuEWjQ">https://amzn.to/2HuEWjQ</a><br /><br />In this how-to video, we show you how to cut, make and attach your scrappy binding to a quilt. We will also show you some tips and tricks to help you achieve a better binding. The clapper that was mentioned in the video can be found through our affiliate link above. So get out your scraps and join me as I show you how to make a scrappy binding for you Quilt. <br /><br />Thank you for joining me today,<br />if you like this video give us a Thumbs.<br />Leave us a comment below and tell us what you think.<br />Share this video with your friends and Family, and <br />don't forget to subscribe, so you don't miss any of my future crafty  <br />Videos. Subscribe here: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/NicoleReedQuiltingServiceKingaroyQueensland?sub_confirmation=1">https://www.youtube.com/c/NicoleReedQuiltingServiceKingaroyQueensland?sub_confirmation=1</a><br /><br />Here at DDs, we Love, and I mean Love seeing what you are making off the channel. You can share your creations with a creative and supportive community on our Facebook group you can join here. <br />Facebook Group: <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/502137273519583/">https://www.facebook.com/groups/502137273519583/</a><br /><br />Connect with us on Social Media &amp; Other platforms <br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/DarvanaleeDesig">https://twitter.com/DarvanaleeDesig</a><br />Google+: <a rel="nofollow" target="blank" href="https://plus.google.com/u/0/communities/102892027350842244714">https://plus.google.com/u/0/communities/102892027350842244714</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/darvanaleedesignsstudio">https://www.instagram.com/darvanaleedesignsstudio</a><br />Pinterest: <a rel="nofollow" target="blank" href="https://www.pinterest.com.au/darvanalee">https://www.pinterest.com.au/darvanalee</a><br />Etsy: <a rel="nofollow" target="blank" href="https://www.etsy.com/au/shop/DDsBagsAndMore">https://www.etsy.com/au/shop/DDsBagsAndMore</a><br />Live Journal: <a rel="nofollow" target="blank" href="https://darvanalee.livejournal.com/">https://darvanalee.livejournal.com/</a> diy{% endraw %}
