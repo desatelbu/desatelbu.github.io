@@ -1,0 +1,15 @@
+---
+title: "EAZ - Everything"
+image: "https:\/\/i.ytimg.com\/vi\/17dmj4C66ro\/hqdefault.jpg"
+vid_id: "17dmj4C66ro"
+categories: "Music"
+tags: ["EAZ","Everything","Universal"]
+date: "2021-11-30T18:00:46+03:00"
+vid_date: "2019-12-13T10:00:00Z"
+duration: "PT3M46S"
+viewcount: "932881"
+likeCount: "9675"
+dislikeCount: "165"
+channel: "EAZVEVO"
+---
+{% raw %}Get the Song here: <a rel="nofollow" target="blank" href="https://EAZ.lnk.to/EverythingYD">https://EAZ.lnk.to/EverythingYD</a> <br /><br />Produced by Lii <br />Video produced by Görkem Ekici <br /><br />EAZ online: <br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/eazofficial/">https://www.instagram.com/eazofficial/</a> <br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/eazofficial/">https://www.facebook.com/eazofficial/</a> <br /><br />Lyrics:<br />Jena rrit n’mahall (jena rrit n’mahall)<br />me ty 24/7 (me ty 24/7)<br />E tash moti sjena pa (moti sjena pa)<br />sdi qysh jena da (amo malli um ka marr)<br /><br />24/7 - tu sill neper mahall<br />Asaj zemren ja kum dhon<br />Amo ajo nuk e ka dasht (she‘s my everything)<br />Po u bo boll<br />Prite prite per ni call<br />Se di nummrin a e ka<br />Mdoket kur mo skom me pa (but she’s my everything)<br />Spo du me lan<br />Sa shum malli um ka marr<br />Mkapercen si mos me kon<br />E mu zemra o kam kan (she’s my everything)<br />Po qa me bo<br />Naten nanderr jom tut pa<br />Qysh mke perqaf<br />I hope qe kurr nuk qona ma (she’s my everything)<br /><br />Jena rrit n’mahall (jena rrit n’mahall)<br />Me ty 24/7 (me ty 24/7)<br />E tash moti sjena pa (moti sjena pa)<br />Sdi qysh jena da (amo malli um ka marr)<br /><br />Pasha mamin une nty boj be<br />Per ty kom kajt e me ty kom kesh<br />E pasha mamin un per ty jom djeg<br />Lej fjalt qe mi the se si ki t vertet<br />As njo zemer - jo as njo never<br />You keep it smile - a un tu shkru songletter whatever<br />Livin the live qe e kom pa ty<br />Jena da sod a ti mke vyt njet si frym<br />Oxygjen zemer maje nmen zemer<br />Kon e ke pas kur je kon veten<br />Kon e ke pas kur ske dit vetem<br />Um ke pas mu - nuk ke pas tjeter<br />Ka kalu - koha ka kalu<br />Ti nuk je e njejt edhe une jom ndryshu Ee<br />Ka kalu - emocionet kejt jon shku<br />Po nashta fajet jon te un<br /><br />24/7 - tu sill neper mahall<br />Asaj zemren ja kum dhon<br />Amo ajo nuk e ka dasht (she‘s my everything)<br />Po u bo boll<br />Prite prite per ni call<br />Se di nummrin a e ka<br />Mdoket kur mo skom me pa (but she’s my everything)<br />Spo du me lan<br />Sa shum malli um ka marr<br />Mkapercen si mos me kon<br />E mu zemra o kam kan (she’s my everything)<br />Po qa me bo<br />Naten nanderr jom tut pa<br />Qysh mke perqaf<br />I hope qe kurr nuk qona ma (she’s my everything)<br /><br />Jena rrit n’mahall (jena rrit n’mahall)<br />me ty 24/7 (me ty 24/7)<br />E tash moti sjena pa (moti sjena pa)<br />sdi qysh jena da (amo malli um ka marr)<br /><br />#EAZ #Everything #OfficialVideo{% endraw %}
