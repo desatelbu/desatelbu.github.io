@@ -1,0 +1,550 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+    <link rel="dns-prefetch" href="//images1-focus-opensocial.googleusercontent.com" />
+    <link rel="dns-prefetch" href="//static.addtoany.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="msvalidate.01" content="5CEC69C913D38629490B9FC87E71DE4B">
+    <meta name="yandex-verification" content="0e012a25549ac426">
+    <meta name="google-site-verification" content="sgsAzp2JCELAox-Ktbw0TWiR8FYQHd3aik0Tap8Uc2M">
+    <meta charset="UTF-8" />
+    <title>Azure Active Directory: How to Take Over an Unmanaged Directory</title>
+    <meta name="description" content="Maria Voina talks about unmanaged Azure Active Directories and covers what they are and how you can take over the administratio...">
+	<meta name="keywords" content="Microsoft Security,data privacy,cyber security">
+    <meta property="og:site_name" content="DeSatelBu">
+    <meta property="og:url" content="https://desatelbu.github.io/videos/watch/azure-active-directory-how-to-take-over-an">
+    <meta property="og:title" content="Azure Active Directory: How to Take Over an Unmanaged Directory">
+    <meta property="og:image" content="https://i.ytimg.com/vi/GOSpjHtrRsg/hqdefault.jpg">
+    <meta property="og:description" content="Maria Voina talks about unmanaged Azure Active Directories and covers what they are and how you can take over the administratio...">
+    <meta name='twitter:card' content='summary_large_image' />
+    <script type="application/ld+json">
+        { "@context": "http://schema.org", "@type": "VideoObject", "name": "Azure Active Directory: How to Take Over an Unmanaged Directory", "description": "&lt;p&gt;Maria Voina talks about unmanaged Azure Active Directories and covers what they are and how you can take over the administration of such a tenant.&lt;br /&gt;&lt;br /&gt;Learn more: &lt;a rel=&quot;nofollow&quot; target=&quot;blank&quot; href=&quot;https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/domains-admin-takeover&quot;&gt;https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/domains-admin-takeover&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;► Subscribe to Microsoft Security on YouTube here: &lt;a rel=&quot;nofollow&quot; target=&quot;blank&quot; href=&quot;https://aka.ms/SubscribeMicrosoftSecurity&quot;&gt;https://aka.ms/SubscribeMicrosoftSecurity&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;► Follow us on social: &lt;br /&gt;LinkedIn: &lt;a rel=&quot;nofollow&quot; target=&quot;blank&quot; href=&quot;https://www.linkedin.com/showcase/microsoft-security/&quot;&gt;https://www.linkedin.com/showcase/microsoft-security/&lt;/a&gt;&lt;br /&gt;Twitter: &lt;a rel=&quot;nofollow&quot; target=&quot;blank&quot; href=&quot;https://twitter.com/msftsecurity&quot;&gt;https://twitter.com/msftsecurity&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;► Join our Tech Community: &lt;a rel=&quot;nofollow&quot; target=&quot;blank&quot; href=&quot;https://aka.ms/SecurityTechCommunity&quot;&gt;https://aka.ms/SecurityTechCommunity&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;► For more about Microsoft Security: &lt;a rel=&quot;nofollow&quot; target=&quot;blank&quot; href=&quot;https://msft.it/6002T9HQY&quot;&gt;https://msft.it/6002T9HQY&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;#MicrosoftAzure #MicrosoftSecurity&lt;/p&gt;\n", "thumbnailUrl": "https://i.ytimg.com/vi/GOSpjHtrRsg/hqdefault.jpg", "uploadDate": "2021-07-01T16:38:03Z", "duration": "PT9M26S", "contentUrl": "https://desatelbu.github.io/videos/watch/azure-active-directory-how-to-take-over-an", "interactionCount": "3255" }
+    </script>
+    <link rel="canonical" href="https://desatelbu.github.io/videos/watch/azure-active-directory-how-to-take-over-an" />
+    <link rel="stylesheet" href="https://desatelbu.github.io/inc/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+    <nav class="navbar mb-3 navbar-expand-lg navbar-light bg-white mb-4 shadow-sm">
+        <div class="container py-2"><a class="navbar-brand" href="https://desatelbu.github.io/">DeSatelBu</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-urls" aria-controls="navbar-urls" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <form action="/search/" class="my-2 my-lg-0 offset-md-2 col-md-6 col-sm-12 px-0 mr-auto">
+                <div class="input-group"><input name="s" class="form-control rounded-0 py-2" type="text" placeholder="video search..." id="example-search-input"><span class="input-group-append"><button aria-label="search" role="button" class="btn btn-secondary rounded-0" type="submit"><span class="px-2"><svg class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg></span></button>
+                    </span>
+                </div>
+                </form>
+                <div class="collapse navbar-collapse flex-md-grow-0" id="navbar-urls">
+
+                </div>
+        </div>
+    </nav>
+    <div class="container min-height-62" >
+        <div class="resp-container" id="top_720"></div>
+        <div class="row">
+            <div class="col-12 col-md-8">
+                <div class="bg-white"><noscript><a href="https://www.youtube.com/watch?v=GOSpjHtrRsg"><img alt="Azure Active Directory: How to Take Over an Unmanaged Directory" src="https://i.ytimg.com/vi/GOSpjHtrRsg/hqdefault.jpg" /></a></noscript>
+                    <div id="video-player"></div>
+                    <div class="p-3">
+                        <h1 class="h5 video-title bwr">Azure Active Directory: How to Take Over an Unmanaged Directory</h1>
+                        <div class="py-1 row">
+                            <div class="col-12 col-md-6 my-auto"><b class="text-danger">Share</b></div>
+                            <div class="col-12 col-md-6">
+                                <div class="a2a_kit a2a_kit_size_32 a2a_default_style"><a class="a2a_dd" href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_reddit"></a><a class="a2a_button_facebook_messenger"></a><a class="a2a_button_whatsapp"></a></div>
+                            </div>
+                        </div>
+                        <div align="center" class="py-1">
+
+                        </div>
+                        <div class="py-1">
+                            <div class="row">
+                                <div class="col-12 col-md-6">
+                                    <div class="mb-2 bwr"><strong>Microsoft Security</strong><br> Published at : 30 Nov 2021  </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="h-100 d-flex align-items-center justify-content-center"><a  target="_blank" rel="noopener" class="btn btn-block btn-danger bwr" href="https://www.youtube.com/watch?v=GOSpjHtrRsg">Subscribe to Microsoft Security</a></div>
+                                </div>
+                            </div>
+                            <div class="resp-container" id="in_post_bottomads"></div>
+                        </div>
+                        <div class="py-1">
+                            <div class="row">
+                                <div class="col-12 col-md-6">
+                                    <div class="text-center bg-light mb-2 p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-eye fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M569.354 231.631C512.969 135.949 407.81 72 288 72 168.14 72 63.004 135.994 6.646 231.631a47.999 47.999 0 0 0 0 48.739C63.031 376.051 168.19 440 288 440c119.86 0 224.996-63.994 281.354-159.631a47.997 47.997 0 0 0 0-48.738zM288 392c-75.162 0-136-60.827-136-136 0-75.162 60.826-136 136-136 75.162 0 136 60.826 136 136 0 75.162-60.826 136-136 136zm104-136c0 57.438-46.562 104-104 104s-104-46.562-104-104c0-17.708 4.431-34.379 12.236-48.973l-.001.032c0 23.651 19.173 42.823 42.824 42.823s42.824-19.173 42.824-42.823c0-23.651-19.173-42.824-42.824-42.824l-.032.001C253.621 156.431 270.292 152 288 152c57.438 0 104 46.562 104 104z"></path></svg></span>                                        3255 views </span>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="text-center bg-light p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-thumbs-up fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M104 224H24c-13.255 0-24 10.745-24 24v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V248c0-13.255-10.745-24-24-24zM64 472c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24zM384 81.452c0 42.416-25.97 66.208-33.277 94.548h101.723c33.397 0 59.397 27.746 59.553 58.098.084 17.938-7.546 37.249-19.439 49.197l-.11.11c9.836 23.337 8.237 56.037-9.308 79.469 8.681 25.895-.069 57.704-16.382 74.757 4.298 17.598 2.244 32.575-6.148 44.632C440.202 511.587 389.616 512 346.839 512l-2.845-.001c-48.287-.017-87.806-17.598-119.56-31.725-15.957-7.099-36.821-15.887-52.651-16.178-6.54-.12-11.783-5.457-11.783-11.998v-213.77c0-3.2 1.282-6.271 3.558-8.521 39.614-39.144 56.648-80.587 89.117-113.111 14.804-14.832 20.188-37.236 25.393-58.902C282.515 39.293 291.817 0 312 0c24 0 72 8 72 81.452z"></path></svg></span>                                                69 </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="text-center bg-light p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-thumbs-down fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M0 56v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H24C10.745 32 0 42.745 0 56zm40 200c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24zm272 256c-20.183 0-29.485-39.293-33.931-57.795-5.206-21.666-10.589-44.07-25.393-58.902-32.469-32.524-49.503-73.967-89.117-113.111a11.98 11.98 0 0 1-3.558-8.521V59.901c0-6.541 5.243-11.878 11.783-11.998 15.831-.29 36.694-9.079 52.651-16.178C256.189 17.598 295.709.017 343.995 0h2.844c42.777 0 93.363.413 113.774 29.737 8.392 12.057 10.446 27.034 6.148 44.632 16.312 17.053 25.063 48.863 16.382 74.757 17.544 23.432 19.143 56.132 9.308 79.469l.11.11c11.893 11.949 19.523 31.259 19.439 49.197-.156 30.352-26.157 58.098-59.553 58.098H350.723C358.03 364.34 384 388.132 384 430.548 384 504 336 512 312 512z"></path></svg></span>                                                2 </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr/>
+                        <div class="py-1 d-md-block bwr" id="video-description"><p>Maria Voina talks about unmanaged Azure Active Directories and covers what they are and how you can take over the administration of such a tenant.<br /><br />Learn more: <a rel="nofollow" target="blank" href="https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/domains-admin-takeover">https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/domains-admin-takeover</a><br /><br />► Subscribe to Microsoft Security on YouTube here: <a rel="nofollow" target="blank" href="https://aka.ms/SubscribeMicrosoftSecurity">https://aka.ms/SubscribeMicrosoftSecurity</a><br /><br />► Follow us on social: <br />LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/showcase/microsoft-security/">https://www.linkedin.com/showcase/microsoft-security/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/msftsecurity">https://twitter.com/msftsecurity</a><br /><br />► Join our Tech Community: <a rel="nofollow" target="blank" href="https://aka.ms/SecurityTechCommunity">https://aka.ms/SecurityTechCommunity</a><br /><br />► For more about Microsoft Security: <a rel="nofollow" target="blank" href="https://msft.it/6002T9HQY">https://msft.it/6002T9HQY</a><br /><br />#MicrosoftAzure #MicrosoftSecurity</p>
+</div>
+                        <div class="d-none"><span>Microsoft Security</span><span>data privacy</span><span>cyber security</span></div>
+                        <hr/>
+                        <div class="py-3"><div class="resp-container" id="extra_bottomads"><iframe data-aa="1794238" src="//ad.a-ads.com/1794238?size=468x60" style="width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>
+</div></div>
+                    </div>
+                </div>
+                <div class="position-sticky fixed-top d-md-block d-none">
+                    <div align="center" class="py-2">
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+            <div class="mb-4">
+                <div class="resp-container py-3" id="sidebar_300"></div>
+            </div>
+                
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/you-instead-tainted-love-from-tonight-you">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/T2vln1i3d3A/mqdefault.jpg" alt="You instead &quot;tainted love&quot; from &quot;Tonight, you&#39;re mine&quot;">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">You instead &quot;tainted love&quot; from &quot;Tonight, you&#39;re mine&quot;</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/i-qualified-in-fncs-week-1-opens-in-fortnite">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/gtl3atz1Dbg/mqdefault.jpg" alt="I QUALIFIED in FNCS Week 1 Opens in Fortnite... (Fortnite Competitive Tournament)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">I QUALIFIED in FNCS Week 1 Opens in Fortnite... (Fortnite Competitive Tournament)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/xur-glitch-has-some-spicy-rolls-especially">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/A5-pe_7dGUg/mqdefault.jpg" alt="XUR GLITCH HAS SOME SPICY ROLLS, ESPECIALLY THAT WISHBRINGER!!!">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">XUR GLITCH HAS SOME SPICY ROLLS, ESPECIALLY THAT WISHBRINGER!!!</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/you-have-to-think-differently-to-solve-these">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/W4wYisBN4RA/mqdefault.jpg" alt="You Have To Think Differently To Solve These Hard Riddles">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">You Have To Think Differently To Solve These Hard Riddles</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/3-big-sundays-grand-finale-nov-28-2021-with">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/3teI0LmI1Vs/mqdefault.jpg" alt="3 BIG SUNDAYS  (GRAND FINALE) - NOV 28, 2021- WITH PROPHET ISAIAH WEALTH">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">3 BIG SUNDAYS  (GRAND FINALE) - NOV 28, 2021- WITH PROPHET ISAIAH WEALTH</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/arguable-meaning-video-shows-what-arguable">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/LxqslOKnKGs/mqdefault.jpg" alt="Arguable Meaning">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Arguable Meaning</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/we-got-the-rune-crossbow-and-finally-went">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/4PKmfNvNM-U/mqdefault.jpg" alt="We got the Rune Crossbow and finally went outside (GIM #26)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">We got the Rune Crossbow and finally went outside (GIM #26)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/songlab-most-worthy-one-lyrics-songlab-most">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/WtUVTZAbcjo/mqdefault.jpg" alt="SongLab - Most Worthy One (Lyrics)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">SongLab - Most Worthy One (Lyrics)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/the-tactic-video-comment-down-below-quot">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/a0SdXZ86zaU/mqdefault.jpg" alt="the tactic video">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">the tactic video</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/lots-of-people-after-watching-bo-burnham">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/iJ0tjyt0mPw/mqdefault.jpg" alt="lots of people after watching Bo Burnham&#39;s Inside">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">lots of people after watching Bo Burnham&#39;s Inside</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/gym-tycoon-on-roblox-in-this-video-we-are">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/EZCitGoDZms/mqdefault.jpg" alt="Gym Tycoon on Roblox! 🏋️">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Gym Tycoon on Roblox! 🏋️</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/amorf-anlasana-amorf-anlasana-br-br-click">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/qehLdqX1Q0Y/mqdefault.jpg" alt="Amorf - Anlasana">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Amorf - Anlasana</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/every-family-has-one-of-these-shorts-catsoftiktok">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/t6if8iqtI7Q/mqdefault.jpg" alt="EVERY FAMILY HAS ONE Of THESE! 😹 #shorts #catsoftiktok #pets">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">EVERY FAMILY HAS ONE Of THESE! 😹 #shorts #catsoftiktok #pets</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/nightcity-jazz-house-similar-music-on-spotify">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/wvCRAOgQu1g/mqdefault.jpg" alt="NightCity | Jazz House">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">NightCity | Jazz House</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/north-korea-south-korea-differences-between">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/p0Mx4s0uGwY/mqdefault.jpg" alt="NORTH KOREA और SOUTH KOREA में क्या अंतर है? | Differences Between North Korea and South Korea">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">NORTH KOREA और SOUTH KOREA में क्या अंतर है? | Differences Between North Korea and South Korea</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/calm-peaceful-and-prosperous-fox-news-remembers">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/gwwBrrKGMC0/mqdefault.jpg" alt="“Calm, peaceful, and prosperous”">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">“Calm, peaceful, and prosperous”</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/business-is-not-just-about-making-money-strive">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/78TDwy9zlYg/mqdefault.jpg" alt="Business is Not Just About Making MONEY! | Strive Masiyiwa | Top 10 Rules">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Business is Not Just About Making MONEY! | Strive Masiyiwa | Top 10 Rules</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/ellie-goulding-figure-8-official-video-ellie">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/rNpBahr49mA/mqdefault.jpg" alt="Ellie Goulding - Figure 8 (Official Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Ellie Goulding - Figure 8 (Official Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/dottie-rambo-the-martins-too-much-to-gain">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/rzlvjavDPMI/mqdefault.jpg" alt="Dottie Rambo, The Martins - Too Much to Gain to Lose (Live)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Dottie Rambo, The Martins - Too Much to Gain to Lose (Live)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/ladies-men-1-a-drama-that-unfolds-various">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/3b4Svu4iMwc/mqdefault.jpg" alt="Ladies Men 1">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Ladies Men 1</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/i-surprised-her-with-this-click-the-link">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/_dOd0oVlZjk/mqdefault.jpg" alt="I Surprised Her with this...">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">I Surprised Her with this...</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/data-basics-observations-variable-and-data">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Mjif8PTgzUs/mqdefault.jpg" alt="Data Basics: Observations, Variable, and Data Matrices">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Data Basics: Observations, Variable, and Data Matrices</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/the-shadid-curriculum-intervening-in-a-story">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/kU_N-vCxC3g/mqdefault.jpg" alt="The Shadid Curriculum: Intervening in a Story (The Guardian)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The Shadid Curriculum: Intervening in a Story (The Guardian)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/golf-is-hard-errant-tee-shot-edition-golf">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/qxFHXJR2R4o/mqdefault.jpg" alt="Golf is hard | Errant tee shot edition">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Golf is hard | Errant tee shot edition</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/a-variety-of-quot-0-1-quot-br-br-part-5-6">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/H7tIsay5LjE/mqdefault.jpg" alt="[파고다 종로] a variety of + 단수? 복수? 헷갈리면 당장 클릭!!">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">[파고다 종로] a variety of + 단수? 복수? 헷갈리면 당장 클릭!!</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/the-mobile-revolution-how-cell-phones-changed">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Nwkn8kkqN94/mqdefault.jpg" alt="The Mobile Revolution: How Cell Phones CHANGED our Lives Forever | ENDEVR Documentary">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The Mobile Revolution: How Cell Phones CHANGED our Lives Forever | ENDEVR Documentary</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/battlefield-2042-new-gameplay-details-big">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ZN5PszeYyT0/mqdefault.jpg" alt="Battlefield 2042 NEW Gameplay details + BIG Changes!">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Battlefield 2042 NEW Gameplay details + BIG Changes!</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/how-to-start-a-downswing-golf-with-michele">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/jUqzHHSMlFI/mqdefault.jpg" alt="How to start a downswing  - Golf with Michele Low">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">How to start a downswing  - Golf with Michele Low</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/the-los-carnales-attack-saints-row-saints">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/zEFNdX4KNg8/mqdefault.jpg" alt="The Los Carnales Attack Saints Row-  Saints Row 1 Part 8">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The Los Carnales Attack Saints Row-  Saints Row 1 Part 8</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/vlospa-big-moves-vol-2-official-video-produced">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/yu2H5OXvlm8/mqdefault.jpg" alt="VLOSPA - Big Moves Vol.2 (Official Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">VLOSPA - Big Moves Vol.2 (Official Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/manner-jlei-br-jlei-br-br-br-jlei-br-br-let">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/4xOsCDKD43s/mqdefault.jpg" alt="當電話傳銷遇上前度  │微辣 Manner">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">當電話傳銷遇上前度  │微辣 Manner</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/poppy-playtime-mod-in-among-us-subscribe">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/nXSBbcCr0Mc/mqdefault.jpg" alt="POPPY PLAYTIME Mod in Among Us...">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">POPPY PLAYTIME Mod in Among Us...</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/how-to-get-the-huge-pumpkin-cat-super-fast">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/HfzYUfo3nEg/mqdefault.jpg" alt="HOW TO GET THE *HUGE PUMPKIN CAT* SUPER FAST! SUPER EASY! IN PET SIMULATOR X">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">HOW TO GET THE *HUGE PUMPKIN CAT* SUPER FAST! SUPER EASY! IN PET SIMULATOR X</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/masterclass-film-finance-as-an-alternative">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Q9xmyB7SGhI/mqdefault.jpg" alt="MASTERCLASS: FILM FINANCE AS AN ALTERNATIVE INVESTMENT">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">MASTERCLASS: FILM FINANCE AS AN ALTERNATIVE INVESTMENT</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/12-theoretical-mechanics-canonical-transformations">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/QQiq07tetDY/mqdefault.jpg" alt="12 - Theoretical Mechanics - Canonical Transformations I">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">12 - Theoretical Mechanics - Canonical Transformations I</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/the-disturbing-case-of-chad-isaak-in-mandan">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/7uw6xEIfqyA/mqdefault.jpg" alt="The Disturbing Case of Chad Isaak">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The Disturbing Case of Chad Isaak</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/photographing-a-large-reflective-object-workflow">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Tb4Ejm3wkRk/mqdefault.jpg" alt="photographing a large reflective object">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">photographing a large reflective object</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/ll-stylish-facing-the-two-brothers-did-you">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/L8skIFya6hc/mqdefault.jpg" alt="LL STYLISH | FACING THE TWO BROTHERS">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">LL STYLISH | FACING THE TWO BROTHERS</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/what-is-a-fabric-blend-polycotton-textiles">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/dm8fRO11jj8/mqdefault.jpg" alt="WHAT IS A FABRIC BLEND? #polycotton #textiles | S2:E13 | Fibers &amp; Fabrics | Beate Myburgh">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">WHAT IS A FABRIC BLEND? #polycotton #textiles | S2:E13 | Fibers &amp; Fabrics | Beate Myburgh</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/public-and-non-public-offerings-module-3">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/1kqYm8VxPfo/mqdefault.jpg" alt="Public and Non-Public Offerings: Module 3 of 5">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Public and Non-Public Offerings: Module 3 of 5</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/k-jemb-you-think-that-aero-br-facebook-a">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/LL9ZQVwRp9Y/mqdefault.jpg" alt="K-JEMB - You Think That">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">K-JEMB - You Think That</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/in-the-beginning-featurette-marvel-studios">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/PcPIlVJ35R0/mqdefault.jpg" alt="&quot;In The Beginning&quot; Featurette | Marvel Studios’ Eternals">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">&quot;In The Beginning&quot; Featurette | Marvel Studios’ Eternals</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/dordy-baby-you-are-cushty">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/XP5c-OFJaXY/mqdefault.jpg" alt="Dordy baby you are cushty">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Dordy baby you are cushty</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/soleil-rise-up-now-indie-pop-playlist-a-rel">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ppP9-X5DiC8/mqdefault.jpg" alt="Soleil - Rise up Now">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Soleil - Rise up Now</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/tiktoks-to-keep-away-from-kids-no-no-square">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/3KcZzTYdXhU/mqdefault.jpg" alt="tiktoks to keep away from kids">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">tiktoks to keep away from kids</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/nyxta-mix-session-949-subscribe-a-rel-nofollow">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/wGu6R07A0lI/mqdefault.jpg" alt="NYXTA στον ΡΥΘΜΟ MIX SESSION με την Ράνια Κωστάκη">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">NYXTA στον ΡΥΘΜΟ MIX SESSION με την Ράνια Κωστάκη</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/would-you-scale-one-of-new-york-city-s-tallest">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/alpq_5dK1mo/mqdefault.jpg" alt="Would You Scale One of New York City’s Tallest Buildings?">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Would You Scale One of New York City’s Tallest Buildings?</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/raatko-surprise-mila-follow-me-on-instagram">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/yNvyX1ilv80/mqdefault.jpg" alt="Raatko Surprise Mila 😍">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Raatko Surprise Mila 😍</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/happy-place-sing-along-more-nursery-rhymes">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/AaqUXNroVVc/mqdefault.jpg" alt="Happy Place Sing Along! +More Nursery Rhymes and Kids Songs | Little Baby Bum">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Happy Place Sing Along! +More Nursery Rhymes and Kids Songs | Little Baby Bum</h2>
+    </div>
+
+            </div>
+    </div>
+    </div>
+    <script type="text/javascript">
+        function load_vid() { var player = document.getElementById('video-player'); player.innerHTML = labnolThumb(); player.onclick = labnolIframe; } function labnolThumb() { return '<div class="d-flex align-items-center justify-content-center"><div class="image-16by9"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/GOSpjHtrRsg/hqdefault.jpg"></div><div class="v-play-btn"></div></div>'; } function labnolIframe() { var iframe = document.createElement("iframe"); iframe.setAttribute("src", "//www.youtube-nocookie.com/embed/GOSpjHtrRsg?rel=0&amp;showinfo=0"); iframe.setAttribute("frameborder", "0"); iframe.setAttribute("allowfullscreen", "1"); var div = document.createElement("div"); div.setAttribute("class", "embed-responsive embed-responsive-16by9"); div.innerHTML = iframe.outerHTML; this.parentNode.replaceChild(div, this); } load_vid()
+    </script>
+    <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <footer class="mt-auto bg-white pt-4">
+        <div class="container-fluid text-center text-md-left">
+            <div class="row">
+                <div class="col-md-6 mt-md-0 mt-3">
+                    <h5 class="text-uppercase">DeSatelBu Network</h5>
+                </div>
+                <hr class="clearfix w-100 d-md-none pb-3">
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Privacy & Terms</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="">DMCA</a></li>
+                        <li><a href="">Privacy</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Links</h5>
+                    <ul class="list-unstyled">
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="text-center py-3"> © Copyright : <a target="_blank" rel="noopener" href="https://www.youtube.com"> youtube.com</a></div>
+    </footer>
+    <script async="" src="https://desatelbu.github.io/js/app.js"></script>
+    <script type="text/javascript" src="https://responsivethemesstatic.github.io/static/wp.js"></script>
+    <script type="text/javascript">
+        if(!Histats_variables){var Histats_variables=[];}
+        Histats_variables.push("tags","https://desatelbu.github.io");
+        var _Hasync= _Hasync|| [];
+        _Hasync.push(['Histats.start', '1,4360507,4,0,0,0,00000000']);
+        _Hasync.push(['Histats.fasi', '1']);
+        _Hasync.push(['Histats.track_hits', '']);
+        (function() {
+        var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+        hs.src = ('//s10.histats.com/js15_as.js');
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+        })();
+    </script>
+</body>
+</html>
