@@ -1,0 +1,15 @@
+---
+title: "LEGENDARY bass line vs MODERN bass line"
+image: "https:\/\/i.ytimg.com\/vi\/Ghk6CC55r7A\/hqdefault.jpg"
+vid_id: "Ghk6CC55r7A"
+categories: "Music"
+tags: ["Leland Sklar","bass","leland sklar bass"]
+date: "2021-12-01T22:36:39+03:00"
+vid_date: "2021-12-01T14:00:06Z"
+duration: "PT38M"
+viewcount: "8264"
+likeCount: "622"
+dislikeCount: "5"
+channel: "PROFESSIONAL MUSICIANS REACT"
+---
+{% raw %}This week we're looking at two epic bass lines from two different generations. First, we listen to @The Beatles 1966 classic &quot;Taxman&quot; with @PAUL McCARTNEY on bass. Then, we compare that with the modern groove of @Thundercat in his funky performance on his song &quot;Them Changes.&quot; <br /><br />I'm  @Jack Conte   the CEO of @Patreon and one-half of the bands @Scary Pockets and @PomplamooseMusic.<br /><br />Joining me today are 3 of my best musician friends;<br /><br /> @Leland Sklar the most prolific bassist of all time, he's played with Phil Collins, James Taylor, Carol King and Toto. <br /><br />@Nicole Row who plays bass with @Panic! At The Disco <br /><br />@ryanlerman a professional guitarist the other half of Scary Pockets<br /><br />Here are our recommendations for our desert island bassists:<br /><br />@Leland Sklar: Ray Brown, James Jameson, Carol Kaye, Jack Bruce, and John Entwistle<br /><br />@Nicole Row: @Derrick Hodge <br /><br />Here is the music we discussed in the episode;<br /><br />The Beatles - Taxman<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=l0zaebtU-CA">https://www.youtube.com/watch?v=l0zaebtU-CA</a><br /><br />Thundercat - Them Changes<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=GNCd_ERZvZM">https://www.youtube.com/watch?v=GNCd_ERZvZM</a><br /><br />Check out @Leland Sklar's channel!<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCs5yDeiOgkyRZGZGphlSbIw">https://www.youtube.com/channel/UCs5yDeiOgkyRZGZGphlSbIw</a><br />-------------------------------------<br /><br />Please leave us a comment below and tell us what you would like us to react to.<br /><br />Before we film episodes we ask the Scary Pockets Discord and Patreon members for questions on certain episodes, you can find the communities here;<br /><br />Discord: <br /><a rel="nofollow" target="blank" href="https://www.scarypocketsfunk.com/discord">https://www.scarypocketsfunk.com/discord</a><br /><br />Patreon: <br /><a rel="nofollow" target="blank" href="https://www.patreon.com/scarypockets">https://www.patreon.com/scarypockets</a> <br /><br />------------------------------<br />Follow me<br /><br />Twitter <a rel="nofollow" target="blank" href="https://bit.ly/2Z30VpL">https://bit.ly/2Z30VpL</a><br />Instagram <a rel="nofollow" target="blank" href="https://www.instagram.com/jackconte/">https://www.instagram.com/jackconte/</a><br />TikTok <a rel="nofollow" target="blank" href="https://www.tiktok.com/@jackconte1">https://www.tiktok.com/@jackconte1</a><br /><br />#LELANDSKLAR #JACKCONTE #THEBEATLES #THUNDERCAT #BASS{% endraw %}
