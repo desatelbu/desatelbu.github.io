@@ -1,0 +1,15 @@
+---
+title: "DK’s Daily Shot of Steelers: It’ll take more than Mike Tomlin’s bark"
+image: "https:\/\/i.ytimg.com\/vi\/rBqg3CvNQDg\/hqdefault.jpg"
+vid_id: "rBqg3CvNQDg"
+categories: "Sports"
+tags: ["pittsburgh","sports","steelers"]
+date: "2021-12-01T19:52:54+03:00"
+vid_date: "2021-12-01T07:19:14Z"
+duration: "PT16M41S"
+viewcount: "1260"
+likeCount: "79"
+dislikeCount: "3"
+channel: "DK Pittsburgh Sports"
+---
+{% raw %}The Pittsburgh Steelers have been struggling both on the field and in comments with the media. Those comments have drawn the ire of head coach Mike Tomlin who's now got to crackdown on his team during practices.<br /><br />#Pittsburgh #Steelers #HereWeGo<br /><br />Hear award-winning columnist Dejan Kovacevic's Daily Shots of Steelers, Penguins and Pirates -- three separate podcasts -- every weekday morning on the DK Pittsburgh Sports podcasting network, available on all platforms: <br />► SUBSCRIBE to get all the latest content from DK Pittsburgh Sports: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/dkpittsburghsports?sub_confirmation=1">https://www.youtube.com/c/dkpittsburghsports?sub_confirmation=1</a><br /><br />► VISIT the DK Pittsburgh Sports YouTube channel: <a rel="nofollow" target="blank" href="https://dkps.net/youtube">https://dkps.net/youtube</a><br /><br />► DOWNLOAD the all-new DK Pittsburgh Sports Apple app, built for diehard fans of the Steelers, Penguins and Pirates: <a rel="nofollow" target="blank" href="https://dkps.net/apple">https://dkps.net/apple</a> <br /> <br />► DOWNLOAD the all-new DK Pittsburgh Sports Android app: <a rel="nofollow" target="blank" href="https://dkps.net/android">https://dkps.net/android</a><br /><br />► CHECK OUT the DK Pittsburgh Sports website: <a rel="nofollow" target="blank" href="http://dkpittsburghsports.com">http://dkpittsburghsports.com</a><br /><br />► SUBSCRIBE to DK Pittsburgh Sports podcasts: <a rel="nofollow" target="blank" href="https://linktr.ee/dkpghsports">https://linktr.ee/dkpghsports</a><br /><br />► FOLLOW DK Pittsburgh Sports on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/DKPittsburghSports/">https://www.facebook.com/DKPittsburghSports/</a> <br /><br />► FOLLOW DK Pittsburgh Sports on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/DKPghSports">https://twitter.com/DKPghSports</a> <br /><br />► FOLLOW DK Pittsburgh Sports on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/dkpghsports/">https://www.instagram.com/dkpghsports/</a> <br /><br />► FOLLOW Dejan Kovacevic on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/Dejan_Kovacevic">https://twitter.com/Dejan_Kovacevic</a><br /><br />► ABOUT US: DK Pittsburgh Sports is the proud, pioneering, fully independent venture begun in 2014 by award-winning columnist Dejan Kovacevic and featuring a professional staff covering the Steelers, Penguins and Pirates year-round and everywhere they go! This is where it all started! And WE'VE only gotten started!{% endraw %}
