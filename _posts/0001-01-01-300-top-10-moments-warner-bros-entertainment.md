@@ -1,0 +1,15 @@
+---
+title: "300 | Top 10 Moments | Warner Bros. Entertainment"
+image: "https:\/\/i.ytimg.com\/vi\/053AUUF4LGs\/hqdefault.jpg"
+vid_id: "053AUUF4LGs"
+categories: "Entertainment"
+tags: ["Warner brothers movies","warner bros movies 2019","warner bros movies trailers"]
+date: "2021-12-02T01:36:53+03:00"
+vid_date: "2020-10-28T17:59:53Z"
+duration: "PT10M10S"
+viewcount: "2539804"
+likeCount: "19564"
+dislikeCount: "910"
+channel: "Warner Bros. Entertainment"
+---
+{% raw %}The #TopTen best and most brutal moment from #ZackSnyder's iconic #300. King Leonidas leads his small force of warrior Spartans to do battle with King Xerxes of Persia, who claims to be an immortal god. Which moment do you most honor? <br /><br />SUBSCRIBE to Warner Bros. Entertainment: <a rel="nofollow" target="blank" href="http://bit.ly/32v18jf">http://bit.ly/32v18jf</a><br /><br />Connect with Warner Bros. Entertainment Online:<br />Follow Warner Bros. Entertainment INSTAGRAM: <a rel="nofollow" target="blank" href="https://www.instagram.com/warnerbrosentertainment/">https://www.instagram.com/warnerbrosentertainment/</a><br />Like Warner Bros. Entertainment on FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/warnerbrosent/">https://www.facebook.com/warnerbrosent/</a><br />Follow Warner Bros. Entertainment TWITTER: <a rel="nofollow" target="blank" href="https://twitter.com/WBHomeEnt">https://twitter.com/WBHomeEnt</a><br /><br />About 300: <br />In this ferocious retelling of the Battle of Thermopylae based on the epic graphic novel by Sin City creator Frank Miller, King Xerxes of Persia (Rodrigo Santoro) amasses an army of hundreds of thousands, drawn from Asia and Africa, to invade and conquer the tiny, divided nation of Greece in 481 B.C. But when the advancing Persian forces enter the treacherous mountain pass of Thermopylae, they encounter Spartan King Leonidas (Gerard Butler) and his royal guard of soldiers numbering just 300. According to legend, their valor and sacrifice inspired all of Greece to unite against the Persian foe, planting the seeds of democracy and ushering in the Golden Age of Greece.With nonstop action and awe-inspiring visual effects, director Zack Snyder creates a breathtaking vision of one of history's most legendary battles ... and an epic tale of sacrifice and heroism.<br /><br />About Warner Bros. Entertainment:<br />At Warner Bros. Entertainment, we believe in the power of story. From classics to contemporary masterpieces, explore and watch a library full of extraordinary, stirring, and provocative entertainment that goes beyond the big screen. Subscribe to discover new favorites from the studio that brought you Friends, JOKER, the Conjuring Universe, and The Wizarding World of Harry Potter™.<br /><br />300 | Top 10 Moments | Warner Bros. Entertainment<br /><a rel="nofollow" target="blank" href="https://youtu.be/053AUUF4LGs">https://youtu.be/053AUUF4LGs</a><br /><br />Warner Bros. Entertainment <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/WarnerBrosOnline">https://www.youtube.com/user/WarnerBrosOnline</a>{% endraw %}
