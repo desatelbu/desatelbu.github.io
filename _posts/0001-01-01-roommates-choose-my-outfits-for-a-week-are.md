@@ -1,0 +1,15 @@
+---
+title: "ROOMMATES CHOOSE MY OUTFITS FOR A WEEK"
+image: "https:\/\/i.ytimg.com\/vi\/LnGyzNJ7IME\/hqdefault.jpg"
+vid_id: "LnGyzNJ7IME"
+categories: "People-Blogs"
+tags: ["boyfriend chooses my outfit for a week","challenge","kelly wakasa"]
+date: "2021-12-02T03:08:38+03:00"
+vid_date: "2021-12-01T17:58:08Z"
+duration: "PT19M46S"
+viewcount: "71454"
+likeCount: "8536"
+dislikeCount: "39"
+channel: "ur mom ashley"
+---
+{% raw %}are my roomies stylish or what 😎 BTW get an EXTRA 30% off your 1st thredUP order and FREE shipping w/ code: ASHLEY30 <a rel="nofollow" target="blank" href="https://bit.ly/thredUPnov21_ASHLEY30">https://bit.ly/thredUPnov21_ASHLEY30</a> (Offer expires 12/31/21. Applies to US &amp; Canada customers only. See site for full terms!) <br /><br />💕 ✧ MY JEWELRY COLLECTION RESTOCK: <a rel="nofollow" target="blank" href="https://honeylock.co/collections/ashley-x-honeylock">https://honeylock.co/collections/ashley-x-honeylock</a><br /><br />✧ ROOMIES ✧<br /> @Elliot Choy <br /> @Kelly Wakasa <br /> @annemariechase <br /><br />POST-BREAKUP GLOW UP: <a rel="nofollow" target="blank" href="https://youtu.be/6wte5I79GpI">https://youtu.be/6wte5I79GpI</a><br />I MOVED TO NYC: <a rel="nofollow" target="blank" href="https://youtu.be/JPiTmVeqXfk">https://youtu.be/JPiTmVeqXfk</a><br />MY FIRST WEEK IN NYC VLOG (moving in!): <a rel="nofollow" target="blank" href="https://youtu.be/m3gQAK5x8dc">https://youtu.be/m3gQAK5x8dc</a><br /><br />EXTRA DYNAMIC PODCAST: <a rel="nofollow" target="blank" href="https://www.flowcode.com/page/extradynamicpodcast">https://www.flowcode.com/page/extradynamicpodcast</a><br />✪ life &amp; my relationship status: <a rel="nofollow" target="blank" href="https://shorturl.at/drA27">https://shorturl.at/drA27</a><br />✪ COLLEGE ADVICE PODCAST (w/ AMBER): <a rel="nofollow" target="blank" href="https://shorturl.at/cgmyJ">https://shorturl.at/cgmyJ</a><br /><br />(っ◔◡◔)っ  MY SOCIALS  <br />click here to see all! <a rel="nofollow" target="blank" href="https://flow.page/ashleyalexander​​">https://flow.page/ashleyalexander​​</a><br />✪ TIKTOK @urmomaaashleyk <a rel="nofollow" target="blank" href="https://vm.tiktok.com/u7uSr9/​​">https://vm.tiktok.com/u7uSr9/​​</a><br />✪ INSTA @aaashleyk (aye aye ashley k) :P <br />✪ SPOTIFY @urmomashley<br />✪ PODCAST: <a rel="nofollow" target="blank" href="https://www.flowcode.com/page/extradynamicpodcast">https://www.flowcode.com/page/extradynamicpodcast</a><br />MY FAVES: <a rel="nofollow" target="blank" href="https://www.amazon.com/shop/urmomashley​">https://www.amazon.com/shop/urmomashley​</a><br /><br />VLOG CAMERA used in this video (Sony ZV-1): <a rel="nofollow" target="blank" href="https://shop-links.co/1744263885785928326">https://shop-links.co/1744263885785928326</a><br />my fav starter camera: <a rel="nofollow" target="blank" href="https://amzn.to/30sHtDa​​">https://amzn.to/30sHtDa​​</a><br />I edit w/ Final Cut Pro X !!<br />current sub count: 1,094,000 :)<br /><br />thank you to thredUP for sponsoring this video!!<br />-<br />business email: ashley@whalarstars.com{% endraw %}
