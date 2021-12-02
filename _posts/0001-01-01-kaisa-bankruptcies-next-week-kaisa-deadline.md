@@ -1,0 +1,15 @@
+---
+title: "KAISA BANKRUPTCIES NEXT WEEK, Kaisa Deadline Nears."
+image: "https:\/\/i.ytimg.com\/vi\/cGbJpZt5IW4\/hqdefault.jpg"
+vid_id: "cGbJpZt5IW4"
+categories: "News-Politics"
+tags: ["china","kaisa","debt"]
+date: "2021-12-02T19:54:16+03:00"
+vid_date: "2021-12-02T16:00:30Z"
+duration: "PT2M20S"
+viewcount: "681"
+likeCount: "30"
+dislikeCount: "1"
+channel: "News Alerts"
+---
+{% raw %}Kaisa Deadline Nears.<br />One of China’s largest issuers of junk dollar debt will announce Thursday whether creditors agreed to a debt swap designed to avert default. <br /><br />Kaisa Group Holdings Ltd., which became the first Chinese developer to default on such bonds in 2015, is trying to stave off another collapse that could come as soon as next week. The company’s offer to exchange its $400 million of dollar notes maturing Dec. 7 for new ones due 18 months later expires at 4 p.m. London time.<br />Kaisa shares were little changed, while its bonds were indicated about 1 cent on the dollar higher, according to Bloomberg-compiled prices. Meanwhile, China Evergrande Group’s listed units sank amid heavy volume in Hong Kong trading. Shares of its electric-vehicle business lost almost a fifth of their value within minutes.<br />Kaisa Abandons Hong Kong Developments in Race to Avoid DefaultWorst May Be Over for China Junk Bonds, But Not Out of Woods YetChina’s Li Urges Crackdown on Late Payments to Small BusinessesChina Private Builders’ Yuan Bond Sales Hit Lowest in Five YearsChina Home Sales Slump Deepens as Easing Shows Little EffectArkkan Raises $245 Million for China Real Estate Recovery FundChina’s Developers Face $12 Billion in Trust Payments This Month<br /><br />Kaisa Group Holdings Ltd. has yet to pay interest due Wednesday on a dollar bond, two noteholders said, in the latest sign of stress facing the Chinese property developer. <br /><br />The Shenzhen-based firm had to pay $17.5 million for the coupon payment on a $300 million note due 2026, according to data compiled by Bloomberg. There’s a 30-day grace period for the interest payment before a default can be declared. <br />Moody’s now forecasts contracted property sales will fall 5%-10% next year in China, versus a prior view of flat to down 5%, as “restrictions on developers’ funding access are limiting” marketing and construction abilities.<br /><br />“Funding access will remain tight during the next 6-12 months due to tightened regulations and increased risk aversion” amid Evergrande’s woes and defaults in the sector, analysts including Kelly Chen wrote in a report dated Wednesday.<br /><br />The onshore unit of state-controlled China Overseas Land &amp; Investment Ltd. is planning to sell 10 billion yuan ($1.6 billion) worth of bonds in the interbank market, according to documents filed to the Debt Capital Market Filing Analysis Notification System. Country Garden is seeking to sell as much as 5 billion yuan of notes, while a Longfor Group Holdings Ltd. unit is planning two deals that may be worth a combined 4 billion yuan.{% endraw %}
