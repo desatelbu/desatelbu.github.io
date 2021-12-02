@@ -1,0 +1,15 @@
+---
+title: "Oddly Satisfying Video with Calming and Relaxing Music that Helps to Fall Asleep Ep2"
+image: "https:\/\/i.ytimg.com\/vi\/LDwoKDSLiKQ\/hqdefault.jpg"
+vid_id: "LDwoKDSLiKQ"
+categories: "Entertainment"
+tags: ["satisfying","oddly satisfying","satisfying video"]
+date: "2021-12-03T01:47:51+03:00"
+vid_date: "2021-12-02T12:00:08Z"
+duration: "PT11M58S"
+viewcount: "20940"
+likeCount: "372"
+dislikeCount: "20"
+channel: "Oddly Satisfying"
+---
+{% raw %}Follow us on:<br />TikTok: <a rel="nofollow" target="blank" href="http://www.tiktok.com/@oddlysatisfying">http://www.tiktok.com/@oddlysatisfying</a><br />Instagram: <a rel="nofollow" target="blank" href="http://www.instagram.com/oddlysarisfying">http://www.instagram.com/oddlysarisfying</a><br />Facebook: <a rel="nofollow" target="blank" href="http://www.facebook.com/OddlySatisfying">http://www.facebook.com/OddlySatisfying</a><br />Twitter: <a rel="nofollow" target="blank" href="http://www.twitter.com/OddlySatisfying">http://www.twitter.com/OddlySatisfying</a><br />Telegram: <a rel="nofollow" target="blank" href="http://www.t.me/OddlySatisfying">http://www.t.me/OddlySatisfying</a><br />Pinterest: <a rel="nofollow" target="blank" href="http://www.pinterest.com/OddlySatisfying">http://www.pinterest.com/OddlySatisfying</a><br />Amazon: <a rel="nofollow" target="blank" href="http://www.amazon.com/shop/OddlySatisfying">http://www.amazon.com/shop/OddlySatisfying</a><br /><br />Oddly Satisfying is the leading satisfying media network. We create, license &amp; distribute oddly satisfying videos. An oddly satisfying video portrays scenes, actions or processes that manifest qualities such as: order, harmony, symmetry, smoothness, beauty &amp; perfection. If you film or have filmed such oddly satisfying videos, you can submit or sell them to us.<br /><br />Music:<br /><br />Music provided by HearWeGo (<a rel="nofollow" target="blank" href="https://goo.gl/nDS3zR)">https://goo.gl/nDS3zR)</a><br />Artist: Nomyn  <br />Title: Better Days EP<br />Listen on YouTube: <a rel="nofollow" target="blank" href="https://youtu.be/O54FIlB8kMI">https://youtu.be/O54FIlB8kMI</a><br />❚ Nomyn<br />• <a rel="nofollow" target="blank" href="https://soundcloud.com/nomyn">https://soundcloud.com/nomyn</a><br />• <a rel="nofollow" target="blank" href="https://facebook.com/NomynMusic">https://facebook.com/NomynMusic</a><br />• <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg">https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg</a><br />• <a rel="nofollow" target="blank" href="https://nomyn.bandcamp.com">https://nomyn.bandcamp.com</a><br /><br />REACH OUT to us here: contact@oddlysatisfying.club<br /><br />SUBMIT your oddly satisfying videos to OUR WEBSITE to be featured on this channel: <a rel="nofollow" target="blank" href="https://oddlysatisfying.club/submit">https://oddlysatisfying.club/submit</a><br /><br /><br /><br />#oddlysatisfying #satisfyingvideo #satisfying{% endraw %}
