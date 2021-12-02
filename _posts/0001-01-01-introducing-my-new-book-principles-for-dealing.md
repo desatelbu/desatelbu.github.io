@@ -1,0 +1,15 @@
+---
+title: "Introducing my New Book, Principles for Dealing with the Changing World Order | Ray Dalio"
+image: "https:\/\/i.ytimg.com\/vi\/zpZ3dxAcvDM\/hqdefault.jpg"
+vid_id: "zpZ3dxAcvDM"
+categories: "Education"
+tags: ["'ray","dalio'","raydalio"]
+date: "2021-12-02T03:26:27+03:00"
+vid_date: "2021-11-30T15:07:11Z"
+duration: "PT3M8S"
+viewcount: "21340"
+likeCount: "1729"
+dislikeCount: "15"
+channel: "Principles by Ray Dalio"
+---
+{% raw %}I'm so glad to finally be releasing my new book, Principles for Dealing with the Changing World Order, today. A few years ago, I observed that we were experiencing things that had never happened in my life time but had happened many times before in history.  As a global macro investor, I knew that I wouldn’t be able to understand and navigate what’s happening today—much less what may come—without having a deep understanding of the cause-effect relationships of economic events that are embedded in the patterns of history. So I undertook a study of the rise and fall of major empires and their markets over the last 500 years. I converted this study into a book share what I learned. The book provides objective measures that show the forces that have driven the successes and failures of countries throughout history. Most importantly, it explains where we are and where we are going, describes the possibilities ahead, and provides practical advice for navigating what lies ahead.<br /><br />My hope is that you’ll find the study as helpful as I have.<br /><br />You can buy it now on Amazon (<a rel="nofollow" target="blank" href="https://www.amazon.com/Changing-World-Order-Nations-Succeed/dp/1982160276/)">https://www.amazon.com/Changing-World-Order-Nations-Succeed/dp/1982160276/)</a> or in bookstores nationwide. <br /><br />For more from Ray:<br />Principles | #1 New York Times Bestseller: <a rel="nofollow" target="blank" href="https://amzn.to/2JMewHb">https://amzn.to/2JMewHb</a><br />Principles for Success, distills Principles into an easy-to-read and entertaining format for readers of all ages: <a rel="nofollow" target="blank" href="https://amzn.to/34lgnNJ">https://amzn.to/34lgnNJ</a><br />Download his free app: <a rel="nofollow" target="blank" href="https://principles.app.link/PFS">https://principles.app.link/PFS</a><br />Connect with him on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/raydalio">https://www.facebook.com/raydalio</a><br />Follow him on Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/raydalio">https://www.twitter.com/raydalio</a><br />Follow him on LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/raydalio">https://www.linkedin.com/raydalio</a><br />Follow him on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/raydalio/">https://www.instagram.com/raydalio/</a><br />Follow him on TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@principlesbyraydalio">https://www.tiktok.com/@principlesbyraydalio</a>{% endraw %}
