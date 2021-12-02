@@ -1,0 +1,15 @@
+---
+title: "Omicron in the US, increased transmissibility confirmed"
+image: "https:\/\/i.ytimg.com\/vi\/uXAJlwbny_g\/hqdefault.jpg"
+vid_id: "uXAJlwbny_g"
+categories: "Education"
+tags: ["physiology","nursing","NCLEX"]
+date: "2021-12-02T17:30:19+03:00"
+vid_date: "2021-12-02T10:09:31Z"
+duration: "PT8M50S"
+viewcount: "86401"
+likeCount: "4342"
+dislikeCount: "145"
+channel: "Dr. John Campbell"
+---
+{% raw %}Omicron now in 24 countries and California. Now clear it is highly transmissible.<br /><br />Cases seem mild so far<br /><br />Omicron rapidly dominating in South Africa<br /><br /><a rel="nofollow" target="blank" href="https://www.reuters.com/world/us-tightens-covid-19-travel-rules-countries-race-quell-omicron-threat-2021-12-01/">https://www.reuters.com/world/us-tightens-covid-19-travel-rules-countries-race-quell-omicron-threat-2021-12-01/</a><br /><br />Omicron is rapidly becoming the dominant in South Africa<br /><br />Less than four weeks in<br /><br />South Africa's National Institute for Communicable Diseases (NICD)<br /><br /><a rel="nofollow" target="blank" href="https://www.nicd.ac.za">https://www.nicd.ac.za</a><br /><br />74% of all genomes last month, omicron<br /><br />The first Omicron detected in the U.S.<br /><br /><a rel="nofollow" target="blank" href="https://www.nytimes.com/2021/12/01/health/omicron-first-us-case-california.html">https://www.nytimes.com/2021/12/01/health/omicron-first-us-case-california.html</a><br /><br />California Wednesday, 1st December<br /><br />California from South Africa on 22nd November<br /><br />Mild symptoms started 25th November<br /><br />Mild symptoms that are improving<br /><br />Not hospitalized<br /><br />In isolation<br /><br />Aggressive contact tracing is underway<br /><br />Person fully vaccinated<br /><br />Had received two doses Moderna within the six-month window<br /><br />Close contacts have tested negative<br /><br />Dr. Anthony S. Fauci<br /><br />We have 60 million people in this country who are not vaccinated who are eligible to be vaccinated<br /><br />Let’s get them vaccinated. <br /><br />Let’s get the people vaccinated, boosted. <br /><br />Let’s get the children vaccinated.<br /><br />Get boosted now<br /><br />We may not need a variant-specific boost.<br /><br />(EU, vaccine rollout for five-to-11-year-olds 13th December)<br /><br />Dissent from Mike Ryan<br /><br />There is no evidence that I'm aware of <br /><br />that will suggest that boosting the entire population is going to necessarily provide any greater protection for otherwise healthy individuals<br /><br />against hospitalization or death<br /><br />WHO, coronavirus will keep producing new variants for as long as it is allowed to circulate freely in unvaccinated<br /><br /><br />US<br /><br /><a rel="nofollow" target="blank" href="https://www.reuters.com/world/us-tightens-covid-19-travel-rules-countries-race-quell-omicron-threat-2021-12-01/">https://www.reuters.com/world/us-tightens-covid-19-travel-rules-countries-race-quell-omicron-threat-2021-12-01/</a><br /><br />Must have a negative test 24 hours prior to departure{% endraw %}
