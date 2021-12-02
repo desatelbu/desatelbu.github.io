@@ -1,0 +1,15 @@
+---
+title: "LET'S HANG OUT 🥰 Decorating for Christmas, new bathroom reveal, giveaway + more!"
+image: "https:\/\/i.ytimg.com\/vi\/XG8O3eEWTcE\/hqdefault.jpg"
+vid_id: "XG8O3eEWTcE"
+categories: "People-Blogs"
+tags: ["vlogs","daily vlogs","real life vlogs"]
+date: "2021-12-03T00:41:52+03:00"
+vid_date: "2021-12-02T17:00:31Z"
+duration: "PT18M19S"
+viewcount: "4377"
+likeCount: "894"
+dislikeCount: "6"
+channel: "juicyjasvlogs"
+---
+{% raw %}LET'S HANG OUT 🥰 Decorating for Christmas, new bathroom reveal, giveaway + more! <br /><br />💖 MY MAIN CHANNEL: <a rel="nofollow" target="blank" href="https://www.youtube.com/juicyjas">https://www.youtube.com/juicyjas</a><br /><br />💕 LET'S BE FRIENDS! <br />Twitter: @juicyyyyjas<br />Instagram: @juicyjasoffical <br />TikTok: @juicyjasofficial <br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/juicyjasoffi...">https://www.facebook.com/juicyjasoffi...</a><br /><br />💕 THINGS MENTIONED IN VLOG <br />- Last year holiday home haul: <a rel="nofollow" target="blank" href="https://bit.ly/3xMV5rD">https://bit.ly/3xMV5rD</a><br />- Naz's channel/video: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=_0q28BjszLs">https://www.youtube.com/watch?v=_0q28BjszLs</a><br />Giveaway Details PICKING 3 WINNERS! <br />1. SUBSCRIBE to my vlog channel<br />2. Comment anything you want (one comment only)<br />3. Along with your comment leave me an email or instagram where I can contact you incase you are the winner <br />I will choose the winner on 12/05 and post them here :)<br />Good luck babes!! xoxo <br /><br />--------------------------------------------------------<br /><br />💖 ABOUT ME <br /><br />Hi! My name is Jasmine I am 25 and located outside of Philadelphia, Pennsylvania. I am a Penn State Graduate with a Business Degree. Currently I am a full time YouTuber with a huge passion for all things beauty. I am half Puerto Rican/half Guatemalan &amp; I speak fluent Spanish. I have a beauty channel (JuicyJas) but on this channel I share with you random footage of my daily life and more lifestyle content. You will sometimes see my husband Hector and our pup Bernard who is a pitbull boxer mix (we adopted him December 2018) I hope you enjoy all the randomness! SUBSCRIBE for weekly vlogs 💕<br /><br />--------------------------------------------------------<br /><br />--- CAMERA I USE FOR VLOGS: Sony ZV-1 <a rel="nofollow" target="blank" href="https://go.magik.ly/ml/yqx8/">https://go.magik.ly/ml/yqx8/</a> <br />--- MUSIC I USE: <a rel="nofollow" target="blank" href="https://www.epidemicsound.com/music/featured/">https://www.epidemicsound.com/music/featured/</a><br /><br />➤ For business inquiries: juicyyyyjas@yahoo.com<br /><br />My PO BOX --<br /><br />Jasmine <br />PO BOX 92 <br />Birdsboro, PA 19508 <br /><br />P.S This vlog is not sponsored / some links are affiliate which means if you shop using my links I make a small % of commission. Thank you all for your support ♡<br /><br />XO,<br /><br />Jasmine | JuicyJas ♡{% endraw %}
