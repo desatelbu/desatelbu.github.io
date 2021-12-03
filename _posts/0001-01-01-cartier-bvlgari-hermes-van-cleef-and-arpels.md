@@ -1,0 +1,15 @@
+---
+title: "CARTIER, BVLGARI, HERMES & VAN CLEEF AND ARPELS JEWELLERY REVIEW"
+image: "https:\/\/i.ytimg.com\/vi\/YTpmtgJluyk\/hqdefault.jpg"
+vid_id: "YTpmtgJluyk"
+categories: "Howto-Style"
+tags: ["Cartier","Cartier jewellery","Cartier jewellery collection"]
+date: "2021-12-03T14:02:40+03:00"
+vid_date: "2021-12-02T15:00:13Z"
+duration: "PT11M38S"
+viewcount: "1747"
+likeCount: "112"
+dislikeCount: "4"
+channel: "Black and Gold Style"
+---
+{% raw %}CARTIER, BVLGARI, HERMES &amp; VAN CLEEF AND ARPELS JEWELLERY REVIEW<br /><br />#Cartier #VanCleefAndArpels #Bvlgari<br /><br />Instagram: @blackandgoldstyle <br /><br />Hey guys,<br /><br />In today’s video I am reviewing Cartier, Bvlgari, Hermes &amp; Van Cleef and Arpels jewellery. This is a highly requested video. I hope that you will like it and will find it interesting.<br /><br />Please let me know which jewellery you prefer and what’s currently on your wish list? <br /><br />I hope that you will like this video.<br /><br />Please consider giving it a thumbs up, I would really appreciate it. <br /><br />Fabric that helps to remove scratches on Cartier yellow gold jewelry: <a rel="nofollow" target="blank" href="https://amzn.to/2GUKNiL">https://amzn.to/2GUKNiL</a><br /><br />Related videos: <br /><br />VAN CLEEF AND ARPELS WISH LIST: <a rel="nofollow" target="blank" href="https://youtu.be/Z2scYVrkeGE">https://youtu.be/Z2scYVrkeGE</a><br /><br />CARTIER JEWELRY WISH LIST: <a rel="nofollow" target="blank" href="https://youtu.be/vxOsM-fHZ-8">https://youtu.be/vxOsM-fHZ-8</a><br /><br />NEW IN VAN CLEEF AND ARPELS, CHOPARD &amp; CHAUMET: <a rel="nofollow" target="blank" href="https://youtu.be/MdrpLvDT4WI">https://youtu.be/MdrpLvDT4WI</a><br /><br />VAN CLEEF AND ARPELS UNBOXING GUILLOCHE EARRINGS: <a rel="nofollow" target="blank" href="https://youtu.be/UyV5fvCQ460">https://youtu.be/UyV5fvCQ460</a><br /><br />VAN CLEEF AND ARPELS SHOPPING VLOG: <a rel="nofollow" target="blank" href="https://youtu.be/1kzgaWK52_w">https://youtu.be/1kzgaWK52_w</a><br /><br />BVLGARI SHOPPING VLOG - part 1: <a rel="nofollow" target="blank" href="https://youtu.be/cOcAvpGr3cI">https://youtu.be/cOcAvpGr3cI</a><br /><br />BVLGARI SHOPPING VLOG - part 2: <a rel="nofollow" target="blank" href="https://youtu.be/fiJ44pBKNIE">https://youtu.be/fiJ44pBKNIE</a><br /><br />LUXURY COLLECTIVE HAUL - Fendi &amp; Gucci: <a rel="nofollow" target="blank" href="https://youtu.be/pMcuBmf__98">https://youtu.be/pMcuBmf__98</a><br /><br />LOUIS VUITTON &amp; GUCCI VLOG - UNBOXING : <a rel="nofollow" target="blank" href="https://youtu.be/mX9oBKACq_M">https://youtu.be/mX9oBKACq_M</a><br /><br />Bvlgari B Zero 1 &amp; Serpenti shopping | Cartier love rings and bracelets: <a rel="nofollow" target="blank" href="https://youtu.be/TgtW2LvVaec">https://youtu.be/TgtW2LvVaec</a><br /><br />Disclaimer: <br />This video is NOT SPONSORED. All the items mentioned in the video were purchased with my own money. <br />Some of the links are affiliated. However you are not charged anything. A small percentage of the sale will go to the person that created the link.{% endraw %}
