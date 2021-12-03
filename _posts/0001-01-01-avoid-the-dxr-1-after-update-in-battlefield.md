@@ -1,0 +1,15 @@
+---
+title: "AVOID the DXR-1 After Update in Battlefield 2042... (New Scopes)"
+image: "https:\/\/i.ytimg.com\/vi\/jHz-KGvNTRE\/hqdefault.jpg"
+vid_id: "jHz-KGvNTRE"
+categories: "Gaming"
+tags: ["Battlefield sniper","Battlefield sniping","Battlefield 2042 sniper"]
+date: "2021-12-04T00:30:37+03:00"
+vid_date: "2021-12-03T16:30:04Z"
+duration: "PT15M45S"
+viewcount: "34051"
+likeCount: "1605"
+dislikeCount: "38"
+channel: "Stodeh"
+---
+{% raw %}So the DXR-1 Sniper is currently not working after the New Battlefield 2042 Update. They also added new scopes for the 4x, 6x and 10x scope. Hope they fix the issues! All clips from my livestream: <a rel="nofollow" target="blank" href="https://www.twitch.tv/stodeh">https://www.twitch.tv/stodeh</a><br /><br />How to Snipe in 2042: <a rel="nofollow" target="blank" href="https://youtu.be/cBhtw91Y8KY">https://youtu.be/cBhtw91Y8KY</a><br />Best 2042 Settings: <a rel="nofollow" target="blank" href="https://youtu.be/RPyimpdzA3U">https://youtu.be/RPyimpdzA3U</a><br />Fast levelling in 2042: <a rel="nofollow" target="blank" href="https://youtu.be/TESQatXNix8">https://youtu.be/TESQatXNix8</a><br /><br />Powered by GFUEL energy, use code STOD for 10-30% off: <a rel="nofollow" target="blank" href="http://gfuel.ly/3eplyUd">http://gfuel.ly/3eplyUd</a><br />Want a MAX Performance gaming PC? Check out PCSpecialist: <a rel="nofollow" target="blank" href="http://pcspeciali.st/stodeh">http://pcspeciali.st/stodeh</a><br /><br />🐦Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/StodehTV">https://www.twitter.com/StodehTV</a><br />📷Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/Stodeh">https://www.instagram.com/Stodeh</a><br />Join my discord community!: <a rel="nofollow" target="blank" href="https://discord.gg/0bzvjAj9Q8YzHAbi">https://discord.gg/0bzvjAj9Q8YzHAbi</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/Stodeh">https://www.facebook.com/Stodeh</a><br /><br />Stodeh's Keyboard US: <a rel="nofollow" target="blank" href="https://amzn.to/2RDH0cQ">https://amzn.to/2RDH0cQ</a><br />UK:<a rel="nofollow" target="blank" href="https://amzn.to/37FjiCm">https://amzn.to/37FjiCm</a><br />Stodeh's Headphones US: <a rel="nofollow" target="blank" href="https://amzn.to/2tanrPV">https://amzn.to/2tanrPV</a><br />UK: <a rel="nofollow" target="blank" href="https://amzn.to/2RGAxhn">https://amzn.to/2RGAxhn</a><br />Stodeh's Mouse US: <a rel="nofollow" target="blank" href="https://amzn.to/3aSu5v5">https://amzn.to/3aSu5v5</a><br />UK: <a rel="nofollow" target="blank" href="https://amzn.to/2SdlhHR">https://amzn.to/2SdlhHR</a><br /><br />This channel is all about snipers, sniping and FPS shooters! I mainly do Battlefield 2042 Sniping but I also play Call of Duty, Battlefront and I love Battle Royale. I often play solos, duos and squads on my livestream. I have 1000 hours experience in every Battlefield and I hope to play more FPS games in 2021. I hope you enjoy my 2042 sniper gameplay as much as I do making it.{% endraw %}
