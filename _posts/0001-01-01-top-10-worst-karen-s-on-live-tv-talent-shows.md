@@ -1,0 +1,15 @@
+---
+title: "TOP 10 WORST 'KAREN'S ON LIVE TV Talent Shows!"
+image: "https:\/\/i.ytimg.com\/vi\/0VFT--aKReU\/hqdefault.jpg"
+vid_id: "0VFT--aKReU"
+categories: "Entertainment"
+tags: ["agt results","america's got talent","agt eliminations"]
+date: "2021-12-03T08:54:09+03:00"
+vid_date: "2021-12-02T22:45:01Z"
+duration: "PT14M22S"
+viewcount: "3804"
+likeCount: "183"
+dislikeCount: "22"
+channel: "Talent Recap"
+---
+{% raw %}TOP ACTS | Episode 9 | TOP 10 WORST 'KAREN'S ON LIVE TV Talent Shows! | Talent Recap<br /><br />Intro - 0:00<br />1. Koby - 1:03<br />2. Mary Iaconelli - 2:07<br />3. Tamika - 3:23<br />4. Lamar - 4:38<br />5. Mason Noise - 6:03<br />6. Kayvon Zand - 6:59<br />7. Pat Ford - 8:32<br />8. Michael Lewis - 9:51<br />9.  Stephanies Mom - 10:56<br />10. Eric Perry 12:08<br />Outro - 13:15<br /><br /><br /><br /><br />#TOP10 #TalentShowKarens #TalentRecap<br /><br />For more HD videos, news, analysis and recaps of your favorite Talent show moments – please subscribe &amp; follow Talent Recap:<br /><br /><a rel="nofollow" target="blank" href="https://talentrecap.com/​">https://talentrecap.com/​</a><br /><br />ABOUT TALENT RECAP'S TOP ACTS<br />This new series on the   @Talent Recap   network re-lives the craziest, hottest, funniest.... moments that happened on LIVE TV. Watch, laugh, cry and have fun!!<br />To watch the CRAZIEST ACCIDENT on LIVE TV - HERE: <a rel="nofollow" target="blank" href="https://youtu.be/lf3S3l5EcXQ">https://youtu.be/lf3S3l5EcXQ</a><br /><br />HOSTED BY BILLY BLANKS Jr.:<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/billyblanksjr/">https://www.instagram.com/billyblanksjr/</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@billyblanksjr">https://www.tiktok.com/@billyblanksjr</a><br /><br />TALENT RECAP ON SOCIAL:<br />YouTube: <a rel="nofollow" target="blank" href="https://goo.gl/6pybnw​">https://goo.gl/6pybnw​</a><br />Like: <a rel="nofollow" target="blank" href="https://www.facebook.com/talentrecap/​">https://www.facebook.com/talentrecap/​</a><br />Follow: <a rel="nofollow" target="blank" href="https://twitter.com/TalentRecap​">https://twitter.com/TalentRecap​</a><br />Google+: <a rel="nofollow" target="blank" href="https://goo.gl/jR9eS5​">https://goo.gl/jR9eS5​</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/talentrecap/​">https://www.instagram.com/talentrecap/​</a><br /><br />ABOUT TALENT RECAP <br />Talent Recap is the #1 independent website which is exclusively dedicated to the fans of the most popular talent shows around the world. As passionate fans of these shows, we provide news, analysis and fan engagement on America’s Got Talent, Britain’s Got Talent, The Voice, The X Factor, American Idol, The Four, The Masked Singer, The World’s Best and its contestants.<br /><br />America's Got Talent 2020<br /><a rel="nofollow" target="blank" href="https://goo.gl/e12UJ8​">https://goo.gl/e12UJ8​</a><br /><br />America's Got Talent News &amp; Recaps<br /><a rel="nofollow" target="blank" href="https://goo.gl/e12UJ8isode">https://goo.gl/e12UJ8isode</a> 69 | Talent Recap{% endraw %}
