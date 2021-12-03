@@ -1,0 +1,15 @@
+---
+title: "How to chop vocal samples *LIKE A PRO* (Auto-Tune Slice)"
+image: "https:\/\/i.ytimg.com\/vi\/MLZVPHB64X8\/hqdefault.jpg"
+vid_id: "MLZVPHB64X8"
+categories: "Music"
+tags: ["l.dre","auto-tune slice","how to chop vocals"]
+date: "2021-12-03T22:17:30+03:00"
+vid_date: "2021-12-03T16:00:10Z"
+duration: "PT10M58S"
+viewcount: "830"
+likeCount: "133"
+dislikeCount: "2"
+channel: "L.Dre"
+---
+{% raw %}In this video I show you a new way to chop vocals with Antares Auto-Tune Slice!! Enter the giveaway here - <a rel="nofollow" target="blank" href="https://ffm.to/autotune.oyd">https://ffm.to/autotune.oyd</a><br /><br />Try the plug-in here - <a rel="nofollow" target="blank" href="https://www.antarestech.com/product/auto-tune-slice/">https://www.antarestech.com/product/auto-tune-slice/</a><br /><br />Cop my new drum kit here - <a rel="nofollow" target="blank" href="https://prodbyldre.com">https://prodbyldre.com</a><br />_____________________________<br />STREAM MY MUSIC:<br /><br />Apple Music → <a rel="nofollow" target="blank" href="https://apple.co/2CcjCOs">https://apple.co/2CcjCOs</a><br />Spotify → <a rel="nofollow" target="blank" href="https://spoti.fi/2Zvldrx">https://spoti.fi/2Zvldrx</a><br />Soundcloud → <a rel="nofollow" target="blank" href="https://soundcloud.com/ldre">https://soundcloud.com/ldre</a><br /><br />COP SOME SAUCE BY L.DRE:<br /><br />My Sound kits → <a rel="nofollow" target="blank" href="https://prodbyldre.com">https://prodbyldre.com</a><br />i am a table Merch →<a rel="nofollow" target="blank" href="https://shop.iamatable.com">https://shop.iamatable.com</a><br />Producer Merch → <a rel="nofollow" target="blank" href="https://prodbyldre.com/collections/merch">https://prodbyldre.com/collections/merch</a><br /><br />📲CONNECT WITH ME:<br /><br />Official Website → www.iamatable.com<br />Instagram → www.instagram.com/ldrethegiant<br />Twitter → www.twitter.com/ldrethegiant<br />TikTok → @Ldrethegiant<br />Twitch → <a rel="nofollow" target="blank" href="https://www.twitch.tv/ldretv">https://www.twitch.tv/ldretv</a><br />Discord→ <a rel="nofollow" target="blank" href="https://discord.gg/gR2VdXJSxp">https://discord.gg/gR2VdXJSxp</a><br /><br />Get 7% off your first year of DistroKid  - <a rel="nofollow" target="blank" href="http://distrokid.com/vip/prodbyldre">http://distrokid.com/vip/prodbyldre</a><br /><br />Shop crazy plugin deals - <a rel="nofollow" target="blank" href="https://ffm.to/pluginboutique.oyd">https://ffm.to/pluginboutique.oyd</a><br /><br />10% Off Mixed In Key plug-ins (Captain plug ins) with code LDRE10 - <a rel="nofollow" target="blank" href="https://mixedinkey.com">https://mixedinkey.com</a><br /><br />🎹MY MUSIC GEAR: <br />www.amazon.com/shop/ldrethegiant<br /><a rel="nofollow" target="blank" href="https://amzn.to/2DD9wqk">https://amzn.to/2DD9wqk</a><br /><br />🎥MY CAMERA GEAR: <br />4K SET UP - <a rel="nofollow" target="blank" href="https://amzn.to/317AvlO">https://amzn.to/317AvlO</a><br />HD SET UP - <a rel="nofollow" target="blank" href="https://amzn.to/2Deopj2">https://amzn.to/2Deopj2</a>{% endraw %}
