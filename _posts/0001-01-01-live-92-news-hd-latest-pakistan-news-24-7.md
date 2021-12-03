@@ -1,0 +1,15 @@
+---
+title: "LIVE: 92 News HD | Latest Pakistan News 24\/7 | Headlines | Bulletins | Special & Exclusive Coverage"
+image: "https:\/\/i.ytimg.com\/vi\/sx4YILakzmw\/hqdefault.jpg"
+vid_id: "sx4YILakzmw"
+categories: "News-Politics"
+tags: ["92 news live","ary news live","geo news live"]
+date: "2021-12-03T07:56:12+03:00"
+vid_date: "2021-12-02T18:58:45Z"
+duration: "P0D"
+viewcount: "19603"
+likeCount: "291"
+dislikeCount: "15"
+channel: "92 News HD"
+---
+{% raw %}#92NewsHD Live, Pakistan’s first HD Plus news channel brings you the crispiest live news, headlines, delineate and relevant updates, current affairs, viral news, trending news, religion, sports, lifestyle, entertainment, health, weather, technology, business, morning show, a wide range of high raising political talk shows including MUQABIL, HARD TALK PAKISTAN, SUBH-E-NOOR, SUBH SAVARAY PAKISTAN, The LAST HOUR, 92 At 8, CROSS TALK, NIGHT EDITION, HO KYA RAHA HAI and much more to look forward. <br /><br />92 News HD Programs: <br />• 92 Headlines - <a rel="nofollow" target="blank" href="https://goo.gl/GvWqJW">https://goo.gl/GvWqJW</a><br />• Muqabil - <a rel="nofollow" target="blank" href="https://goo.gl/DzhdTP">https://goo.gl/DzhdTP</a><br />• Hard Talk Pakistan- <a rel="nofollow" target="blank" href="https://bit.ly/2Js82Qx">https://bit.ly/2Js82Qx</a><br />• 92 At 8 - <a rel="nofollow" target="blank" href="https://goo.gl/41gtQU">https://goo.gl/41gtQU</a><br />• Night Edition - <a rel="nofollow" target="blank" href="https://goo.gl/vBTLxV">https://goo.gl/vBTLxV</a><br />• subh e noor - <a rel="nofollow" target="blank" href="https://goo.gl/FSYxYk">https://goo.gl/FSYxYk</a><br />• Ho Kya Raha Hai – <a rel="nofollow" target="blank" href="https://goo.gl/9qdgid">https://goo.gl/9qdgid</a><br />• SUBH SAVARAY PAKISTAN - <a rel="nofollow" target="blank" href="https://bit.ly/2vOELHT">https://bit.ly/2vOELHT</a><br />• Cross Talk - <a rel="nofollow" target="blank" href="https://bit.ly/2Yel9sJ">https://bit.ly/2Yel9sJ</a><br /><br /><br />Team Members:<br />Haroon Ur Rasheed | Asad Ullah Khan | Irshad Ahmed Arif | Rana Azeem | Saadia Afzaal | Sarwat Valim | Faisal Abbasi | Shazia Zeeshan | Moeed Pirzada | Junaid Iqbal<br /><br />Subscribe Our Youtube Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCsgC5cbz3DE2Shh34gNKiog?sub_confirmation=1">https://www.youtube.com/channel/UCsgC5cbz3DE2Shh34gNKiog?sub_confirmation=1</a><br /><br />Visit our Website:                           <a rel="nofollow" target="blank" href="https://92newshd.tv">https://92newshd.tv</a><br />Follow us on Twitter:                     <a rel="nofollow" target="blank" href="https://twitter.com/92newschannel">https://twitter.com/92newschannel</a><br />Like us on Facebook:                    <a rel="nofollow" target="blank" href="https://www.facebook.com/92NewsHD">https://www.facebook.com/92NewsHD</a><br />Subscribe us Dailymotion:           <a rel="nofollow" target="blank" href="http://www.dailymotion.com/92news">http://www.dailymotion.com/92news</a><br /><br /><br />#92NewsLive<br />#BreakingNews<br />#92NewsHeadlines<br />#BULLETINS<br />#Pakistan{% endraw %}
