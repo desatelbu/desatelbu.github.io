@@ -1,0 +1,15 @@
+---
+title: "Roberto - For So Long (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/1ST7XvgKYQ0\/hqdefault.jpg"
+vid_id: "1ST7XvgKYQ0"
+categories: "Music"
+tags: ["Roberto","Roberto Zambia","Roberto Vevo"]
+date: "2021-12-03T09:20:58+03:00"
+vid_date: "2021-11-30T13:00:11Z"
+duration: "PT3M11S"
+viewcount: "42163"
+likeCount: "3356"
+dislikeCount: "37"
+channel: "Roberto Zambia"
+---
+{% raw %}Music Video for “For So Long&quot; by Roberto.<br /><br />Mvesesani. <a rel="nofollow" target="blank" href="https://mvesesani.com/music/roberto-for-so-long/">https://mvesesani.com/music/roberto-for-so-long/</a><br />Stream &quot;For So Long&quot; on all platforms: <br /><a rel="nofollow" target="blank" href="https://smarturl.it/RobertoFSL">https://smarturl.it/RobertoFSL</a><br /><br />Listen to Roberto's album &quot;Journey to the East&quot; here: <a rel="nofollow" target="blank" href="https://smarturl.it/RobertoJTTE">https://smarturl.it/RobertoJTTE</a><br />  <br />Subscribe to the official Roberto Zambia YouTube channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/RobertoZambiaOfficial">https://www.youtube.com/c/RobertoZambiaOfficial</a><br /><br />Produced by. BrathaHood Films<br />Director. Roberto<br />Video Edit. Lanzee Cooper<br />1st DOP. James (Jae Zambia) <br />2nd DOP. Lanzee Cooper. <br />Camera Handling. James (Jae Zambia)<br />Grade / Color. Lanzee Cooper<br />BTS 1. Thomas (Great Minds Photography)<br />BTS 2. Cheelo (Studio 31 Photography)<br />Lead Model. Jasmine Janet<br />2nd Model. Christine <br />Roberto Outfits. Yebo Designs <br />Styling. (Jasmine) Don Estelle - Styling Coordinator. Jay Rox <br />MUA. Shuko (April Glamzone)<br />Coordinators. K Jay &amp; Grace Pacy <br />Gaffers. Thomas<br />Additional Lighting. DJ 800 <br />Artwork. Nasiele (4Sho Media) &amp; Peter (Artex Media)<br />Lyric Video. Andrew / Trigga Dopely (Focus Media)<br />Audio Mix Reference. Paul Kruz <br /> <br />CONNECT WITH ROBERTO<br />►Instagram - <a rel="nofollow" target="blank" href="https://instagram.com/robertozambia">https://instagram.com/robertozambia</a> <br />►TikTok - <a rel="nofollow" target="blank" href="https://www.tiktok.com/robertozambia">https://www.tiktok.com/robertozambia</a> <br />►Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/robertozambia">https://twitter.com/robertozambia</a> <br />►Facebook - <a rel="nofollow" target="blank" href="https://facebook.com/officialroberto">https://facebook.com/officialroberto</a> <br />►Audiomack - <a rel="nofollow" target="blank" href="https://audiomack.com/robertozambia">https://audiomack.com/robertozambia</a><br />►Soundcloud - <a rel="nofollow" target="blank" href="https://soundcloud.com/robertozambia">https://soundcloud.com/robertozambia</a><br /><br />Management: <br />E-Mail: robertozambia@yahoo.com <br />+260972492112<br /><br />#Roberto #ForSoLong #Superstar<br /><br />© 2021 BrathaHood Music, under exclusive license to BrathaHood Music Inc.{% endraw %}
