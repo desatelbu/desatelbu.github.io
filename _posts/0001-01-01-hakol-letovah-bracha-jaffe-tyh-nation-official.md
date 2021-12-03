@@ -1,0 +1,15 @@
+---
+title: "Hakol Letovah | Bracha Jaffe | TYH Nation (Official Music Video) For Women & Girls Only"
+image: "https:\/\/i.ytimg.com\/vi\/F_D19EEwp8M\/hqdefault.jpg"
+vid_id: "F_D19EEwp8M"
+categories: "Music"
+tags: ["TYH","TYH Nation","Thank You Hashem"]
+date: "2021-12-03T17:05:18+03:00"
+vid_date: "2021-12-02T23:55:31Z"
+duration: "PT4M43S"
+viewcount: "4163"
+likeCount: "95"
+dislikeCount: "8"
+channel: "Thank You Hashem"
+---
+{% raw %}TYH Nation Presents<br />Hakol Letovah<br />@Bracha Jaffe <br /><br />Hakol Letova- “Everything is for the good” is a simple phrase that can change your life. <br /><br />Realizing that Hashem is orchestrating your moments, down to the smallest detail, can allow you to tap into a deep sense of calm and develop a positive attitude towards the challenges which inevitably appear in your life.<br /><br />Whether appointments are canceled or we are stuck in traffic, whether the kids act up or our delivery is delayed, you will no longer be disappointed or frustrated. <br /><br />Know that this is from HASHEM and His desire is for only good for YOU. <br /><br />Being a part of Bnei Yisroel means living by the words of Yakov Avinu when he said Yesh Li Kol. Live with the realization that all that you need, you already have, and all that you have is all that you need. <br /><br />Originally released for Chanukah 2021, this song eternalizes the feeling of the Jews as they fought their way back into the Beis Hamikdash hoping to re-dedicate their temple. They found only one small jug of oil, which should have been extremely discouraging. But they understood this message clearly.  Regardless of how much it appears to not be , and no matter how challenging the situation, whatever HASHEM gives me is blessing. <br /><br />Internalize this deeply, and then proclaim “I know that this moment is from HASHEM, and I know that therefore, this is for the good”<br /><br />Thank You HASHEM<br /><br />----<br /><br />Farbrengable Studios / Mendy Portnoy<br />Bracha Jaffe<br /><br />Executive Producer: Shai Bachar and Bracha Jaffe<br />Musical production: Mendy Portnoy<br />Director and editor: Vadim Mechona<br />DOP: Raph Crimson<br />Production: Ishai Beit ha Lahmi, Hadas Laila<br />Styling: Shani Saban Or<br />Styling assistant: Amit Ben Nun<br />Artwork: Yakov Josephy<br /><br />Song Written by The Blumstein Brothers &amp; Mendy Portnoy<br />Music Produced and Arranged: Mendy Portnoy<br />Vocals Recorded by: Shai Bachar<br />Drums: Jamal Hopkins<br />Bass: Danny Schneiderman<br />Guitars: Hanan Rubinstein<br />Piano/Keys/Programming: Mendy Portnoy <br /><br />Musicians featured:<br />Bass Shani Shavit <br />Percussion Liron Meyuchas <br />Guitar Hadar Yaakov<br /><br />Vocals recorded by Shai Bachar <br />Mixed and Mastered by Ronen Hillel<br /><br />Choir recorded:<br />Talia Yona, Malka Russel, Judith Gerzi<br /><br /><br />Choir featured: <br />Amaresh Heli Sanka<br />Noga katz<br />Danielle Nachum<br />Jezliah Villareal<br />Now Mendel{% endraw %}
