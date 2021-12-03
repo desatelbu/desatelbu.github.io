@@ -1,0 +1,15 @@
+---
+title: "How to Build a 7-Figure Clothing Brand | Brand Tips from Tim & Gabe of Art of Homage & Entrebeliever"
+image: "https:\/\/i.ytimg.com\/vi\/vNsU42X_dsg\/hqdefault.jpg"
+vid_id: "vNsU42X_dsg"
+categories: "People-Blogs"
+tags: ["clothing brand","clothing line","how to start a clothing brand"]
+date: "2021-12-03T13:04:19+03:00"
+vid_date: "2021-12-02T03:55:32Z"
+duration: "PT45M52S"
+viewcount: "1708"
+likeCount: "157"
+dislikeCount: "0"
+channel: "WRLDINVSN Clothing Company"
+---
+{% raw %}OWNING AND OPERATING A 7-FIGURE CLOTHING BRAND! Marlon and Nick sit down to talk with Tim Gabe of Art of Homage Faith Based Clothing Brand &amp; Teachers of Clothing Brand Academy &quot;Entrebeliever.&quot;<br /><br />In this episode we talk about:<br />- How To Scale Your Brand Up<br />- What It's Like to Start From NOTHING<br />- Having a Huge Support System<br />- What Do You Value<br />- Adding Value To The Business<br />- Shipping Orders<br />- Facing Problems When Building a Brand<br />- Successful Tips when Starting a Clothing Brand<br /><br />This podcast features:<br />• Gabe, Founder Art Of Homage<br />• Tim, Founder Art Of Homage<br /><br /><br />0:00 - Intro<br />1:20 - What is Art Of Homage, what's y'all mission and why the company is important and inspiring? <br />5:00 - How was it when y'all first started Art Of Homage and how did y'all get the name out?<br />8:40 - What's it like starting a company as best friends?<br />16:40 - How do you handle things when you take lost?<br />19.50 - What's the difference between starting the brand earlier then starting now?<br />27:40 - How much income does Art OF Homage make daily and what's the future goals for the company?<br />35:30 - What's some of WRLDINVSN goals?<br />44:15 - Final question: What's one tip that Art Of Homage can give an upcoming business owner?<br />45:00 - What are some tips WRLDINVSN can give to upcoming clothing brands?<br /><br /><br />Starting SHOPPING! Get 20% OFF with this link:<br /><a rel="nofollow" target="blank" href="https://www.wrldinvsn.com/discount/youtubediscount">https://www.wrldinvsn.com/discount/youtubediscount</a><br />-<br />Get on our text list for EXCLUSIVE updates!<br />Text 'WRLDINVSNVIP' to 290-71<br />-<br />We started this clothing brand with only 12 shirts! Now, we are building an apparel empire! Learn how we started: <a rel="nofollow" target="blank" href="https://www.wrldinvsn.com/pages/how-we-started">https://www.wrldinvsn.com/pages/how-we-started</a><br />-<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/wrldinvsn/">https://www.instagram.com/wrldinvsn/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/wrldinvsn">https://twitter.com/wrldinvsn</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/wrldinvsn">https://www.facebook.com/wrldinvsn</a><br />-<br />#7FigureBrand #ArtOfHomage #WRLDINVSN #Successful #ClothingBrand #HowToBuildAClothingBrand #HowToStartAClothingBrand #BuildingABrand #StartingABrand #Podcast #SuccessfulClothingBrand #ClothingLine #BrandTips  #ActivateYourVision{% endraw %}
