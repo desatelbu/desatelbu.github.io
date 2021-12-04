@@ -1,0 +1,15 @@
+---
+title: "COLORS X EDITORIAL | BRAZIL"
+image: "https:\/\/i.ytimg.com\/vi\/LHbA_UGa1w4\/hqdefault.jpg"
+vid_id: "LHbA_UGa1w4"
+categories: "Music"
+tags: ["colorsstudios","colorsberlin","All Colors Shows"]
+date: "2021-12-05T02:17:05+03:00"
+vid_date: "2021-12-04T14:00:06Z"
+duration: "PT2M10S"
+viewcount: "9421"
+likeCount: "825"
+dislikeCount: "31"
+channel: "COLORS"
+---
+{% raw %}Editorial content now online: <br /><br /><a rel="nofollow" target="blank" href="https://colorsxstudios.com/editorial">https://colorsxstudios.com/editorial</a> <br /> <br />For the past 5 years, COLORS has provided artists with a blank canvas to perform against, allowing them to share their art free from distraction. However, these artists come from diverse backgrounds that influence and are important to understanding their work. With this in mind, COLORS is launching a new editorial platform which will be home to articles, interviews, and multimedia content digging deeper into the countries our artists come from, reflecting our mission to provide space, accessibility, and representation for all forms of creativity.<br /> <br />So, as we headed to Sao Paulo for a special production period in October 2021, we sought out inspiring individuals to give us their insights on Brazilian society, visual art, religion, and politics. The result has been a wide range of articles and interviews with Brazil’s LGBTQIA+ community, followers of the Afro-Brazilian religion Candomblé, and female MCs and DJs fighting for recognition in the Baile funk scene to name a few, all of which will be released gradually on the new editorial section of our website.<br />Discover the first stories here: <a rel="nofollow" target="blank" href="https://colorsxstudios.com/editorial">https://colorsxstudios.com/editorial</a><br /> <br />Directed by: Larissa Zaidan<br />Produced by: Stink Films<br />Screenplay: Julia Reis and Larissa Zaidan<br /> <br />Voice: Laysa<br />Cast: Julia Reis<br />Cinematography: Caio Nigro<br />1st Cam assist: Tadeu Sampaio<br />2nd Cam assist: Lais Teixeira<br />Movi operator: Daniel de Santi, Laurent Regalo, Caio Nigro<br />Assist Gaffer: Thomas Luz<br />Styling: Lay Moretti<br />Assist styling: Duh Duh Pereira <br />Original Soundtrack: Edu Luke and Cris Botarelli (Hefty)<br />Featured Vocalist: Lino Krizz <br />Color Grading: Lucas Silva Campos<br />Coord Post Production: Roberta Bruzadin and Marcela Antunes<br />Editor: Victor Cohen<br />Designer: Rollinos<br /> <br />Executive Producer: Renata Dumont<br />Head of production: Rafael Rocha<br />Line Producer: Clara Nunes <br />Assist production: Thais Gazoli<br />Drivers: Ademir Costa and Marcio Araujo<br />Security: Francisco Carvalho and Alex Duarte<br /> <br />Starring: Laysa, Vinicus Rodrigues, Kelvin Castro, Gabb Cabo Verde, Irmãs de Pau (Isma and Vita Pereira), Kael Studart, Maria de Lourdes Lopes Reis, Manoel Matias Reis<br /> <br />Thanks to: Felix Glasmeyer, Ênio Cesar, Irayó Swahili, Rodrigo Guima, Dominique Vieira, Cida and Darvin (Atrevidu’s Restaurant), Gabrielle Neves, Lucas Rodrigo, Tico Cruz, Marc Films, Locall, Carla (Bar dos Amigos), Gabriel Sales{% endraw %}
