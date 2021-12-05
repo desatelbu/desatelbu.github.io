@@ -1,0 +1,15 @@
+---
+title: "(URGENT) 🚨 IMF Warns Of Economic Collapse!"
+image: "https:\/\/i.ytimg.com\/vi\/qaDSncDbM6I\/hqdefault.jpg"
+vid_id: "qaDSncDbM6I"
+categories: "Howto-Style"
+tags: ["(URGENT)","Warns","Economic"]
+date: "2021-12-05T17:37:52+03:00"
+vid_date: "2021-12-04T00:00:30Z"
+duration: "PT17M59S"
+viewcount: "53793"
+likeCount: "3832"
+dislikeCount: "68"
+channel: "J Bravo"
+---
+{% raw %}Major Warning! The IMF on Thursday urged countries to extend and improve their debt relief initiative. The eurodollar yield curve inverted! This means an economic slowdown. Be prepared an protect your wealth.<br /><br />🚨 CRYPTO &amp; STOCK UNIVERSITY COURSE! Only $200 Today Only! Limited Coupon Codes:<br /><a rel="nofollow" target="blank" href="https://billstenzel.teachable.com/p/crypto-academy?coupon_code=36">https://billstenzel.teachable.com/p/crypto-academy?coupon_code=36</a><br /><br />🚨  MY DAILY STOCK WATCHLIST COURSE (Only $1 a Day) <a rel="nofollow" target="blank" href="https://billstenzel.teachable.com/p/bravo-s-daily-stock-watchlist/?preview=logged_out">https://billstenzel.teachable.com/p/bravo-s-daily-stock-watchlist/?preview=logged_out</a><br /><br />⚠️ STOCK MARKET COURSE! I'm Giving Almost 70% OFF TODAY! <br /><a rel="nofollow" target="blank" href="https://billstenzel.teachable.com/p/dominate-stocks/?product_id=2094515&amp;coupon_code=180&amp;preview=logged_out">https://billstenzel.teachable.com/p/dominate-stocks/?product_id=2094515&amp;coupon_code=180&amp;preview=logged_out</a>  [Limited Time Offer]<br /><br />⚠️My Business Course “Dominate Amazon” [70%]: <a rel="nofollow" target="blank" href="https://billstenzel.teachable.com/p/dominate-amazon/?product_id=1125409&amp;coupon_code=277&amp;preview=logged_out">https://billstenzel.teachable.com/p/dominate-amazon/?product_id=1125409&amp;coupon_code=277&amp;preview=logged_out</a><br /><br />Trading View: <a rel="nofollow" target="blank" href="https://www.tradingview.com/gopro/?share_your_love=billstenzel">https://www.tradingview.com/gopro/?share_your_love=billstenzel</a> <br /><br />Lux Algo: <a rel="nofollow" target="blank" href="https://www.luxalgo.com/?rfsn=6058583.29c6d7">https://www.luxalgo.com/?rfsn=6058583.29c6d7</a><br /><br />Earn up to 8.6% APY with a BlockFi Interest Account and Get Up To $250 with a Deposit of $25 or More - And YES I use Blockfi: <a rel="nofollow" target="blank" href="https://blockfi.com/bravo">https://blockfi.com/bravo</a><br /><br />Free Stocks From Webull! <a rel="nofollow" target="blank" href="https://www.webull.com/activity/get-free-stocks?inviteCode=gATn4C9WITEM&amp;inviteSource=wb_kol_us&amp;source=main">https://www.webull.com/activity/get-free-stocks?inviteCode=gATn4C9WITEM&amp;inviteSource=wb_kol_us&amp;source=main</a> <br /><br />DISCLAIMER: Everything I say is for entertainment purposes. Do not take ANYTHING I say as financial advice, I am not a financial advisor, I am just a clown with a youtube channel.  The stock market is too risky for anyone to enter.  The mere fact that 90% of people lose money in the stock market should be your warning to stay away from it{% endraw %}
