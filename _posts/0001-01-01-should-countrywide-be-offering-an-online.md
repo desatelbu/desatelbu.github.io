@@ -1,0 +1,15 @@
+---
+title: "Should Countrywide Be Offering an Online Alternative to their High St Operation? (3min video)"
+image: "https:\/\/i.ytimg.com\/vi\/7S1Gj9UvO9c\/hqdefault.jpg"
+vid_id: "7S1Gj9UvO9c"
+categories: "Comedy"
+tags: ["yt:cc=on"]
+date: "2021-12-06T01:11:16+03:00"
+vid_date: "2017-04-04T14:21:19Z"
+duration: "PT3M44S"
+viewcount: "1029"
+likeCount: "10"
+dislikeCount: "2"
+channel: "Christopher Watkin"
+---
+{% raw %}Should High St Agents Offer an Online Package as well?<br /><br />It's kind of appealing to diversify your estate agency offering, particularly when it comes to battling the online/hybrid threat.<br /><br />Beat the Purp’s and Yop’s at their own game<br /><br />Another alternative, another way of dong estate agency.<br /><br />Something for everyone.<br /><br />High Street and Online – how awesome is that?<br /><br />The Tesco’s and Sainsbury’s of this world tried it with their Savers and Value ranges a few years ago to counteract Lidl and Aldi<br /><br />But even after mega advertising of these Savers/Value ranges - they still today only account for 2% of their turnover.<br /><br />And if you read the press – most the big supermarkets are reported to be cutting back on those ranges throughout 2015 and 2016<br /><br />Why?<br /><br />Could it be because it cheapened the brand?<br /><br />Yes, that is a valid point.<br /><br />But I think its deeper than that<br /><br />Let me ask you a question …<br /><br />You have a choice … <br /><br />1. Do your big shop shopping at Aldi and Lidl every week<br />2. Do your shopping at Tescos/Sainsburys and fill your basket with only Value Products every week<br /><br />My intuition tells me, whilst the prices will be similar (Value range vs Aldi/Lidl) .. the majority would plump for the first option (Aldi/Lidl).<br /><br />Go on .. admit it to me .. but in your heart of hearts .. who reading this has made a derogatory thought to themselves, when they pass in the aisles a fellow shopper with their Sainsbury shopping trolley full of those Orange and White Savers labels items  or the White, Blue and Red Value labelled items from Tesco’s?<br /><br />As opposed to the Aldi and Lidls, where its everyone together, two fingers up at the big over priced establishment supermarkets.<br /><br />And that us my fear of High Street operations offering an online package – using their own High Street brand <br /><br />I honestly believe the majority of big bosses of the Corporates are running around like headless chickens – panicking about Purplebricks and Yopa.<br /><br />For Pete’s sake. talk in the industry is they only have 4% to 5% of the market… and that has hardly changed for the last 12 months.<br /><br />If you allow yourselves to be dragged down by likes of PB and Yopa into the dark pit of £800 selling fees... by offering a similar online cheap as chips package … (and here is the important bit) that runs side by side your High Street offering – instead of protecting your High St operation - you might just be creating the very thing that will kill your High Street operation{% endraw %}
