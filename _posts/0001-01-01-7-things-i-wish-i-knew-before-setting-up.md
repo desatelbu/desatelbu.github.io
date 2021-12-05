@@ -1,0 +1,15 @@
+---
+title: "7 Things I Wish I Knew BEFORE Setting Up My Airbnb Rental"
+image: "https:\/\/i.ytimg.com\/vi\/8B2H-__ReIQ\/hqdefault.jpg"
+vid_id: "8B2H-__ReIQ"
+categories: "Howto-Style"
+tags: ["shelby","church","Airbnb"]
+date: "2021-12-05T19:58:40+03:00"
+vid_date: "2021-12-04T14:45:30Z"
+duration: "PT10M17S"
+viewcount: "28275"
+likeCount: "1667"
+dislikeCount: "41"
+channel: "Shelby Church"
+---
+{% raw %}Check out the Roborock vacuums here: <br />H7: <a rel="nofollow" target="blank" href="https://cli.fm/Roborock-h7-ShelbyChurch-Amazon">https://cli.fm/Roborock-h7-ShelbyChurch-Amazon</a> <br />S7+: <a rel="nofollow" target="blank" href="https://cli.fm/Roborock-S7dock-ShelbyChurch--Amazon">https://cli.fm/Roborock-S7dock-ShelbyChurch--Amazon</a><br /><br />They are on sale now at the links above!  #Roborock  #Robotvacuum<br /><br />My merch:  <a rel="nofollow" target="blank" href="https://racquetclubresort.com">https://racquetclubresort.com</a><br /><br />This video is things I wish I knew and got before setting up my Airbnb for the first guest I’ll do an updated one after we have guests!    <br /><br /><br />Vlog Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/othershelby">https://www.youtube.com/user/othershelby</a><br /><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/shelbychurch/">https://www.instagram.com/shelbychurch/</a><br />Twitter: @shelbychurch<br />Snapchat: shelbychurch<br /><br /> Discover freelance services that fit your needs:<br /><a rel="nofollow" target="blank" href="https://fvrr.co/Shelby">https://fvrr.co/Shelby</a> <br /><a rel="nofollow" target="blank" href="https://fvrr.co/Shelby_YT">https://fvrr.co/Shelby_YT</a><br /><br />What Equipment I Use:<br />Camera: <a rel="nofollow" target="blank" href="https://bit.ly/3eBtQGL">https://bit.ly/3eBtQGL</a><br />Adapter for lenses: <a rel="nofollow" target="blank" href="https://bit.ly/2VI5fHC">https://bit.ly/2VI5fHC</a><br />Wide Lens: <a rel="nofollow" target="blank" href="https://bit.ly/2VI5fHC">https://bit.ly/2VI5fHC</a><br />Main lens: <a rel="nofollow" target="blank" href="https://bit.ly/2wQdrgn">https://bit.ly/2wQdrgn</a><br />Microphone: <a rel="nofollow" target="blank" href="https://bit.ly/2RR9lvR">https://bit.ly/2RR9lvR</a><br />Vlog camera: <a rel="nofollow" target="blank" href="https://bit.ly/3esTkWy">https://bit.ly/3esTkWy</a><br /><br />Music I use in my videos:<br /><a rel="nofollow" target="blank" href="http://share.epidemicsound.com/pl2lG">http://share.epidemicsound.com/pl2lG</a><br /><br />Get $40 Airbnb Credit: <a rel="nofollow" target="blank" href="https://www.airbnb.com/c/shelbyc12?currency=USD">https://www.airbnb.com/c/shelbyc12?currency=USD</a><br />Get a FREE Uber ride use code: &quot;ylkfn&quot;<br />Get a FREE Lyft ride use code: &quot;SHELBY360158&quot;<br />Get a FREE stock from Public: <a rel="nofollow" target="blank" href="https://public.com/user-referral?referrer=shelbychurch">https://public.com/user-referral?referrer=shelbychurch</a><br />For business inquiries please contact shelby.church@a3artistsagency.com{% endraw %}
