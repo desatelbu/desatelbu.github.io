@@ -1,0 +1,15 @@
+---
+title: "'Compulsory Covid-19 vaccines are TERRIFYING' says German analyst"
+image: "https:\/\/i.ytimg.com\/vi\/KIaRXvrf2e4\/hqdefault.jpg"
+vid_id: "KIaRXvrf2e4"
+categories: "News-Politics"
+tags: ["The Sun","news","breaking news"]
+date: "2021-12-06T11:37:22+03:00"
+vid_date: "2021-12-03T18:14:29Z"
+duration: "PT2M41S"
+viewcount: "80770"
+likeCount: "748"
+dislikeCount: "269"
+channel: "The Sun"
+---
+{% raw %}Coronavirus latest - The prospect of compulsory Covid-19 vaccines in Germany is 'terrifying' says German political analyst. <br /><br />Adding, the loss of the right to a discussion over personal health choices is the 'loss of democracy'.<br /><br />Report by Valerie Browne<br /><br />As the fourth wave of coronavirus, and the omicron variant is detected across EU countries.<br /><br />Governments are reaching for emergency plans to stop the spread of coronavirus.<br /><br />EU restrictions in the form of lockdowns and laws implementing a mandatory vaccine have been met with violent protests and unrest as populations refuse strict covid measures.<br /><br />Germany on Thursday was the latest country to announce a possible vaccine mandate, following neighbouring Austria where the entire population must be vaccinated by February next year or face heavy fines.<br /><br />The Sun talked exclusively to German Political Analyst and Journalist, Boris Reitschuster to understand the temperament, as Germany deliberates over compulsory vaccine laws.<br /><br />***Germany has mandated an unvaccinated lockdown &amp; is considering a mandatory vaccine to stop the spread of Coronavirus and protect its citizens. The NHS state the coronavirus vaccines are safe and effective and give you the best protection against COVID-19 for more information go to the NHS website ***<br /><br />Germany is also set to ban people who are not fully vaccinated from shops, pubs and restaurants in what has been dubbed a &quot;lockdown for the unvaccinated&quot;.<br /><br />The draconian measures come as Germany battles a record number of infections with intensive care units set to reach capacity by Christmas.<br /><br />Some attribute this to Germany’s low vaccination average compared to its European neighbours although many would argue a vaccine mandate is not the answer.<br /><br />The Sun newspaper brings you the latest breaking news videos and explainers from the UK and around the world<br /><br />Become a Sun Subscriber and hit the bell to be the first to know<br /><br />Read The Sun: <a rel="nofollow" target="blank" href="http://www.thesun.co.uk">http://www.thesun.co.uk</a><br />Like The Sun on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/thesun/">https://www.facebook.com/thesun/</a><br />Follow The Sun on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/TheSun">https://twitter.com/TheSun</a><br />Subscribe to The Sun on Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/discover/The_Sun/1633225139">https://www.snapchat.com/discover/The_Sun/1633225139</a><br />#Germany #Vaccine #Lockdown{% endraw %}
