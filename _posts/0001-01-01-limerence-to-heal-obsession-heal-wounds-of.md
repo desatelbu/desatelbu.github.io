@@ -1,0 +1,15 @@
+---
+title: "LIMERENCE: To Heal Obsession, Heal Wounds of Neglect"
+image: "https:\/\/i.ytimg.com\/vi\/ga4VHjKkv70\/hqdefault.jpg"
+vid_id: "ga4VHjKkv70"
+categories: "People-Blogs"
+tags: ["LIMERENCE:","Obsession,","Wounds"]
+date: "2021-12-06T15:02:07+03:00"
+vid_date: "2021-12-01T21:15:01Z"
+duration: "PT30M39S"
+viewcount: "44151"
+likeCount: "3161"
+dislikeCount: "23"
+channel: "Crappy Childhood Fairy"
+---
+{% raw %}Do You Have CPTSD? Take The QUIZ: <a rel="nofollow" target="blank" href="https://bit.ly/3Eaq8Qb">https://bit.ly/3Eaq8Qb</a><br />***<br />People whose childhood emotional needs were neglected are often drawn into &quot;limerant&quot; relationships -- an infatuation or obsession with someone unavailable, uninterested, or unknown to you. This consuming kind of love (that gives nothing back) can devastate your happiness and leave you chronically isolated.  In this video I answer a letter from a woman who has loved a man she barely knows for years. Find out how to spot the signs of limerence, and what you can do to heal.<br />***<br />Take my #1 Online Course: <br />HEALING CHILDHOOD PTSD<br /> <a rel="nofollow" target="blank" href="http://bit.ly/39NxUBo">http://bit.ly/39NxUBo</a><br /><br />DATING &amp; RELATIONSHIPS<br />My Course for People with CPTSD<br /><a rel="nofollow" target="blank" href="http://bit.ly/39sfsgZ">http://bit.ly/39sfsgZ</a><br /><br />BECOME A MEMBER<br />Get Access to ALL MY COURSES in my Membership Program.<br /><a rel="nofollow" target="blank" href="http://bit.ly/2rukHvh">http://bit.ly/2rukHvh</a><br /><br />FREE COURSE to Help Calm CPTSD SYMPTOMS<br />The DAILY PRACTICE<br /><a rel="nofollow" target="blank" href="http://bit.ly/3608opl">http://bit.ly/3608opl</a><br /><br />ARE YOU DYSREGULATED? <br />Take the QUIZ<br /><a rel="nofollow" target="blank" href="http://bit.ly/38c71Wm">http://bit.ly/38c71Wm</a><br /><br />Or take the course:<br />DYSREGULATION BOOTCAMP<br /><a rel="nofollow" target="blank" href="https://bit.ly/3t5vPtN">https://bit.ly/3t5vPtN</a><br /><br /><br />COACHING/WEBSITE/COURSES<br />Find links to Crappy Childhood Fairy programs here:<br /><a rel="nofollow" target="blank" href="https://bit.ly/3pdhF7t">https://bit.ly/3pdhF7t</a><br /><br />NEED ONLINE THERAPY?<br />If you're seeking therapy, BetterHelp can connect you with a licensed, online therapist, please visit:<br /><a rel="nofollow" target="blank" href="https://betterhelp.com/CCF">https://betterhelp.com/CCF</a><br />I receive commissions on referrals &amp; recommend services I know and trust.<br /><br />Here's the program I follow to heal overeating:<br /><a rel="nofollow" target="blank" href="http://tuneclick.brightlineeating.com/aff_c?offer_id=5&amp;aff_id=1117">http://tuneclick.brightlineeating.com/aff_c?offer_id=5&amp;aff_id=1117</a><br />I receive commissions on referrals &amp; recommend services I know and trust.<br /><br />COACHING/WEBSITE/COURSES <br />Find links to Crappy Childhood Fairy programs here:<br /><a rel="nofollow" target="blank" href="http://tuneclick.brightlineeating.com/aff_c?offer_id=5&amp;aff_id=1117">http://tuneclick.brightlineeating.com/aff_c?offer_id=5&amp;aff_id=1117</a>{% endraw %}
