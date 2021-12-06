@@ -1,0 +1,15 @@
+---
+title: "Hundreds of Thousands Sign Petition to Impeach Trump for Violating Constitution over Biz Interests"
+image: "https:\/\/i.ytimg.com\/vi\/GPc0CFIcf6s\/hqdefault.jpg"
+vid_id: "GPc0CFIcf6s"
+categories: "News-Politics"
+tags: ["Democracy Now","Amy Goodman","DN"]
+date: "2021-12-06T21:28:37+03:00"
+vid_date: "2017-01-27T15:50:42Z"
+duration: "PT4M12S"
+viewcount: "130665"
+likeCount: "2728"
+dislikeCount: "291"
+channel: "Democracy Now!"
+---
+{% raw %}<a rel="nofollow" target="blank" href="http://democracynow.org">http://democracynow.org</a>  -  Donald Trump’s presidency is less than a week old, but some attorneys say a case for impeachment can already be made. We speak to John Bonifaz, who says Trump has violated a part of the U.S. Constitution that bars Trump from receiving payments from foreign governments. The effort is being led by Free Speech for People and RootsAction.<br /><br />Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: <a rel="nofollow" target="blank" href="http://democracynow.org">http://democracynow.org</a><br /><br />Please consider supporting independent media by making a donation to Democracy Now! today: <a rel="nofollow" target="blank" href="http://democracynow.org/donate">http://democracynow.org/donate</a><br /><br />FOLLOW DEMOCRACY NOW! ONLINE:<br />Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/democracynow">http://facebook.com/democracynow</a> <br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/democracynow">https://twitter.com/democracynow</a><br />YouTube: <a rel="nofollow" target="blank" href="http://youtube.com/democracynow">http://youtube.com/democracynow</a> <br />SoundCloud: <a rel="nofollow" target="blank" href="http://soundcloud.com/democracynow">http://soundcloud.com/democracynow</a> <br />Daily Email: <a rel="nofollow" target="blank" href="http://democracynow.org/subscribe">http://democracynow.org/subscribe</a> <br />Google+: <a rel="nofollow" target="blank" href="https://plus.google.com/+DemocracyNow">https://plus.google.com/+DemocracyNow</a><br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/democracynow">http://instagram.com/democracynow</a><br />Tumblr: <a rel="nofollow" target="blank" href="http://democracynow.tumblr.com">http://democracynow.tumblr.com</a><br />Pinterest: <a rel="nofollow" target="blank" href="http://pinterest.com/democracynow">http://pinterest.com/democracynow</a><br />iTunes: <a rel="nofollow" target="blank" href="https://itunes.apple.com/podcast/democracy-now!-audio/id73802554">https://itunes.apple.com/podcast/democracy-now!-audio/id73802554</a> <br />TuneIn: <a rel="nofollow" target="blank" href="http://tunein.com/radio/Democracy-Now-p90/">http://tunein.com/radio/Democracy-Now-p90/</a><br />Stitcher Radio: <a rel="nofollow" target="blank" href="http://www.stitcher.com/podcast/democracy-now">http://www.stitcher.com/podcast/democracy-now</a>{% endraw %}
