@@ -1,0 +1,15 @@
+---
+title: "DECEMBER GROCERY HAUL"
+image: "https:\/\/i.ytimg.com\/vi\/-jUYXwVfCYY\/hqdefault.jpg"
+vid_id: "-jUYXwVfCYY"
+categories: "People-Blogs"
+tags: ["large family","large family vlogs","large family homeschool"]
+date: "2021-12-07T07:02:51+03:00"
+vid_date: "2021-12-04T18:05:15Z"
+duration: "PT31M33S"
+viewcount: "110881"
+likeCount: "8336"
+dislikeCount: "82"
+channel: "Our Tribe of Many"
+---
+{% raw %}A grocery haul for the entire month of December for our large family of 13!  (One is definitely only eating breast milk... but we are still counting her...haha.)<br /><br />Plus we cooked and shared a healthy, easy recipe!<br /><br />Balsamic Chicken <br /><br />Cook up some halved brussel sprouts in coconut oil.  We added bacon crumbles near the end of them being soft.  Cook chicken thighs OR breasts separately and shred the chicken.  Add it to the pan with the brussel sprouts.  For the sauce, we use about 1 1/2 cups of mayonnaise and half a cup of balsamic vinegar plus some basil and salt to taste.  Add more balsamic vinegar in until it is just the right amount of tangy.  <br /><br />Next time I make this I will try to be more careful to measure things out for a more accurate recipe!  <br /><br /><br />Azure Standard (check them out for organic staples for great prices!) - <a rel="nofollow" target="blank" href="https://www.azurestandard.com/?a_aid=...">https://www.azurestandard.com/?a_aid=...</a> (or just use code SarahMwania1)<br />This is an affiliate link.  I earn $25 if you spend over $100 on your first order through this link.  You will get your own link to earn the same if you share with friends and they use it!  As always, no pressure at all to use my link.  <br /><br />Some of our most-asked-for videos...<br />How we met - <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=r_4-j1pMsoc">https://www.youtube.com/watch?v=r_4-j1pMsoc</a><br />Our favorite bread recipe - <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=vyFmqXzmPUo">https://www.youtube.com/watch?v=vyFmqXzmPUo</a><br />Granola recipe - <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=d1NPPNFX7kY&amp;t=1s">https://www.youtube.com/watch?v=d1NPPNFX7kY&amp;t=1s</a><br />Ranch recipe - <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=7LEwsqyxAyI&amp;t=8s">https://www.youtube.com/watch?v=7LEwsqyxAyI&amp;t=8s</a><br /><br />To sponsor a child through COMPASSION INTERNATIONAL, visit <a rel="nofollow" target="blank" href="https://www.compassion.com/ourtribeofmany">https://www.compassion.com/ourtribeofmany</a><br /><br />My Amazon FAVORITE THINGS - <a rel="nofollow" target="blank" href="https://www.amazon.com/shop/ourtribeof10">https://www.amazon.com/shop/ourtribeof10</a><br />As an Amazon Associate I earn from qualifying purchases.<br /><br />Thanks for watching!<br /><br />Solo<br />Sarah <br />Judah - 17<br />Belle (Isabelle) - 16<br />Luka - 14<br />Micah - 13<br />Tori (Victory) - 10<br />Eli - 9<br />Noelle - 6<br />Hope - 4<br />Destiny - 3<br />Seth - 2<br />Peace - 8 weeks old{% endraw %}
