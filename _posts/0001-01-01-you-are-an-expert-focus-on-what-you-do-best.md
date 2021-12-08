@@ -1,0 +1,15 @@
+---
+title: "You Are An Expert! Focus on what you do best!"
+image: "https:\/\/i.ytimg.com\/vi\/6sZ9uDupRq0\/hqdefault.jpg"
+vid_id: "6sZ9uDupRq0"
+categories: "Education"
+tags: ["Jesse Eker","t harv eker","productivity"]
+date: "2021-12-08T20:14:13+03:00"
+vid_date: "2021-12-05T16:00:06Z"
+duration: "PT9M5S"
+viewcount: "502"
+likeCount: "27"
+dislikeCount: "0"
+channel: "Jesse Eker"
+---
+{% raw %}Thanks for watching  &quot;You Are An Expert! Focus on what you do best!&quot; <br /><br />Look, I’m going to be very honest with you today.<br /><br />There’s typically two types of people I come across in business:<br /><br />The Marketer - who is great at marketing their services and selling their solution; and<br /><br />The Expert - the person who is an expert in their field of knowledge and able to help people.<br /><br />Now… which one of these is having more success? And why?<br /><br />---------------<br />Hi, I’m Jesse J Eker! Here, you’ll learn exactly how to make the most powerful mindset shift you can to bring money your way that creates financial freedom and wealth.   <br /><br />On this Channel, you’ll learn strategies for business, remote management, tools, increasing growth, and shifting your mindset to grow your wealth. Whether you’re new to the industry, are facing huge growth or struggling due to closures, or hit a plateau after years in your company, I’ve got you covered. I help people like you create success and improve their results with business systems, organization, mindset, and more.<br /><br />Want to join the next FREE Exclusive 3-Hour Workshop Where You Can Design An EPIC Virtual Event To Enroll More Clients &amp; Amplify Your Impact? Go to this link to get access: <a rel="nofollow" target="blank" href="https://hubs.la/Q010rSrj0">https://hubs.la/Q010rSrj0</a><br /><br />Also, if you want to connect with me more closely, join me at...<br />🔥 The Build Your Brand Online community: <a rel="nofollow" target="blank" href="https://hubs.ly/H0V17xt0">https://hubs.ly/H0V17xt0</a><br />🙌 Instagram for behind the scenes: <a rel="nofollow" target="blank" href="https://hubs.ly/H0V1bkv0">https://hubs.ly/H0V1bkv0</a><br /><br />Make sure you comment and let me know what part had the biggest impact on you. 👇 Enjoy<br /><br />If you liked this video, check out these other videos!<br /><br />How To Be Ultra Motivated, Disciplined To Achieve Whatever You Want In Life<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=8GwhuQ71SLU&amp;t=1s">https://www.youtube.com/watch?v=8GwhuQ71SLU&amp;t=1s</a><br /><br />How to speak so that people want to listen | Julian Treasure<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=eIho2S0ZahI">https://www.youtube.com/watch?v=eIho2S0ZahI</a><br /><br />What Can You Do That No One Else Can? Learn How To Answer This Interview Question<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=k7OTBJsmpZE">https://www.youtube.com/watch?v=k7OTBJsmpZE</a><br /><br />#JesseEker #OnlineCoach{% endraw %}
