@@ -1,0 +1,15 @@
+---
+title: "Crypto Advanced Show 78 Επιστρέφουμε δυναμικά!"
+image: "https:\/\/i.ytimg.com\/vi\/RSP8p0gLr8A\/hqdefault.jpg"
+vid_id: "RSP8p0gLr8A"
+categories: "People-Blogs"
+tags: ["Crypto","Advanced","Επιστρέφουμε"]
+date: "2021-12-09T12:14:33+03:00"
+vid_date: "2021-12-08T17:55:52Z"
+duration: "PT39M2S"
+viewcount: "854"
+likeCount: "80"
+dislikeCount: "2"
+channel: "Crypto Advanced"
+---
+{% raw %}Αγαπητοί μας Φίλοι και Φίλες το Crypto Advanced Show είναι και πάλι κοντά σας! Ο Γιάννης Ασλάνης επιστρέφει ως βοηθός της Δέσποινας Τσιρογιάννη για να γυρίσουν το σημερινό επεισόδιο. Φυσικά την εμφάνιση του κάνει και ο Evan Blatzos ο οποίος είχε δηλώσει ότι δίχως Ασλάνη δεν λέει κουβέντα. Η σημερινή εκπομπή έχει και ειδικό φωτισμό. <br /><br />Στην σημερινή εκπομπή συζητάμε: <br /><br />• Crypto Casino<br />• Η Goldman Sachs σε προϊόντα Bitcoin<br />• Ανακοίνωση του CME<br />• Η Ιαπωνία στον περιορισμό των stablecoins<br />• H Αυστραλία ανακοινώνει μεταρρύθμιση στα συστήματα πληρωμών<br />• Η Ισλανδία μπλοκάρει το Mining<br />• Η Ομάροβα αποσύρεται <br />• Συμβουλευτική crypto από τη VISA<br /><br />Μπείτε στην πλατφόρμα μας εδώ: <a rel="nofollow" target="blank" href="https://cryptoadvancedpro.com/el/crypto-advanced-platforma-gia-psifiaka-nomismata/">https://cryptoadvancedpro.com/el/crypto-advanced-platforma-gia-psifiaka-nomismata/</a><br />Βρείτε μας στο Telegram: <a rel="nofollow" target="blank" href="https://t.me/cryptoadvancedchannel">https://t.me/cryptoadvancedchannel</a><br />Μπείτε στο Group μας στο Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/2668066693485493/">https://www.facebook.com/groups/2668066693485493/</a> <br />Ακολουθείστε την Σελίδα μας στο Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/cryptoadvanced">https://www.facebook.com/cryptoadvanced</a><br />Εγγραφείτε στο Κανάλι μας στο Youtube: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCUvpwd_OP_wtETNyWUocuhQ">https://www.youtube.com/channel/UCUvpwd_OP_wtETNyWUocuhQ</a><br /><br />Αποποίηση Ευθυνών<br />Η Επένδυση σας αποτελεί δική σας ευθύνη<br />Αποποιούμαστε οποιαδήποτε νομική ευθύνη για οποιαδήποτε απώλεια ή ζημιά ως αποτέλεσμα του ενημερωτικού περιεχομένου που λαμβάνετε.  Είναι σημαντικό να αναγνωρίσετε πως η δική σας χρήση της πληροφορίας που λαμβάνετε από την ομάδα Crypto Advanced πραγματοποιείται με δικό σας ρίσκο.<br />Πληροφορίες χωρίς συμβουλές ή συστάσεις για αγορές<br />Οι δημοσιεύσεις δεν προσφέρουν συμβουλές επένδυσης και καμία από αυτές τις δημοσιεύσεις δεν πρέπει να εκλαμβάνονται από εσάς ως συμβουλές επένδυσης. Οι δημοσιεύσεις μας, σας παρέχουν πληροφορίες και εκπαίδευση για επενδυτές  που λαμβάνουν τις δικές τους αποφάσεις χωρίς συμβουλές.<br />Οι πληροφορίες που σας προσφέρονται από τις δημοσιεύσεις μας δεν είναι και δεν θα έπρεπε να εκλαμβάνονται ως οποιαδήποτε σύσταση αγοράς ή πώλησης χρεογράφων. Οι δημοσιεύσεις δεν αποτελούν σύσταση ή συμβουλή για οποιαδήποτε στρατηγική επένδυσης.{% endraw %}
