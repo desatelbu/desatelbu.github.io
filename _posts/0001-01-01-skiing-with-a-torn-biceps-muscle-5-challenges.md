@@ -1,0 +1,15 @@
+---
+title: "Skiing with a Torn Biceps Muscle - 5 Challenges and Deciding on Surgery"
+image: "https:\/\/i.ytimg.com\/vi\/vY9dmlcF9M8\/hqdefault.jpg"
+vid_id: "vY9dmlcF9M8"
+categories: "People-Blogs"
+tags: ["skiing","torn biceps","torn muscle"]
+date: "2021-12-09T10:13:40+03:00"
+vid_date: "2020-12-18T00:37:00Z"
+duration: "PT8M14S"
+viewcount: "74"
+likeCount: "4"
+dislikeCount: "0"
+channel: "SkiBoyNY"
+---
+{% raw %}A week after suffering a detached right biceps, I went on a planned weekend ski trip to Mont Tremblant, Quebec, Canada.  With doctor appointments not scheduled until the next week, I embraced skiing for the weekend with one arm.  The challenges I faced included putting on and taking off my ski boot, skiing moguls, and getting used to skiing in general with just one arm.  It went better than I thought.<br /><br />Back in New York, I consulted with doctors and ultimately decided not to have surgery.  This means living with my biceps permanently detached.  Surgery must occur within 2 to 3 weeks after the injury.<br /><br />Why did I decide against surgery?  A big reason was the post-surgery recovery.  For me, it would have taken approximately 4 months to return to normal.  The recovery would have been frustrating and painful.  And based on my research, surgery would enable me to recover only 10% more of my flexion strength compared to not having surgery, and 25% of my supination strength without surgery.  When you look at it that way, my opinion was that it was not an incredible benefit.  Because I am not a competitive athlete and I do not have a job that requires me to be physically active, the surgery seemed more for vanity reasons - to be slightly stronger and have my arm look normal.  However, my arm does not look that abnormal with the biceps detached.  Some people who have detached biceps muscles have arms that look deformed, like the cartoon character Popeye.  So because my arm did not look too bad, and because the reduced strength and endurance would not affect me in my everyday life, I chose not to have surgery.  Added benefit of the decision - the Japan trip only two weeks later was easier!<br /><br />If you suffer this injury, before you decide to have surgery, it may be helpful to review the research that I found through the links below:  <br /><br /><a rel="nofollow" target="blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5213928/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5213928/</a><br /><br /><a rel="nofollow" target="blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4357594/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4357594/</a><br /><br /><a rel="nofollow" target="blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4913031/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4913031/</a><br /><br /><a rel="nofollow" target="blank" href="https://sogacot.org/current-management-of-distal-biceps-tears/">https://sogacot.org/current-management-of-distal-biceps-tears/</a><br /><br /><a rel="nofollow" target="blank" href="https://pubmed.ncbi.nlm.nih.gov/19797566/">https://pubmed.ncbi.nlm.nih.gov/19797566/</a>{% endraw %}
