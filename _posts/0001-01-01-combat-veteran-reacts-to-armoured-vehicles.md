@@ -1,0 +1,15 @@
+---
+title: "Combat Veteran Reacts to Armoured Vehicles from Squad | Experts React"
+image: "https:\/\/i.ytimg.com\/vi\/qE1ihr7bnVk\/hqdefault.jpg"
+vid_id: "qE1ihr7bnVk"
+categories: "Gaming"
+tags: ["Gamology","Experts React","Total Recoil"]
+date: "2021-12-09T13:07:47+03:00"
+vid_date: "2021-12-08T21:00:19Z"
+duration: "PT13M53S"
+viewcount: "44871"
+likeCount: "3253"
+dislikeCount: "10"
+channel: "Gamology"
+---
+{% raw %}Green Beret Nate Boyer and host Israel Wright have returned today reacting to vehicles and mounted guns in Squad. The guys examine the gaming clips comparing them to real-life vehicles and weapons from their experiences or knowledge of the field. We’ve got trucks, tanks and civilian vehicles all lined up with an assortment of various weapons attached, most of them deadly. Definitely let us know if there’s any you think we left out or which one was your favorite?<br /><br />Through teamwork, constant communication, and gameplay, Squad is a tactical first-person shooter that provides an authentic fighting experience. Through 100 player battles, combined arms combat, base building, and a great integrated VoIP system, it bridges the gap between arcade shooters and military simulations.﻿<br />--------------------<br />﻿00:00 - Intro<br />﻿00:58 - M2HB<br />﻿02:23 - Crows M2HB<br />﻿03:17 - TOW<br />﻿04:06 - Stryker<br />﻿04:56 - Abrams<br />﻿07:15 - Bradley<br />﻿08:15 - M2A1 Browning<br />﻿09:22 - M1937 Mortar<br />﻿09:49 - ZU-23<br />﻿10:27 - BMP-1<br />﻿11:36 - M1151<br />﻿12:42 - Conclusion<br />--------------------<br />Israel Wright: <a rel="nofollow" target="blank" href="https://www.instagram.com/myhappyself2/​">https://www.instagram.com/myhappyself2/​</a><br />His twitch channel: <a rel="nofollow" target="blank" href="https://m.twitch.tv/myhappyself/profile​">https://m.twitch.tv/myhappyself/profile​</a><br /><br />Nate Boyer: <a rel="nofollow" target="blank" href="https://www.instagram.com/nateboyer37/">https://www.instagram.com/nateboyer37/</a><br />--------------------<br />Check out some of our past videos!<br /><br />Combat Veteran REACTS to Realistic Shooter Games | Total Recoil<br /><a rel="nofollow" target="blank" href="https://youtu.be/w503DS6VBeQ">https://youtu.be/w503DS6VBeQ</a><br /><br />The Spec Ops playlist:<br /><a rel="nofollow" target="blank" href="https://youtu.be/cWZR08_Ue9A">https://youtu.be/cWZR08_Ue9A</a><br />--------------------<br />﻿Thanks to Viktorr for the gameplay:<br />﻿﻿<a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=SnnlFPdfJkw">https://www.youtube.com/watch?v=SnnlFPdfJkw</a><br />--------------------<br />Stay in the loop with us on social media!<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/thebestofgam...">https://www.facebook.com/thebestofgam...</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/gamology/?h...">https://www.instagram.com/gamology/?h...</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/gamologyus​">https://twitter.com/gamologyus​</a><br />--------------------<br />#Squad​ #VeteranReacts​ #TotalRecoil{% endraw %}
