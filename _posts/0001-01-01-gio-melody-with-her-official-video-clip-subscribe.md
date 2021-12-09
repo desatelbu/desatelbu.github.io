@@ -1,0 +1,15 @@
+---
+title: "Gio Melody - With Her | Official Video Clip"
+image: "https:\/\/i.ytimg.com\/vi\/rj9c5NSogY8\/hqdefault.jpg"
+vid_id: "rj9c5NSogY8"
+categories: "Music"
+tags: ["gio melody with her","with her gio melody","with her"]
+date: "2021-12-09T16:58:25+03:00"
+vid_date: "2019-11-01T10:00:16Z"
+duration: "PT2M45S"
+viewcount: "78264"
+likeCount: "1454"
+dislikeCount: "29"
+channel: "Jungle Juice"
+---
+{% raw %}Subscribe | <a rel="nofollow" target="blank" href="http://bit.ly/2WM7axf">http://bit.ly/2WM7axf</a><br />Buy &amp; Stream With Her | <a rel="nofollow" target="blank" href="https://smarturl.it/4yeibw">https://smarturl.it/4yeibw</a><br /><br />Produced by Gio Melody<br />Recorded and Mixed @ SuBass Studio<br />Mastered by Dimitris Papadimitriou @ Sweetspot Productions<br /><br />Director : Theodore Selekos<br />Production: Vanilla Films<br />Cinematography: Kostas Mandilas<br />Assistant camera: Steve Kekis<br />Executive Producer: Costis Nikiforakis (Black Athena)<br />Fashion: Orlando Gropaj , Chrysanthy Chrysafopoulou<br />Gaffer:Yuri Charitidis<br />Production assistant: Thanassis Sousosuris<br />Sound Design/Editor:Thanasis Tsivelis<br />Colourist: Manthos Sardis<br /><br />Lyrics:<br />I die with her<br />Ride with her<br />I cry with her<br />Fly with her<br /> <br />The more you know<br />The more you grow<br />Don’t blow your soul<br />For no hoe<br />Tears went dry<br />Lived a lie<br />Before your love<br />I was lost<br /> <br />Turn it off, all the lights, shouldn’t they see?<br />You don’t want the ice, they ain’t many<br />Look into my eyes, yeah I’m ready<br />You don’t wanna die but I’m ready yeah<br /> <br />I die with her<br />Ride with her<br />I cry with her<br />Fly with her<br /> <br />If you want a sinner I’m the Ghetto Me<br />If you need a winner baby I’m the Better Me<br />Best I ever had only you are getting me<br />You’re my heartbeat baby you can be my melody<br /> <br />Turn it off, all the lights, shouldn’t they see?<br />You don’t want the ice, they ain’t many<br />Look into my eyes, yeah I’m ready<br />You don’t wanna die but I’m ready yeah<br /> <br />I die with her<br />Ride with her<br />I cry with her<br />Fly with her<br /> <br />We fly and fall<br />We run and call<br />From broken homes<br />2 rolling stones<br /><br />Follow Gio Melody<br />• Instagram | <a rel="nofollow" target="blank" href="http://bit.ly/2C0qwTh">http://bit.ly/2C0qwTh</a><br />• Facebook | <a rel="nofollow" target="blank" href="http://bit.ly/36qb7tC">http://bit.ly/36qb7tC</a><br /><br />Drink the Jungle Juice:<br />• Facebook | <a rel="nofollow" target="blank" href="https://goo.gl/wpsDuJ">https://goo.gl/wpsDuJ</a> <br />• Instagram | <a rel="nofollow" target="blank" href="https://goo.gl/ocpAV9">https://goo.gl/ocpAV9</a> <br />• YouTube | <a rel="nofollow" target="blank" href="https://goo.gl/4gjM3E">https://goo.gl/4gjM3E</a><br /><br />© 2019 Jungle Juice Records a division of Cobalt Music<br /><br />#GioMelody #WithHer #JungleJuice{% endraw %}
