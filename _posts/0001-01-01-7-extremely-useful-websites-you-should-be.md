@@ -1,0 +1,15 @@
+---
+title: "7 Extremely Useful Websites You Should Be Using Right Now!"
+image: "https:\/\/i.ytimg.com\/vi\/TxLy90NdNG4\/hqdefault.jpg"
+vid_id: "TxLy90NdNG4"
+categories: "Education"
+tags: ["Simpletivity","Scott Friesen","7 Extremely Useful Websites You Should Be Using Right Now!"]
+date: "2021-12-09T19:38:51+03:00"
+vid_date: "2021-12-09T12:30:04Z"
+duration: "PT17M9S"
+viewcount: "1266"
+likeCount: "149"
+dislikeCount: "1"
+channel: "Simpletivity"
+---
+{% raw %}Sometimes you just need a simple website for a specific task. No signup, no download or payment, just a useful website so you can get on with your workday. In this video, Scott Friesen shows you 7 awesome websites that you probably didn't know existed!<br /><br />00:00 Email safety check - <a rel="nofollow" target="blank" href="https://haveibeenpwned.com/">https://haveibeenpwned.com/</a><br />02:30 Printer friendly mode - <a rel="nofollow" target="blank" href="https://www.printfriendly.com/">https://www.printfriendly.com/</a><br />04:14 Bypass content paywall - <a rel="nofollow" target="blank" href="https://12ft.io/">https://12ft.io/</a><br />07:12 Original headshot images - <a rel="nofollow" target="blank" href="https://thispersondoesnotexist.com/">https://thispersondoesnotexist.com/</a><br />09:26 View old websites -  <a rel="nofollow" target="blank" href="http://web.archive.org/">http://web.archive.org/</a><br />11:42 Terms of service - <a rel="nofollow" target="blank" href="https://tosdr.org/">https://tosdr.org/</a><br />13:33 Amazon price checker - <a rel="nofollow" target="blank" href="https://camelcamelcamel.com/">https://camelcamelcamel.com/</a><br /><br />---<br /><br />► SUBSCRIBE to the Simpletivity channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/simpletivity?sub_confirmation=1">https://www.youtube.com/c/simpletivity?sub_confirmation=1</a><br /><br />► Get your FREE productivity guide: <a rel="nofollow" target="blank" href="https://www.simpletivity.com/free">https://www.simpletivity.com/free</a><br /><br />► Visit the website: <a rel="nofollow" target="blank" href="https://www.simpletivity.com">https://www.simpletivity.com</a>  <br /><br />Let's Connect!<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/simpletivity">https://www.facebook.com/simpletivity</a> <br />LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/in/scottdfriesen">https://www.linkedin.com/in/scottdfriesen</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/simpletivity">https://twitter.com/simpletivity</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/scottdfriesen">https://www.instagram.com/scottdfriesen</a><br /><br />Scott Friesen is a productivity specialist and founder of Simpletivity Training Inc.. He is also a prolific public speaker, workshop leader, and time management coach.<br /><br />​​Icons made by Freepik from www.flaticon.com<br />#simpletivity #websites #freetools{% endraw %}
