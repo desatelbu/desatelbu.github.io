@@ -1,0 +1,15 @@
+---
+title: "KITCHEN TRANSFORMATION! pantry & drawer organization! Vlogmas DAY 8!"
+image: "https:\/\/i.ytimg.com\/vi\/NK_vPd3g7b4\/hqdefault.jpg"
+vid_id: "NK_vPd3g7b4"
+categories: "Entertainment"
+tags: ["imtaramichelle","tara Michelle","Los Angeles"]
+date: "2021-12-10T06:28:48+03:00"
+vid_date: "2021-12-09T17:39:28Z"
+duration: "PT15M22S"
+viewcount: "60910"
+likeCount: "4420"
+dislikeCount: "47"
+channel: "Tara Michelle"
+---
+{% raw %}VLOGMAS DAY 8!! I finaaaally got around to organizing all my kitchen drawers &amp; pantry! It was SO overdue, I meant to do this once I moved in hahah! But it's sooo much more organized now and im SO HAPPY!<br /><br />HELLO EVERYONE!! We post 3x a week over here (typically Monday, Wednesday &amp; Friday) and you should def subscribe to join the fun! Turn on your post notifications so you don't miss any uploads!<br /><br />Watch yesterday's vlog! // <a rel="nofollow" target="blank" href="https://youtu.be/658Md2M1ohs">https://youtu.be/658Md2M1ohs</a><br />⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯<br />MERCH ▻ <a rel="nofollow" target="blank" href="https://imtaramichelle.com/merch">https://imtaramichelle.com/merch</a>   <br />Drawer Dividers // <a rel="nofollow" target="blank" href="https://rstyle.me/+TNvk7VbbqkvBJendk4vMNA">https://rstyle.me/+TNvk7VbbqkvBJendk4vMNA</a><br />Clear Bins (similar) // <a rel="nofollow" target="blank" href="https://rstyle.me/+_lMbbIHM6njDte1yvOuOxg">https://rstyle.me/+_lMbbIHM6njDte1yvOuOxg</a><br />⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯<br />CREEP ME lol:<br />Instagram ▻ <a rel="nofollow" target="blank" href="https://www.instagram.com/imtaramichelle/">https://www.instagram.com/imtaramichelle/</a><br />Tiktok ▻ @imtaramichelle<br />Blog ▻ <a rel="nofollow" target="blank" href="http://imtaramichelle.com">http://imtaramichelle.com</a><br />Twitter ▻ @imtaramichelle<br />Facebook ▻ <a rel="nofollow" target="blank" href="https://bit.ly/2N4OFhA">https://bit.ly/2N4OFhA</a> <br />Pinterest ▻ <a rel="nofollow" target="blank" href="https://bit.ly/2sLJFHR">https://bit.ly/2sLJFHR</a><br />⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯<br />✶ Business inquiries ▻ taramassicotte@mac.com CC TaraMichelle@select.co<br />Some links may be affiliate links!<br />⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯<br />SAVE SOME $$$:<br />✶ Postmates discount code: ieg9<br />✶ $$ off your first 3 Ubers: taram134<br />✶ Ride $5 cheaper with Lyft: TARA611554<br />✶ $40 off Airbnb! ▻ <a rel="nofollow" target="blank" href="http://goo.gl/kqczLE">http://goo.gl/kqczLE</a><br />✶ $10 off your groceries with Instacart! ▻ <a rel="nofollow" target="blank" href="https://inst.cr/t/MlZIUXpmRDha">https://inst.cr/t/MlZIUXpmRDha</a> (code TMWORK12F)<br />✶ Copyright free music! <a rel="nofollow" target="blank" href="https://www.epidemicsound.com/referral/tedq9v/">https://www.epidemicsound.com/referral/tedq9v/</a><br />⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯<br />『 SHOP 』<br />My Camera ▻ <a rel="nofollow" target="blank" href="https://rstyle.me/+VYpBp1CywTL3kAXLzQXLng">https://rstyle.me/+VYpBp1CywTL3kAXLzQXLng</a><br />⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯<br />PS if you’re reading this, comment “sneaky fam!!!!!!”{% endraw %}
