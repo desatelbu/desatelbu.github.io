@@ -1,0 +1,15 @@
+---
+title: "Interview with Pam Kramer (Voyager CMO): Scaling & 👀Partnerships!👀"
+image: "https:\/\/i.ytimg.com\/vi\/ufFHgaRIOUI\/hqdefault.jpg"
+vid_id: "ufFHgaRIOUI"
+categories: "Entertainment"
+tags: ["crypto","bitcoin","cryptocurrency"]
+date: "2021-12-10T23:27:37+03:00"
+vid_date: "2021-12-10T14:46:12Z"
+duration: "PT28M44S"
+viewcount: "554"
+likeCount: "91"
+dislikeCount: "2"
+channel: "Buy the Dip Sell the Tip"
+---
+{% raw %}#Voyager #Crypto <br />This is not financial advice.  DJ is not a financial advisor.<br /><br />Join trade the chain-- <a rel="nofollow" target="blank" href="https://tradethechain.com/?via=DJCrypto">https://tradethechain.com/?via=DJCrypto</a><br /><br />NEW Patreon just started -- <a rel="nofollow" target="blank" href="https://www.patreon.com/DJCrypto_">https://www.patreon.com/DJCrypto_</a><br /><br />I'm inviting you to start investing in crypto with Voyager. Download the app and trade $100 to get $25 of free Bitcoin.<br />Use code 26F4E9 or this link to claim your BTC<br /><a rel="nofollow" target="blank" href="https://voyager.onelink.me/WNly/refer...">https://voyager.onelink.me/WNly/refer...</a><br /><br />Join Celsius Network using my referral code 12760191dc when signing up and earn $50 in BTC with your first transfer of $400 or more! #UnbankYourself<br /><a rel="nofollow" target="blank" href="https://celsiusnetwork.app.link/12760191dc">https://celsiusnetwork.app.link/12760191dc</a><br /><br />Buy crypto on Okcoin, and we’ll split $100 in bitcoin. See details:<br /><a rel="nofollow" target="blank" href="https://www.okcoin.com/join/600104580">https://www.okcoin.com/join/600104580</a><br /><br />Join Celsius Network using my referral code 12760191dc when signing up and earn $50 in BTC with your first transfer of $400 or more!<br /><a rel="nofollow" target="blank" href="https://celsiusnetwork.app.link/12760191dc">https://celsiusnetwork.app.link/12760191dc</a><br /><br /><br />Get $10 in Bitcoin free on Coinbase when you sign up and buy $100 of crypto! <a rel="nofollow" target="blank" href="https://www.coinbase.com/join/bevan_3k">https://www.coinbase.com/join/bevan_3k</a><br /><br />Link to sign up for Roundly X💻----  <a rel="nofollow" target="blank" href="http://www.roundlyx.com/signup/?ref_code=DJCr-1FC72B">http://www.roundlyx.com/signup/?ref_code=DJCr-1FC72B</a><br /><a rel="nofollow" target="blank" href="http://www.roundlyx.com/signup/?ref_code=DJCr-1FC72B">http://www.roundlyx.com/signup/?ref_code=DJCr-1FC72B</a><br /><br />Hi, I'd like to invite you to use Uphold. Create your account and try out one of the easiest and most cost-effective trading experiences.<br /><a rel="nofollow" target="blank" href="https://uphold.com/signup?referral=42bd5c653f">https://uphold.com/signup?referral=42bd5c653f</a><br /><br /><a rel="nofollow" target="blank" href="https://www.gate.io/signup/4394469">https://www.gate.io/signup/4394469</a><br /><br /><a rel="nofollow" target="blank" href="https://danteachescrypto.com​​​​​">https://danteachescrypto.com​​​​​</a>  ----great resource for learning about Crypto.{% endraw %}
