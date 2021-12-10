@@ -1,0 +1,15 @@
+---
+title: "Upcoming Advances in Material Science"
+image: "https:\/\/i.ytimg.com\/vi\/cPCmrNAZnHE\/hqdefault.jpg"
+vid_id: "cPCmrNAZnHE"
+categories: "Science-Technology"
+tags: ["materials","material science","science"]
+date: "2021-12-10T05:43:30+03:00"
+vid_date: "2021-12-09T13:59:47Z"
+duration: "PT31M2S"
+viewcount: "27807"
+likeCount: "2347"
+dislikeCount: "13"
+channel: "Isaac Arthur"
+---
+{% raw %}Visit our sponsor, Brilliant: <a rel="nofollow" target="blank" href="https://brilliant.org/IsaacArthur/">https://brilliant.org/IsaacArthur/</a><br />In order to forge a bright future, we'll need materials stronger, lighter, and better than ever before. Advances in material science are the gateway to tomorrow's technologies.<br /><br />Visit our Website: <a rel="nofollow" target="blank" href="http://www.isaacarthur.net">http://www.isaacarthur.net</a><br />Support us on Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/IsaacArthur">https://www.patreon.com/IsaacArthur</a><br />Facebook Group: <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/1583992725237264/">https://www.facebook.com/groups/1583992725237264/</a><br />Reddit: <a rel="nofollow" target="blank" href="https://www.reddit.com/r/IsaacArthur/">https://www.reddit.com/r/IsaacArthur/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/Isaac_A_Arthur">https://twitter.com/Isaac_A_Arthur</a> on Twitter and RT our future content.<br />SFIA Discord Server: <a rel="nofollow" target="blank" href="https://discord.gg/53GAShE">https://discord.gg/53GAShE</a><br /><br />Listen or Download the audio of this episode from Soundcloud: <br />Episode's Audio-only version: <a rel="nofollow" target="blank" href="https://soundcloud.com/isaac-arthur-148927746/upcoming-advances-in-material-science">https://soundcloud.com/isaac-arthur-148927746/upcoming-advances-in-material-science</a><br />Episode's Narration-only version: <a rel="nofollow" target="blank" href="https://soundcloud.com/isaac-arthur-148927746/upcoming-advances-in-material-science-narration-only">https://soundcloud.com/isaac-arthur-148927746/upcoming-advances-in-material-science-narration-only</a><br /><br />Credits:<br />Upcoming Advances in Material Science <br />Science &amp; Futurism with Isaac Arthur<br />Episode 320; December 9, 2021<br />Produced, Written, and Narrated by Isaac Arthur<br /><br />Editors:<br />Sig’unnr<br />Yamagashi<br /><br />Cover Art:<br />Jakub Grygier <a rel="nofollow" target="blank" href="https://www.artstation.com/jakub_grygier">https://www.artstation.com/jakub_grygier</a><br /><br />Graphics:<br />Jeremy Jozwik <a rel="nofollow" target="blank" href="https://www.artstation.com/zeuxis_of_losdiajana">https://www.artstation.com/zeuxis_of_losdiajana</a><br />Ken York of YD Visual <a rel="nofollow" target="blank" href="https://www.facebook.com/YDVisual/">https://www.facebook.com/YDVisual/</a><br /><br />Music Courtesy of Epidemic Sound <a rel="nofollow" target="blank" href="http://epidemicsound.com/creator">http://epidemicsound.com/creator</a>{% endraw %}
