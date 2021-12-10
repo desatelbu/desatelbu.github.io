@@ -1,0 +1,15 @@
+---
+title: "CG5 - Sparkly Abs (feat. CaptainSparklez) [Official Audio]"
+image: "https:\/\/i.ytimg.com\/vi\/jfzByTWBhug\/hqdefault.jpg"
+vid_id: "jfzByTWBhug"
+categories: "Music"
+tags: ["cg5","cg5 song","Sparkly abs"]
+date: "2021-12-10T15:22:36+03:00"
+vid_date: "2021-12-07T19:30:03Z"
+duration: "PT2M7S"
+viewcount: "577975"
+likeCount: "58451"
+dislikeCount: "152"
+channel: "CG5"
+---
+{% raw %}STREAM NOW! Links below!<br />Apple Music ▶ <a rel="nofollow" target="blank" href="https://apple.co/3GrzM29">https://apple.co/3GrzM29</a><br />Spotify ▶ <a rel="nofollow" target="blank" href="https://spoti.fi/3DrC8vW">https://spoti.fi/3DrC8vW</a><br /><br />Featuring @CaptainSparklez<br />Art by @Shirotani<br /><br />Follow CG5's social media:<br />Twitter ▶ <a rel="nofollow" target="blank" href="http://twitter.com/cg5beats">http://twitter.com/cg5beats</a><br />Twitch ▶ <a rel="nofollow" target="blank" href="https://www.twitch.tv/cg5music">https://www.twitch.tv/cg5music</a><br />Spotify ▶ <a rel="nofollow" target="blank" href="https://sptfy.com/cg5_">https://sptfy.com/cg5_</a><br />Instagram ▶ <a rel="nofollow" target="blank" href="http://www.instagram.com/cg5beats/">http://www.instagram.com/cg5beats/</a><br /><br />Follow @CG5LIVE, @CG5Covers, &amp; @CG5 Instrumentals<br />Discord Server ▶ <a rel="nofollow" target="blank" href="https://discord.gg/CG5">https://discord.gg/CG5</a><br /><br />You got some sparkly abs,<br />That beautiful facial hair.<br />You make me wanna jump right off of that cliff over there.<br />'Cuz you are way too handsome, yeah.<br />I get intrusive thoughts of death.<br />Wait what?<br /><br />You got some sparkly abs,<br />That beautiful facial hair.<br />You make me wanna jump right off of that cliff over there.<br />'Cuz you are way too handsome, yeah.<br />I get intrusive thoughts of death.<br />Wait what?<br /><br />I wanna be like you,<br />I wanna be like you,<br />But I'll never be like you,<br />Be like you, be like you.<br />I wanna be like you,<br />I wanna be like you,<br />But I'll never be like you,<br />Be like you, be like you.<br /><br />Why you gotta tell me,<br />How much you really wanna kill me?<br />Cuz I'm built like a god so manly?<br />Why can't we all be a happy family?<br />I mean, yeah, look at my biceps,<br />And my triceps,<br />And my quadriceps,<br />And my fiveceps.<br />Aww man, I'm a handsome mamma-jamma.<br />But you can't just give up.<br /><br />I wanna be like you,<br />I wanna be like you,<br />But I'll never be like you,<br />Be like you, be like you.<br />I wanna be like you,<br />I wanna be like you,<br />But I'll never be like you,<br />Be like you, be like you.<br /><br />You got some sparkly abs,<br />That beautiful facial hair.<br />You make me wanna jump right off of that cliff over there.<br />'Cuz you are way too handsome, yeah.<br />I get intrusive thoughts of death.<br />Wait what?<br /><br />I wanna be like you,<br />I wanna be like you,<br />But I'll never be like you,<br />Be like you, be like you.<br />I wanna be like you,<br />I wanna be like you,<br />But I'll never be like you,<br />Be like you, be like you.{% endraw %}
