@@ -1,0 +1,15 @@
+---
+title: "Get Ready For MetaVpad IDO | Tutorial To Participate On Tronpad And Adapad | Wealth in Progress"
+image: "https:\/\/i.ytimg.com\/vi\/khEKorxIgx8\/hqdefault.jpg"
+vid_id: "khEKorxIgx8"
+categories: "People-Blogs"
+tags: ["adapad tutorial","tronpad tutorial","100x gem ido"]
+date: "2021-12-10T03:23:35+03:00"
+vid_date: "2021-12-09T16:44:24Z"
+duration: "PT16M56S"
+viewcount: "722"
+likeCount: "56"
+dislikeCount: "0"
+channel: "Wealth in Progress"
+---
+{% raw %}It's time to get ready for the MetaVPad IDO which takes place on December 10. So, in this video I'll show you all the steps you need to take to be prepared for this new 100x gem.<br /><br /><br />SUBSCRIBE TO MY NEWSLETTER: Get all the information to join the DeFire Academy for more crypto gems and get weekly analysis in your inbox: <a rel="nofollow" target="blank" href="https://defireacademy.ck.page/ce5add973d">https://defireacademy.ck.page/ce5add973d</a> 🚀<br /><br /><br /><br />Links:<br />Medium article: <a rel="nofollow" target="blank" href="https://medium.com/@metavpad/metavpad-ido-information-420a5568582">https://medium.com/@metavpad/metavpad-ido-information-420a5568582</a> <br />Whitelist: <a rel="nofollow" target="blank" href="https://app.viralsweep.com/sweeps/full/0f5cc5-99469?framed=1">https://app.viralsweep.com/sweeps/full/0f5cc5-99469?framed=1</a> <br /><br /><br /><br />Videos I've mentioned and related videos: <br />Metamask tutorial: <a rel="nofollow" target="blank" href="https://youtu.be/FDT1PPi2Ypk">https://youtu.be/FDT1PPi2Ypk</a><br />Pulsepad tutorial: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=gnAciklDDHc">https://www.youtube.com/watch?v=gnAciklDDHc</a><br />Velhalla tutorial: <a rel="nofollow" target="blank" href="https://youtu.be/cNkx41iTGnI">https://youtu.be/cNkx41iTGnI</a><br />Binance tutorial: <a rel="nofollow" target="blank" href="https://youtu.be/EjFD-wsIrqA">https://youtu.be/EjFD-wsIrqA</a><br />Kucoin tutorial: <a rel="nofollow" target="blank" href="https://youtu.be/Gh2PGbKNZIU">https://youtu.be/Gh2PGbKNZIU</a><br />Coinbase beginner tutorial: <a rel="nofollow" target="blank" href="https://youtu.be/gq7YlxH1ddY">https://youtu.be/gq7YlxH1ddY</a><br />Ergodex beta testing: <a rel="nofollow" target="blank" href="https://youtu.be/P_ED5KN7oOg">https://youtu.be/P_ED5KN7oOg</a><br />Top Cardano Airdrop projects: <a rel="nofollow" target="blank" href="https://youtu.be/sjjozNWa_3k">https://youtu.be/sjjozNWa_3k</a><br /><br /><br />Create an account on Binance: <a rel="nofollow" target="blank" href="https://www.binance.com/en/register?ref=11165220">https://www.binance.com/en/register?ref=11165220</a><br /><br /><br />*Disclaimer: This is not financial advice and I’m not a financial adviser. These are just my personal opinions and this content is for informational purposes only. Please do your own research before investing.<br /><br />*Discloser: Some of the links are affiliate links, meaning, I get a commission if you decide to make a purchase through one of my links, at no cost to you.<br /><br />#metavpad #crypto #ido{% endraw %}
