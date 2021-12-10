@@ -1,0 +1,15 @@
+---
+title: "Inside Maximum Security Prison: Murder, Mayhem, and Meditation (Part 1)"
+image: "https:\/\/i.ytimg.com\/vi\/XgNV_Zv5vaI\/hqdefault.jpg"
+vid_id: "XgNV_Zv5vaI"
+categories: "News-Politics"
+tags: ["inside maximum security prison vice","mayhem meditation","maximum security prison"]
+date: "2021-12-10T22:59:37+03:00"
+vid_date: "2014-06-30T18:06:32Z"
+duration: "PT8M4S"
+viewcount: "2394857"
+likeCount: "13166"
+dislikeCount: "758"
+channel: "VICE News"
+---
+{% raw %}Subscribe to VICE News here: <a rel="nofollow" target="blank" href="http://bit.ly/Subscribe-to-VICE-News">http://bit.ly/Subscribe-to-VICE-News</a><br /><br />America is locking up more people than any other nation on earth. Home to just 5 percent of the world's total population, the United States houses more than 20 percent of the world's prisoners. In the last three decades, fueled in large part by a national drug policy and legislation like three strikes laws, America has imprisoned more people in local jails, federal penitentiaries, and private correctional facilities than Stalin put in the Gulags. New court rulings have declared overcrowded prisons to be unconstitutional, and the sheer cost of incarceration is forcing prisons to let prisoners back out on the streets.<br /><br />VICE News was granted rare access to go inside one of the most maximum-security prisons in the country, a place that's on the frontline of what could be a sea change in prison policy. Salinas Valley State Prison is home to America's most powerful prison gangs including the Aryan Brotherhood and Mexican Mafia. It's a place that's projected to have more than 700 assaults this year. In an institution that houses the worst of the worst, we see how one maverick warden is trying to turn the system around by rehabilitating murderers before they get returned to the streets.<br /><br />Inside Maximum Security: Murder, Mayhem, and Meditation (Part 1): <a rel="nofollow" target="blank" href="http://bit.ly/VcZLne">http://bit.ly/VcZLne</a><br />The Grip of the Gangs: Murder, Mayhem, and Meditation (Part 2): <a rel="nofollow" target="blank" href="http://bit.ly/VFjBYE">http://bit.ly/VFjBYE</a><br />Goodbye to the Mafia: Murder, Mayhem, and Meditation (Part 3): <a rel="nofollow" target="blank" href="http://bit.ly/TFey8R">http://bit.ly/TFey8R</a><br />A Thousand Lifers: Murder, Mayhem, and Meditation (Part 4): <a rel="nofollow" target="blank" href="http://bit.ly/1kjwAo1">http://bit.ly/1kjwAo1</a><br />Getting Out: Murder, Mayhem, and Meditation (Part 5): <a rel="nofollow" target="blank" href="http://bit.ly/1olIn7W">http://bit.ly/1olIn7W</a><br /><br />Check out the VICE News beta for more: <a rel="nofollow" target="blank" href="http://vicenews.com">http://vicenews.com</a><br /><br />Follow VICE News here:<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/vicenews">https://www.facebook.com/vicenews</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/vicenews">https://twitter.com/vicenews</a><br />Tumblr: <a rel="nofollow" target="blank" href="http://vicenews.tumblr.com/">http://vicenews.tumblr.com/</a>{% endraw %}
