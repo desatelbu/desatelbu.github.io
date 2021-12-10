@@ -1,0 +1,15 @@
+---
+title: "DJ Snake, Ozuna, Megan Thee Stallion, LISA of BLACKPINK - SG (Behind The Scenes)"
+image: "https:\/\/i.ytimg.com\/vi\/cci0HCNXxvg\/hqdefault.jpg"
+vid_id: "cci0HCNXxvg"
+categories: "Music"
+tags: ["Snake","Ozuna","Megan"]
+date: "2021-12-10T17:10:57+03:00"
+vid_date: "2021-12-09T17:00:23Z"
+duration: "PT3M4S"
+viewcount: "623444"
+likeCount: "84820"
+dislikeCount: "478"
+channel: "DJSnakeVEVO"
+---
+{% raw %}Go Behind the Scenes of the &quot;SG&quot; official music video! <br /><br />SG is out now: <a rel="nofollow" target="blank" href="https://DjSnake.lnk.to/SnakeOzunaMeganLisa">https://DjSnake.lnk.to/SnakeOzunaMeganLisa</a><br /><br />Follow DJ Snake: <br /><a rel="nofollow" target="blank" href="https://instagram.com/djsnake">https://instagram.com/djsnake</a><br /><a rel="nofollow" target="blank" href="https://tiktok.com/@djsnake">https://tiktok.com/@djsnake</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/djsnake">https://twitter.com/djsnake</a><br /><a rel="nofollow" target="blank" href="https://facebook.com/djsnake.fr">https://facebook.com/djsnake.fr</a><br /><a rel="nofollow" target="blank" href="https://djsnake.com/">https://djsnake.com/</a><br /> <br />Follow Ozuna: <br /><a rel="nofollow" target="blank" href="https://www.instagram.com/ozuna/">https://www.instagram.com/ozuna/</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/ozunapr">https://www.facebook.com/ozunapr</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/ozunapr">https://twitter.com/ozunapr</a><br /> <br />Follow Megan Thee Stallion: <br /><a rel="nofollow" target="blank" href="https://megantheestallion.com">https://megantheestallion.com</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/theestallion">https://www.instagram.com/theestallion</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/theestallion">https://twitter.com/theestallion</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/theestallionn">https://www.facebook.com/theestallionn</a><br /> <br />Follow LISA of BLACKPINK: <br /><a rel="nofollow" target="blank" href="http://instagram.com/lalalalisa_m">http://instagram.com/lalalalisa_m</a><br /><a rel="nofollow" target="blank" href="http://www.blackpinkofficial.com/">http://www.blackpinkofficial.com/</a><br /><a rel="nofollow" target="blank" href="http://www.youtube.com/BLACKPINKOFFICIAL">http://www.youtube.com/BLACKPINKOFFICIAL</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/BLACKPINKOFFICIAL">http://www.facebook.com/BLACKPINKOFFICIAL</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/BLACKPINK">https://twitter.com/BLACKPINK</a><br /><br />#SG <br /><br />Music video by DJ Snake, Ozuna, Megan Thee Stallion, LISA performing SG (Behind The Scenes). © 2021 DJ Snake Music Productions Limited, under exclusive license to Interscope Records<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/ahJQGF">http://vevo.ly/ahJQGF</a>{% endraw %}
