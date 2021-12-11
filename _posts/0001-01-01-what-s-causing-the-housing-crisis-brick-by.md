@@ -1,0 +1,15 @@
+---
+title: "What's causing the housing crisis?"
+image: "https:\/\/i.ytimg.com\/vi\/DmCyQG4Xeug\/hqdefault.jpg"
+vid_id: "DmCyQG4Xeug"
+categories: "News-Politics"
+tags: ["The Sun","news","breaking news"]
+date: "2021-12-11T18:00:00+03:00"
+vid_date: "2019-10-04T16:15:01Z"
+duration: "PT5M50S"
+viewcount: "13413"
+likeCount: "169"
+dislikeCount: "44"
+channel: "The Sun"
+---
+{% raw %}Brick by brick, Britain’s housing is crumbling further into a state of emergency. <br /><br />Since 1970, the cost of homes in the UK have continued to rise and are now among the highest on earth. <br /><br />So, what brought on the crisis? And what’s the government intending to do to solve it? The Sun Explains...<br /><br />8.4million people living in unaffordable and overcrowded homes in England:<br /><a rel="nofollow" target="blank" href="https://www.thesun.co.uk/money/9980236/housing-crisis-uk-social-homes/">https://www.thesun.co.uk/money/9980236/housing-crisis-uk-social-homes/</a><br /><br />Britain’s housing crisis ‘could be solved by building homes on brownfield land in cities’:<br /><a rel="nofollow" target="blank" href="https://www.thesun.co.uk/news/8710897/housing-crisis-saved-by-brownfield-land/">https://www.thesun.co.uk/news/8710897/housing-crisis-saved-by-brownfield-land/</a><br /><br />Next PM must spend billions to build 145,000 homes every year, housing groups warn:<br /><a rel="nofollow" target="blank" href="https://www.thesun.co.uk/news/9365874/prime-minister-affordable-homes-warning/">https://www.thesun.co.uk/news/9365874/prime-minister-affordable-homes-warning/</a><br /><br />Pre-built homes with kitchens and bathrooms are lowered into empty building – but could they fix the housing crisis?<br /><a rel="nofollow" target="blank" href="https://www.thesun.co.uk/money/9704549/modular-construction-bristol-solve-housing-crisis/">https://www.thesun.co.uk/money/9704549/modular-construction-bristol-solve-housing-crisis/</a><br /><br />Footballers’ housing crisis: How Premier League stars are struggling to get on the property ladder despite being worth millions:<br /><a rel="nofollow" target="blank" href="https://www.thesun.co.uk/sport/football/">https://www.thesun.co.uk/sport/football/</a><br /><br />From Brexit breaking news to HD movie trailers, The Sun newspaper brings you the latest news videos and explainers from the UK and around the world.<br /><br />Become a Sun Subscriber and hit the bell to be the first to know<br /><br />Read The Sun: <a rel="nofollow" target="blank" href="http://www.thesun.co.uk">http://www.thesun.co.uk</a><br />Like The Sun on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/thesun/">https://www.facebook.com/thesun/</a><br />Follow The Sun on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/TheSun">https://twitter.com/TheSun</a><br />Subscribe to The Sun on Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/discover/The_Sun/1633225139">https://www.snapchat.com/discover/The_Sun/1633225139</a>{% endraw %}
