@@ -1,0 +1,15 @@
+---
+title: "Legally Stealing A Car And Yard Work"
+image: "https:\/\/i.ytimg.com\/vi\/IEygP2d8Wi8\/hqdefault.jpg"
+vid_id: "IEygP2d8Wi8"
+categories: "Autos-Vehicles"
+tags: ["Legally","Stealing"]
+date: "2021-12-11T10:06:56+03:00"
+vid_date: "2021-12-11T01:47:06Z"
+duration: "PT29M5S"
+viewcount: "4304"
+likeCount: "541"
+dislikeCount: "10"
+channel: "Plaza Towing"
+---
+{% raw %}Enjoy this video of a day in the life style video where we do some yard work like spooling cables, washing trucks, and even &quot;stealing,&quot; a car, Enjoy! <br />Thanks for watching as always LIKE, COMMENT, SUBSCRIBE, and SHARE the HECK out of this video!<br />►<a rel="nofollow" target="blank" href="http://www.jbtrailerservice.com/">http://www.jbtrailerservice.com/</a><br />►Support my channel-paypal.me/plazatowing    (copy into your browser)<br /><br /><br />►Email Me Here- plazatowingsocial@gmail.com<br /><br />►Send Mail Here-<br />Trent Butzlaff<br />83827 Tamarisk Street<br /> Indio, CA 92201<br /><br />►Products I Use And Support- <br />     ►Guardian Angel Light:  <a rel="nofollow" target="blank" href="https://www.guardianangeldevices.com/...">https://www.guardianangeldevices.com/...</a><br />USE MY CODE: (120CLIP) for free shipping and free universal clip<br />     ► Lemur Light: <a rel="nofollow" target="blank" href="https://www.lemurlights.com/products/...">https://www.lemurlights.com/products/...</a><br /><br />- - - - FIND ME ON SOCIAL MEDIA BELOW!! - - - -<br /><br />► INSTAGRAM →<a rel="nofollow" target="blank" href="https://www.instagram.com/plaza_towing/">https://www.instagram.com/plaza_towing/</a><br /><br />► FACEBOOK → <a rel="nofollow" target="blank" href="https://www.facebook.com/PlazaTowing/">https://www.facebook.com/PlazaTowing/</a><br /><br />- - - - Frequently Asked Questions - - - -<br />Q:What camera do you use?<br />A: I use the Go Pro Hero 7 Black Edition primarily. Often times you will see auxillary cameras in use. Those cameras include The Go Pro Hero 6, Hero, and DJI Mavic Pro Platinum <br /><br />Q: How big Is your rotator?<br />A: It is a 50 ton Miller Industries Vulcan 950<br /><br />Q: Does the carriage slide back like Ron Pratt's?<br />A: No, the carriage doesn't slide back due to strict weight laws in California. The sliding carriage will make the truck to heavy in CA<br /><br />Q: Why do you only have 3 winches on the rotator?<br />A: Comes down to weight again as stated above<br /><br />Q: How many trucks Does Plaza Towing have?<br />A: Currently more than 30<br /><br />Q: Why must the driveshaft be removed to tow a vehicle?<br />A: When vehicles are not running the transmission is not receiving circulating lubricant. If the driveshaft is left installed, the transmission, which is not receiving lubricant, is still spinning. This allows it to get very hot which eventually will cause major damage to the transmission. Therefore, removing the driveshaft completely eliminates the transmission from spinning. Simply leaving it in neutral is not sufficient since the transmission still spins in neutral.{% endraw %}
