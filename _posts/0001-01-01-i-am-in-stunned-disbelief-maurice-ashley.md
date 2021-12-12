@@ -1,0 +1,15 @@
+---
+title: "\"I am in stunned disbelief\" - Maurice Ashley on the World Championship match ending in 11 games"
+image: "https:\/\/i.ytimg.com\/vi\/EkZRbQ4ZKj8\/hqdefault.jpg"
+vid_id: "EkZRbQ4ZKj8"
+categories: "Sports"
+tags: ["chessbaseindia","interviews","chesstraining"]
+date: "2021-12-12T10:48:47+03:00"
+vid_date: "2021-12-11T11:53:22Z"
+duration: "PT7M59S"
+viewcount: "12780"
+likeCount: "700"
+dislikeCount: "5"
+channel: "ChessBase India"
+---
+{% raw %}Maurice Ashley was the person who would introduce the players and dignitaries during the World championship match. He was also the person who hosted the press conferences and he also was the host in the NBC shows which were greatly popular during the match. Maurice was the person who watched the match at close quarters! We ask him about his thoughts and what he felt about the match ending 3 games before the schedule.<br /><br />Video: ChessBase India<br /><br />#Chess #ChessBaseIndia #CarlsenNepo<br />----------------------------------------------------------------<br />Subscribe to the ChessBase India Channel on YouTube for more informative and exciting videos!<br />---------------------------------------------------------------------<br />Subscribe to ChessBase India on YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/ChessBaseIndiachannel">https://www.youtube.com/c/ChessBaseIndiachannel</a><br /><br />Subscribe to our second channel - ChessBase India clips for fun and exciting content:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCjYrfY1-CCX2pagdnRrNUpA">https://www.youtube.com/channel/UCjYrfY1-CCX2pagdnRrNUpA</a><br /><br />If you like content in Hindi, then do subscribe to Hindi ChessBase India channel:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/ChessBaseIndiaHindi">https://www.youtube.com/c/ChessBaseIndiaHindi</a><br /><br />Check out chessbase.in for quality news and updates: <a rel="nofollow" target="blank" href="http://chessbase.in">http://chessbase.in</a><br /><br />Find all latest ChessBase DVD, Quality Chess books and other accessories: <a rel="nofollow" target="blank" href="https://chessbase.in/online-shop/">https://chessbase.in/online-shop/</a><br /><br />You may also buy from ChessBase India storefront in Amazon India: <a rel="nofollow" target="blank" href="https://amzn.to/2vv0XXy">https://amzn.to/2vv0XXy</a><br />------------------------------------<br /><br />ChessBase India on Social Media<br />------------------------------------<br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/ChessbaseIndia">https://twitter.com/ChessbaseIndia</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/chessbaseindia/">https://www.facebook.com/chessbaseindia/</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/chessbaseindia">https://www.instagram.com/chessbaseindia</a> <br />---------------------------------------------<br /><br />In case of any questions feel free to reach out to our team at chessbaseindia@gmail.com{% endraw %}
