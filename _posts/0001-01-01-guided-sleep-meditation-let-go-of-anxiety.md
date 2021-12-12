@@ -1,0 +1,15 @@
+---
+title: "Guided Sleep Meditation Let Go of Anxiety, Fear, Worry Before Sleep"
+image: "https:\/\/i.ytimg.com\/vi\/acLUWBuAvms\/hqdefault.jpg"
+vid_id: "acLUWBuAvms"
+categories: "Music"
+tags: ["guided sleep meditation","let go of anxiety","let go"]
+date: "2021-12-12T10:14:27+03:00"
+vid_date: "2019-08-28T01:15:01Z"
+duration: "PT3H"
+viewcount: "5125406"
+likeCount: "36578"
+dislikeCount: "4309"
+channel: "Jason Stephenson - Sleep Meditation Music"
+---
+{% raw %}Calm your mind and improve your sleep with your FREE sleep guided meditation. <a rel="nofollow" target="blank" href="https://www.jasonstephenson.net/lp/sleep-meditation/free-sleep-meditation/?utm_source=youtube-jason-stephenson-sleep-meditation-music-video-description&amp;utm_medium=social&amp;utm_campaign=sleep-guided-meditation-landing-page">https://www.jasonstephenson.net/lp/sleep-meditation/free-sleep-meditation/?utm_source=youtube-jason-stephenson-sleep-meditation-music-video-description&amp;utm_medium=social&amp;utm_campaign=sleep-guided-meditation-landing-page</a><br /><br />#guidedsleepmeditation #letgoofanxiety #jasonstephenson<br /><br />Guided Sleep Meditation for Insomnia 😴 &amp; Healing ❤ with Affirmations<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=MGK1cK72RsM&amp;list=PLwRp13WDIrMPzLqtyvvPrs7sMR_lvZ8Bf">https://www.youtube.com/watch?v=MGK1cK72RsM&amp;list=PLwRp13WDIrMPzLqtyvvPrs7sMR_lvZ8Bf</a><br /><br />5 of the Best Sleep Guided Meditations combined into one seamless recording 🌈🌟<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=wsB_TnQfCxA&amp;list=PLwRp13WDIrMPzLqtyvvPrs7sMR_lvZ8Bf">https://www.youtube.com/watch?v=wsB_TnQfCxA&amp;list=PLwRp13WDIrMPzLqtyvvPrs7sMR_lvZ8Bf</a><br /><br />Guided Meditation with Gentle Waterfall Nature Sounds 🍃💦🎧<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=-Oeu5gYPOzE&amp;list=PLwRp13WDIrMPzLqtyvvPrs7sMR_lvZ8Bf">https://www.youtube.com/watch?v=-Oeu5gYPOzE&amp;list=PLwRp13WDIrMPzLqtyvvPrs7sMR_lvZ8Bf</a><br /><br />Get more great sleep - Subscribe <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCqPYhcdFgrlUXiGmPRAej1w?sub_confirmation=1">https://www.youtube.com/channel/UCqPYhcdFgrlUXiGmPRAej1w?sub_confirmation=1</a><br /><br />iTunes MP3 download available here now: <a rel="nofollow" target="blank" href="https://music.apple.com/au/album/let-go-anxiety-fear-worry-before-sleep-guided-spoken/1481519615">https://music.apple.com/au/album/let-go-anxiety-fear-worry-before-sleep-guided-spoken/1481519615</a><br /><br />© JASON STEPHENSON &amp; RELAX ME ONLINE AUSTRALIA PTY LTD Copyright 2019 All rights reserved.<br /><br />This work is not intended to substitute for professional medical or counselling advice. If you suffer from a physical or mental illness, please always seek professional help.  <br /><br /><br />DO NOT DRIVE OR OPERATE MACHINERY WHILST LISTENING TO SLEEP MEDITATION MUSIC, BINAURAL BEATS OR GUIDED SLEEP RELAXATIONS.{% endraw %}
