@@ -1,0 +1,15 @@
+---
+title: "If You Are Lazy and Lack Discipline, WATCH THIS Closely! | James Clear"
+image: "https:\/\/i.ytimg.com\/vi\/0-9CpvyiyIo\/hqdefault.jpg"
+vid_id: "0-9CpvyiyIo"
+categories: "Education"
+tags: ["be inspired","be inspired channel","be inspired video"]
+date: "2021-12-12T19:40:21+03:00"
+vid_date: "2021-12-12T15:00:01Z"
+duration: "PT8M38S"
+viewcount: "7287"
+likeCount: "857"
+dislikeCount: "5"
+channel: "Be Inspired"
+---
+{% raw %}This is how you can destroy your bad habits. end laziness and become disciplined.<br />►Special Thanks to Ed Mylett for this amazing interview.<br />Check out his amazing content here:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/EdMylettShow">https://www.youtube.com/c/EdMylettShow</a><br />FULL EPISODE:  <a rel="nofollow" target="blank" href="https://youtu.be/Kz0pNyS0plk">https://youtu.be/Kz0pNyS0plk</a><br />---------------------------------------------------------------------------------------------------------------<br />✅ <a rel="nofollow" target="blank" href="http://onlydreamersallowed.com">http://onlydreamersallowed.com</a><br />Motivational Clothing Brand.<br /><br />✅ If you struggle and have a hard time, consider taking an online therapy session with our partner BetterHelp. <a rel="nofollow" target="blank" href="http://tryonlinetherapy.com/beinspired.">http://tryonlinetherapy.com/beinspired.</a> We receive commissions for referrals to BetterHelp. We only recommend products we know and trust. <br /><br />✅SELF-HYPNOSIS AUDIO PROGRAMS: <a rel="nofollow" target="blank" href="http://bit.ly/2RGCade">http://bit.ly/2RGCade</a> (Reprogram Your Subconscious)<br /><br />✅6 Hz Auto-Suggestion Program<br /><a rel="nofollow" target="blank" href="https://beinspiredchannel.com/download/thetaaudioprograms/">https://beinspiredchannel.com/download/thetaaudioprograms/</a><br /><br />✅Motivational Alarm Tones <br /><a rel="nofollow" target="blank" href="https://beinspiredchannel.com/alarms">https://beinspiredchannel.com/alarms</a><br /><br />---------------------------------------------------------------------------------------------------------------------<br />►Footage licensed through:<br />Videoblocks<br /><br />►Music <a rel="nofollow" target="blank" href="https://bit.ly/34ZqEAr">https://bit.ly/34ZqEAr</a><br />---------------------------------------------------------------------------------------------------------------------<br /><br />►Speakers<br />JAMES CLEAR<br />&quot;ATOMIC HABITS&quot; Book : <a rel="nofollow" target="blank" href="https://amzn.to/3DNpW94">https://amzn.to/3DNpW94</a><br />---------------------------------------------------------------------------------------------------------------------<br />For any concerns, business inquiries, please contact us at:<br />beinspiredmanager@gmail.com<br /><br />AFFILIATE DISCLOSURE: there may be a few links in this description that, at no cost to you, will earn us a commission if you choose to click them and make a purchase <br />Don’t worry, we only recommend products we know and trust.{% endraw %}
