@@ -1,0 +1,15 @@
+---
+title: "Average Income Around the World 🌎  | Average Income By Country"
+image: "https:\/\/i.ytimg.com\/vi\/wlLLJUOZMg0\/hqdefault.jpg"
+vid_id: "wlLLJUOZMg0"
+categories: "Education"
+tags: ["average net worth","average net worth by age","net worth by age"]
+date: "2021-12-13T18:19:16+03:00"
+vid_date: "2021-12-13T14:45:05Z"
+duration: "PT13M36S"
+viewcount: "52"
+likeCount: "6"
+dislikeCount: "0"
+channel: "Erin Talks Money"
+---
+{% raw %}At this point I've done a handful of these types of videos - average income by age, average income by state, average debt by age -  but this time we are crossing boarders and taking things internationally. <br /><br />We are going to be looking at average income by country. Now to help bring some meaning and clarity to these numbers - they are all converted to US dollars.  <br /><br />With that perspective, what county has the highest average income?  Where does America stand in all of this? How much do taxes impact things - after all, different countries have vastly different tax rates!<br /><br />Well, know that none of these numbers are perfect.  It's not easy to compare the income of one nation to another. This video - like all videos on this channel is meant for entertainment purposes and perhaps to strike your curiosity around the subject of money. <br /><br />Have you ever lived in another county?  Let me know in the comments down below! Please share your insights!!<br /><br />Looking for more money videos, I post new videos every week, subscribe to my channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/midge087">https://www.youtube.com/user/midge087</a> <br /><br />While you are here, why not check out some of my other videos: <br /><br />What is the 3 bucket strategy to retirement: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=hD5GhQg7HAk">https://www.youtube.com/watch?v=hD5GhQg7HAk</a><br /><br />Wonder how much you need for retirement, here’s what the experts have to say: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=NyC-5mEDJPk">https://www.youtube.com/watch?v=NyC-5mEDJPk</a><br /><br />What is the INCOME for the average American: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=51rUkqB14kk&amp;t=161s">https://www.youtube.com/watch?v=51rUkqB14kk&amp;t=161s</a><br /><br />What is the median net worth by age: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=6FL3ahJkR3U">https://www.youtube.com/watch?v=6FL3ahJkR3U</a><br /><br />Average NET WORTH by age: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=6yWPh3A_uM0">https://www.youtube.com/watch?v=6yWPh3A_uM0</a><br /><br />Saving 98% of my income: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=9yiXWJ6mL84">https://www.youtube.com/watch?v=9yiXWJ6mL84</a><br /><br />Looking to start investing in individual stocks, join Robinhood and get a free stock: <a rel="nofollow" target="blank" href="https://join.robinhood.com/erinm1666">https://join.robinhood.com/erinm1666</a><br /><br /><br />#averageincome #averagenetworth{% endraw %}
