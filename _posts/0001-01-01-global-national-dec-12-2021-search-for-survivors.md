@@ -1,0 +1,15 @@
+---
+title: "Global National: Dec. 12, 2021 | Search for survivors continues after devastating US tornadoes"
+image: "https:\/\/i.ytimg.com\/vi\/Brh6llAHe14\/hqdefault.jpg"
+vid_id: "Brh6llAHe14"
+categories: "News-Politics"
+tags: ["global news","U.S. storms","U.S. weather"]
+date: "2021-12-13T11:14:57+03:00"
+vid_date: "2021-12-13T02:30:11Z"
+duration: "PT21M51S"
+viewcount: "27222"
+likeCount: "288"
+dislikeCount: "29"
+channel: "Global News"
+---
+{% raw %}A desperate search for survivors is underway in the midwest United States after at least 90 people were killed during a swarm of storms and tornadoes that levelled entire communities. Jackson Proskow reports from Mayfield, Kentucky where a rescue operation continues.<br /><br />Meanwhile, U.S. President Joe Biden has deployed the National Guard and federal emergency workers to help people rebuild their lives, but it will take months to recover from the vicious storm system. Jennifer Johnson has more.<br /><br />In Canada, Alberta residents still don’t know what kind of holiday gatherings will be allowed under the province’s latest COVID-19 rules. The current restrictions, which are some of the toughest in the country, are set to be eased this week. Heather Yourex-West looks at the risks heading into the holidays with the threat of the Omicron variant.<br /><br />Canada and other G7 nations have a stark warning for Russia: de-escalate tensions on the Ukrainian border or prepare for economic consequences. It comes amid reports Russia is bolstering its troop and missile deployment in that region. Mike Le Couteur looks at the fallout and the possible road ahead.<br /><br />And, there are questions about the Canadian military's fleet of Navy helicopters, after a crack discovered in one led to inspections that turned up cracks in 18 others. Ross Lord reports on what this could mean for the future of the choppers.<br /><br />In B.C., four First Nations are looking to bring the Olympics back to the province by exploring the idea of their own bid for the 2030 Winter Games. As Neetu Garcha reports, it would be the first Indigenous-led bid for an Olympic Games.<br /><br />Plus, people in Toronto are remembering the life of former mayor Mel Lastman, who died Saturday at the age of 88. Lastman had a larger-than-life personality and as Matthew Bingley reports, there were many moments that put him in the political spotlight.<br /><br />For more info, please go to <a rel="nofollow" target="blank" href="https://globalnews.ca">https://globalnews.ca</a><br />Subscribe to Global News Channel HERE: <a rel="nofollow" target="blank" href="http://bit.ly/20fcXDc">http://bit.ly/20fcXDc</a><br />Like Global News on Facebook HERE: <a rel="nofollow" target="blank" href="http://bit.ly/255GMJQ">http://bit.ly/255GMJQ</a><br />Follow Global News on Twitter HERE: <a rel="nofollow" target="blank" href="http://bit.ly/1Toz8mt">http://bit.ly/1Toz8mt</a><br />Follow Global News on Instagram HERE: <a rel="nofollow" target="blank" href="https://bit.ly/2QZaZIB">https://bit.ly/2QZaZIB</a><br />#GlobalNews #GlobalNational{% endraw %}
