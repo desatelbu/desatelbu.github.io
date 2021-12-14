@@ -1,0 +1,550 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+    <link rel="dns-prefetch" href="//images1-focus-opensocial.googleusercontent.com" />
+    <link rel="dns-prefetch" href="//static.addtoany.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="msvalidate.01" content="5CEC69C913D38629490B9FC87E71DE4B">
+    <meta name="yandex-verification" content="0e012a25549ac426">
+    <meta name="google-site-verification" content="sgsAzp2JCELAox-Ktbw0TWiR8FYQHd3aik0Tap8Uc2M">
+    <meta charset="UTF-8" />
+    <title>NetApp: Create a LUN and attach as a drive on Windows Server 2012</title>
+    <meta name="description" content="">
+	<meta name="keywords" content="NetApp:,Create,attach">
+    <meta property="og:site_name" content="DeSatelBu">
+    <meta property="og:url" content="https://desatelbu.github.io/videos/watch/netapp-create-a-lun-and-attach-as-a-drive">
+    <meta property="og:title" content="NetApp: Create a LUN and attach as a drive on Windows Server 2012">
+    <meta property="og:image" content="https://i.ytimg.com/vi/uf0taABJ5rU/hqdefault.jpg">
+    <meta property="og:description" content="">
+    <meta name='twitter:card' content='summary_large_image' />
+    <script type="application/ld+json">
+        { "@context": "http://schema.org", "@type": "VideoObject", "name": "NetApp: Create a LUN and attach as a drive on Windows Server 2012", "description": "\n", "thumbnailUrl": "https://i.ytimg.com/vi/uf0taABJ5rU/hqdefault.jpg", "uploadDate": "2014-11-19T11:13:25Z", "duration": "PT8M33S", "contentUrl": "https://desatelbu.github.io/videos/watch/netapp-create-a-lun-and-attach-as-a-drive", "interactionCount": "34403" }
+    </script>
+    <link rel="canonical" href="https://desatelbu.github.io/videos/watch/netapp-create-a-lun-and-attach-as-a-drive" />
+    <link rel="stylesheet" href="https://desatelbu.github.io/inc/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+    <nav class="navbar mb-3 navbar-expand-lg navbar-light bg-white mb-4 shadow-sm">
+        <div class="container py-2"><a class="navbar-brand" href="https://desatelbu.github.io/">DeSatelBu</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-urls" aria-controls="navbar-urls" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <form action="/search/" class="my-2 my-lg-0 offset-md-2 col-md-6 col-sm-12 px-0 mr-auto">
+                <div class="input-group"><input name="s" class="form-control rounded-0 py-2" type="text" placeholder="video search..." id="example-search-input"><span class="input-group-append"><button aria-label="search" role="button" class="btn btn-secondary rounded-0" type="submit"><span class="px-2"><svg class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg></span></button>
+                    </span>
+                </div>
+                </form>
+                <div class="collapse navbar-collapse flex-md-grow-0" id="navbar-urls">
+
+                </div>
+        </div>
+    </nav>
+    <div class="container min-height-62" >
+        <div class="resp-container" id="top_720"></div>
+        <div class="row">
+            <div class="col-12 col-md-8">
+                <div class="bg-white"><noscript><a href="https://www.youtube.com/watch?v=uf0taABJ5rU"><img alt="NetApp: Create a LUN and attach as a drive on Windows Server 2012" src="https://i.ytimg.com/vi/uf0taABJ5rU/hqdefault.jpg" /></a></noscript>
+                    <div id="video-player"></div>
+                    <div class="p-3">
+                        <h1 class="h5 video-title bwr">NetApp: Create a LUN and attach as a drive on Windows Server 2012</h1>
+                        <div class="py-1 row">
+                            <div class="col-12 col-md-6 my-auto"><b class="text-danger">Share</b></div>
+                            <div class="col-12 col-md-6">
+                                <div class="a2a_kit a2a_kit_size_32 a2a_default_style"><a class="a2a_dd" href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_reddit"></a><a class="a2a_button_facebook_messenger"></a><a class="a2a_button_whatsapp"></a></div>
+                            </div>
+                        </div>
+                        <div align="center" class="py-1">
+
+                        </div>
+                        <div class="py-1">
+                            <div class="row">
+                                <div class="col-12 col-md-6">
+                                    <div class="mb-2 bwr"><strong>Roundandabout</strong><br> Published at : 14 Dec 2021  </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="h-100 d-flex align-items-center justify-content-center"><a  target="_blank" rel="noopener" class="btn btn-block btn-danger bwr" href="https://www.youtube.com/watch?v=uf0taABJ5rU">Subscribe to Roundandabout</a></div>
+                                </div>
+                            </div>
+                            <div class="resp-container" id="in_post_bottomads"></div>
+                        </div>
+                        <div class="py-1">
+                            <div class="row">
+                                <div class="col-12 col-md-6">
+                                    <div class="text-center bg-light mb-2 p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-eye fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M569.354 231.631C512.969 135.949 407.81 72 288 72 168.14 72 63.004 135.994 6.646 231.631a47.999 47.999 0 0 0 0 48.739C63.031 376.051 168.19 440 288 440c119.86 0 224.996-63.994 281.354-159.631a47.997 47.997 0 0 0 0-48.738zM288 392c-75.162 0-136-60.827-136-136 0-75.162 60.826-136 136-136 75.162 0 136 60.826 136 136 0 75.162-60.826 136-136 136zm104-136c0 57.438-46.562 104-104 104s-104-46.562-104-104c0-17.708 4.431-34.379 12.236-48.973l-.001.032c0 23.651 19.173 42.823 42.824 42.823s42.824-19.173 42.824-42.823c0-23.651-19.173-42.824-42.824-42.824l-.032.001C253.621 156.431 270.292 152 288 152c57.438 0 104 46.562 104 104z"></path></svg></span>                                        34403 views </span>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="text-center bg-light p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-thumbs-up fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M104 224H24c-13.255 0-24 10.745-24 24v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V248c0-13.255-10.745-24-24-24zM64 472c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24zM384 81.452c0 42.416-25.97 66.208-33.277 94.548h101.723c33.397 0 59.397 27.746 59.553 58.098.084 17.938-7.546 37.249-19.439 49.197l-.11.11c9.836 23.337 8.237 56.037-9.308 79.469 8.681 25.895-.069 57.704-16.382 74.757 4.298 17.598 2.244 32.575-6.148 44.632C440.202 511.587 389.616 512 346.839 512l-2.845-.001c-48.287-.017-87.806-17.598-119.56-31.725-15.957-7.099-36.821-15.887-52.651-16.178-6.54-.12-11.783-5.457-11.783-11.998v-213.77c0-3.2 1.282-6.271 3.558-8.521 39.614-39.144 56.648-80.587 89.117-113.111 14.804-14.832 20.188-37.236 25.393-58.902C282.515 39.293 291.817 0 312 0c24 0 72 8 72 81.452z"></path></svg></span>                                                191 </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="text-center bg-light p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-thumbs-down fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M0 56v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H24C10.745 32 0 42.745 0 56zm40 200c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24zm272 256c-20.183 0-29.485-39.293-33.931-57.795-5.206-21.666-10.589-44.07-25.393-58.902-32.469-32.524-49.503-73.967-89.117-113.111a11.98 11.98 0 0 1-3.558-8.521V59.901c0-6.541 5.243-11.878 11.783-11.998 15.831-.29 36.694-9.079 52.651-16.178C256.189 17.598 295.709.017 343.995 0h2.844c42.777 0 93.363.413 113.774 29.737 8.392 12.057 10.446 27.034 6.148 44.632 16.312 17.053 25.063 48.863 16.382 74.757 17.544 23.432 19.143 56.132 9.308 79.469l.11.11c11.893 11.949 19.523 31.259 19.439 49.197-.156 30.352-26.157 58.098-59.553 58.098H350.723C358.03 364.34 384 388.132 384 430.548 384 504 336 512 312 512z"></path></svg></span>                                                 </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr/>
+                        <div class="py-1 d-md-block bwr" id="video-description">
+</div>
+                        <div class="d-none"><span>NetApp:</span><span>Create</span><span>attach</span></div>
+                        <hr/>
+                        <div class="py-3"><div class="resp-container" id="extra_bottomads"><iframe data-aa="1794238" src="//ad.a-ads.com/1794238?size=468x60" style="width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>
+</div></div>
+                    </div>
+                </div>
+                <div class="position-sticky fixed-top d-md-block d-none">
+                    <div align="center" class="py-2">
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+            <div class="mb-4">
+                <div class="resp-container py-3" id="sidebar_300"></div>
+            </div>
+                
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/best-of-mega-2007-2009-br-best-of-fwtis-tsigdemoglou">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/1SfyBN7Hm-Q/mqdefault.jpg" alt="Ευτυχισμενοι Μαζι-Best Of Φωτης Τσιγδεμογλου/Μαστραπας">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Ευτυχισμενοι Μαζι-Best Of Φωτης Τσιγδεμογλου/Μαστραπας</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/sum-of-two-numbers-is-95-if-one-exceeds-the">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/p3Wtvn3kPJw/mqdefault.jpg" alt="Sum of two numbers is 95. If one exceeds the other by 15. Find the numbers.">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Sum of two numbers is 95. If one exceeds the other by 15. Find the numbers.</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/adekunle-gold-davido-high-official-video">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/juBnNBm0cPw/mqdefault.jpg" alt="Adekunle Gold, Davido - High (Official Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Adekunle Gold, Davido - High (Official Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/reasons-to-order-in-jordindian-from-the-vault">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Y4zhpL9rul0/mqdefault.jpg" alt="Reasons To Order In | Jordindian | From The Vault">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Reasons To Order In | Jordindian | From The Vault</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/hero-energy-rating-sample-dwelling-walkthrough">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Wtz6dEHgEzQ/mqdefault.jpg" alt="Hero Energy Rating - Sample Dwelling Walkthrough Part 2: Documentation &amp; Visual View">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Hero Energy Rating - Sample Dwelling Walkthrough Part 2: Documentation &amp; Visual View</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/men-s-athletic-fit-jeans-2021-fall-review">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/NkPZblogXRg/mqdefault.jpg" alt="Men&#39;s Athletic Fit Jeans 2021 Fall Review With Dean">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Men&#39;s Athletic Fit Jeans 2021 Fall Review With Dean</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/it-s-not-uncommon-provided-to-youtube-by">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/dUoLQBc5UVU/mqdefault.jpg" alt="It&#39;s Not Uncommon">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">It&#39;s Not Uncommon</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/br-br-br-we-discuss-issues-and-topics-of">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/cm7veQZjX4k/mqdefault.jpg" alt="بسبب ساندوتش برجر طہفہل  يقطع قلب امه واهله فى الاسكندريه مؤثر جدا">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">بسبب ساندوتش برجر طہفہل  يقطع قلب امه واهله فى الاسكندريه مؤثر جدا</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/christian-french-oh-well-lyrics-follow-the">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/SPaZtFFyXOs/mqdefault.jpg" alt="Christian French - OH WELL (Lyrics)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Christian French - OH WELL (Lyrics)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/cute-and-wonderful-diy-jewelry-with-clay">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/SOfTDdfATLE/mqdefault.jpg" alt="Cute And Wonderful DIY Jewelry With Clay, Epoxy And Glue Gun || Stunning Mini Crafts You Will Love">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Cute And Wonderful DIY Jewelry With Clay, Epoxy And Glue Gun || Stunning Mini Crafts You Will Love</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/3-10-2021-eng-subs-br-br-br-zabihullah-mujahid">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/sY_7r3ARvzs/mqdefault.jpg" alt="ΕΚΤΑΚΤΟ | ΑΦΓΑΝΙΣΤΑΝ | Χτύπησαν τζαμί - (3.10.2021)[Eng subs]">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">ΕΚΤΑΚΤΟ | ΑΦΓΑΝΙΣΤΑΝ | Χτύπησαν τζαμί - (3.10.2021)[Eng subs]</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/zavodila-but-everytime-it-is-the-opponent">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/0KHX6-wXckY/mqdefault.jpg" alt="Zavodila but everytime it is the Opponent&#39;s turn the mod changes - Friday Night Funkin&#39;">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Zavodila but everytime it is the Opponent&#39;s turn the mod changes - Friday Night Funkin&#39;</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/nikola-jokic-what-nba-legends-think-of-the">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/LbtguJhfTdI/mqdefault.jpg" alt="Nikola Jokic: What NBA Legends Think Of The Denver Nuggets Star">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Nikola Jokic: What NBA Legends Think Of The Denver Nuggets Star</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/the-worst-individual-performances-in-cod">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/nIzrl544lNE/mqdefault.jpg" alt="The WORST individual performances in COD history😲">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The WORST individual performances in COD history😲</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/crazy-powerful-and-impressive-machines-you">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/PXim22RAJS8/mqdefault.jpg" alt="Crazy Powerful And Impressive Machines You Need To See | Powerful Machines That Are On Another Level">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Crazy Powerful And Impressive Machines You Need To See | Powerful Machines That Are On Another Level</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/stop-the-card-with-your-head-and-win-500">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/56ITGPQ41RQ/mqdefault.jpg" alt="STOP THE CARD WITH YOUR HEAD AND WIN $500! 🤑 *CHALLENGE*">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">STOP THE CARD WITH YOUR HEAD AND WIN $500! 🤑 *CHALLENGE*</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/when-i-don-t-desire-god-part-1-john-piper">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/PU6Xtf_jpOA/mqdefault.jpg" alt="When I Don&#39;t Desire God, Part 1 – John Piper">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">When I Don&#39;t Desire God, Part 1 – John Piper</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/minecraft-but-you-can-order-any-item-minecraft">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/gi-dAIcf5FE/mqdefault.jpg" alt="Minecraft, But You Can Order Any Item...">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Minecraft, But You Can Order Any Item...</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/is-marriage-more-about-love-or-primarily">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ksu_wvtU_3s/mqdefault.jpg" alt="Is Marriage More About Love or Primarily About Business... Are you chasing the bag or chasing her?">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Is Marriage More About Love or Primarily About Business... Are you chasing the bag or chasing her?</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/5-behaviors-that-attract-people-the-most">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/HFujKAbNOmI/mqdefault.jpg" alt="5 Behaviors That Attract People The Most">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">5 Behaviors That Attract People The Most</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/simon-sinek-leadership-is-a-way-of-thinking">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/WqxhLDgtUt4/mqdefault.jpg" alt="Simon Sinek - Leadership Is A Way Of Thinking - Best Simon Sinek Motivational Speech">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Simon Sinek - Leadership Is A Way Of Thinking - Best Simon Sinek Motivational Speech</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/dr-vickers-to-headline-events-in-ireland">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/SZXaoyBjaos/mqdefault.jpg" alt="Dr. Vickers to headline events in Ireland and England and appear live, for 2 hours, on European TV">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Dr. Vickers to headline events in Ireland and England and appear live, for 2 hours, on European TV</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/why-networking-in-it-is-vital-google-it-support">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ty27YDhom6M/mqdefault.jpg" alt="Why Networking in IT is Vital | Google IT Support Certificate">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Why Networking in IT is Vital | Google IT Support Certificate</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/best-quality-with-brand-and-great-quantity">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/38GDpN1b8N0/mqdefault.jpg" alt="Best quality with brand and great quantity edible clay, all mix with all sizes.">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Best quality with brand and great quantity edible clay, all mix with all sizes.</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/third-covid-19-vaccine-dose-could-give-people">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/KWqFmZHnt6U/mqdefault.jpg" alt="Third COVID-19 vaccine dose could give people two to three years&#39; protection - Luke O&#39;Neill">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Third COVID-19 vaccine dose could give people two to three years&#39; protection - Luke O&#39;Neill</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/smooth-november-jazz-relax-funky-jazz-coffee">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/CC8GXTQuqRo/mqdefault.jpg" alt="Smooth November Jazz - Relax Funky Jazz Coffee Music for Chill Autumn Vibes">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Smooth November Jazz - Relax Funky Jazz Coffee Music for Chill Autumn Vibes</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/bad-web-design-a-look-at-the-most-hilariously">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/6befMTTTTRQ/mqdefault.jpg" alt="Bad Web Design: A Look At The Most Hilariously Terrible Websites From Around The Web">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Bad Web Design: A Look At The Most Hilariously Terrible Websites From Around The Web</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/jesse-bru-in-different-places-buy-stream">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/qSovhO_0q9w/mqdefault.jpg" alt="Jesse Bru - In Different Places">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Jesse Bru - In Different Places</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/chubby-checker-pony-time-chubby-checker-pony">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/JyaxcvHSyZY/mqdefault.jpg" alt="Chubby Checker - Pony Time">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Chubby Checker - Pony Time</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/march-of-the-forty-third-march-of-the-forty">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/XOgJYUgMIPI/mqdefault.jpg" alt="March of the Forty-Third">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">March of the Forty-Third</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/podcast-332-overcoming-toxic-should-have">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/oFtxy2Eb-TQ/mqdefault.jpg" alt="Podcast 332: Overcoming toxic “should have” and “could have”">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Podcast 332: Overcoming toxic “should have” and “could have”</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/do-lawyers-think-and-if-so-how-with-professor">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/_l7FcYzvl7k/mqdefault.jpg" alt="&quot;Do Lawyers Think, and If So, How?&quot; with Professor Frederick Schauer">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">&quot;Do Lawyers Think, and If So, How?&quot; with Professor Frederick Schauer</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/and-in-addition-beyonce-is-singing-at-the">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/LljU_8jTPGE/mqdefault.jpg" alt="ANd in addition">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">ANd in addition</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/kiddblack-assignment-ft-black-sherif-description">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/EPfPnl8wjkI/mqdefault.jpg" alt="KiddBlack - Assignment ft. Black Sherif">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">KiddBlack - Assignment ft. Black Sherif</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/resumen-de-fc-barcelona-vs-real-madrid-1">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/K6yWL9Gm-Mo/mqdefault.jpg" alt="Resumen de FC Barcelona vs Real Madrid (1-2)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Resumen de FC Barcelona vs Real Madrid (1-2)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/challenge-time-draw-your-favorite-today-s">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/fMI-8P6ErjE/mqdefault.jpg" alt="Challenge-Time! Draw your favorite...">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Challenge-Time! Draw your favorite...</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/dogecoin-and-entire-stock-market-just-had">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/-QJcqd49c5A/mqdefault.jpg" alt="DOGECOIN AND ENTIRE STOCK MARKET JUST HAD A HUGE DROP! NOW WHAT | Should I Buy Or Sell?">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">DOGECOIN AND ENTIRE STOCK MARKET JUST HAD A HUGE DROP! NOW WHAT | Should I Buy Or Sell?</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/kid-fakes-sick-note-to-skip-class-he-instantly">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/IrT5u_NBQTE/mqdefault.jpg" alt="Kid FAKES SICK NOTE to Skip Class, He Instantly Regrets It | Dhar Mann">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Kid FAKES SICK NOTE to Skip Class, He Instantly Regrets It | Dhar Mann</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/chelsea-v-manchester-united-tactical-analysis">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/LCch01c8pjA/mqdefault.jpg" alt="Chelsea v Manchester United: Tactical Analysis">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Chelsea v Manchester United: Tactical Analysis</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/elon-musk-how-to-learn-anything-learning">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/H1mb3ARvSJo/mqdefault.jpg" alt="Elon Musk - How To Learn Anything">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Elon Musk - How To Learn Anything</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/types-of-customers-graphic-designer-double">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/pgoUyMdXzfw/mqdefault.jpg" alt="Types of Customers | GRAPHIC DESIGNER | Double Omelette Comedies">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Types of Customers | GRAPHIC DESIGNER | Double Omelette Comedies</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/malang-city-s-people-enthusiastic-about-getting">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/uAQbefh_jc4/mqdefault.jpg" alt="Malang City’s People Enthusiastic about Getting Vaccinated">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Malang City’s People Enthusiastic about Getting Vaccinated</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/remembering-that-each-of-the-bloodbathhouse">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/CWzxWezgjhk/mqdefault.jpg" alt="remembering that each of the bloodbathhouse characters backstory are based on what I’ve been through">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">remembering that each of the bloodbathhouse characters backstory are based on what I’ve been through</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/algarve-best-places-to-stay-wintertime-cheapest">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/2R_2ZxkoBRE/mqdefault.jpg" alt="Algarve Best Places To Stay Wintertime / Cheapest Rent">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Algarve Best Places To Stay Wintertime / Cheapest Rent</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/final-discuss-with-nomadic-shepherd-sheep">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/WUiKMlvWgus/mqdefault.jpg" alt="final discuss with nomadic shepherd || sheep farm ||">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">final discuss with nomadic shepherd || sheep farm ||</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/dilemma-koskematon-feat-antti-railio-official">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/SzfwvfyMlG0/mqdefault.jpg" alt="Dilemma - Koskematon feat. Antti Railio (Official video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Dilemma - Koskematon feat. Antti Railio (Official video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/jazz-lofi-hip-hop-radio-chill-beats-to-relax">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/z52vueRUj7Q/mqdefault.jpg" alt="jazz/lofi hip hop radio🌱chill beats to relax/study to [LIVE 24/7]">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">jazz/lofi hip hop radio🌱chill beats to relax/study to [LIVE 24/7]</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/unpopular-opinion-i-like-badlion-minecraft">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/_vdW0z4CZl0/mqdefault.jpg" alt="UNPOPULAR OPINION: I LIKE BADLION... (Minecraft Client)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">UNPOPULAR OPINION: I LIKE BADLION... (Minecraft Client)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://desatelbu.github.io/videos/watch/1-2-3-start-curse-cu-skijet-extrem-multe">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/rF1ADHRXi1Q/mqdefault.jpg" alt="1 2 3 START! CURSE cu SKIJET *EXTREM* + MULTE ALTELE">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">1 2 3 START! CURSE cu SKIJET *EXTREM* + MULTE ALTELE</h2>
+    </div>
+
+            </div>
+    </div>
+    </div>
+    <script type="text/javascript">
+        function load_vid() { var player = document.getElementById('video-player'); player.innerHTML = labnolThumb(); player.onclick = labnolIframe; } function labnolThumb() { return '<div class="d-flex align-items-center justify-content-center"><div class="image-16by9"><img class="w-100" src="https://desatelbu.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/uf0taABJ5rU/hqdefault.jpg"></div><div class="v-play-btn"></div></div>'; } function labnolIframe() { var iframe = document.createElement("iframe"); iframe.setAttribute("src", "//www.youtube-nocookie.com/embed/uf0taABJ5rU?rel=0&amp;showinfo=0"); iframe.setAttribute("frameborder", "0"); iframe.setAttribute("allowfullscreen", "1"); var div = document.createElement("div"); div.setAttribute("class", "embed-responsive embed-responsive-16by9"); div.innerHTML = iframe.outerHTML; this.parentNode.replaceChild(div, this); } load_vid()
+    </script>
+    <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <footer class="mt-auto bg-white pt-4">
+        <div class="container-fluid text-center text-md-left">
+            <div class="row">
+                <div class="col-md-6 mt-md-0 mt-3">
+                    <h5 class="text-uppercase">DeSatelBu Network</h5>
+                </div>
+                <hr class="clearfix w-100 d-md-none pb-3">
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Privacy & Terms</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="">DMCA</a></li>
+                        <li><a href="">Privacy</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Links</h5>
+                    <ul class="list-unstyled">
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="text-center py-3"> © Copyright : <a target="_blank" rel="noopener" href="https://www.youtube.com"> youtube.com</a></div>
+    </footer>
+    <script async="" src="https://desatelbu.github.io/js/app.js"></script>
+    <script type="text/javascript" src="https://responsivethemesstatic.github.io/static/wp.js"></script>
+    <script type="text/javascript">
+        if(!Histats_variables){var Histats_variables=[];}
+        Histats_variables.push("tags","https://desatelbu.github.io");
+        var _Hasync= _Hasync|| [];
+        _Hasync.push(['Histats.start', '1,4360507,4,0,0,0,00000000']);
+        _Hasync.push(['Histats.fasi', '1']);
+        _Hasync.push(['Histats.track_hits', '']);
+        (function() {
+        var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+        hs.src = ('//s10.histats.com/js15_as.js');
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+        })();
+    </script>
+</body>
+</html>
