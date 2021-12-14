@@ -1,0 +1,15 @@
+---
+title: "The Worst Bear Market of our Lifetime... Here's Why and WHEN it Will Start | Alessio Rastani"
+image: "https:\/\/i.ytimg.com\/vi\/JGSkpSNV_AE\/hqdefault.jpg"
+vid_id: "JGSkpSNV_AE"
+categories: "Howto-Style"
+tags: ["the worst bear market of our lifetime... here's why and when it will start","stock markets","S&P 500"]
+date: "2021-12-14T15:49:11+03:00"
+vid_date: "2021-12-11T16:17:00Z"
+duration: "PT13M58S"
+viewcount: "95883"
+likeCount: "7536"
+dislikeCount: ""
+channel: "Alessio Rastani"
+---
+{% raw %}The worst bear market of our lifetime... here's why and when it will start.  It appears that the stock markets are likely approaching a major turning point in the near future. As we shall reveal in this video, the long term bull market which started over 120 years ago could be nearing an end.  What are the reasons for this bull market from a technical (or chart) perspective?  I shall explain why the chart analyst Robert Prechter, who is also one of the world's best elliott wave experts, believes the stock markets are likely approaching the start of a major long term bear market.  I shall explain the reasons for this bear market perspective and when it could potentially start - i.e. the time period as to when the bear market could begin and how long it may last. #stockmarket #SP500 #AlessioRastani<br /><br />My video on what could happen to bitcoin if stock markets start a bear market:<br /><a rel="nofollow" target="blank" href="https://youtu.be/kaQjpUmbXCw">https://youtu.be/kaQjpUmbXCw</a><br /><br />For membership (including the 3 months extra offer):<br /><a rel="nofollow" target="blank" href="https://bit.ly/3zqAXw7">https://bit.ly/3zqAXw7</a><br /><br />For the trusted MT4 chart software we use:<br /><a rel="nofollow" target="blank" href="https://bit.ly/3cCkOKm">https://bit.ly/3cCkOKm</a><br /><br />For more visit:<br /><a rel="nofollow" target="blank" href="https://bit.ly/3gz3hDG">https://bit.ly/3gz3hDG</a><br /><br />Music at the end of the video by Christoffer Moe Ditlevsen - A Heart Made of Pixels:<br /><a rel="nofollow" target="blank" href="https://youtu.be/BbKzMF-XXYM">https://youtu.be/BbKzMF-XXYM</a><br /><br />Subscribe: <a rel="nofollow" target="blank" href="http://bit.ly/2lz33DQ|">http://bit.ly/2lz33DQ|</a> 🔔Make sure to enable ALL push notifications!🔔<br />Watch the NEWEST videos: <a rel="nofollow" target="blank" href="http://bit.ly/2md7PHD">http://bit.ly/2md7PHD</a><br /><br />Follow Alessio Rastani​:<br />Twitter: ​<a rel="nofollow" target="blank" href="https://twitter.com/alessiorastani">https://twitter.com/alessiorastani</a><br /><br />Watch more Alessio Rastani​:<br />Expert Interviews: <a rel="nofollow" target="blank" href="http://bit.ly/2lHdK7n">http://bit.ly/2lHdK7n</a><br />Important Videos: <a rel="nofollow" target="blank" href="http://bit.ly/2md78y1">http://bit.ly/2md78y1</a><br />Latest Videos: <a rel="nofollow" target="blank" href="http://bit.ly/2md7PHD">http://bit.ly/2md7PHD</a><br />Popular Videos: <a rel="nofollow" target="blank" href="http://bit.ly/2mcbaXj">http://bit.ly/2mcbaXj</a>{% endraw %}
