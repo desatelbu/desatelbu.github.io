@@ -1,0 +1,15 @@
+---
+title: "*MAYDAY* FDNY Battles HEAVY FIRE Throughout Brownstone at Brooklyn 5th ALARM 10-66 Box 459"
+image: "https:\/\/i.ytimg.com\/vi\/u-L9dtNAFoU\/hqdefault.jpg"
+vid_id: "u-L9dtNAFoU"
+categories: "News-Politics"
+tags: ["FDNY","FIRE","NYC"]
+date: "2021-12-14T09:48:18+03:00"
+vid_date: "2021-12-10T15:49:25Z"
+duration: "PT41M56S"
+viewcount: "59671"
+likeCount: "1121"
+dislikeCount: ""
+channel: "FDNY Response Videos"
+---
+{% raw %}©FDNY Response Videos 2021<br /><br />Fire Location: 132 Montague St<br /><br />Box loaded up<br /><br />Reported as fire in a dwelling<br /><br />B-31 gave the 3rd floor<br /><br />Fire on the 2nd floor of a 5 story<br /><br />L-105 Fast<br /><br />B-31 extra Engine &amp; Truck E-202 &amp; L-101<br /><br />E-205,207,226,210,202s/c<br />L-118,110,105(Fast),101s/c<br />B-31,32<br />R-2<br />Sq-1<br />D-11<br />Rac-2<br /><br /><br />2nd Alarm @06:30<br /><br />E-224,279,239<br />E-9 w/ Sat. 1<br />L-131<br />B-35(RUL)<br />B-38(Safety)<br />B-57(FF)<br />RB,SB<br />FC<br />Tac-1<br />RM-1<br />CTU<br /><br />D-11 Urgent 10-66 @06:38<br /><br />3rd Alarm/10-66<br />E-219,280,220,216,217,229<br />E-211 Act. 205(C.F.R.D)<br />E-227 w/ R.C 2<br />E-7(Comm)<br />L-132(Soc Support)<br />L-119,122,108,104<br />L-102(Fast)<br />L-123 Act. 110(Fast)s/c<br />B-40(Staging)<br />B-51(Air Recon)<br />B-48 (Fast Group Supervisor)<br />B-37 (Firefighter Locator Coordinator)<br />B-41<br />R-4<br />Sq-252<br />Rac-1<br />Soc Logistics<br />Soc Compressor<br />HM-1<br />HMB<br />Car-11B<br />Car-22C<br />Car-16C<br />Car-24B<br />Car-12C<br />Car-12<br />Car-4<br />Car-13B<br />Car-7<br />Car-2C<br />K9-01<br /><br />D-11 we have 1 member removed treated by EMS @06:40<br /><br />D-11 all members have been accounted for @06:47<br /><br />B-40 staging updated to Court &amp; Montague<br /><br />FC per Car-4 8 L/S/O. 4 into the fire building 1 in each exposure and 1 into the rear. Pulling all members out. Fire in the cockloft @07:43<br /><br />FC per Car-4. TL set up in the from of the fire building. In the process of setting up at Ladder Pipe in the rear. DWH @07:54<br /><br />FC per Car-4 transmit a 4th Alarm @08:29<br /><br />4th Alarm<br />E-249 Act. 279,242 Act. 219,228 Act. 207,271<br />L-147 Act. 101, 15 Act. 105<br />L-106 Act.??s/c,117 Act. 119s/c<br />L-20 Act. 104s/c, 166 Act. ??s/c<br />B-2 Act. 57,45 Act. 35s/c,1s/c<br />Dewatering Unit<br /><br />FC s/c 2 additional Trucks &amp; Chiefs @08:54<br /><br />FC s/c the DeWatering Unit @09:04<br /><br />FC per Car-4 PWH @09:18<br /><br />FC s/c 2 additional trucks @10:00<br /><br /><br />Relocations:<br />Squad 41 Act. Rescue 2<br />Engine 33 Act. Engine 216<br />Engine 16 Act. Engine 207<br />Engine 247 Act. Engine 280<br />Engine 228 Act. Engine 207<br />Engine 242 Act. Engine 219<br />Ladder 15 Act. Ladder 105<br />Ladder 20 Act. Ladder 104<br />Ladder 116 Act. Ladder 108<br />Ladder 147 Act. Ladder 101<br />Ladder 109 Act. Ladder 122<br />Ladder 103 Act. Ladder 123<br />Ladder 123 Act. Ladder 110<br />Ladder 117 Act. Ladder 119<br />Battalion 2 Act. Battalion 57<br />Battalion 45 Act. Battalion 35<br />Battalion 42 Act. Battalion 48{% endraw %}
