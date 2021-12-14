@@ -1,0 +1,15 @@
+---
+title: "Deliver Us (from \"The Prince of Egypt\") - National Taiwan University Chorus"
+image: "https:\/\/i.ytimg.com\/vi\/Ig-4StuBfSE\/hqdefault.jpg"
+vid_id: "Ig-4StuBfSE"
+categories: "Music"
+tags: ["The Prince Of Egypt: Deliver Us","National Taiwan University (College\/University)","Choir"]
+date: "2021-12-14T12:16:53+03:00"
+vid_date: "2014-02-27T15:34:04Z"
+duration: "PT6M42S"
+viewcount: "2638311"
+likeCount: "86309"
+dislikeCount: ""
+channel: "NTU Chorus 台大合唱團"
+---
+{% raw %}Performed on 2013/07/09, Taipei, Taiwan<br />Conductor：Fang-Pei Tracy Lien 連芳貝<br />Composer：Stephen Schwarz<br />Choral arrangement：Fang-Pei Tracy Lien 連芳貝<br />Orchestra arrangement：Koji Sakurai 櫻井弘二<br />Audio recording engineer：Chao-Hui Wang 王昭惠<br /><br /><br />(Hebrew slaves)<br />Mud! Sand! Water! Straw!<br />(Egyptian guards)<br />Faster!<br />(Hebrew slaves)<br />Mud! And lift! Sand! And pull<br />Water! And raise up! Straw!<br />(Egyptian guards)<br />Faster!<br /><br />(Hebrew slaves)<br />With the sting of the whip on my shoulder,<br />With the salt of my sweat on my brow.<br />Elohim, God on high,<br />Can you hear your people cry?<br />Help us now, this dark hour.<br /><br />Deliver us. Hear our call.<br />Deliver us. Lord of all, remember us,<br />Here in this burning sand.<br />Deliver us.<br />There's a land you promised us.<br />Deliver us to the promised land.<br /><br /><br />(Moses' mother)<br /> ילדי הטוב והרך　　　　　Yaldi ha'tov ve harach<br />אל תירא  ואל תפחד 　　　　　Al tira ve al tifchad<br />My son, I have nothing I can give<br />But this chance that you may live.<br />I pray we'll meet again,<br />If He will deliver us.<br /><br />(Hebrew slaves)<br />Hear our prayer.<br />Deliver us from despair.<br />These years of slavery grow<br />Too cruel to stand.<br />Deliver us.<br />There's a land you promised us.<br />Deliver us out of bondage and<br />Deliver us to the promised land<br /><br />(Moses' mother)<br />Hush now, my baby<br />Be still, love, don't cry.<br />Sleep as you're rocked by the stream.<br />Sleep and remember my last lullaby,<br />So I'll be with you when you dream.<br />River, o river, flow gently for me,<br />Such precious cargo you bear.<br />Do you know somewhere he can live free?<br />River, deliver him there.<br /><br />(Moses' sister)<br />Brother, you're safe now<br />And safe may you stay,<br />For I have a prayer just for you,<br />Grow, baby brother,<br />Come back someday.<br />Come and deliver us too.<br /><br />(Hebrew slaves)<br />Deliver us<br />Send a sheperd to sheperd us<br />And deliver us to the promised land.<br /><br /><br />──────────<br />National Taiwan University Chorus 台大合唱團<br />e-mail：ntuchorusone@gmail.com<br />YouTube：<a rel="nofollow" target="blank" href="https://www.youtube.com/NTUChorus">https://www.youtube.com/NTUChorus</a><br />Facebook：<a rel="nofollow" target="blank" href="https://www.facebook.com/NTUChorus">https://www.facebook.com/NTUChorus</a><br /><br />#WelcomeToSubscribe{% endraw %}
