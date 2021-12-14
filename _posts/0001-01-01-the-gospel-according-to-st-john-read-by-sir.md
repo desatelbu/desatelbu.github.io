@@ -1,0 +1,15 @@
+---
+title: "The Gospel according to St John, read by Sir David Suchet"
+image: "https:\/\/i.ytimg.com\/vi\/PKiAXVxOm6o\/hqdefault.jpg"
+vid_id: "PKiAXVxOm6o"
+categories: "Travel-Events"
+tags: ["Gospel","according","John,"]
+date: "2021-12-14T11:35:36+03:00"
+vid_date: "2021-04-04T15:00:14Z"
+duration: "PT2H23M58S"
+viewcount: "5544192"
+likeCount: "57841"
+dislikeCount: ""
+channel: "Westminster Abbey"
+---
+{% raw %}We are grateful for any donations to our Heritage Preservation Appeal, which can be made by visiting <a rel="nofollow" target="blank" href="http://bit.ly/WADonation">http://bit.ly/WADonation</a> or by texting 70025 (UK only) with the words ABBEY5 to give £5, ABBEY10 to give £10 or ABBEY20 to give £20. Thank you.<br /><br />The Abbey receives no Church or State funding, and your support will help to protect our priceless heritage - from the unique building and collections to a world class music foundation - which has been put at risk by the drastic reduction in income caused by the Covid pandemic.<br /><br />This specially recorded reading of St John's Gospel was filmed in the Jerusalem Chamber, Westminster Abbey, by acclaimed actor Sir David Suchet CBE.<br /><br />Best-known for playing Agatha Christie’s fictional detective Hercule Poirot, Sir David became a Christian in 1986 after reading a hotel room Bible. He has read the entire Bible before, for Hodder &amp; Stoughton’s NIV Audio Bible, which has sold over 100,000 copies worldwide.<br /><br />The Jerusalem Chamber in the Abbey’s Deanery, the residence of the Dean of Westminster, has a pivotal role in the history of printed versions of the Holy Bible. It hosted the committees engaged on writing King James I’s Authorized Version of the Bible in 1611, the Revised Version in 1870, the New English Bible in 1961 and the Revised English Bible in 1989.<br /><br />St John’s Gospel reached its final form around AD 90–110, although it contains signs of origins dating back to AD 70 and possibly even earlier. Like the three other gospels, it is anonymous, although it identifies an unnamed ‘disciple whom Jesus loved’ as the writer. <br /><br />The New International Version of the Bible is the world’s most popular modern English Bible translation. Developed by Biblica, the International Bible Society, it remains at the forefront of accessibility, relevance and authority. More information about the translation and the range of Bibles available can be found at <a rel="nofollow" target="blank" href="http://www.hodderbibles.co.uk">http://www.hodderbibles.co.uk</a><br /><br />The NIV Audio Bible is available in iOS and Android app formats, as well as on MP3 CD and as an audio download:<br /><br /><a rel="nofollow" target="blank" href="http://linktr.ee/nivaudiobible">http://linktr.ee/nivaudiobible</a><br /><br />The Holy Bible, New International Version (Anglicised) © 1973, 1979, 1984, 2011 Biblica, the International Bible Society.<br />Published by Hodder &amp; Stoughton Publishers, an Hachette UK company. Used by permission.{% endraw %}
