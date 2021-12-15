@@ -1,0 +1,15 @@
+---
+title: "Mastermind - the educational code breaking puzzle"
+image: "https:\/\/i.ytimg.com\/vi\/JqIJKr3biEg\/hqdefault.jpg"
+vid_id: "JqIJKr3biEg"
+categories: "Gaming"
+tags: ["Mastermind","break the code","code breaker"]
+date: "2021-12-15T05:02:30+03:00"
+vid_date: "2020-04-16T13:35:07Z"
+duration: "PT2M12S"
+viewcount: "8115"
+likeCount: "6"
+dislikeCount: ""
+channel: "Logicom Apps"
+---
+{% raw %}Play the classic game popularized in the 70s, digitally, with a fresh new look!<br /><br />Website: <a rel="nofollow" target="blank" href="https://mastermind.logicom.dk/">https://mastermind.logicom.dk/</a><br />Google Play: <a rel="nofollow" target="blank" href="https://play.google.com/store/apps/de...">https://play.google.com/store/apps/de...</a><br /><br />Mastermind - the educational code breaking puzzle is based on the classic two-player code breaking puzzle board game popularized in the 70s.<br /><br />It is also known as Master Mind, Bulls and Cows, and Numerello. Many variants exist such as Royale, Grand, Word, Mini, Super, Ultimate, Deluxe, Advanced and Number Mastermind with varying degree of complexity. This app, with its flexible settings, will let you adapt the difficulty to many of these variants.<br /><br />*Features*<br />One player mode<br />Two player modes<br />Adjustable difficulty<br />Adjustable appearance<br />Points and ranking system<br />Configurable code labels<br />Game statistics<br /><br />*Description*<br />A code is automatically generated in one player mode and you have to use a logical approach to break the code with the least number of guesses to become the Mastermind. For each guess you submit a response will tell you how many colors are both correct in color and position, or in color but not position.<br /><br />You can adjust the difficulty of the game in Settings by changing the number of rows, columns and colors to find a suitable level for novices and experts alike.<br /><br />You can challenge a friend or family member in one of the Mastermind multiplayer game modes by either playing on the same device or Play by mail for remote play.<br /><br />You can earn points and gain rank as you progress and win games in single player mode.<br /><br />You can fully customize the colors of all the pegs to assist users suffering from color blindness or simply because you would like a different look and feel.<br /><br />You can configure code labels of numbers and letters, shown with the colors to assist users suffering from color blindness and also to teach the younger audience about numbers and letters while playing this educational puzzle game.<br /><br />You can choose between light and dark mode and various color themes to get the look and feel you prefer.<br /><br />You can get hints when you feel a game is too challenging and still break the code before you run out of guesses.<br /><br />You can see statistics for each game you finish so you can compete against yourself, or compare with friends, and improve your Mastermind code breaking skills over time.<br /><br />A Mastermind game will on average take two to five minutes to complete depending of the difficulty setting.{% endraw %}
