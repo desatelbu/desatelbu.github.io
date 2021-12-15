@@ -1,0 +1,15 @@
+---
+title: "Is Figure Fantasy Worth Playing?"
+image: "https:\/\/i.ytimg.com\/vi\/-wwJ0zSxW4U\/hqdefault.jpg"
+vid_id: "-wwJ0zSxW4U"
+categories: "Gaming"
+tags: ["Figure Fantasy","figure fantasy","Figure Fantasy review"]
+date: "2021-12-15T14:32:56+03:00"
+vid_date: "2021-12-01T13:00:01Z"
+duration: "PT17M34S"
+viewcount: "694"
+likeCount: "23"
+dislikeCount: ""
+channel: "Blue-Eyes White Drake"
+---
+{% raw %}Checking out Figure Fantasy that just came out! <br />Follow me at: www.instagram.com/blueeyeswhitedrake<br />Join the Discord! <a rel="nofollow" target="blank" href="https://discord.gg/x89GaYB">https://discord.gg/x89GaYB</a><br /><br />The 2021 Best Game Changer of Google Play in Hong Kong, Macau and Taiwan, The first-ever 3D figurine-themed idle mobile game, Figure Fantasy has arrived in style! Here, you'll become the figurines' master, and experience a wonderful adventure in their miniature world.<br /><br />GAME FEATURES<br /><br />3D MINIATURIZED STORY<br />The Physically Based Rendering (PBR) technology restores every inch of the figurines with high precision, perfectly presenting their real-world material textures and light refraction.<br /><br />COLLECT HUNDREDS OF FIGURINES<br />Place an order to purchase a &quot;Blind Box&quot; with a single tap, tear up the paper box, and receive a surprise, &quot;Wishlist +200x Draw Option&quot; directional mode, you will no longer miss out on your favorite figurines!<br />Original custom display cabinet system, customized to create a unique private Otaku Zone: Space, sci-fi, middle ages castle...hundreds of themes for you to choose from!<br /><br />ENGAGE IN STRATEGIC BATTLES<br />Deploy your lineups on a 3x3 Grid, where you can set positional covers, view exclusive ultimate animations, and engage in combat strategy presented in a 3D format. Try combinations of the five brands freely. Mix and match Defenders, Vanguards, Militarists, Helpers and Specialists in your lineups.<br /><br />SIMPLE IDLE GAMEPLAY<br />&quot;Effortlessly earn resources from the figurines' work, where your resources will be full when you wake up from your sleep&quot;. Say goodbye to tedious daily tasks, ordinary levels can be cleared with a single tap, your idle resources will not be interrupted when you go offline.<br /><br /><br />Visit the following official social media for the latest information.<br /><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/figurefantasy.official/">https://www.facebook.com/figurefantasy.official/</a><br />Twitter：<a rel="nofollow" target="blank" href="https://twitter.com/FigureFantasy">https://twitter.com/FigureFantasy</a><br />Discord：<a rel="nofollow" target="blank" href="https://discord.gg/g7UvD2sqcS">https://discord.gg/g7UvD2sqcS</a><br />Reddit：<a rel="nofollow" target="blank" href="https://www.reddit.com/r/FigureFantasyOfficial/">https://www.reddit.com/r/FigureFantasyOfficial/</a><br />YouTube：<a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC6LeGmj32GdmpqN1_F_36Nw">https://www.youtube.com/channel/UC6LeGmj32GdmpqN1_F_36Nw</a>{% endraw %}
