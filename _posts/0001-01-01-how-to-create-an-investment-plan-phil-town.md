@@ -1,0 +1,15 @@
+---
+title: "How to Create an Investment Plan | Phil Town"
+image: "https:\/\/i.ytimg.com\/vi\/luVdqOQRCfU\/hqdefault.jpg"
+vid_id: "luVdqOQRCfU"
+categories: "Education"
+tags: ["investing","how to invest","learn to invest"]
+date: "2021-12-15T13:14:48+03:00"
+vid_date: "2020-08-21T16:00:13Z"
+duration: "PT6M38S"
+viewcount: "30017"
+likeCount: "1248"
+dislikeCount: ""
+channel: "Phil Town's Rule #1 Investing"
+---
+{% raw %}Understanding the steps for creating an investment plan is a critical part of the process, and should be based on your goals and objectives. That's why today,  I want to explain the steps you must take to build an investment plan that works for you and your lifestyle. <a rel="nofollow" target="blank" href="https://bit.ly/2XXTK0m">https://bit.ly/2XXTK0m</a><br /><br />Take the first step in planning your investing journey with my FREE 12 Month Financial Success Planner! Click the link above to download. <br />_____________<br /><br />Looking to master investing? Attend one of my 3-Day Transformational Investing Workshops, virtually! Reserve your seat here: <a rel="nofollow" target="blank" href="https://bit.ly/r1-virtual-workshop">https://bit.ly/r1-virtual-workshop</a><br /><br />_____________<br /><br />Time Stamps<br /><br />00:00 - Intro <br />00:18 - Getting started<br />00:39 - Things to consider<br />00:52 - Self-evaluation<br />01:46 - Define your goals<br />04:21 - Pick investments<br />06:08 - Question<br /><br />_____________<br /><br />Learn more:<br />I'm now on Clubhouse! Give me a follow: @philtown — see you there!  <br /><br />Subscribe to my channel for free stuff, tips and more!<br />YouTube: <a rel="nofollow" target="blank" href="http://budurl.com/kacp">http://budurl.com/kacp</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/rule1investing">https://www.facebook.com/rule1investing</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/ruleoneinvesting">https://instagram.com/ruleoneinvesting</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/Rule1_Investing">https://twitter.com/Rule1_Investing</a><br />Pinterest: <a rel="nofollow" target="blank" href="http://www.pinterest.com/rule1investing">http://www.pinterest.com/rule1investing</a><br />LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/company/rule-1-investing">https://www.linkedin.com/company/rule-1-investing</a><br />Blog: <a rel="nofollow" target="blank" href="http://bit.ly/1YdqVXI">http://bit.ly/1YdqVXI</a><br />Podcast: <a rel="nofollow" target="blank" href="http://bit.ly/1KYuWb4">http://bit.ly/1KYuWb4</a><br /><br />Buy my bestselling book Rule #1: <a rel="nofollow" target="blank" href="https://amzn.to/2R9Gofj">https://amzn.to/2R9Gofj</a><br /><br />Shopping through my Amazon link is one of the best ways to support my YouTube channel!<br /><br />investment planning, how to invest, tips for making an investment plan, how to start investing, how to invest{% endraw %}
