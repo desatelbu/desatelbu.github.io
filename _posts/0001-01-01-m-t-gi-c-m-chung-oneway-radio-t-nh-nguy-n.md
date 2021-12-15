@@ -1,0 +1,15 @@
+---
+title: "Một Giấc Mơ Chung | Oneway Radio - Tĩnh Nguyện Hằng Ngày 15\/12\/2021"
+image: "https:\/\/i.ytimg.com\/vi\/tzWxFRBE3ig\/hqdefault.jpg"
+vid_id: "tzWxFRBE3ig"
+categories: "Nonprofits-Activism"
+tags: ["oneway","oneway media","one way radio"]
+date: "2021-12-15T08:11:19+03:00"
+vid_date: "2021-12-14T22:00:17Z"
+duration: "PT13M3S"
+viewcount: "2864"
+likeCount: "256"
+dislikeCount: ""
+channel: "Oneway Radio"
+---
+{% raw %}“Tôi có một giấc mơ” là bài diễn văn nổi tiếng nhất của Mục sư Martin Luther King để lên án nạn phân biệt chủng tộc và kêu gọi mọi người hãy đối xử với nhau cách bình đẳng. Bạn có đang đối xử với mọi người như nhau hay vẫn phân biệt? Còn trong Hội Thánh thì sao?<br /><br />Hôm nay, ngày 15/12/2021, chương trình Tĩnh Nguyện Hằng Ngày thân mời quý thính giả cùng suy gẫm Lời Chúa với tác giả Dianne Neal Matthews qua chủ đề MỘT GIẤC MƠ CHUNG<br /><br />“Tại đây không còn phân biệt người Do Thái hay người Hi Lạp, người nô lệ hoặc người tự do, nam giới hay nữ giới, vì tất cả anh em đều là một trong Đấng Christ Jêsus.” (Ga-la-ti 3:28)<br />---<br />Đọc nội dung đầy đủ tại: <a rel="nofollow" target="blank" href="https://oneway.vn/radio/tinh-nguyen-hang-ngay-1512-mot-giac-mo-chung-84028.html">https://oneway.vn/radio/tinh-nguyen-hang-ngay-1512-mot-giac-mo-chung-84028.html</a><br />Link bài tiếng Hoa: <a rel="nofollow" target="blank" href="https://oneway.vn/radio/1215-84030.html">https://oneway.vn/radio/1215-84030.html</a><br />Link bài tiếng H'Mông: <a rel="nofollow" target="blank" href="https://oneway.vn/radio/thov-vajtswv-txhua-hnub-1512-koom-ib-txoj-kev-ntshaw-84031.html">https://oneway.vn/radio/thov-vajtswv-txhua-hnub-1512-koom-ib-txoj-kev-ntshaw-84031.html</a><br />Link bài tiếng K'Ho: <a rel="nofollow" target="blank" href="https://oneway.vn/radio/tonggume-do-bota-kop-kon-bal-ngai-15122021-84033.html">https://oneway.vn/radio/tonggume-do-bota-kop-kon-bal-ngai-15122021-84033.html</a><br /><br />Hãy giữ kết nối với chúng tôi tại:<br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/www.oneway.vn">https://facebook.com/www.oneway.vn</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/onewayradio">https://www.instagram.com/onewayradio</a><br />Website: <a rel="nofollow" target="blank" href="https://www.oneway.vn">https://www.oneway.vn</a><br />Messenger: <a rel="nofollow" target="blank" href="https://m.me/www.oneway.vn">https://m.me/www.oneway.vn</a><br />YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/OnewayRadioOnline">https://www.youtube.com/c/OnewayRadioOnline</a><br />Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/show/2cLKW2JcAKaGsu9kJrACPj">https://open.spotify.com/show/2cLKW2JcAKaGsu9kJrACPj</a><br />Apple Podcast: <a rel="nofollow" target="blank" href="https://podcasts.apple.com/vn/channel/oneway-media/id6442608866">https://podcasts.apple.com/vn/channel/oneway-media/id6442608866</a><br />Hotline: 0896 164 199{% endraw %}
