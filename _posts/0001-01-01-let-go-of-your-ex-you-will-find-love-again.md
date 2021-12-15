@@ -1,0 +1,15 @@
+---
+title: "LET GO OF YOUR EX | YOU WILL FIND LOVE AGAIN | POWERFUL MOTIVATION"
+image: "https:\/\/i.ytimg.com\/vi\/iRpHijq7J4g\/hqdefault.jpg"
+vid_id: "iRpHijq7J4g"
+categories: "People-Blogs"
+tags: ["LET GO OF YOUR EX | YOU WILL FIND LOVE AGAIN | POWERFUL MOTIVATION","let go of your ex","let go of your ex motivation"]
+date: "2021-12-15T03:43:27+03:00"
+vid_date: "2021-03-16T18:30:06Z"
+duration: "PT8M15S"
+viewcount: "234680"
+likeCount: "7771"
+dislikeCount: ""
+channel: "Graceful Motivation"
+---
+{% raw %}LET GO OF YOUR EX | YOU WILL FIND LOVE AGAIN | POWERFUL MOTIVATION<br /><br />►Speech is completely original and produced exclusively by Graceful Motivation<br />►Music By Whitesand :The Dark Knight  Dramatic Epic Cinematic Motivational Music (<a rel="nofollow" target="blank" href="https://youtu.be/c5wNA6h00ZA)">https://youtu.be/c5wNA6h00ZA)</a><br />►Footage licensed through Filmpac.com and Storyblocks<br />►Writer: Patrick &amp; Pearl<br /><br />All scripture animations are derived from the King James Bible (KJV)<br /><br />Highly recommended for you:<br />LET THEM GO (TRUST GOD FOR YOUR LOVE LIFE) <a rel="nofollow" target="blank" href="https://youtu.be/f_AmHL_8xVU​">https://youtu.be/f_AmHL_8xVU​</a><br />WHY GOD MAKES YOU WAIT! (Hang On It's Closer Than You Think) <a rel="nofollow" target="blank" href="https://youtu.be/B1A5Kxs7C4g​">https://youtu.be/B1A5Kxs7C4g​</a><br />LET THEM GO! THEY WILL REGRET IT [Motivation For The Broken] <a rel="nofollow" target="blank" href="https://youtu.be/CQNKCBk7y5o​">https://youtu.be/CQNKCBk7y5o​</a><br />Objects In Your House Open Doors To The Spirit World(Spiritual House Cleansing) <a rel="nofollow" target="blank" href="https://youtu.be/a_rakoc123g​">https://youtu.be/a_rakoc123g​</a><br />Why You Must Pray More in 2020 (Trust in Your Prayers) <a rel="nofollow" target="blank" href="https://youtu.be/d8WXrjy5b8k​">https://youtu.be/d8WXrjy5b8k​</a><br />PRAY FIRST (What Happens In The Spirit Realm When You PRAY) <a rel="nofollow" target="blank" href="https://youtu.be/imOE_hf-Bqs​">https://youtu.be/imOE_hf-Bqs​</a><br />BATTLE READY PRAYER STRATEGY (Powerful Motivation) <a rel="nofollow" target="blank" href="https://youtu.be/DeRvwRbm724​">https://youtu.be/DeRvwRbm724​</a><br /><br />⚑ SUBSCRIBE TO THIS CHANNEL ⚑ If you want to be impacted through powerful and anointed video contents with massive value, please subscribe and hit the notification bell to never miss any video. Thanks! <br /><br />Note: We own copyright to the footage used in this video.<br /><br />►Fair Use Disclaimer:<br /><br />Our purpose, when making motivational videos, is to make quality educational motivational videos and share these with our viewers.<br /><br />1)This video has no negative impact on the original works (It would actually be positive for them)<br />2)This video is also used for teaching purposes.<br />3)It is transformative in nature.<br />4)I ONLY used bits and pieces of videos to get the point across where necessary.<br /><br />If you have any concerns regarding material used in this video, please contact us via email at: gracefulmotivation@gmail.com and we can come to a resolution.{% endraw %}
