@@ -1,0 +1,15 @@
+---
+title: "You Can Just Decide To Quit Doing Stupid!"
+image: "https:\/\/i.ytimg.com\/vi\/KPhtdXgdtCQ\/hqdefault.jpg"
+vid_id: "KPhtdXgdtCQ"
+categories: "People-Blogs"
+tags: ["dave ramsay live","dave ramsey","dave ramsey channel"]
+date: "2021-12-16T22:34:04+03:00"
+vid_date: "2021-12-14T23:19:50Z"
+duration: "PT2H3M26S"
+viewcount: "22477"
+likeCount: "415"
+dislikeCount: ""
+channel: "The Ramsey Show - Full Episodes"
+---
+{% raw %}The Ramsey Show (December 14, 2021)<br />Say goodbye to debt forever. Start Ramsey+ for free: <a rel="nofollow" target="blank" href="https://bit.ly/3g11A2V">https://bit.ly/3g11A2V</a><br /><br />Watch full episodes of The Ramsey Show right here! You’ll learn how to handle money, career advice, navigating relationships, plus tons of other life-changing content. <br /><br />Join Dave Ramsey and his co-hosts starting at 4pm EST Monday-Friday with less commercials and more of the Dave Rants and debt-free screams that you want. Experience one of the most popular talk radio shows in the country.<br /><br />If you’ve only got a few minutes, check out The Ramsey Show (Highlights) for highlights of the show: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/TheRamseyShow?sub_confirmation=1">https://www.youtube.com/c/TheRamseyShow?sub_confirmation=1</a><br /><br />The new Borrowed Future uncovers the dark side of the student loan industry and exposes how the system is built to work against you. <br />Watch Now: <a rel="nofollow" target="blank" href="https://bit.ly/3j9FOLl">https://bit.ly/3j9FOLl</a><br /><br />Ramsey Network (Subscribe Now!)<br /><br />• The Ramsey Show (Highlights): <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/TheRamseyShow?sub_confirmation=1">https://www.youtube.com/c/TheRamseyShow?sub_confirmation=1</a><br />• The Ramsey Show (Full Episodes): <a rel="nofollow" target="blank" href="https://www.youtube.com/c/TheRamseyShowEpisodes?sub_confirmation=1">https://www.youtube.com/c/TheRamseyShowEpisodes?sub_confirmation=1</a><br />• The Dr. John Delony Show: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/JohnDelony?sub_confirmation=1">https://www.youtube.com/c/JohnDelony?sub_confirmation=1</a><br />• The Rachel Cruze Show: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/RachelCruze?sub_confirmation=1">https://www.youtube.com/user/RachelCruze?sub_confirmation=1</a><br />• The Ken Coleman Show: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/TheKenColemanShow?sub_confirmation=1">https://www.youtube.com/c/TheKenColemanShow?sub_confirmation=1</a><br />• The Christy Wright Show: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/ChristyWright?sub_confirmation=1">https://www.youtube.com/c/ChristyWright?sub_confirmation=1</a><br />• EntreLeadership: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/entreleadership?sub_confirmation=1">https://www.youtube.com/c/entreleadership?sub_confirmation=1</a>{% endraw %}
