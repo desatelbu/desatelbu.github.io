@@ -1,0 +1,15 @@
+---
+title: "Slade - Merry Xmas Everybody - Official Video"
+image: "https:\/\/i.ytimg.com\/vi\/PTslBTBl1X8\/hqdefault.jpg"
+vid_id: "PTslBTBl1X8"
+categories: "People-Blogs"
+tags: ["Slade","Noddy Holder","SLADE"]
+date: "2021-12-17T02:03:41+03:00"
+vid_date: "2021-12-09T11:00:15Z"
+duration: "PT3M47S"
+viewcount: "142451"
+likeCount: "996"
+dislikeCount: ""
+channel: "Slade Official"
+---
+{% raw %}The Official Video for 'Merry Xmas Everybody' by Slade.<br /><br />Purchase 'Cum on Feel the Hitz': <a rel="nofollow" target="blank" href="https://slade.lnk.to/bestofID">https://slade.lnk.to/bestofID</a><br /><br />'Merry Xmas Everybody’ by Slade is one of the most iconic British Christmas singles of all time, peaking at number one in the UK in 1973, having sold over a million copies on its first run. This single has never officially had a video until now, for the first time Slade are releasing 'Merry Xmas Everybody' for all to see.<br /> <br />Follow Slade:<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/Sladeforlife">https://www.facebook.com/Sladeforlife</a><br />Spotify: <a rel="nofollow" target="blank" href="https://slade.lnk.to/SpotifyID">https://slade.lnk.to/SpotifyID</a><br />Store: <a rel="nofollow" target="blank" href="https://slade.tmstor.es/">https://slade.tmstor.es/</a><br /><br />Band:<br />Dave Hill<br />Noddy Holder<br />Jim Lea<br />Don Powell<br /><br />Animated By:<br />Matthew Robins<br /><br />Lyrics: <br /><br />Are you hanging up a stocking on your wall?<br />It's the time that every Santa has a ball<br />Does he ride a red-nosed reindeer?<br />Does a-ton up on his sleigh<br />Do the fairies keep him sober for a day?<br /><br />So here it is Merry Christmas<br />Everybody's having fun<br />Look to the future now<br />It's only just begun<br /><br />Are you waiting for the family to arrive?<br />Are you sure you got the room to spare inside?<br />Does your granny always tell ya that the old songs are the best?<br />Then she's up and rock 'n' rollin' with the rest<br /><br />So here it is Merry Christmas<br />Everybody's having fun<br />Look to the future now<br />It's only just begun<br /><br />What will your Daddy do<br />When he sees your Mama kissin' Santa Claus?<br />Ah ah<br /><br />Are you hanging up a stocking on your wall?<br />Are you hoping that the snow will start to fall?<br />Do you ride on down the hillside in a buggy you have made?<br />When you land upon your head then you've been Slade<br /><br />So here it is Merry Christmas<br />Everybody's having fun<br />Look to the future now<br />It's only just begun<br /><br />So here it is Merry Christmas<br />Everybody's having fun<br />Look to the future now<br />It's only just begun<br /><br />So here it is Merry Christmas<br />Everybody's having fun<br />Look to the future now<br />It's only just begun<br /><br />So here it is Merry Christmas<br />Everybody's having fun<br />Look to the future now<br />It's only just begun<br /><br />#Slade #MerryXmasEverybody #Christmas{% endraw %}
