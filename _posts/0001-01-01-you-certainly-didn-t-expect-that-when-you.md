@@ -1,0 +1,15 @@
+---
+title: "You Certainly Didn't Expect that When you Took My Private Property from My House | r\/EntitledPeople"
+image: "https:\/\/i.ytimg.com\/vi\/aY9gBtyCF_8\/hqdefault.jpg"
+vid_id: "aY9gBtyCF_8"
+categories: "Comedy"
+tags: ["r\/EntitledPeople","You","Certainly"]
+date: "2021-12-16T08:30:26+03:00"
+vid_date: "2021-12-11T19:30:01Z"
+duration: "PT11M17S"
+viewcount: "34222"
+likeCount: "1949"
+dislikeCount: ""
+channel: "RedWheel"
+---
+{% raw %}You Certainly Didn't Expect that When you Took My Private Property from My House | r/EntitledPeople<br /><br />Hello, <br /><br /><br /><br /><br /><br />👍 Please Subscribe and Leave a Like for Daily Reddit Stories!<br /><br /><br /><br />Our Popular Playlists:<br /><br /><br /><br />r/Entitledparents <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=To9vOPEyaK8&amp;list=PLPfmLkTal6sk-uomnIq_BQgsah7nuuRWI">https://www.youtube.com/watch?v=To9vOPEyaK8&amp;list=PLPfmLkTal6sk-uomnIq_BQgsah7nuuRWI</a><br /><br /><br /><br />r/Prorevenge <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLPfmLkTal6sl9UVDMf8OlN8ndgqN1qcEy">https://www.youtube.com/playlist?list=PLPfmLkTal6sl9UVDMf8OlN8ndgqN1qcEy</a><br /><br /><br /><br />reddit stories <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLPfmLkTal6sk2pCmOuj8Ug9DQBQzMA75T">https://www.youtube.com/playlist?list=PLPfmLkTal6sk2pCmOuj8Ug9DQBQzMA75T</a><br /><br /><br /><br />r/ChoosingBeggars <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLPfmLkTal6snfHr429nCBnAKFXEgWQYQ1">https://www.youtube.com/playlist?list=PLPfmLkTal6snfHr429nCBnAKFXEgWQYQ1</a><br /><br /><br /><br />r/ Tales From Retail <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLPfmLkTal6skxOyRt4xvnjeYUvlX48tO9">https://www.youtube.com/playlist?list=PLPfmLkTal6skxOyRt4xvnjeYUvlX48tO9</a><br /><br /><br /><br />r/Maliciouscompliance <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLPfmLkTal6skagoPdUXFgGcrTlv0KaA_t">https://www.youtube.com/playlist?list=PLPfmLkTal6skagoPdUXFgGcrTlv0KaA_t</a><br /><br /><br /><br />r/IDontWorkHereLady <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLPfmLkTal6smMRK2ZAxLY2H591-L9o4Fs">https://www.youtube.com/playlist?list=PLPfmLkTal6smMRK2ZAxLY2H591-L9o4Fs</a><br /><br /><br /><br />r/Talesfromsecurity <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLPfmLkTal6sn7a-qLCTNACcJM2RKr6UK3">https://www.youtube.com/playlist?list=PLPfmLkTal6sn7a-qLCTNACcJM2RKr6UK3</a><br /><br /><br /><br /><br /><br />This is  YouTube channel RedWheel.<br /><br />I know that the name is terrible,  but what can I do with this :)<br /><br />So on this youtube channel, you can see funny Reddit posts which I could find,<br /><br />also t the best stories with  subreddits such as r/Entitledparents, r/ I Don't Work Here Lady and r/pro revenge.<br /><br />So hope you enjoy and thanks for watching<br /><br />You Certainly Didn't Expect that When you Took My Private Property from My House | r/EntitledPeople{% endraw %}
