@@ -1,0 +1,15 @@
+---
+title: "Best Moisturizers for Dry Skin in Winter According to a Dermatologist (Neutrogena, CeraVe, & More!)"
+image: "https:\/\/i.ytimg.com\/vi\/Lqv7shtni5Q\/hqdefault.jpg"
+vid_id: "Lqv7shtni5Q"
+categories: "People-Blogs"
+tags: ["dermatologist","dermatology","skincare"]
+date: "2021-12-16T07:32:09+03:00"
+vid_date: "2021-12-15T14:00:10Z"
+duration: "PT10M26S"
+viewcount: "8745"
+likeCount: "593"
+dislikeCount: ""
+channel: "Dr. Sam Ellis"
+---
+{% raw %}Every year when it gets cold out, I start getting asked for moisturizer suggestions for dry skin. So I rounded up the best moisturizers for dry skin in the winter in this video with options for face and body. What's your favorite moisturizer? Tell me in the comments!<br /><br />WATCH NEXT:<br />Skincare Gift Guide: <a rel="nofollow" target="blank" href="https://youtu.be/qpMeGFeYDT0">https://youtu.be/qpMeGFeYDT0</a><br />Skincare Products You Don't Need: <a rel="nofollow" target="blank" href="https://youtu.be/7oT_0oWtdyc">https://youtu.be/7oT_0oWtdyc</a><br /><br />SHOP:<br />First Aid Beauty Ultra Repair Firming Collagen Cream*: <a rel="nofollow" target="blank" href="https://myshlf.us/p-252491">https://myshlf.us/p-252491</a><br />Allies of Skin Peptides &amp; Antioxidants Firming Daily Treatment*: <a rel="nofollow" target="blank" href="https://myshlf.us/p-252492">https://myshlf.us/p-252492</a><br />Tatcha Indigo Overnight Repair Serum in Cream Treatment*: <a rel="nofollow" target="blank" href="https://myshlf.us/p-252493">https://myshlf.us/p-252493</a><br />Neutrogena Hydro Boost Gel-Cream - for Extra-Dry Skin*: <a rel="nofollow" target="blank" href="https://myshlf.us/p-252494">https://myshlf.us/p-252494</a><br />Kiehl's Ultra Facial Moisturizer*: <a rel="nofollow" target="blank" href="https://myshlf.us/p-252495">https://myshlf.us/p-252495</a><br />First Aid Beauty Ultra Repair Cream*: <a rel="nofollow" target="blank" href="https://myshlf.us/p-252496">https://myshlf.us/p-252496</a><br />Cerave Moisturizing Cream*: <a rel="nofollow" target="blank" href="https://myshlf.us/p-252497">https://myshlf.us/p-252497</a><br /><br />CONNECT WITH ME:<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/drsamanthaellis/">https://www.instagram.com/drsamanthaellis/</a><br />Website: <a rel="nofollow" target="blank" href="https://www.mybeautymd.com/">https://www.mybeautymd.com/</a><br /><br />CHAPTERS:<br />00:00 Intro<br />00:26 Winter &amp; Dry Skin<br />01:37 About Moisturizers<br />03:18 First Aid Beauty<br />03:56 Allies of Skin<br />05:15 Tatcha<br />06:19 Neutrogena<br />07:02 Kiehl's<br />08:08 Body Moisturizers<br />08:33 First Aid Beauty<br />09:13 CeraVe<br />10:07 Winter Moisturizers<br /><br />DISCLAIMER: The information in this video is not intended as medical advice, diagnosis, or treatment. Always seek the advice of your physician. Some of the links in this description may be affiliate links (marked with *). Affiliate links help support my YouTube channel so I can continue to create fun, informational skincare videos for you. Also, some products may have been received as PR. Thanks for watching!{% endraw %}
