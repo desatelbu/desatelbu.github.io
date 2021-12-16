@@ -1,0 +1,15 @@
+---
+title: "The Top 10 BEST Rush Routes in Vanguard Search and Destroy"
+image: "https:\/\/i.ytimg.com\/vi\/6ig0fbqOUGg\/hqdefault.jpg"
+vid_id: "6ig0fbqOUGg"
+categories: "Gaming"
+tags: ["seek","cod","call of duty"]
+date: "2021-12-17T01:35:26+03:00"
+vid_date: "2021-12-15T00:30:00Z"
+duration: "PT10M41S"
+viewcount: "1376"
+likeCount: "107"
+dislikeCount: ""
+channel: "SeeK"
+---
+{% raw %}Vanguard Search and Destroy (Vanguard SnD) | The Top 10 BEST Rush Routes in Vanguard Search and Destroy | Vanguard Search and Destroy tips<br /><br />Checkout my Exclusive Facebook content!<br /> <a rel="nofollow" target="blank" href="https://www.facebook.com/SeeKDylan">https://www.facebook.com/SeeKDylan</a><br /><br />🎮 Watch me play live!<br /><a rel="nofollow" target="blank" href="https://www.twitch.tv/dylanseek">https://www.twitch.tv/dylanseek</a><br /><br />More Content!<br />Facebook Gaming: <a rel="nofollow" target="blank" href="https://www.facebook.com/SeeKDylan">https://www.facebook.com/SeeKDylan</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@dylanseek">https://www.tiktok.com/@dylanseek</a><br />YouTube Shorts: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCiKSMZ1qCgoB_ieuj_PrYcg">https://www.youtube.com/channel/UCiKSMZ1qCgoB_ieuj_PrYcg</a><br /><br />USE CODE &quot;SeeK&quot; for a discount!<br /><a rel="nofollow" target="blank" href="https://gameradvantage.com/?ref=SeeK">https://gameradvantage.com/?ref=SeeK</a><br /><a rel="nofollow" target="blank" href="https://respawnproducts.com/seek">https://respawnproducts.com/seek</a><br /><br />📱 Keep Up with me on Social Media!<br /><a rel="nofollow" target="blank" href="https://twitter.com/DylanSeeK">https://twitter.com/DylanSeeK</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/thedylanseek">https://www.instagram.com/thedylanseek</a><br /><br />👍Leave a like  &amp; 🔴 Subscribe for more videos! <br />Be sure to turn on notifications by hitting the 🔔!<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC0RsmcD7xxxyKn6vQEclFbg">https://www.youtube.com/channel/UC0RsmcD7xxxyKn6vQEclFbg</a><br /><br />🎵 Music:<br /> - Music provided by Epidemic Sounds<br /><a rel="nofollow" target="blank" href="https://www.epidemicsound.com">https://www.epidemicsound.com</a><br /><br />▶ Logo &amp; Motion Ads made by Willy<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/ImQuickdraw">https://www.youtube.com/user/ImQuickdraw</a><br /><br />Thanks for watching squad!<br /><br />0:00 Intro<br />1:14 My Rush Class<br />1:23 Sub Pens<br />2:15 Oasis<br />3:37 Eagles Nest<br />4:34 Tuscan<br />5:34 Gavutu<br />6:21 Dome<br />6:57 Desert Siege<br />8:00 Demansk<br />8:48 Decoy<br />9:30 Bocage<br />10:10 Outro<br /><br />Vanguard<br />Vanguard SnD<br />Vanguard Search and Destroy<br />Rush Routes<br />Vanguard Search and Destroy tips<br />vanguard tips<br /><br /><br />#SeeK #Vanguard #SearchandDestroy{% endraw %}
