@@ -1,0 +1,15 @@
+---
+title: "How to Warp a Loom From Back to Front"
+image: "https:\/\/i.ytimg.com\/vi\/icw_E0rHYBw\/hqdefault.jpg"
+vid_id: "icw_E0rHYBw"
+categories: "Howto-Style"
+tags: ["How-to","How to weave","Schacht Looms"]
+date: "2021-12-16T17:16:57+03:00"
+vid_date: "2012-01-16T17:11:54Z"
+duration: "PT14M13S"
+viewcount: "333583"
+likeCount: "1981"
+dislikeCount: ""
+channel: "WEBS - America's Yarn Store"
+---
+{% raw %}Learn how to warp a loom from back to front with WEBS yarn store founder Barbara Elkins. Need to wind your warp first? Check our our How to Wind a Warp video: <a rel="nofollow" target="blank" href="https://bit.ly/how-to-wind-a-warp">https://bit.ly/how-to-wind-a-warp</a><br /><br />This is a great video if it's your first time warping your loom by yourself or if you just need a refresher on how to warp a loom. Barbara will guide you through all the steps you need to successfully warp your loom with even tension.<br /><br />·        Preparing your loom for warping<br />·        Attaching your warp to the back apron rod<br />·        Using a raddle to evenly space your warp<br />·        Winding the warp onto the warp beam<br />·        Threading the heddles<br />·        Sleying the reed<br />·        Tying on the warp to the front apron rod with even tension<br /><br />Looking for more weaving content?: <a rel="nofollow" target="blank" href="https://bit.ly/weaving-videos">https://bit.ly/weaving-videos</a><br /><br />Shop weaving yarn, tools, looms, drafts, &amp; more at WEBS - America's Yarn Store: <a rel="nofollow" target="blank" href="https://www.yarn.com/pages/weaving">https://www.yarn.com/pages/weaving</a><br /><br />Shop WEBS - America's Yarn Store: <a rel="nofollow" target="blank" href="https://www.yarn.com">https://www.yarn.com</a>                          <br />Subscribe to WEBS YouTube channel: <a rel="nofollow" target="blank" href="https://bit.ly/subscribe-to-WEBS">https://bit.ly/subscribe-to-WEBS</a>                          <br />Connect with WEBS on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/websyarn">https://www.facebook.com/websyarn</a>                          <br />Follow WEBS on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/websyarn/">https://www.instagram.com/websyarn/</a>                          <br />Join the All Things WEBS Group on Ravelry: <a rel="nofollow" target="blank" href="https://www.ravelry.com/groups/all-things-webs">https://www.ravelry.com/groups/all-things-webs</a>         <br />      <br />WEBS - America's Yarn Store is a second generation, family owned business located in Northampton, MA and online at <a rel="nofollow" target="blank" href="https://www.yarn.com.">https://www.yarn.com.</a> WEBS carries one of the largest selections of yarn &amp; supplies for knitters, crocheters, weavers, and spinners.  <br />              <br />#yarn #webs #websyarn #americasyarnstore #weaving #floorloom #warping #warpaloom #barbaraelkins #sleyareed #howtoweave #learntoweave #raddle #schachtlooms #dressaloom{% endraw %}
