@@ -1,0 +1,15 @@
+---
+title: "M83 - My Tears Are Becoming A Sea (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/UJrMB4QhNok\/hqdefault.jpg"
+vid_id: "UJrMB4QhNok"
+categories: "Music"
+tags: ["M83","Midnight City","Reunion"]
+date: "2021-12-16T23:36:52+03:00"
+vid_date: "2021-12-16T16:00:11Z"
+duration: "PT3M45S"
+viewcount: "18282"
+likeCount: "4834"
+dislikeCount: ""
+channel: "M83"
+---
+{% raw %}M83 - My Tears Are Becoming A Sea (Official Video)<br /><br />Pre-order the limited 10th anniversary vinyl edition of Hurry Up, We’re Dreaming now (release date April 15th) <a rel="nofollow" target="blank" href="http://m83.it/huwd-10yrLPYo">http://m83.it/huwd-10yrLPYo</a><br /><br />Credits:<br /><br />Directed by Sacha Barbin &amp; Ryan Doubiago <br />Produced by DIVISION<br />VFX made by Monumental<br />Produced with the help of the CNC [<a rel="nofollow" target="blank" href="https://www.cnc.fr]">https://www.cnc.fr]</a><br /><br />M83 today shares a new video for “My Tears Are Becoming A Sea.” A standout track from M83’s celebrated 2011 double album Hurry Up, We’re Dreaming, the video for “My Tears Are Becoming A Sea” is a prequel to the record’s magical and captivating video trilogy comprised of “Midnight City,” “Reunion,” and “Wait.” Watch the video here.<br /><br />The initial trilogy chronicled the adventures of supernatural children on the run from forces wishing to capture them in order to study their powers. This new video is directed by Sacha Barbin and Ryan Doubiago and produced by Division.<br /><br />Reflecting on the prequel’s concept and revisiting the trilogy’s storyline, Barbin and Doubiago say, “this story takes place 10 years earlier in order to highlight the first moment one of these children uses their supernatural gifts. On the way to the hospital and moments before his birth, the child’s parents are victims of a horrible car accident. The unborn child is forced to use his powers to save them from within the womb. The idea was to show the literal birth of a superhero. We wanted to place this story in a realistic and universal setting. We think that the panic created by this magnificent moment speaks to everyone. We also wanted to pay homage to the mothers who are too often absent from the mythology of superheroes. And finally, to go beyond the codes of the genre to carry a symbolic message of hope where future generations would come to save us from a dark fate.”<br /><br />Subscribe to M83's YouTube channel:<a rel="nofollow" target="blank" href="http://m83.it/yt-subYo">http://m83.it/yt-subYo</a><br /><br />M83 instagram: <a rel="nofollow" target="blank" href="http://m83.it/M83instagramYo">http://m83.it/M83instagramYo</a><br />Subscribe to the M83 mailing list: <a rel="nofollow" target="blank" href="http://m83.it/subscribeYo">http://m83.it/subscribeYo</a><br />Like M83 here: <a rel="nofollow" target="blank" href="http://m83.it/facebookYo">http://m83.it/facebookYo</a><br />Follow M83 here: <a rel="nofollow" target="blank" href="http://m83.it/twitterYo">http://m83.it/twitterYo</a><br /><br />More here: <a rel="nofollow" target="blank" href="http://ilovem83.com">http://ilovem83.com</a>{% endraw %}
