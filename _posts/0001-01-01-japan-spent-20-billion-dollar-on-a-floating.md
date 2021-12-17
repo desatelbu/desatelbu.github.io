@@ -1,0 +1,15 @@
+---
+title: "Japan Spent $20 Billion Dollar On a Floating Airport (That Is Sinking Into The Ocean)"
+image: "https:\/\/i.ytimg.com\/vi\/dwJeWgylIwM\/hqdefault.jpg"
+vid_id: "dwJeWgylIwM"
+categories: "Entertainment"
+tags: ["bright side","brightside","planes"]
+date: "2021-12-17T09:13:05+03:00"
+vid_date: "2021-12-17T04:00:07Z"
+duration: "PT9M5S"
+viewcount: "13360"
+likeCount: "947"
+dislikeCount: ""
+channel: "BRIGHT SIDE"
+---
+{% raw %}Which are the most dangerous airports in the world? The one in the middle of the mountains, right by the sea or the airport that's sinking every day? Kansai Airport situated in Japan has sunk 38 feet since it opened in 1994. It's the world's first offshore airport built on a completely man-made island. What else makes this airport a unique place?<br /><br /><br /><br />#brightside<br /><br /><br /><br />Preview photo credit: <br /><br />Satellite image of Osaka Bay in Japan: By NASA/GSFC/MITI/ERSDAC/JAROS, and U.S./Japan ASTER Science Team - NASA’s Earth Observatory, Public Domain, <a rel="nofollow" target="blank" href="https://commons.wikimedia.org/w/index.php?curid=203793">https://commons.wikimedia.org/w/index.php?curid=203793</a><br /><br />Animation is created by Bright Side.<br /><br /><br />Animation is created by Bright Side.<br />----------------------------------------------------------------------------------------<br />Music by Epidemic Sound <a rel="nofollow" target="blank" href="https://www.epidemicsound.com">https://www.epidemicsound.com</a> <br /><br />Check our Bright Side podcast on Spotify and leave a positive review! <a rel="nofollow" target="blank" href="https://open.spotify.com/show/0hUkPxD34jRLrMrJux4VxV">https://open.spotify.com/show/0hUkPxD34jRLrMrJux4VxV</a> <br /><br />Subscribe to Bright Side: <a rel="nofollow" target="blank" href="https://goo.gl/rQTJZz">https://goo.gl/rQTJZz</a> <br />----------------------------------------------------------------------------------------<br />Our Social Media:<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/brightside">https://www.facebook.com/brightside</a> <br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/brightside.official">https://www.instagram.com/brightside.official</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@brightside.official?lang=en">https://www.tiktok.com/@brightside.official?lang=en</a> <br /><br />Stock materials (photos, footages and other):<br /><a rel="nofollow" target="blank" href="https://www.depositphotos.com">https://www.depositphotos.com</a><br /><a rel="nofollow" target="blank" href="https://www.shutterstock.com">https://www.shutterstock.com</a><br /><a rel="nofollow" target="blank" href="https://www.eastnews.ru">https://www.eastnews.ru</a><br />----------------------------------------------------------------------------------------<br /><br />For more videos and articles visit:<br /><a rel="nofollow" target="blank" href="http://www.brightside.me">http://www.brightside.me</a>{% endraw %}
