@@ -1,0 +1,15 @@
+---
+title: "“They're INVISIBLE!!” The Players Who REALLY Control Society"
+image: "https:\/\/i.ytimg.com\/vi\/Hd1Xz_DC1lc\/hqdefault.jpg"
+vid_id: "Hd1Xz_DC1lc"
+categories: "Education"
+tags: ["Russell Brand","Brand Russell","BrandThe"]
+date: "2021-12-17T05:51:23+03:00"
+vid_date: "2021-12-16T18:00:32Z"
+duration: "PT8M1S"
+viewcount: "183554"
+likeCount: "11587"
+dislikeCount: ""
+channel: "Russell Brand"
+---
+{% raw %}Brad Evans explains that even though we broadcast everything, the real mechanisms of power are hidden from us. So what is it they're NOT telling us?! Listen to the rest of the conversation on Luminary at luminary.link/russell<br />#Covid #BradEvans #Pandemic #Government <br /><br />Get tickets for my 2022 tour here: <a rel="nofollow" target="blank" href="http://bit.ly/33_2022">http://bit.ly/33_2022</a><br /><br />Elites are taking over! Our only hope is to form our own. To learn more join my cartel here <a rel="nofollow" target="blank" href="https://www.russellbrand.com/join">https://www.russellbrand.com/join</a> and get weekly bulletins too incendiary for anything but your private inbox.<br />*not a euphemism<br /><br />For meditation and breath work, subscribe to my side-channel: <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/AwakeningWithRussell">https://www.youtube.com/c/AwakeningWithRussell</a><br /><br />My NEW weekly meditation podcast, Above the Noise, is available now only on Luminary. Meditate with me here: luminary.link/meditate<br /><br />FOOTBALL IS NICE is my free, weekly, full-length podcast - subscribe here: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/FootballisNiceRussellBrand">https://www.youtube.com/c/FootballisNiceRussellBrand</a><br /><br />My Audible Original, ‘Revelation', is out NOW!<br />US: <a rel="nofollow" target="blank" href="http://adbl.co/revelation">http://adbl.co/revelation</a><br />UK: <a rel="nofollow" target="blank" href="http://adbl.co/revelationuk">http://adbl.co/revelationuk</a><br />AU: <a rel="nofollow" target="blank" href="http://adbl.co/revelationau">http://adbl.co/revelationau</a><br />CA: <a rel="nofollow" target="blank" href="http://adbl.co/revelationca">http://adbl.co/revelationca</a><br /><br />Facebook:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/RussellBrand/">https://www.facebook.com/RussellBrand/</a><br /><br />Instagram: <br /><a rel="nofollow" target="blank" href="https://instagram.com/russellbrand/">https://instagram.com/russellbrand/</a><br /><br />Twitter: <br /><a rel="nofollow" target="blank" href="https://twitter.com/rustyrockets">https://twitter.com/rustyrockets</a><br /><br />TikTok:<br /><a rel="nofollow" target="blank" href="https://www.tiktok.com/@russellbrand">https://www.tiktok.com/@russellbrand</a><br /><br />Rumble:<br /><a rel="nofollow" target="blank" href="https://rumble.com/c/russellbrand">https://rumble.com/c/russellbrand</a><br /><br />Locals:<br /><a rel="nofollow" target="blank" href="https://russellbrand.locals.com/">https://russellbrand.locals.com/</a>{% endraw %}
