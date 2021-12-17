@@ -1,0 +1,15 @@
+---
+title: "Ruth B. - If By Chance (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/eX6m0HmJ3zI\/hqdefault.jpg"
+vid_id: "eX6m0HmJ3zI"
+categories: "Music"
+tags: ["Mellow","Mellow Music","Mellow Songs"]
+date: "2021-12-17T03:52:29+03:00"
+vid_date: "2021-12-16T17:00:27Z"
+duration: "PT5M3S"
+viewcount: "4004"
+likeCount: "443"
+dislikeCount: ""
+channel: "Mellow"
+---
+{% raw %}Ruth B. - If By Chance (Lyrics)<br />Click the 🔔 to stay updated on the latest uploads!<br /><br />Stream/DL:<br /><a rel="nofollow" target="blank" href="https://ruthb.lnk.to/listenYD">https://ruthb.lnk.to/listenYD</a><br /><br />Follow Ruth B.:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/itsruthb">https://www.instagram.com/itsruthb</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/RuthBMusic">https://www.facebook.com/RuthBMusic</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/itsruthb">https://twitter.com/itsruthb</a><br /><a rel="nofollow" target="blank" href="https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY">https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY</a><br /><br />📜 Lyrics:<br /><br />[Verse 1]<br />I can't believe it's been all these years<br />I can't believe I've cried all these tears<br />My friends tell me I should've moved on<br />A long long time ago<br />But what do they know?<br />What do they know?<br /><br />[Chorus]<br />And I don't mean to be selfish<br />But my heart breaks every time<br />That I see you smile<br />'Cause I know that it's not me<br />Who brings it out of you anymore<br />You found somebody new<br />You put me in the past<br />I don't even know if our memories will last<br />But if by chance it doesn't work out with her<br />You'll always have a chance with me in my world<br /><br />[Verse 2]<br />I wonder what happens when you hear our song<br />Do you brush it away or do you sing along?<br />Do you talk about the future the way we did?<br />Is there room for me in it?<br />Is there room for me in it?<br />[Chorus]<br />And I don't mean to be selfish<br />But my heart breaks every time<br />That I see you smile<br />'Cause I know that it's not me<br />Who brings it out of you anymore<br />You found somebody new<br />You put me in the past<br />I don't even know if our memories will last<br />But if by chance it doesn't work out with her<br />You'll always have a chance with me in my world<br /><br />[Bridge]<br />Is it so wrong of me to hope she breaks your heart?<br />Is it so wrong of me to pray she tears you apart?<br />And I know that in the darkest part of you<br />You pray and hope and wish for it too<br /><br />[Chorus]<br />'Cause you don't mean to be selfish<br />But your heart breaks every time<br />That you see me smile<br />'Cause you know that it's not you<br />Who brings it out of me anymore<br />You found somebody new<br />You put me in the past<br />I don't even know if our memories will last<br />But if by chance it doesn't work out with her<br />You'll always have a chance with me in my world<br /><br /><br />#RuthB #IfByChance #Mellow{% endraw %}
