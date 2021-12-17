@@ -1,0 +1,15 @@
+---
+title: "Free Cricut Box Templates in a Variety of Shapes and Sizes"
+image: "https:\/\/i.ytimg.com\/vi\/hTzBJXLjQI4\/hqdefault.jpg"
+vid_id: "hTzBJXLjQI4"
+categories: "Howto-Style"
+tags: ["crafts","diy","cricut box templates"]
+date: "2021-12-17T17:52:20+03:00"
+vid_date: "2021-12-15T14:00:14Z"
+duration: "PT10M1S"
+viewcount: "3915"
+likeCount: "458"
+dislikeCount: ""
+channel: "Angie Holden"
+---
+{% raw %}Get a Cricut box template in just about any shape and size from the Template Maker website. This website is a great resource for free templates that you can use with your Cricut machine. Make a variety of gift bags, boxes, and so much more. Just put in your dimensions then download the SVG file. I am even walking you through how to upload these templates and use them to make a cute box perfect for a gift and so much more. If you are looking for free box templates, this is the website for you!<br /><br />Website: <a rel="nofollow" target="blank" href="https://templatemaker.nl/">https://templatemaker.nl/</a> <br /><br />Other videos you may enjoy: <br />Free Fonts for Your Cricut <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=LkP4254m_Fc">https://www.youtube.com/watch?v=LkP4254m_Fc</a> <br />Where to Find Free SVG Files <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=FhhsD6loDAY">https://www.youtube.com/watch?v=FhhsD6loDAY</a> <br /><br />Learning your new Cricut machine:<br />Free 7 Day Cricut Class <a rel="nofollow" target="blank" href="https://www.thecountrychiccottage.net/free-cricut-classes/">https://www.thecountrychiccottage.net/free-cricut-classes/</a><br />Cricut One Hour Crash Course <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=gn8tmXezWT8">https://www.youtube.com/watch?v=gn8tmXezWT8</a> <br />Cricut Materials Video <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=HJO1Q8bxZwU">https://www.youtube.com/watch?v=HJO1Q8bxZwU</a> <br /><br />Be sure to follow me on social as well!<br />Instagram <a rel="nofollow" target="blank" href="https://instagram.com/countrychiccottage">https://instagram.com/countrychiccottage</a> <br />Facebook <a rel="nofollow" target="blank" href="https://www.facebook.com/CountryChicCottage/">https://www.facebook.com/CountryChicCottage/</a> <br />Cricut Facebook group <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/cricutlove/">https://www.facebook.com/groups/cricutlove/</a><br />TikTok <a rel="nofollow" target="blank" href="https://www.tiktok.com/@countrychiccottage?">https://www.tiktok.com/@countrychiccottage?</a> <br /><br />Join our Cricut community on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/cricutlove/">https://www.facebook.com/groups/cricutlove/</a> <br /><br />#cricutboxtemplates #cricuttemplates #freecricutfiles<br /><br />0:00 Introduction<br />0:44 How to Use TemplateMaker<br />3:39 Uploading to Cricut Design Space<br />5:47 Cutting and scoring with a Cricut<br />6:30 Assembling<br />8:48 Issues with templates<br />9:38 Wrap up{% endraw %}
