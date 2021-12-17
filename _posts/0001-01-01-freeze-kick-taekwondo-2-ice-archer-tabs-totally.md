@@ -1,0 +1,15 @@
+---
+title: "FREEZE & KICK - TAEKWONDO + 2 ICE ARCHER | TABS Totally Accurate Battle Simulator"
+image: "https:\/\/i.ytimg.com\/vi\/f72pSF6uuMo\/hqdefault.jpg"
+vid_id: "f72pSF6uuMo"
+categories: "Gaming"
+tags: ["tabs","totally accurate battle simulator","arbs"]
+date: "2021-12-17T08:42:35+03:00"
+vid_date: "2021-12-16T13:00:31Z"
+duration: "PT8M27S"
+viewcount: "35568"
+likeCount: "793"
+dislikeCount: ""
+channel: "BATTLES EVERYDAY"
+---
+{% raw %}FREEZE &amp; KICK - TAEKWONDO + 2 ICE ARCHER | TABS - Totally Accurate Battle Simulator | Totally Accurate Battle Simulator (TABS UNIT CREATOR)<br />👉🏼Like and Subscribe to my channel so you won't miss new videos! 👈🏼<br /><br />🎮 MEMBERSHIPS: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCSmihriWvVdkV3IYG-HnKiw/join">https://www.youtube.com/channel/UCSmihriWvVdkV3IYG-HnKiw/join</a><br /><br />Totally Accurate Battle Simulator is a wacky physics-based tactics game. Experience accurate warfare through the ages. The game is similar to Animal Revolt Battle Simulator (ARBS). TABS uses state of the art physics-based simulation to provide you with never-before-seen insight to our greatest battles of history.<br /><br />Playlists:<br />► ME vs UNITS: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLPAhm7ntpC8OF4HwXxnIW2F4E9-C2kn4f">https://www.youtube.com/playlist?list=PLPAhm7ntpC8OF4HwXxnIW2F4E9-C2kn4f</a><br />► UNITS vs GODS: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLPAhm7ntpC8MVHJ_N0YHtNxmY8zGiJlqY">https://www.youtube.com/playlist?list=PLPAhm7ntpC8MVHJ_N0YHtNxmY8zGiJlqY</a><br />► Other videos Totally Accurate Battle Simulator (TABS) - Gameplay and Walkthrough: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLPAhm7ntpC8Mlj9yUIHzX1wuzNJ2N1JiH">https://www.youtube.com/playlist?list=PLPAhm7ntpC8Mlj9yUIHzX1wuzNJ2N1JiH</a><br /><br />Get TABS in Steam - <a rel="nofollow" target="blank" href="https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/">https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/</a><br /><br />Computer Specs:<br />- CPU: Intel Core i7-11700KF<br />- Video Card: RTX 3060 Ti<br />- RAMs: Kingston HyperX FURY Black 32ГБ<br />- Motherboard: GIGABYTE Z590 AORUS ELITE AX<br />- Headphones: Corsair HS35<br />- Keyboard: ZET GAMING Blade PRO<br />- Mouse: Logitech G305<br /><br />My Steam Account: <a rel="nofollow" target="blank" href="https://steamcommunity.com/id/Nilacks/">https://steamcommunity.com/id/Nilacks/</a><br /><br />Music:<br />Sneaky Snitch by Kevin MacLeod<br />Link: <a rel="nofollow" target="blank" href="https://incompetech.filmmusic.io/song/4384-sneaky-snitch">https://incompetech.filmmusic.io/song/4384-sneaky-snitch</a><br />License: <a rel="nofollow" target="blank" href="https://filmmusic.io/standard-license">https://filmmusic.io/standard-license</a><br /><br />Attention! All battle videos on the channel are staged and created for entertainment purposes! Respect yourself and other people. Thank you!<br /><br />#TABS #TotallyAccurateBattleSimulator #TAEKWONDO{% endraw %}
