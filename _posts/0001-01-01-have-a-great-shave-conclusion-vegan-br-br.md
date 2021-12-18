@@ -1,0 +1,15 @@
+---
+title: "Have a Great Shave Conclusion (Vegan) δοκιμή!"
+image: "https:\/\/i.ytimg.com\/vi\/D-KVywgfDhc\/hqdefault.jpg"
+vid_id: "D-KVywgfDhc"
+categories: "People-Blogs"
+tags: ["wet shave","review","traditional"]
+date: "2021-12-18T19:12:44+03:00"
+vid_date: "2021-12-17T19:00:05Z"
+duration: "PT29M24S"
+viewcount: "581"
+likeCount: "69"
+dislikeCount: ""
+channel: "The Greek Shaver"
+---
+{% raw %}Καλώς ορίσατε στο κανάλι μου!<br /><br /> *Post shave: Μετά το ξύρισμα και με την εφαρμογή του skin food aftershave το δέρμα μένει μαλακό και ενυδατωμένο. Όσο περνάει η ώρα η ενυδάτωση αυξάνεται χωρίς, όμως, να βγαίνει κάποια λαδίλα και γυαλάδα στο δέρμα. Για το δικό μου δέρμα και γούστα ο συνδυασμός αυτός (σαπούνι και skin food aftershave) είναι ιδανικός ακόμα και για τα καλά κρύα του χειμώνα. <br /><br />Σαπούνι: Have A Great Shave Conclusion<br />Πινέλο: Yaqi timberwolf 26mm<br />Μηχανή ασφαλείας: Razorock Gamechanger 0.84mm<br />Λεπίδα: Feather (1)<br />After shave: Have A Great Shave Conclusion aftershave lotion<br /><br />Άρωμα: κάρδαμο, ροζ πιπέρι, βιολέτα, μέντα, ανανάς, φασκόμηλο, πεπόνι, κανέλα, λεβάντα, βανίλια, κάστανο, κεχριμπάρι, κέδρος, ξύλο Guaiac<br /><br />Συστατικά σαπουνιού:<br />Stearate, Aqua, Glycerol, Butyrospermum Parkii (Shea) Seed Butter, Potassium Hydroxide, Theobroma Cocoa (Cocoa) Seed Butter, Persea Gratissima (Avocado) Seed Oil, Coconut Milk, Mangifera Indica (Mango) Seed Butter, Ricinus Communis (Castor) Seed Oil, Parfum / Fragrance, Sodium Hydroxide, Orbignya Oleifera (Babassu) Seed Oil, Sunflower Seed Oil, Oenothera biennis (Evening Primrose) Seed Oil, Hydrolyzed Oat Protein*, Aloe Barbadensis Leaf Juice, Calendula Officinalis Flower Extract, Chamomilla Recutita Flower Water, Hamamelis Virginiana Leaf Extract, Almond Milk, Cocos Nucifera (Coconut Oil), Green Coffee Bean Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Hemp Seed Oil, Soy Wax, Tocopheryl Acetate (Vitamin E), Citric Acid, Sodium lactate<br /><br />*είναι η πρωτείνη βρώμης, η μόνη αλλαγή με την παλιά φόρμουλα VI<br /><br />Συστατικά aftershave:<br />Alcohol Denat., Aqua, Hamamelis Virginiana Leaf Extract, Calendula Officinalis Flower Extract, Aloe Barbadensis Leaf Juice, Chamomilla Recutita Flower Water, Polysorbate 20, Parfum / Fragrance, Glycerol, Rose Hydrosol, Persea Gratissima (Avocado) Seed Oil, Tocopheryl Acetate (Vitamin E), Sorbitol<br /><br />Like &amp; Subscribe! <br />Ευχαριστώ πολύ για την υποστήριξη!<br /><br />Τρόποι επικοινωνίας:<br />Instagram: the_greek_shaver<br />Email: thegreekshaver@gmail.com<br /><br />Τραγούδι Τίτλων: &quot;Scruffy Rocker&quot; by Robert Wayne Johnson<br /><br />*Disclaimer*<br />Όλες οι πληροφορίες που αναφέρονται στο βίντεο είναι η προσωπική μου γνώμη, έχουν ενημερωτικό χαρακτήρα και σε καμία περίπτωση δεν αντικαθιστούν τις συμβουλές επαγγελματιών υγείας. Αντιπροσωπεύουν την δική μου εμπειρία και τις προσωπικές μου επιθυμίες και πρέπει να αντιμετωπίζονται με κριτική σκέψη. Τα προϊόντα και ο τρόπος ξυρίσματος που ακολουθώ ανταποκρίνονται στην δική μου επιδερμίδα.{% endraw %}
