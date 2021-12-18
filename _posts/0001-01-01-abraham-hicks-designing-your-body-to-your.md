@@ -1,0 +1,15 @@
+---
+title: "Abraham Hicks ~ Designing Your Body To Your Desired State"
+image: "https:\/\/i.ytimg.com\/vi\/-X_MhEJ9cug\/hqdefault.jpg"
+vid_id: "-X_MhEJ9cug"
+categories: "People-Blogs"
+tags: ["Abraham hicks","Abraham hicks love","Abraham hicks money"]
+date: "2021-12-18T09:23:34+03:00"
+vid_date: "2021-12-17T13:45:01Z"
+duration: "PT14M27S"
+viewcount: "8"
+likeCount: "6"
+dislikeCount: ""
+channel: "Desires Unlimited"
+---
+{% raw %}Are Your Desires Unlimited? - <a rel="nofollow" target="blank" href="https://bit.ly/2Pa4lnp">https://bit.ly/2Pa4lnp</a><br /><br />These Books that have helped me into alignment and were inspired by Abraham's infinite wisdom and teachings!<br /><br />» The Power of Your Subconscious Mind: <a rel="nofollow" target="blank" href="https://amzn.to/2q14ux7">https://amzn.to/2q14ux7</a><br /> » The Magic of Believing: <a rel="nofollow" target="blank" href="https://amzn.to/33fWlmL">https://amzn.to/33fWlmL</a><br /> » Getting Into The Vortex: Guided Meditations CD and User Guide: <a rel="nofollow" target="blank" href="hhttps://amzn.to/2q1ggYj">hhttps://amzn.to/2q1ggYj</a><br />» The Silva Mind Control Method: <a rel="nofollow" target="blank" href="https://amzn.to/2q0YNPK">https://amzn.to/2q0YNPK</a><br />» Money, and the Law of Attraction: <a rel="nofollow" target="blank" href="https://amzn.to/322qeXj">https://amzn.to/322qeXj</a><br /> » Ask and It Is Given: <a rel="nofollow" target="blank" href="https://amzn.to/2p9OU1y">https://amzn.to/2p9OU1y</a> <br /><br />For best results wear headphones while listening to this meditation. The more you listen to this meditation, the faster you will raise your vibration. Don't try to make anything happen, just relax and allow the words Abraham is saying to sink into your mind making it clearer to understand. Just let go and trust, knowing you will have a really good day :) &quot;When you acknowledge what you do not want, and then ask yourself, &quot;What is it that I do want?&quot; you begin a gradual shift into the telling of your new story and into a much-improved point of attraction. You get the essence of what you think about - whether you want it or not - because Law of Attraction is unerringly consistent - therefore, you are never only telling the story of &quot;how it is now.&quot; You are also telling the future experience that you are creating right now.&quot; --AH <br /><br />These recording made possible to be shared under USE OF COPYRIGHTED MATERIAL GUIDELINES stated here: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/AbrahamH...">https://www.youtube.com/user/AbrahamH...</a>  For more information please visit www.Abraham-Hicks.com website or call (830) 755-2299. All material is owned by Abraham-Hicks.<br /><br />Thank you so much for being a part of Abraham Hicks community!<br /><br />#AbrahamHicks #LawOfAttraction #EstherHicks #jerryhicks #abrahamhicksnoads #abrahamhicksnew #lawofattraction #abrahamhicks2021 #abrahamhicksinspiration #abrahamhickshighvibration #abrahamhicksmeditation #abrahamhicksrampage #abrahamhicksintothevortex #abrahamhicksteachings #abrahamhicksvortex #abrahamhicksmoney #abrahamhicksrelationships{% endraw %}
