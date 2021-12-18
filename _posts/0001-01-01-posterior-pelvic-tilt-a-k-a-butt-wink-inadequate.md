@@ -1,0 +1,15 @@
+---
+title: "Posterior Pelvic Tilt (a.k.a. \"Butt Wink\") & Inadequate Forward Lean Breakdown"
+image: "https:\/\/i.ytimg.com\/vi\/kOyxZP5_LzI\/hqdefault.jpg"
+vid_id: "kOyxZP5_LzI"
+categories: "Education"
+tags: ["kinesiology","human movement science","exercise science"]
+date: "2021-12-18T12:56:41+03:00"
+vid_date: "2016-02-15T03:11:19Z"
+duration: "PT14M32S"
+viewcount: "233882"
+likeCount: "2217"
+dislikeCount: ""
+channel: "Brookbush Institute"
+---
+{% raw %}Join <a rel="nofollow" target="blank" href="http://brentbrookbush.com/">http://brentbrookbush.com/</a> to get instant access to 400+ videos, 500+ articles, 70+ lessons - <a rel="nofollow" target="blank" href="http://bit.ly/1o4OCD6">http://bit.ly/1o4OCD6</a><br /><br />If you enjoy our videos, you'll love our live workshops - <a rel="nofollow" target="blank" href="http://bit.ly/1Ykz7ni">http://bit.ly/1Ykz7ni</a><br /><br />Overhead Squat Assessment 17: Posterior Pelvic Tilt &amp; Inadequate Forward Lean Breakdown<br /><br />In this video I present my &quot;flow&quot; for deciding which dysfunction will be addressed first (based on client needs, research, kinesiology and outcomes).<br /><br />OHSA 1: Intro and Set-up - <a rel="nofollow" target="blank" href="http://youtu.be/9vmnmm7otao">http://youtu.be/9vmnmm7otao</a><br />OHSA 2: Signs of Dysfunction - <a rel="nofollow" target="blank" href="http://youtu.be/Td9HtBABJQE">http://youtu.be/Td9HtBABJQE</a><br />OHSA 3: 5 Steps for Solving for Dysfunction - Exclusively at BrentBrookbush.com<br />OHSA 4: Feet Flat Breakdown - <a rel="nofollow" target="blank" href="http://youtu.be/9PZ8Wp4TcdM">http://youtu.be/9PZ8Wp4TcdM</a><br />OHSA 5: Feet Turn Out Breakdown - Exclusively at BrentBrookbush.com<br />OHSA 6: Knees Bow In Breakdown - Exclusively at BrentBrookbush.com<br />OHSA 7: Knees Bow Out Breakdown - Exclusively at BrentBrookbush.com<br />OHSA 8: Excessive Forward Lean Breakdown - <a rel="nofollow" target="blank" href="http://youtu.be/CuVpJddrLm0">http://youtu.be/CuVpJddrLm0</a><br />OHSA 9: Anterior Pelvic Tilt Breakdown - Exclusively at BrentBrookbush.com<br />OHSA 10: Arms Fall Breakdown - Exclusively at BrentBrookbush.com<br />OHSA 11: Shoulder Elevate - Exclusively at BrentBrookbush.com<br />OHSA 12: Sign Clusters - Lower Leg Dysfunction - Exclusively at BrentBrookbush.com<br />OHSA 13: Sign Clusters - Upper Body Dysfunction - Exclusively at BrentBrookbush.com<br />OHSA 14: Sign Clusters - Lumbo Pelvic Hip Complex Dysfunction -Exclusively at BrentBrookbush.com<br />OHSA 15: Sign Clusters - Asymmetrical Weight Shift - Exclusively at BrentBrookbush.com<br />OHSA 16: How Do You Decide Which Dysfunction to Address First - Exclusively at BrentBrookbush.com<br /><br />Articles, exams and online CEC's offered for material related to this content at BrentBrookbush.com<br /><br />Model - Melissa Ruiz<br /><br />Location: End Game Training - <a rel="nofollow" target="blank" href="http://www.endgametraining.com/">http://www.endgametraining.com/</a><br /><br />Help us caption &amp; translate this video!<br /><br /><a rel="nofollow" target="blank" href="http://amara.org/v/VvJb/">http://amara.org/v/VvJb/</a>{% endraw %}
