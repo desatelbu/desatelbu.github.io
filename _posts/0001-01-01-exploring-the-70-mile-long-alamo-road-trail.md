@@ -1,0 +1,15 @@
+---
+title: "Exploring The 70 Mile Long Alamo Road Trail Near Area 51 : Nevada (Pt1of2)"
+image: "https:\/\/i.ytimg.com\/vi\/SwGyTfHzClY\/hqdefault.jpg"
+vid_id: "SwGyTfHzClY"
+categories: "Entertainment"
+tags: ["family friendly","outdoor adventure","treasure hunting"]
+date: "2021-12-18T04:03:17+03:00"
+vid_date: "2021-12-17T22:57:36Z"
+duration: "PT13M9S"
+viewcount: "5728"
+likeCount: "1009"
+dislikeCount: ""
+channel: "Aquachigger"
+---
+{% raw %}This is the first of two videos of my exploring and driving the 4WD dirt-surfaced Alamo road trail that runs for 70 miles from where Kenny Veach disappeared (Las Vegas, Nevada) out across the desert and near the secret military base Groom Lake and Area 51. The military testing base was heavily posted and I did not attempt to go cross country on foot for a closer look. Too many eyes in the sky for that. <br />I do find a lot of Indian stone tools and find some petroglyphs along with a dried-out but perfectly preserved desert tortoise shell, a really cool badger skull, and spent WW2 munitions.<br /><br />About Aquachigger:<br />I enjoy metal detecting for historical items like gold coins, relics, silver coins, and other buried treasures. I also metal detect for gold and silver nuggets and even meteorites. I like to make videos that promote my choice of lifestyle that includes outdoor adventure, <br />metal detecting, yapping, searching for river treasure, SCUBA diving, exploring abandoned places, hiking, caving, caring for animals and pets, and observing the things outdoors that often go unnoticed by most people who are not familiar with outdoor adventures and nature. I keep my Youtube &quot;Aquachigger&quot; channel family-friendly and hope you subscribe if you like my style. <br /><br />BTW, you can also catch me here, <a rel="nofollow" target="blank" href="https://www.facebook.com/chiggsarmy/">https://www.facebook.com/chiggsarmy/</a>  ,but I may get a little edgier there. FB isn't a place for kids anyway...lol.<br /><br />Affiliate links to see and purchase the gear I use:<br />General Gear:                    <a rel="nofollow" target="blank" href="http://bit.ly/MetalDetectorsAndMOAR">http://bit.ly/MetalDetectorsAndMOAR</a><br />T-Shirts:                              <a rel="nofollow" target="blank" href="https://www.bonfire.com/store/aquachigger/">https://www.bonfire.com/store/aquachigger/</a><br />Garrett Metal Detectors: <a rel="nofollow" target="blank" href="https://goo.gl/nbzDYH">https://goo.gl/nbzDYH</a><br /><br />Follow the ChiggsArmy!<br />My Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/aquachigger">https://www.patreon.com/aquachigger</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/aquachigger/">https://www.instagram.com/aquachigger/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/chiggsarmy/">https://www.facebook.com/chiggsarmy/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/BeauOuimette">https://twitter.com/BeauOuimette</a><br /><br />I hope to see you guys out there!<br />#chiggsarmy #aquachigger{% endraw %}
