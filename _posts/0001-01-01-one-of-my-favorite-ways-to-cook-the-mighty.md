@@ -1,0 +1,15 @@
+---
+title: "One of My Favorite Ways To Cook The Mighty Pork Belly"
+image: "https:\/\/i.ytimg.com\/vi\/se105yipQQQ\/hqdefault.jpg"
+vid_id: "se105yipQQQ"
+categories: "People-Blogs"
+tags: ["pork belly","pork belly recipe","pork recipe"]
+date: "2021-12-19T20:03:55+03:00"
+vid_date: "2021-12-14T02:05:30Z"
+duration: "PT4M38S"
+viewcount: "79005"
+likeCount: "4489"
+dislikeCount: ""
+channel: "ThatDudeCanCook"
+---
+{% raw %}Red braised pork belly is one of those recipes you really need to experience at one point or another. Cook it properly and watch how tender this pork can really get.<br /><br />Red braised pork belly recipe:<br />3 1/2 lbs pork belly <br />4 dried Szechuan chili’s <br />1 tsp Szechuan peppercorn <br />1/2 cup Shaoxing wine<br />1 cup soy sauce <br />6 1/2 cups water <br />1 thumb-size piece of ginger sliced <br />2 small sticks of cinnamon <br />2 pieces of star anise<br />1/4 cup brown sugar <br />7 cloves fresh garlic<br /><br />Wan Ja Shan soy sauce-<a rel="nofollow" target="blank" href="https://amzn.to/3s2LvA1">https://amzn.to/3s2LvA1</a><br /><br />Rosemary salt recipe- Blend for 1 minute<br />7 sprigs rosemary stripped<br />4 sprigs sage stripped<br />1/2 cup+2tbsp kosher salt<br />2 cloves garlic<br />1/2 lemon zest<br /><br />Rosemary salt video-<a rel="nofollow" target="blank" href="https://youtu.be/qtwS9ahNZxY">https://youtu.be/qtwS9ahNZxY</a><br /><br />BUSINESS INQUIRY: CookingwithChefSonny@gmail.com<br /><br />FOLLOW ME:<br />Instagram|<a rel="nofollow" target="blank" href="https://www.instagram.com/cookingwithsonny/">https://www.instagram.com/cookingwithsonny/</a><br />Twitter|<a rel="nofollow" target="blank" href="https://twitter.com/CookingwithSon1">https://twitter.com/CookingwithSon1</a><br />Tiktok|<a rel="nofollow" target="blank" href="https://vm.tiktok.com/xWJmN7/">https://vm.tiktok.com/xWJmN7/</a><br /><br />Equipment:<br />Le Creuset enameled cast iron pan-<a rel="nofollow" target="blank" href="https://amzn.to/2PP9q52">https://amzn.to/2PP9q52</a><br />D5 allclad pan (not one seen in video but my favorite pan)-<a rel="nofollow" target="blank" href="https://amzn.to/3lr682Z">https://amzn.to/3lr682Z</a><br />Lodge cast iron griddle pan-<a rel="nofollow" target="blank" href="https://amzn.to/3xCzTV1">https://amzn.to/3xCzTV1</a><br />made-in non stick frying pan-<a rel="nofollow" target="blank" href="https://madeincookware.com/products/non-stick-frying-pan">https://madeincookware.com/products/non-stick-frying-pan</a><br />Microplane-<a rel="nofollow" target="blank" href="https://amzn.to/3vyrNdV">https://amzn.to/3vyrNdV</a><br />Microplane cheese grater-<a rel="nofollow" target="blank" href="https://amzn.to/3aPQAT6">https://amzn.to/3aPQAT6</a><br />Lamson fish spatula-<a rel="nofollow" target="blank" href="https://amzn.to/32Yg4cn">https://amzn.to/32Yg4cn</a><br /><br />DISCLAIMER:This video and description contain affiliate links, which means that if you click on one of the product links, we'll receive a small commission.{% endraw %}
