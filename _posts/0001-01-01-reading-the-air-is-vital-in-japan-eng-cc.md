@@ -1,0 +1,15 @@
+---
+title: "'Reading The Air' is Vital in Japan [ENG CC]"
+image: "https:\/\/i.ytimg.com\/vi\/Egbjd4Swl2o\/hqdefault.jpg"
+vid_id: "Egbjd4Swl2o"
+categories: "Education"
+tags: ["Nobita from Japan","Japan","interview"]
+date: "2021-12-20T05:34:56+03:00"
+vid_date: "2021-12-18T19:37:34Z"
+duration: "PT8M22S"
+viewcount: "22319"
+likeCount: "1532"
+dislikeCount: ""
+channel: "Nobita from Japan"
+---
+{% raw %}If you can't read the air, I want you to wear this shirt in Japan and see what happens.<br /><a rel="nofollow" target="blank" href="https://bakuretsu.co/nobita">https://bakuretsu.co/nobita</a> <br /><br />[Please turn on CC for English subtitles] Thank you for watching! <br /><br />■What's Considered Attractive in Japan?<br /><a rel="nofollow" target="blank" href="https://youtu.be/F1GCC98sheA">https://youtu.be/F1GCC98sheA</a><br /><br />======================================<br />Huge thanks to all the guests in this video. <br /><br />■Akane<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw">https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw</a><br /><br />■Miku<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ">https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ</a><br /><br />■Shogo<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/LetsaskShogoYourJapanesefriendinKyoto">https://www.youtube.com/c/LetsaskShogoYourJapanesefriendinKyoto</a><br /><br />■Lemi<br /><a rel="nofollow" target="blank" href="https://youtube.com/channel/UCiF-ZiiHGAABkNXpYSXVsSg">https://youtube.com/channel/UCiF-ZiiHGAABkNXpYSXVsSg</a><br /><br />■Emi<br /><a rel="nofollow" target="blank" href="https://youtube.com/channel/UCvtboTRRDVEgjUgPLcI4tqA">https://youtube.com/channel/UCvtboTRRDVEgjUgPLcI4tqA</a><br /><br />■Yuka<br /><a rel="nofollow" target="blank" href="https://youtube.com/channel/UCHVNfGkOdfD4CNh0sQeuggA">https://youtube.com/channel/UCHVNfGkOdfD4CNh0sQeuggA</a><br /><br />＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝<br />This channel covers important social issues and trends in Japan.<br />I interview a lot of Japanese and foreigners related to the subject, and hopefully you can see a variety of perspectives.<br /><br />■Subscribe this channel<br /><a rel="nofollow" target="blank" href="http://www.youtube.com/channel/UCcIsxujzLRO5qY5f9buahCQ?sub_confirmation=1">http://www.youtube.com/channel/UCcIsxujzLRO5qY5f9buahCQ?sub_confirmation=1</a><br /><br />■Instagram;<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/nobita_from_japan/">https://www.instagram.com/nobita_from_japan/</a><br /><br />============================<br />All materials in these videos are used for educational purposes and fall within the guidelines of fair use. No copyright infringement is intended.<br />If you are or represent the copyright owner of materials used in this video and have a problem with the use of said material, please send me an email.{% endraw %}
