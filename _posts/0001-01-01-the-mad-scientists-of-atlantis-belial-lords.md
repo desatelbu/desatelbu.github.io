@@ -1,0 +1,15 @@
+---
+title: "The Mad Scientists of Atlantis (Belial, Lords of Mars (Martians), Ritual DNA Magick & The AI God)"
+image: "https:\/\/i.ytimg.com\/vi\/KK3kGXdHnXA\/hqdefault.jpg"
+vid_id: "KK3kGXdHnXA"
+categories: "Education"
+tags: ["Scientists","Atlantis","(Belial,"]
+date: "2021-12-20T09:25:56+03:00"
+vid_date: "2021-12-19T16:17:26Z"
+duration: "PT3H39M22S"
+viewcount: "6220"
+likeCount: "647"
+dislikeCount: ""
+channel: "Gigi Young"
+---
+{% raw %}Timecodes<br />0:00 Intro<br />1:55 Why Atlantis?<br />4:24 What was the civilization os Atlantis like?<br />14:13 Why did Atlantis fall?<br />18:22 Atlantis before the consciousness shift<br />33:39 The role of the Great Initiators<br />40:00 False initiation/evolution teachings <br />45:55 The Atlanteans that could not adapt<br />54:20 Division in the priest classes<br />1:07:35 The deeper reality of ‘timelines’ <br />1:10:18 Belial, the martians &amp; the dark priests<br />1:20:32 Who are the Martians?<br />1:26:11 What were the martians like?<br />1:35:52 The Martians &amp; their AI god<br />1:39:40 Ritual magick using DNA<br />2:06:08 Forced hybridization rituals<br />2:08:15 Damaged DNA and damaged consciousness<br />2:16:20 The Martians create galactic system of control around the earth.<br />2:18:40 The creation of sub-human vessels (mutating humanity)<br />2:27:50 The AI god<br />2:34:56 Achieving the ‘mineral level’ (Transhumanism)<br />2:39:40 Q: Why were the Martians allowed onto the planet?<br />2:43:35 Q: What about Witchcraft?<br />2:46:00 Q: What did Atlantis look like?<br />2:48:12 Q: The aging process<br />2:50:36 Q: Re-integrating Divergent timelines. Can we amplify solar forces through technology? Healing temples.<br />2:58:31 Q: The positive aspects of Mars and the order of Melchizedek. <br />3:06:17 Q: The core vales of the Atlanteans<br />3:09:55 Q: Were medbeds used during Atlantis? The misuse of technology &amp; DNA damage.<br />3:21:35 Q: Are there efforts to try to control the truth about Atlantis?<br />3:28:51 Q: What food systems were in place during Atlantis?<br />3:29:58 Q: Rituals from Atlantis that we could recreate today<br /><br />Support my work and get exclusive content, discounts, forums and live Q&amp;A' by becoming a premium member: <a rel="nofollow" target="blank" href="https://gigiyoung.com/premium/">https://gigiyoung.com/premium/</a><br /><br />LINKS<br />My Links ☾<br /><br />→ WEBSITE: <a rel="nofollow" target="blank" href="http://gigiyoung.com">http://gigiyoung.com</a><br />→ INSTAGRAM: @gigi_young<br />→ FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/gigiyoungdotcom">https://www.facebook.com/gigiyoungdotcom</a><br />→ TWITTER: @mysticinthemoon<br />→ TELEGRAM <a rel="nofollow" target="blank" href="https://t.me/realgigiyoung">https://t.me/realgigiyoung</a><br />→ COURSES: <a rel="nofollow" target="blank" href="https://gigiyoung.com/courses">https://gigiyoung.com/courses</a><br />→ NEWSLETTER: <a rel="nofollow" target="blank" href="https://gigiyoung.com/newsletter">https://gigiyoung.com/newsletter</a><br /><br />————————————————————————{% endraw %}
