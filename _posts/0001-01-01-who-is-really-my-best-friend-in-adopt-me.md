@@ -1,0 +1,15 @@
+---
+title: "WHO Is REALLY My BEST FRIEND In Adopt Me! (Roblox)"
+image: "https:\/\/i.ytimg.com\/vi\/DtOWjAnzsgs\/hqdefault.jpg"
+vid_id: "DtOWjAnzsgs"
+categories: "Entertainment"
+tags: ["Sanna","IamSanna","Roblox"]
+date: "2021-12-20T14:30:52+03:00"
+vid_date: "2021-12-19T14:00:04Z"
+duration: "PT11M3S"
+viewcount: "86446"
+likeCount: "4158"
+dislikeCount: ""
+channel: "iamSanna"
+---
+{% raw %}🦄 Enter my Star code ⭐️iamsanna⭐️ when you buy Robux at <a rel="nofollow" target="blank" href="https://t.co/uVuYnoKTb6">https://t.co/uVuYnoKTb6</a> 🦄<br /><br />❤️NEW IAMSANNA and MOODY PLUSHIES AVAILABLE NOW!!!  <a rel="nofollow" target="blank" href="https://iamsannashop.com/">https://iamsannashop.com/</a><br /><br />💜INSTAGRAM: www.instagram.com/iamsanna<br />💜TWITTER: www.twitter.com/iamsannay<br /><br />⭐️SUBSCRIBE TO MY SECOND ROBLOX CHANNEL: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC8Gft2o5-GTOMF3ClLOWpFA">https://www.youtube.com/channel/UC8Gft2o5-GTOMF3ClLOWpFA</a><br /><br />⭐️SUBSCRIBE TO MY VLOGGING CHANNEL: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC88yTvHdrW5pKbYoZ4vp0nw">https://www.youtube.com/channel/UC88yTvHdrW5pKbYoZ4vp0nw</a><br /><br />🦄Moody Unicorn Twin🦄 <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCw8kOfFI6F8CspoeHhDdOaA">https://www.youtube.com/channel/UCw8kOfFI6F8CspoeHhDdOaA</a><br />🌸Silly🌸 <a rel="nofollow" target="blank" href="https://www.youtube.com/c/SillyRoblox">https://www.youtube.com/c/SillyRoblox</a><br />🌈Sunny Unicorn Twin🌈 <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCQQQj8s6dwTVMbOtH68iO-A">https://www.youtube.com/channel/UCQQQj8s6dwTVMbOtH68iO-A</a><br />🐰Cutie🐰 <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCAy3SbSn9988JS8KCQreF9A">https://www.youtube.com/channel/UCAy3SbSn9988JS8KCQreF9A</a><br /><br />💙ALL GIVEAWAYS WILL BE ANNOUNCED ON TWITTER @iamsannay💙<br /><br />🦄💜 SUBSCRIBE FOR DAILY VIDEOS: <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/imsannachanel?sub_confirmation=1">https://www.youtube.com/user/imsannachanel?sub_confirmation=1</a><br /><br />📱❤️ MY SOCIAL MEDIA ACCOUNTS:<br />INSTAGRAM: www.instagram.com/iamsanna<br />TWITTER: www.twitter.com/iamsannay<br />FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/iamsannay/">https://www.facebook.com/iamsannay/</a><br />---------------<br /><br />Hey!👋 <br /><br />My name is Sanna and I love recording 📷 videos with my friends and share them with my amazing subscribers from all over the world!🌍<br /><br />To get updates about my upload and activity on YouTube, you can subscribe to my channel!✅<br /><br />Don't forget to like, comment, share and subscribe to my channel!<br /><br />Thank you!💙<br /><br />Sanna <br /><br />- My Capture Card: <a rel="nofollow" target="blank" href="http://e.lga.to/iamSanna">http://e.lga.to/iamSanna</a><br /><br />This video is child friendly / kid friendly / family friendly 👸🤴<br /><br />#Roblox #Gaming #AdoptMe{% endraw %}
