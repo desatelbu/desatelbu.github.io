@@ -1,0 +1,15 @@
+---
+title: "Filmmaker REACTS to Cinematic Video Game Trailers | Experts React"
+image: "https:\/\/i.ytimg.com\/vi\/kM3CqU2GKng\/hqdefault.jpg"
+vid_id: "kM3CqU2GKng"
+categories: "Gaming"
+tags: ["Experts react","Filmmaker","filmmaker reacts"]
+date: "2021-12-22T02:50:16+03:00"
+vid_date: "2021-12-20T21:00:17Z"
+duration: "PT11M11S"
+viewcount: "49360"
+likeCount: "3562"
+dislikeCount: ""
+channel: "Gamology"
+---
+{% raw %}Filmmaker William Rouse returns to Gamology to react to a compilation of epic cinematic game trailers. With a variation of games and genres from Assassin’s Creed to Star Wars, we wanted to show William these trailers and see how good they are and how well they convey each game/ if he would want to play them himself. Some key points he’s looking for is how well does the cinematic set up the game - What is the story? Where is it set? Who is the protagonist?<br /><br />How did you enjoy today’s video? Would you like to see William return for more game trailer reactions in the future and if so what games would you want to see?﻿<br />--------------------        <br />Willam's Instagram:  <a rel="nofollow" target="blank" href="https://www.instagram.com/williamerouse/">https://www.instagram.com/williamerouse/</a><br />--------------------<br />0:00 Intro<br />0:22 What's Up?<br />0:36 Assassin's Creed 3<br />2:21 Far Cry 6<br />4:19 Star Wars The Old Republic<br />6:27 The Witcher 2<br />7:56 The Crew<br />9:10 League of Legends<br />10:21 Conclusion<br />-------------------- <br />Check out some of our past videos! <br /><br />Filmmaker REACTS to The Last Of Us Part II | Experts React<br /><a rel="nofollow" target="blank" href="https://youtu.be/Eu--WvwIo-Q">https://youtu.be/Eu--WvwIo-Q</a><br /><br />Experts Playlist: <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=Jz6qbP-ajbU&amp;list=PLGzvIvmnk2hSimNROcgMPJtZXynE8HoDI">https://www.youtube.com/watch?v=Jz6qbP-ajbU&amp;list=PLGzvIvmnk2hSimNROcgMPJtZXynE8HoDI</a><br />--------------------<br />Thanks to PlayStation for the Gameplay <br />--------------------<br />Up In My Jam (All of A Sudden) by - Kubbi <a rel="nofollow" target="blank" href="https://soundcloud.com/kubbi">https://soundcloud.com/kubbi</a> Creative Commons - Attribution 3.0 Unported- CC bY-SA 3.0 Free Download/Stream: <a rel="nofollow" target="blank" href="http://bit.ly/2JnDfCE">http://bit.ly/2JnDfCE</a>      <br />Promoted by Music Library Audio:<br /><a rel="nofollow" target="blank" href="https://youtu.be/tDexBj46oNI">https://youtu.be/tDexBj46oNI</a>       <br />------------------- <br />Stay in the loop with us on social media! Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/thebestofgam...">https://www.facebook.com/thebestofgam...</a>       <br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/gamology/?h...">https://www.instagram.com/gamology/?h...</a>       <br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/gamologyus">https://twitter.com/gamologyus</a>       <br />-------------------- <br />#SWTOR #Filmmaker #ExpertsReact{% endraw %}
