@@ -1,0 +1,15 @@
+---
+title: "I bought a weird fish...."
+image: "https:\/\/i.ytimg.com\/vi\/9GYtM4iBReg\/hqdefault.jpg"
+vid_id: "9GYtM4iBReg"
+categories: "Pets-Animals"
+tags: ["aquarium","fish","fish tank"]
+date: "2021-12-22T03:55:30+03:00"
+vid_date: "2021-12-20T16:00:03Z"
+duration: "PT8M4S"
+viewcount: "56909"
+likeCount: "3068"
+dislikeCount: ""
+channel: "The king of DIY"
+---
+{% raw %}I ordered some fish in that i have been wanting to try for a long time. Recently discussed on my podcast (Aquariums Unfiltered) and that really motivated me to get them!<br /><br />My podcast: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCkdBzH9qMCmnKhl59jqQ_RQ">https://www.youtube.com/channel/UCkdBzH9qMCmnKhl59jqQ_RQ</a><br /><br />Get my book ►  <a rel="nofollow" target="blank" href="http://thekingofdiy.com">http://thekingofdiy.com</a><br />Merch ► <a rel="nofollow" target="blank" href="https://goo.gl/fvSh6Y">https://goo.gl/fvSh6Y</a><br /><br />Join this channel to get access to perks:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCM9oZkV3tGJuUUhgZaiGZkQ/join">https://www.youtube.com/channel/UCM9oZkV3tGJuUUhgZaiGZkQ/join</a><br /><br />Facebook ► <a rel="nofollow" target="blank" href="http://facebook.com/uarujoey">http://facebook.com/uarujoey</a><br />Instagram ► <a rel="nofollow" target="blank" href="https://www.instagram.com/uarujoey/">https://www.instagram.com/uarujoey/</a><br /><br />The king of DIY aquarium projects, education and inspiration!<br /><br />MAIL TO:<br />PO BOX 25054<br />Truro, NS<br />B2N 7B8<br />Canada<br /><br />How to build aquariums: <a rel="nofollow" target="blank" href="https://goo.gl/gu3CsK">https://goo.gl/gu3CsK</a><br />How to build aquarium filters: <a rel="nofollow" target="blank" href="https://goo.gl/cw0Jl9">https://goo.gl/cw0Jl9</a><br />How to build aquarium stands: <a rel="nofollow" target="blank" href="https://goo.gl/9JB9jo">https://goo.gl/9JB9jo</a><br />How to build aquarium equipment: <a rel="nofollow" target="blank" href="https://goo.gl/BHkT2s">https://goo.gl/BHkT2s</a><br />How to build aquarium lighting: <a rel="nofollow" target="blank" href="https://goo.gl/Wg4kt0">https://goo.gl/Wg4kt0</a><br />How to build aquarium decorations: <a rel="nofollow" target="blank" href="https://goo.gl/crQkeT">https://goo.gl/crQkeT</a><br />Varius aquarium tutorials: <a rel="nofollow" target="blank" href="https://goo.gl/BKCb3a">https://goo.gl/BKCb3a</a><br />ALL Thursday videos: <a rel="nofollow" target="blank" href="https://goo.gl/DPHjEM">https://goo.gl/DPHjEM</a><br />ALL Sunday videos: <a rel="nofollow" target="blank" href="https://goo.gl/Rn0wmS">https://goo.gl/Rn0wmS</a><br /><br /><br />My aquarium pumps, circulation and lights are by: <a rel="nofollow" target="blank" href="http://ecotechmarine.com">http://ecotechmarine.com</a><br />My aquarium racks and the aquariums within them were made by: <a rel="nofollow" target="blank" href="http://customaquariums.com">http://customaquariums.com</a><br />My aquarium backgrounds are made by: <a rel="nofollow" target="blank" href="https://aquadecorbackgrounds.com/">https://aquadecorbackgrounds.com/</a>{% endraw %}
