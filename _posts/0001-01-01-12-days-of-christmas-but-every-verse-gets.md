@@ -1,0 +1,15 @@
+---
+title: "12 Days of Christmas but every verse gets MORE MODERN"
+image: "https:\/\/i.ytimg.com\/vi\/kdu27bQ_y-Q\/hqdefault.jpg"
+vid_id: "kdu27bQ_y-Q"
+categories: "Music"
+tags: ["12 days of christmas","bach","beethoven"]
+date: "2021-12-22T10:52:51+03:00"
+vid_date: "2021-12-16T17:43:57Z"
+duration: "PT4M34S"
+viewcount: "71035"
+likeCount: "8906"
+dislikeCount: ""
+channel: "Nahre Sol"
+---
+{% raw %}Playing each verse in a progressively more modern style, imitating famous classical composers along the way!<br /><br />Sheet Music: <a rel="nofollow" target="blank" href="https://www.nahresol.com/shop-1/12-days-of-christmas-piano-transcription-from-video">https://www.nahresol.com/shop-1/12-days-of-christmas-piano-transcription-from-video</a><br /><br />Video concept inspired by: <a rel="nofollow" target="blank" href="https://youtu.be/qwf_m0p86KU">https://youtu.be/qwf_m0p86KU</a><br /><br />Rob Maciak on sleigh bells: <a rel="nofollow" target="blank" href="https://youtu.be/Y6xZDAWmhmk">https://youtu.be/Y6xZDAWmhmk</a><br /><br />ABC By the Numbers: <a rel="nofollow" target="blank" href="https://youtu.be/FX5BtWMrO-E">https://youtu.be/FX5BtWMrO-E</a><br /><br />➡ Thank you for supporting me on Patreon!<br /><a rel="nofollow" target="blank" href="https://www.patreon.com/nahresol">https://www.patreon.com/nahresol</a><br />➡ Sheet music to these VIRTUOSIC runs: <a rel="nofollow" target="blank" href="https://bit.ly/3Bvjh2R">https://bit.ly/3Bvjh2R</a><br />➡ My Piano Intensive Video Course: <a rel="nofollow" target="blank" href="https://bit.ly/2MtUsNR​​​">https://bit.ly/2MtUsNR​​​</a><br /><br />Instagram @nahresol <br />Twitter @nahresol<br />Facebook @practicenotes<br /><br />MicroKorg: <a rel="nofollow" target="blank" href="https://amzn.to/32MxSHz">https://amzn.to/32MxSHz</a><br />Main Keyboard: <a rel="nofollow" target="blank" href="https://amzn.to/2Qwy2A6">https://amzn.to/2Qwy2A6</a><br />Camera: <a rel="nofollow" target="blank" href="https://amzn.to/3v9FeRs">https://amzn.to/3v9FeRs</a><br />Lens: <a rel="nofollow" target="blank" href="https://amzn.to/3dIYpf3">https://amzn.to/3dIYpf3</a><br />Loop Pedal: <a rel="nofollow" target="blank" href="https://amzn.to/3vtzrXl">https://amzn.to/3vtzrXl</a><br />Portable Recorder: <a rel="nofollow" target="blank" href="https://amzn.to/2QXvMBN">https://amzn.to/2QXvMBN</a><br />Recording Interface: <a rel="nofollow" target="blank" href="https://amzn.to/2S1iRj1">https://amzn.to/2S1iRj1</a><br />Microphone: <a rel="nofollow" target="blank" href="https://amzn.to/3tPHs8i">https://amzn.to/3tPHs8i</a><br />90 Degree Tripod: <a rel="nofollow" target="blank" href="https://amzn.to/3gB4Fri">https://amzn.to/3gB4Fri</a><br />(Affiliate links that contribute to my channel)<br /><br />Check out my playlists to better navigate videos on my channel, and thank you for subscribing :)<br /><br />As always, thank you so much for watching, and thank you to all of you that leave comments.<br /><br />#christmas #classicalmusic #modern{% endraw %}
