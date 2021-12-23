@@ -1,0 +1,15 @@
+---
+title: "Learn to Talk with Ms Rachel | Baby Learning Videos | Toddler Speech | Christmas | First Words"
+image: "https:\/\/i.ytimg.com\/vi\/omcNGrnt7Sg\/hqdefault.jpg"
+vid_id: "omcNGrnt7Sg"
+categories: "Education"
+tags: ["ms rachel","miss rachel","songs for littles"]
+date: "2021-12-23T19:07:01+03:00"
+vid_date: "2021-12-21T15:00:09Z"
+duration: "PT1H5M14S"
+viewcount: "239198"
+likeCount: "1005"
+dislikeCount: ""
+channel: "Songs for Littles - Toddler Learning Videos"
+---
+{% raw %}Have your little one learn to talk with Ms Rachel, a real teacher! This learning video encourages language development, interaction and milestones.! We use a fun Christmas theme to get babies and toddlers talking, singing, dancing and celebrating! <br /><br />In this baby learning video, little ones will be encouraged to say first words such as up, down, hat, duck, ball, car, go, star and bye! Practice speech with us in this fun educational video for toddlers.  <br /><br />Make sure your child is meeting their milestones! If you think your child may have a speech delay, definitely consult your pediatrician. You can also get an evaluation from a speech therapist. (Speech language pathologist) You may be able to get free speech therapy through early intervention so google “early intervention” with the name of your state and call the number now! As a parent, you can request an evaluation. Getting help when they are as young as possible is so important. <br /><br />If you are looking for more toddler learning videos, speech practice videos, early intervention skills videos, preschool class videos, educational videos for toddlers, learn to talk videos, or music class videos, videos for 2 year olds, videos for 3 year olds, 4 years olds or 5 year olds, our channel has them all! We have the best educational videos for kids! We also have baby learning videos for babies. <br /><br />Rachel has a master's in music education from NYU. She has had training in early childhood development from Harvard and Bank Street College. She is also working on a second masters in Early Childhood Development. She has been a toddler teacher at a preschool for children with special needs including autism, down syndrome, cerebral palsy, speech delays and other developmental delays. She believes all children are brilliant, magical and are our teachers as well. <br /><br />#learntotalk #babylearningvideos #babylearning #toddlerspeech #msrachel #missrachel #toddlerlearningvideo #babytalk #babyfirstwords #talkingtime #talkingtoddler<br /><br />♥︎ Subscribe to support our YouTube channel <a rel="nofollow" target="blank" href="https://bit.ly/2YldegF">https://bit.ly/2YldegF</a>   <br />♥︎ Sign-up for our newsletter <a rel="nofollow" target="blank" href="https://www.songsforlittles.com/mailinglist">https://www.songsforlittles.com/mailinglist</a> <br />♥︎ Like us on Facebook <a rel="nofollow" target="blank" href="https://www.facebook.com/songsforlittles">https://www.facebook.com/songsforlittles</a> <br />♥︎ Follow us on Instagram <a rel="nofollow" target="blank" href="https://www.instagram.com/songsforlittles/">https://www.instagram.com/songsforlittles/</a>{% endraw %}
