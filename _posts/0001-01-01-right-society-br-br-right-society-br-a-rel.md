@@ -1,0 +1,15 @@
+---
+title: "Χριστούγεννα με την Right Society"
+image: "https:\/\/i.ytimg.com\/vi\/8tTTXVVQGnA\/hqdefault.jpg"
+vid_id: "8tTTXVVQGnA"
+categories: "Entertainment"
+tags: ["Χριστούγεννα","την","Right"]
+date: "2021-12-24T16:49:01+03:00"
+vid_date: "2021-12-21T22:10:18Z"
+duration: "PT3H14M24S"
+viewcount: "2138"
+likeCount: "190"
+dislikeCount: ""
+channel: "Right Society"
+---
+{% raw %}Παρέα με τους Φαίδωνα, Βασίλη και Ιφιγένεια σχολιάζουμε θέματα της εβδομάδας που πέρασε και στέλνετε τις ευχές σας  πριν τις διακοπές των Χριστουγέννων.<br /><br />~•~ Right Society ~•~<br /><a rel="nofollow" target="blank" href="https://conserva.gr/">https://conserva.gr/</a><br />●Facebook● <a rel="nofollow" target="blank" href="https://www.facebook.com/rightsocietyrs">https://www.facebook.com/rightsocietyrs</a><br />●Twitter●  <a rel="nofollow" target="blank" href="https://twitter.com/rightsocietyrs">https://twitter.com/rightsocietyrs</a><br />●Email● rightsocietyrs@gmail.com<br />●Discord● <a rel="nofollow" target="blank" href="https://discord.gg/d4PWFfa">https://discord.gg/d4PWFfa</a><br />●Instagram● <a rel="nofollow" target="blank" href="https://www.instagram.com/right_society/">https://www.instagram.com/right_society/</a><br />●BitChute● <a rel="nofollow" target="blank" href="https://www.bitchute.com/right_society/">https://www.bitchute.com/right_society/</a><br /><br /><br />●Simple Man●<br />Facebook <a rel="nofollow" target="blank" href="http://bit.ly/2DJ4BBS">http://bit.ly/2DJ4BBS</a><br />YouTube  <a rel="nofollow" target="blank" href="http://bit.ly/2ssqw9W">http://bit.ly/2ssqw9W</a><br />BitChute <a rel="nofollow" target="blank" href="http://bit.ly/2RnkipD">http://bit.ly/2RnkipD</a><br />Twitch   <a rel="nofollow" target="blank" href="https://www.twitch.tv/simpleman1">https://www.twitch.tv/simpleman1</a><br /><br />●Yannis channel● <br />YouTube  <a rel="nofollow" target="blank" href="http://bit.ly/2TixvRh">http://bit.ly/2TixvRh</a><br />Bitchute <a rel="nofollow" target="blank" href="http://bit.ly/2YvrG3G">http://bit.ly/2YvrG3G</a><br />Twitch   <a rel="nofollow" target="blank" href="https://www.twitch.tv/vgtime">https://www.twitch.tv/vgtime</a><br /><br /><br /><br /><br />●Music from YouTube Audio Library [Aka YAL]<br /> Music provided by RFM: <a rel="nofollow" target="blank" href="https://youtu.be/8BkqPryqA5Q">https://youtu.be/8BkqPryqA5Q</a><br /><br />●&quot;Delay Rock&quot; Kevin MacLeod (incompetech.com)<br />●&quot;Breakdown&quot; Kevin MacLeod (incompetech.com)<br />●&quot;Welcome to the Show&quot; Kevin MacLeod (incompetech.com)<br />●&quot;Riptide&quot; Kevin MacLeod (incompetech.com)<br />●&quot;Rising Tide&quot; Kevin MacLeod (incompetech.com)<br />●&quot;Hotrock&quot; Kevin MacLeod (incompetech.com)<br />●&quot;Pilot Error&quot; Kevin MacLeod (incompetech.com)<br />●&quot;Sax Rock and Roll&quot; Kevin MacLeod (incompetech.com)<br />Licensed under Creative Commons: By Attribution 4.0 License<br /><a rel="nofollow" target="blank" href="http://creativecommons.org/licenses/b...">http://creativecommons.org/licenses/b...</a><br /><br /><br /><br /><br /><br /><br />#RightSociety #Right_Society #conservagr{% endraw %}
