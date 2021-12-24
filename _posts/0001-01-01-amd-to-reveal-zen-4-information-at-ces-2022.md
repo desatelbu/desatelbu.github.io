@@ -1,0 +1,15 @@
+---
+title: "AMD to REVEAL Zen 4 Information at CES 2022!"
+image: "https:\/\/i.ytimg.com\/vi\/dZZC-_Cf5aw\/hqdefault.jpg"
+vid_id: "dZZC-_Cf5aw"
+categories: "Science-Technology"
+tags: ["amd","zen 4 leaks","zen 4 news"]
+date: "2021-12-24T21:09:16+03:00"
+vid_date: "2021-12-23T01:45:01Z"
+duration: "PT6M11S"
+viewcount: "5710"
+likeCount: "509"
+dislikeCount: ""
+channel: "Boot Sequence"
+---
+{% raw %}Let’s get started with AMD. CES is approaching fast, and for us enthusiasts, we kinda know what to expect. We know that this will be the launch of the Next generation of Zen CPU’s aka Zen 3D chips with an integrated V cache. According to AMD, this new technology would bring a huge leap in gaming performance. We saw 2 5900X clocked at 4Ghz, one with and one without the cache chiplet and depending on the game, we saw the average fps skyrocket. Gears 5 got a 12% boost, monster hunter world a 25% boost, Dota 2 an 18% boost etc. Dr Su said 15% on average. <br /><br />Now, that’s Zen 3D. And we can expect AMD to tell us all about it during CES, but that’s not it. According to AMD’s CTO Mark Papermaster, we’re also going to get some more details on Zen 4. So far, All amd has revealed about Zen 4 is that it will be built on TSMC’s 5nm process node, that it will have twice the density, twice the power efficiency and 1.25 X the performance of currently available AMD products at 7nm.<br /><br />But that’s for Genoa, AKA AMD’s upcoming Epyc HPC lineup. And we know that this kind of performance doesn’t always translate into the consumer market. This is why it’s exciting that they’re going to talk about it at CES. Because that’s a consumer-driven show which means they’re going to talk about Zen 4 for us enthusiasts. <br /><br />And that’s not all for Zen 4. We all know that it’s going to be a change in socket and chipset. So far, we’re naming these X670 and B650. and according to leaker extraordinaire HXL, X670 is a beast. He said in a tweet, X670 = B650x2. While we are unsure of exactly what this means, One thing to consider is a Multi-chip module chipset with 2 B650’s. Now, this is one interpretation, it could also simply be that its twice the size but HXL did say that MCM is a possibility. It could be why he heard that it X670 would be a difficult chipset to integrate into the ITX form factor.<br /><br />————————————————<br />———————————————— <br />About Boot Sequence:<br />Snows and the rest of the Boot Sequence team are here to bring you the latest breaking Tech News. Featuring the latest tech, product launches, trends, rumors, and more. Boot Sequence is your tech vlog to stay in the know.<br />———————————————————<br />Connect with Boot Sequence:<br />Follow Boot Sequence on TWITTER: <a rel="nofollow" target="blank" href="https://twitter.com/boot_sequence">https://twitter.com/boot_sequence</a><br />Soundcloud: <a rel="nofollow" target="blank" href="https://soundcloud.com/snows-world">https://soundcloud.com/snows-world</a><br /><br /><br />#AMD #ZEN4 #Zen3D{% endraw %}
