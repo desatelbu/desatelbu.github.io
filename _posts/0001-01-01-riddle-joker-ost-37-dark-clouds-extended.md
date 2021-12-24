@@ -1,0 +1,15 @@
+---
+title: "Riddle Joker [OST] 37 Dark Clouds Extended"
+image: "https:\/\/i.ytimg.com\/vi\/Za2uQfaFyLg\/hqdefault.jpg"
+vid_id: "Za2uQfaFyLg"
+categories: "Music"
+tags: ["Riddle Joker","OST","Soundtrack"]
+date: "2021-12-24T19:34:23+03:00"
+vid_date: "2020-12-23T23:00:11Z"
+duration: "PT30M"
+viewcount: "247"
+likeCount: "5"
+dislikeCount: ""
+channel: "TeamKazato"
+---
+{% raw %}Merry Christmas Everybody!<br /><br />Riddle Joker from YuzuSoft English Version released on December 18th 2020.<br /><br />Honestly It is YuzuSoft, but still I was suprised about how good this one was.<br /><br />The Protagonist, his Sister and many other Characters have Abilitys called Astrals. Supernatural Powers with which they try to make Everyones Life easier and Safer.<br />But that isn't the Case for all Of em, and there are some who Abuse their Powers to commit Crimes, Rob Money, etc.<br />That's where our Main Character comes into Place.<br />He and his Sister work for the SFD, a secret Organisation to Hunt Down such Criminals.<br /><br />In his newest Mission he Attends now is a Infiltration Mission in the School this VN takes place in 90% of the time.<br /><br /><br />There are 5 Routes in Total:<br />Ayase, Nanami, Mayu, Hazuki and Chisaki.<br /><br />My Personal Ranking would be:<br />1: Chisaki<br />2: Ayase and Nanami<br />3: Mayu<br />4: Hazuki<br /><br />It doesn't mean Hazuki's and Mayu's Routes are bad, I just like the other one's a lot more.<br /><br />I Recommend you do Ayase first, because there they reveal a lot of stuff, which feels sort of like a True Route.<br /><br />Comedy is as always Top Notch, I laughed out loud a lot, which basicaly only ever happened once, and was in Noble Works.<br /><br />The Romance, omg the Romance is seriously the best aspect of this one.<br /><br />I haven't seen a VN in a very long time, where the Main Girls are this aware of their feelings towards the Main Protagonist.<br />And they did act pretty quickly too on confessing, which is Very rare in most Visual Novels unfortunately.<br /><br />And just overall did the Routes feel really Good.<br /><br />The Music is Very Good too, with no Track that stands out of being bad.<br /><br />And unlike most other Yuzusoft VN's, I could record finaly screenshots via Fraps, which in earlier Yuzusoft VN's never worked, so, Probs there too!<br /><br />Honestly, I don't have a single bad thing to say about this one.<br /><br />The Steam version is Censored yes, but it's not anywhere as bad as other censored Titles like Nora to Oujo to Noraneko Heart.<br />The Jokes, Dirty lines stay all in there, it is purely the +18 Scenes that where cut out, which is fine in my Opinion.<br /><br />And even more baffling, this one did cost me just 26 €, which is not much for such a great and decently long VN.<br /><br />So what would my Score be?<br /><br />Honestly, I was very Happy and Satisfied with this one and couldn't find a single bad thing.<br /><br />So it is gonna be Legendary 10/10<br /><br />YES it is really really Good, Trust me.<br /><br />Those are my Words to Riddle Joker.<br /><br />See you in the next Year!<br /><br />Kazato Out.{% endraw %}
